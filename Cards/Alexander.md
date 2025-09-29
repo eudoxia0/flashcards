@@ -6,7 +6,7 @@ C: Alexander died on [10] [June] [323] BC at the age of [32].
 
 C: Alexander died in the city of [Babylon].
 
-C: Alexander's father was [Philip II ].
+C: Alexander's father was [Philip II].
 
 C: Alexander's mother was [Olympias of Epirus].
 
