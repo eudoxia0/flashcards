@@ -1,0 +1,8 @@
+for n in range(2, 17):
+    print(f"Q: $2^{n}$")
+    print(f"A: ${2**n}$")
+    print()
+    print(f"Q: $\\log_2 {2**n}$")
+    print(f"A: ${n}$")
+    if n < 16:
+        print()
