@@ -16,4 +16,5 @@ with open(sys.argv[1]) as stream:
             print()
         print("C:")
         print(f"{a_key}: [{a}]")
+        print()
         print(f"{b_key}: [{b}]")
