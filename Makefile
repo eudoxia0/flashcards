@@ -23,7 +23,7 @@ $(ENG): $(ENG_SRC) $(VOCAB)
 $(NATO): $(NATO_SRC) $(VOCAB)
 	$(PY) $(VOCAB) $(NATO_SRC) > $(NATO)
 
-$(POW):$(POW_PY)
+$(POW): $(POW_PY)
 	$(PY) $(POW_PY) > $(POW)
 
 .PHONY: clean
