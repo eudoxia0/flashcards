@@ -18,3 +18,9 @@ A: Persisting data outside of the container.
 
 Q: What is the command to build a Dockerfile in the current directory?
 A: `docker build .`
+
+Q: What does `docker build .` do?
+A: Builds the Dockerfile in the current directory.
+
+Q: What is a Docker image tag?
+A: A human-readable name for the image.
