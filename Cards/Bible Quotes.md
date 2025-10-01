@@ -6,7 +6,7 @@ C:
 C:
 [Surely God will not hear vanity], [neither will the Almighty regard it].
 
-— [Job] [35]:[15]
+— [Job] [35]:[13]
 
 C:
 [For he remembered that they were but flesh]; [a wind that passeth away], [and cometh not again].
