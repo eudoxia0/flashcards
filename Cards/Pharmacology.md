@@ -8,9 +8,9 @@ Term: [enteral administration]
 
 Definition: [Administration of a drug through the intestines, either orally or rectally]
 
-C: oral administration is a subtype of [enteral] administration
+C: Oral administration is a subtype of [enteral] administration
 
-C: rectal administration is a subtype of [enteral] administration
+C: Rectal administration is a subtype of [enteral] administration
 
 C:
 Term: [parenteral administration]
