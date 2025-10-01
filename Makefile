@@ -32,4 +32,4 @@ clean:
 
 .PHONY: drill
 drill:
-	hashcards drill Cards
+	hashcards drill Cards --card-limit=10
