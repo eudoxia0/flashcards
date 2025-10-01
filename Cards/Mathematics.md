@@ -8,7 +8,7 @@ Q: Why does $\Q$ denote the rational numbers?
 A: The Q stands for quotient.
 
 Q: Why does $\Z$ denote the integers?
-C: German for "Zahl" (number).
+A: German for "Zahl" (number).
 
 Q: Define $\Q$ using set builder notation
 A:
