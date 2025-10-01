@@ -13,7 +13,7 @@ A: German for "Zahl" (number).
 Q: Define $\Q$ using set builder notation
 A:
 $$
-\Q = \left{ \frac{p}{q} : p,q \in \Z, q \neq 0 \right}
+\Q = \set{ \frac{p}{q} : p,q \in \Z, q \neq 0 }
 $$
 
 Q: When is a collection of sets said to be "pairwise disjoint"?
