@@ -32,4 +32,4 @@ clean:
 
 .PHONY: drill
 drill:
-	RUST_LOG=debug hashcards drill Cards
+	hashcards drill Cards
