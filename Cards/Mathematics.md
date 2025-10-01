@@ -15,3 +15,6 @@ A:
 $$
 \Q = \set{\frac{m}{n} : m,n \in \Z, n \neq 0}
 $$
+
+Q: When is a collection of sets said to be "pairwise disjoint"?
+A: Where every pair of sets in the collection is disjoint.
