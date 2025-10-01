@@ -14,7 +14,7 @@ C: Alexander's mother was [Olympias of Epirus].
 
 C: Alexander was Persian emperor from [330] to [323] BC.
 
-C: Alexander became King of Macedon in [336 BC] at the age of [20].
+C: Alexander became King of Macedon in [336] BC at the age of [20].
 
 C: Alexander was tutored by [Aristotle].
 
