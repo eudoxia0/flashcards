@@ -30,6 +30,10 @@ $(POW): $(POW_PY)
 clean:
 	rm -f $(TARGETS)
 
+.PHONY: check
+check:
+	hashcards check Cards
+
 .PHONY: drill
 drill:
 	hashcards drill Cards --card-limit=10
