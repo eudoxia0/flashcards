@@ -9,4 +9,18 @@ jobs:
         uses: actions/checkout@v4
 
       - run: make
+
+      - name: check for uncommitted changes
+        run: |
+          if [[ -n $(git status --porcelain) ]]; then
+            echo "Error: Generated files are out of date!"
+            echo "The following files have changes:"
+            git status --porcelain
+            echo ""
+            echo "Please run 'make' locally and commit the updated files."
+            exit 1
+          else
+            echo "Success: All generated files are up to date."
+          fi
+
       - run: make clean
