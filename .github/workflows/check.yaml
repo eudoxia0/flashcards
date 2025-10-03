@@ -2,6 +2,7 @@ name: check
 on: push
 
 jobs:
+  # Ensure make output is up to date.
   make:
     runs-on: ubuntu-latest
     steps:
