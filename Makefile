@@ -11,7 +11,7 @@ POW_PY       := Scripts/pow2.py
 PY           := python3
 SIMPLE       := Scripts/simple.py
 TARGETS      := $(AWS) $(ENG) $(NATO) $(PERSIAN) $(POW)
-VOCAB        := Scripts/vocab.py
+DEF_PY       := Scripts/def.py
 
 .PHONY: all
 all: $(TARGETS)
@@ -19,11 +19,11 @@ all: $(TARGETS)
 $(AWS): $(AWS_SRC) $(SIMPLE)
 	$(PY) $(SIMPLE) $(AWS_SRC) > $(AWS)
 
-$(ENG): $(ENG_SRC) $(VOCAB)
-	$(PY) $(VOCAB) $(ENG_SRC) > $(ENG)
+$(ENG): $(ENG_SRC) $(DEF_PY)
+	$(PY) $(DEF_PY) $(ENG_SRC) > $(ENG)
 
-$(NATO): $(NATO_SRC) $(VOCAB)
-	$(PY) $(VOCAB) $(NATO_SRC) > $(NATO)
+$(NATO): $(NATO_SRC) $(DEF_PY)
+	$(PY) $(DEF_PY) $(NATO_SRC) > $(NATO)
 
 $(PERSIAN): $(PERSIAN_PY)
 	$(PY) $(PERSIAN_PY) > $(PERSIAN)
