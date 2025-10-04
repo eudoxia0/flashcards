@@ -22,3 +22,13 @@ C:
 Indonesian: [bapak]
 
 English: [mister]
+
+C:
+Indonesian: [ya]
+
+English: [yes]
+
+C:
+Indonesian: [tidak]
+
+English: [no]
