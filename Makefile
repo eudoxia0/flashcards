@@ -1,17 +1,17 @@
-AWS          := Cards/AWS\ Regions.md
-AWS_SRC      := Sources/aws.csv
-ENG          := Cards/English\ Vocabulary.md
-ENG_SRC      := Sources/english_vocab.csv
-NATO         := Cards/NATO\ Phonetic\ Alphabet.md
-NATO_SRC     := Sources/nato.csv
-PERSIAN      := Cards/Persian\ Alphabet.md
-PERSIAN_PY   := Scripts/persian.py
-POW          := Cards/Powers\ of\ Two.md
-POW_PY       := Scripts/pow2.py
-PY           := python3
-SIMPLE       := Scripts/simple.py
-TARGETS      := $(AWS) $(ENG) $(NATO) $(PERSIAN) $(POW)
-DEF_PY       := Scripts/def.py
+AWS         := Cards/AWS\ Regions.md
+AWS_SRC     := Sources/aws.csv
+ENG         := Cards/English\ Vocabulary.md
+ENG_SRC     := Sources/english_vocab.csv
+NATO        := Cards/NATO\ Phonetic\ Alphabet.md
+NATO_SRC    := Sources/nato.csv
+PERSIAN     := Cards/Persian\ Alphabet.md
+PERSIAN_PY  := Scripts/persian.py
+POW         := Cards/Powers\ of\ Two.md
+POW_PY      := Scripts/pow2.py
+PY          := python3
+SIMPLE      := Scripts/simple.py
+TARGETS     := $(AWS) $(ENG) $(NATO) $(PERSIAN) $(POW)
+DEF_PY      := Scripts/def.py
 
 .PHONY: all
 all: $(TARGETS)
