@@ -1,768 +1,896 @@
 Q: isolated form of **alef**
-A: ا
+A: # ا
 
 Q: initial form of **alef**
-A: ا
+A: # ا
 
 Q: medial form of **alef**
-A: ـا
+A: # ـا
 
 Q: final form of **alef**
-A: ـا
+A: # ـا
 
-Q: **ا** name
+Q: name of this letter:
+# ا
 A: alef
 
-Q: **ا** name
+Q: name of this letter:
+# ا
 A: alef
 
-Q: **ـا** name
+Q: name of this letter:
+# ـا
 A: alef
 
-Q: **ـا** name
+Q: name of this letter:
+# ـا
 A: alef
 
 Q: isolated form of **be**
-A: ب
+A: # ب
 
 Q: initial form of **be**
-A: بـ
+A: # بـ
 
 Q: medial form of **be**
-A: ـبـ
+A: # ـبـ
 
 Q: final form of **be**
-A: ـب
+A: # ـب
 
-Q: **ب** name
+Q: name of this letter:
+# ب
 A: be
 
-Q: **بـ** name
+Q: name of this letter:
+# بـ
 A: be
 
-Q: **ـبـ** name
+Q: name of this letter:
+# ـبـ
 A: be
 
-Q: **ـب** name
+Q: name of this letter:
+# ـب
 A: be
 
 Q: isolated form of **pe**
-A: پ
+A: # پ
 
 Q: initial form of **pe**
-A: پـ
+A: # پـ
 
 Q: medial form of **pe**
-A: ـپـ
+A: # ـپـ
 
 Q: final form of **pe**
-A: ـپ
+A: # ـپ
 
-Q: **پ** name
+Q: name of this letter:
+# پ
 A: pe
 
-Q: **پـ** name
+Q: name of this letter:
+# پـ
 A: pe
 
-Q: **ـپـ** name
+Q: name of this letter:
+# ـپـ
 A: pe
 
-Q: **ـپ** name
+Q: name of this letter:
+# ـپ
 A: pe
 
 Q: isolated form of **te**
-A: ت
+A: # ت
 
 Q: initial form of **te**
-A: تـ
+A: # تـ
 
 Q: medial form of **te**
-A: ـتـ
+A: # ـتـ
 
 Q: final form of **te**
-A: ـت
+A: # ـت
 
-Q: **ت** name
+Q: name of this letter:
+# ت
 A: te
 
-Q: **تـ** name
+Q: name of this letter:
+# تـ
 A: te
 
-Q: **ـتـ** name
+Q: name of this letter:
+# ـتـ
 A: te
 
-Q: **ـت** name
+Q: name of this letter:
+# ـت
 A: te
 
 Q: isolated form of **se**
-A: ث
+A: # ث
 
 Q: initial form of **se**
-A: ثـ
+A: # ثـ
 
 Q: medial form of **se**
-A: ـثـ
+A: # ـثـ
 
 Q: final form of **se**
-A: ـث
+A: # ـث
 
-Q: **ث** name
+Q: name of this letter:
+# ث
 A: se
 
-Q: **ثـ** name
+Q: name of this letter:
+# ثـ
 A: se
 
-Q: **ـثـ** name
+Q: name of this letter:
+# ـثـ
 A: se
 
-Q: **ـث** name
+Q: name of this letter:
+# ـث
 A: se
 
 Q: isolated form of **jim**
-A: ج
+A: # ج
 
 Q: initial form of **jim**
-A: جـ
+A: # جـ
 
 Q: medial form of **jim**
-A: ـجـ
+A: # ـجـ
 
 Q: final form of **jim**
-A: ـج
+A: # ـج
 
-Q: **ج** name
+Q: name of this letter:
+# ج
 A: jim
 
-Q: **جـ** name
+Q: name of this letter:
+# جـ
 A: jim
 
-Q: **ـجـ** name
+Q: name of this letter:
+# ـجـ
 A: jim
 
-Q: **ـج** name
+Q: name of this letter:
+# ـج
 A: jim
 
 Q: isolated form of **che**
-A: چ
+A: # چ
 
 Q: initial form of **che**
-A: چـ
+A: # چـ
 
 Q: medial form of **che**
-A: ـچـ
+A: # ـچـ
 
 Q: final form of **che**
-A: ـچ
+A: # ـچ
 
-Q: **چ** name
+Q: name of this letter:
+# چ
 A: che
 
-Q: **چـ** name
+Q: name of this letter:
+# چـ
 A: che
 
-Q: **ـچـ** name
+Q: name of this letter:
+# ـچـ
 A: che
 
-Q: **ـچ** name
+Q: name of this letter:
+# ـچ
 A: che
 
 Q: isolated form of **he**
-A: ح
+A: # ح
 
 Q: initial form of **he**
-A: حـ
+A: # حـ
 
 Q: medial form of **he**
-A: ـحـ
+A: # ـحـ
 
 Q: final form of **he**
-A: ـح
+A: # ـح
 
-Q: **ح** name
+Q: name of this letter:
+# ح
 A: he
 
-Q: **حـ** name
+Q: name of this letter:
+# حـ
 A: he
 
-Q: **ـحـ** name
+Q: name of this letter:
+# ـحـ
 A: he
 
-Q: **ـح** name
+Q: name of this letter:
+# ـح
 A: he
 
 Q: isolated form of **khe**
-A: خ
+A: # خ
 
 Q: initial form of **khe**
-A: خـ
+A: # خـ
 
 Q: medial form of **khe**
-A: ـخـ
+A: # ـخـ
 
 Q: final form of **khe**
-A: ـخ
+A: # ـخ
 
-Q: **خ** name
+Q: name of this letter:
+# خ
 A: khe
 
-Q: **خـ** name
+Q: name of this letter:
+# خـ
 A: khe
 
-Q: **ـخـ** name
+Q: name of this letter:
+# ـخـ
 A: khe
 
-Q: **ـخ** name
+Q: name of this letter:
+# ـخ
 A: khe
 
 Q: isolated form of **dal**
-A: د
+A: # د
 
 Q: initial form of **dal**
-A: د
+A: # د
 
 Q: medial form of **dal**
-A: ـد
+A: # ـد
 
 Q: final form of **dal**
-A: ـد
+A: # ـد
 
-Q: **د** name
+Q: name of this letter:
+# د
 A: dal
 
-Q: **د** name
+Q: name of this letter:
+# د
 A: dal
 
-Q: **ـد** name
+Q: name of this letter:
+# ـد
 A: dal
 
-Q: **ـد** name
+Q: name of this letter:
+# ـد
 A: dal
 
 Q: isolated form of **zal**
-A: ذ
+A: # ذ
 
 Q: initial form of **zal**
-A: ذ
+A: # ذ
 
 Q: medial form of **zal**
-A: ـذ
+A: # ـذ
 
 Q: final form of **zal**
-A: ـذ
+A: # ـذ
 
-Q: **ذ** name
+Q: name of this letter:
+# ذ
 A: zal
 
-Q: **ذ** name
+Q: name of this letter:
+# ذ
 A: zal
 
-Q: **ـذ** name
+Q: name of this letter:
+# ـذ
 A: zal
 
-Q: **ـذ** name
+Q: name of this letter:
+# ـذ
 A: zal
 
 Q: isolated form of **re**
-A: ر
+A: # ر
 
 Q: initial form of **re**
-A: ر
+A: # ر
 
 Q: medial form of **re**
-A: ـر
+A: # ـر
 
 Q: final form of **re**
-A: ـر
+A: # ـر
 
-Q: **ر** name
+Q: name of this letter:
+# ر
 A: re
 
-Q: **ر** name
+Q: name of this letter:
+# ر
 A: re
 
-Q: **ـر** name
+Q: name of this letter:
+# ـر
 A: re
 
-Q: **ـر** name
+Q: name of this letter:
+# ـر
 A: re
 
 Q: isolated form of **ze**
-A: ز
+A: # ز
 
 Q: initial form of **ze**
-A: ز
+A: # ز
 
 Q: medial form of **ze**
-A: ـز
+A: # ـز
 
 Q: final form of **ze**
-A: ـز
+A: # ـز
 
-Q: **ز** name
+Q: name of this letter:
+# ز
 A: ze
 
-Q: **ز** name
+Q: name of this letter:
+# ز
 A: ze
 
-Q: **ـز** name
+Q: name of this letter:
+# ـز
 A: ze
 
-Q: **ـز** name
+Q: name of this letter:
+# ـز
 A: ze
 
 Q: isolated form of **zhe**
-A: ژ
+A: # ژ
 
 Q: initial form of **zhe**
-A: ژ
+A: # ژ
 
 Q: medial form of **zhe**
-A: ـژ
+A: # ـژ
 
 Q: final form of **zhe**
-A: ـژ
+A: # ـژ
 
-Q: **ژ** name
+Q: name of this letter:
+# ژ
 A: zhe
 
-Q: **ژ** name
+Q: name of this letter:
+# ژ
 A: zhe
 
-Q: **ـژ** name
+Q: name of this letter:
+# ـژ
 A: zhe
 
-Q: **ـژ** name
+Q: name of this letter:
+# ـژ
 A: zhe
 
 Q: isolated form of **sin**
-A: س
+A: # س
 
 Q: initial form of **sin**
-A: سـ
+A: # سـ
 
 Q: medial form of **sin**
-A: ـسـ
+A: # ـسـ
 
 Q: final form of **sin**
-A: ـس
+A: # ـس
 
-Q: **س** name
+Q: name of this letter:
+# س
 A: sin
 
-Q: **سـ** name
+Q: name of this letter:
+# سـ
 A: sin
 
-Q: **ـسـ** name
+Q: name of this letter:
+# ـسـ
 A: sin
 
-Q: **ـس** name
+Q: name of this letter:
+# ـس
 A: sin
 
 Q: isolated form of **shin**
-A: ش
+A: # ش
 
 Q: initial form of **shin**
-A: شـ
+A: # شـ
 
 Q: medial form of **shin**
-A: ـشـ
+A: # ـشـ
 
 Q: final form of **shin**
-A: ـش
+A: # ـش
 
-Q: **ش** name
+Q: name of this letter:
+# ش
 A: shin
 
-Q: **شـ** name
+Q: name of this letter:
+# شـ
 A: shin
 
-Q: **ـشـ** name
+Q: name of this letter:
+# ـشـ
 A: shin
 
-Q: **ـش** name
+Q: name of this letter:
+# ـش
 A: shin
 
 Q: isolated form of **sad**
-A: ص
+A: # ص
 
 Q: initial form of **sad**
-A: صـ
+A: # صـ
 
 Q: medial form of **sad**
-A: ـصـ
+A: # ـصـ
 
 Q: final form of **sad**
-A: ـص
+A: # ـص
 
-Q: **ص** name
+Q: name of this letter:
+# ص
 A: sad
 
-Q: **صـ** name
+Q: name of this letter:
+# صـ
 A: sad
 
-Q: **ـصـ** name
+Q: name of this letter:
+# ـصـ
 A: sad
 
-Q: **ـص** name
+Q: name of this letter:
+# ـص
 A: sad
 
 Q: isolated form of **zad**
-A: ض
+A: # ض
 
 Q: initial form of **zad**
-A: ضـ
+A: # ضـ
 
 Q: medial form of **zad**
-A: ـضـ
+A: # ـضـ
 
 Q: final form of **zad**
-A: ـض
+A: # ـض
 
-Q: **ض** name
+Q: name of this letter:
+# ض
 A: zad
 
-Q: **ضـ** name
+Q: name of this letter:
+# ضـ
 A: zad
 
-Q: **ـضـ** name
+Q: name of this letter:
+# ـضـ
 A: zad
 
-Q: **ـض** name
+Q: name of this letter:
+# ـض
 A: zad
 
 Q: isolated form of **ta**
-A: ط
+A: # ط
 
 Q: initial form of **ta**
-A: طـ
+A: # طـ
 
 Q: medial form of **ta**
-A: ـطـ
+A: # ـطـ
 
 Q: final form of **ta**
-A: ـط
+A: # ـط
 
-Q: **ط** name
+Q: name of this letter:
+# ط
 A: ta
 
-Q: **طـ** name
+Q: name of this letter:
+# طـ
 A: ta
 
-Q: **ـطـ** name
+Q: name of this letter:
+# ـطـ
 A: ta
 
-Q: **ـط** name
+Q: name of this letter:
+# ـط
 A: ta
 
 Q: isolated form of **za**
-A: ظ
+A: # ظ
 
 Q: initial form of **za**
-A: ظـ
+A: # ظـ
 
 Q: medial form of **za**
-A: ـظـ
+A: # ـظـ
 
 Q: final form of **za**
-A: ـظ
+A: # ـظ
 
-Q: **ظ** name
+Q: name of this letter:
+# ظ
 A: za
 
-Q: **ظـ** name
+Q: name of this letter:
+# ظـ
 A: za
 
-Q: **ـظـ** name
+Q: name of this letter:
+# ـظـ
 A: za
 
-Q: **ـظ** name
+Q: name of this letter:
+# ـظ
 A: za
 
 Q: isolated form of **ain**
-A: ع
+A: # ع
 
 Q: initial form of **ain**
-A: عـ
+A: # عـ
 
 Q: medial form of **ain**
-A: ـعـ
+A: # ـعـ
 
 Q: final form of **ain**
-A: ـع
+A: # ـع
 
-Q: **ع** name
+Q: name of this letter:
+# ع
 A: ain
 
-Q: **عـ** name
+Q: name of this letter:
+# عـ
 A: ain
 
-Q: **ـعـ** name
+Q: name of this letter:
+# ـعـ
 A: ain
 
-Q: **ـع** name
+Q: name of this letter:
+# ـع
 A: ain
 
 Q: isolated form of **ghain**
-A: غ
+A: # غ
 
 Q: initial form of **ghain**
-A: غـ
+A: # غـ
 
 Q: medial form of **ghain**
-A: ـغـ
+A: # ـغـ
 
 Q: final form of **ghain**
-A: ـغ
+A: # ـغ
 
-Q: **غ** name
+Q: name of this letter:
+# غ
 A: ghain
 
-Q: **غـ** name
+Q: name of this letter:
+# غـ
 A: ghain
 
-Q: **ـغـ** name
+Q: name of this letter:
+# ـغـ
 A: ghain
 
-Q: **ـغ** name
+Q: name of this letter:
+# ـغ
 A: ghain
 
 Q: isolated form of **fe**
-A: ف
+A: # ف
 
 Q: initial form of **fe**
-A: فـ
+A: # فـ
 
 Q: medial form of **fe**
-A: ـفـ
+A: # ـفـ
 
 Q: final form of **fe**
-A: ـف
+A: # ـف
 
-Q: **ف** name
+Q: name of this letter:
+# ف
 A: fe
 
-Q: **فـ** name
+Q: name of this letter:
+# فـ
 A: fe
 
-Q: **ـفـ** name
+Q: name of this letter:
+# ـفـ
 A: fe
 
-Q: **ـف** name
+Q: name of this letter:
+# ـف
 A: fe
 
 Q: isolated form of **qaf**
-A: ق
+A: # ق
 
 Q: initial form of **qaf**
-A: قـ
+A: # قـ
 
 Q: medial form of **qaf**
-A: ـقـ
+A: # ـقـ
 
 Q: final form of **qaf**
-A: ـق
+A: # ـق
 
-Q: **ق** name
+Q: name of this letter:
+# ق
 A: qaf
 
-Q: **قـ** name
+Q: name of this letter:
+# قـ
 A: qaf
 
-Q: **ـقـ** name
+Q: name of this letter:
+# ـقـ
 A: qaf
 
-Q: **ـق** name
+Q: name of this letter:
+# ـق
 A: qaf
 
 Q: isolated form of **kaf**
-A: ک
+A: # ک
 
 Q: initial form of **kaf**
-A: کـ
+A: # کـ
 
 Q: medial form of **kaf**
-A: ـکـ
+A: # ـکـ
 
 Q: final form of **kaf**
-A: ـک
+A: # ـک
 
-Q: **ک** name
+Q: name of this letter:
+# ک
 A: kaf
 
-Q: **کـ** name
+Q: name of this letter:
+# کـ
 A: kaf
 
-Q: **ـکـ** name
+Q: name of this letter:
+# ـکـ
 A: kaf
 
-Q: **ـک** name
+Q: name of this letter:
+# ـک
 A: kaf
 
 Q: isolated form of **gaf**
-A: گ
+A: # گ
 
 Q: initial form of **gaf**
-A: گـ
+A: # گـ
 
 Q: medial form of **gaf**
-A: ـگـ
+A: # ـگـ
 
 Q: final form of **gaf**
-A: ـگ
+A: # ـگ
 
-Q: **گ** name
+Q: name of this letter:
+# گ
 A: gaf
 
-Q: **گـ** name
+Q: name of this letter:
+# گـ
 A: gaf
 
-Q: **ـگـ** name
+Q: name of this letter:
+# ـگـ
 A: gaf
 
-Q: **ـگ** name
+Q: name of this letter:
+# ـگ
 A: gaf
 
 Q: isolated form of **lam**
-A: ل
+A: # ل
 
 Q: initial form of **lam**
-A: لـ
+A: # لـ
 
 Q: medial form of **lam**
-A: ـلـ
+A: # ـلـ
 
 Q: final form of **lam**
-A: ـل
+A: # ـل
 
-Q: **ل** name
+Q: name of this letter:
+# ل
 A: lam
 
-Q: **لـ** name
+Q: name of this letter:
+# لـ
 A: lam
 
-Q: **ـلـ** name
+Q: name of this letter:
+# ـلـ
 A: lam
 
-Q: **ـل** name
+Q: name of this letter:
+# ـل
 A: lam
 
 Q: isolated form of **mim**
-A: م
+A: # م
 
 Q: initial form of **mim**
-A: مـ
+A: # مـ
 
 Q: medial form of **mim**
-A: ـمـ
+A: # ـمـ
 
 Q: final form of **mim**
-A: ـم
+A: # ـم
 
-Q: **م** name
+Q: name of this letter:
+# م
 A: mim
 
-Q: **مـ** name
+Q: name of this letter:
+# مـ
 A: mim
 
-Q: **ـمـ** name
+Q: name of this letter:
+# ـمـ
 A: mim
 
-Q: **ـم** name
+Q: name of this letter:
+# ـم
 A: mim
 
 Q: isolated form of **nun**
-A: ن
+A: # ن
 
 Q: initial form of **nun**
-A: نـ
+A: # نـ
 
 Q: medial form of **nun**
-A: ـنـ
+A: # ـنـ
 
 Q: final form of **nun**
-A: ـن
+A: # ـن
 
-Q: **ن** name
+Q: name of this letter:
+# ن
 A: nun
 
-Q: **نـ** name
+Q: name of this letter:
+# نـ
 A: nun
 
-Q: **ـنـ** name
+Q: name of this letter:
+# ـنـ
 A: nun
 
-Q: **ـن** name
+Q: name of this letter:
+# ـن
 A: nun
 
 Q: isolated form of **vav**
-A: و
+A: # و
 
 Q: initial form of **vav**
-A: و
+A: # و
 
 Q: medial form of **vav**
-A: ـو
+A: # ـو
 
 Q: final form of **vav**
-A: ـو
+A: # ـو
 
-Q: **و** name
+Q: name of this letter:
+# و
 A: vav
 
-Q: **و** name
+Q: name of this letter:
+# و
 A: vav
 
-Q: **ـو** name
+Q: name of this letter:
+# ـو
 A: vav
 
-Q: **ـو** name
+Q: name of this letter:
+# ـو
 A: vav
 
 Q: isolated form of **he do cheshm**
-A: ه
+A: # ه
 
 Q: initial form of **he do cheshm**
-A: هـ
+A: # هـ
 
 Q: medial form of **he do cheshm**
-A: ـهـ
+A: # ـهـ
 
 Q: final form of **he do cheshm**
-A: ـه
+A: # ـه
 
-Q: **ه** name
+Q: name of this letter:
+# ه
 A: he do cheshm
 
-Q: **هـ** name
+Q: name of this letter:
+# هـ
 A: he do cheshm
 
-Q: **ـهـ** name
+Q: name of this letter:
+# ـهـ
 A: he do cheshm
 
-Q: **ـه** name
+Q: name of this letter:
+# ـه
 A: he do cheshm
 
 Q: isolated form of **ye**
-A: ی
+A: # ی
 
 Q: initial form of **ye**
-A: یـ
+A: # یـ
 
 Q: medial form of **ye**
-A: ـیـ
+A: # ـیـ
 
 Q: final form of **ye**
-A: ـی
+A: # ـی
 
-Q: **ی** name
+Q: name of this letter:
+# ی
 A: ye
 
-Q: **یـ** name
+Q: name of this letter:
+# یـ
 A: ye
 
-Q: **ـیـ** name
+Q: name of this letter:
+# ـیـ
 A: ye
 
-Q: **ـی** name
+Q: name of this letter:
+# ـی
 A: ye
 
