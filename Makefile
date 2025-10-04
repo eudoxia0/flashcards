@@ -42,3 +42,7 @@ check:
 .PHONY: drill
 drill:
 	hashcards drill Cards --card-limit=10
+
+.PHONY: stats
+stats:
+	hashcards stats Cards --format=json
