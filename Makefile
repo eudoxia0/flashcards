@@ -9,15 +9,15 @@ PERSIAN_PY  := Scripts/persian.py
 POW         := Cards/Powers\ of\ Two.md
 POW_PY      := Scripts/pow2.py
 PY          := python3
-SIMPLE      := Scripts/simple.py
+VOCAB_PY    := Scripts/vocab.py
 TARGETS     := $(AWS) $(ENG) $(NATO) $(PERSIAN) $(POW)
 DEF_PY      := Scripts/def.py
 
 .PHONY: all
 all: $(TARGETS)
 
-$(AWS): $(AWS_SRC) $(SIMPLE)
-	$(PY) $(SIMPLE) $(AWS_SRC) > $(AWS)
+$(AWS): $(AWS_SRC) $(VOCAB_PY)
+	$(PY) $(VOCAB_PY) $(AWS_SRC) > $(AWS)
 
 $(ENG): $(ENG_SRC) $(DEF_PY)
 	$(PY) $(DEF_PY) $(ENG_SRC) > $(ENG)
