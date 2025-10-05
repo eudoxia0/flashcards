@@ -34,4 +34,4 @@ jobs:
         uses: actions/checkout@v4
 
       - name: clone hashcards repo locally
-        run: git clone git@github.com:eudoxia0/hashcards.git
+        run: git clone https://github.com/eudoxia0/hashcards.git
