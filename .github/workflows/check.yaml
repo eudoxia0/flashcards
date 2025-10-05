@@ -35,3 +35,9 @@ jobs:
 
       - name: clone hashcards repo locally
         run: git clone https://github.com/eudoxia0/hashcards.git
+
+      - name: install hashcards
+        run: |
+          make
+          sudo make install
+        working-directory: ./hashcards
