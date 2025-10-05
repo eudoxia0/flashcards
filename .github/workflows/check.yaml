@@ -25,3 +25,13 @@ jobs:
           fi
 
       - run: make clean
+
+  # Check card integrity.
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - name: checkout
+        uses: actions/checkout@v4
+
+      - name: clone hashcards repo locally
+        run: git clone git@github.com:eudoxia0/hashcards.git
