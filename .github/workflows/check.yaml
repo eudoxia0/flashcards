@@ -41,3 +41,5 @@ jobs:
           make
           sudo make install
         working-directory: ./hashcards
+
+      - run: make check
