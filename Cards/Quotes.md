@@ -92,3 +92,18 @@ C:
 L'hydre Univers tordant son corps écaillé d'astres
 
 — [Victor Hugo], [_Les Contemplations_]
+
+C:
+For us humanity was a distant goal toward which all men were moving, whose image no one knew, whose laws were nowhere written down.
+
+— [Hermann Hesse], [_Demian_]
+
+C:
+The whole of the developments and operations of analysis are now capable of being executed by machinery.
+
+— [Charles Babbage], [Passages from the Life of a Philosopher]
+
+C:
+I am apt to think, if we knew what it was to be an angel for one hour, we should return to this world, though it were to sit on the brightest throne in it, with vastly more loathing and reluctance than we would now descend into a loathsome dungeon or sepulchre.
+
+— [George Berkeley]
