@@ -37,3 +37,53 @@ C:
 Indonesian: [dia]
 
 English: [he/she/it]
+
+C:
+Indonesian: [kita]
+
+English: [we (including interlocutor)]
+
+C:
+Indonesian: [kami]
+
+English: [we (excluding interlocutor)]
+
+C:
+Indonesian: [buku]
+
+English: [book]
+
+C:
+Indonesian: [ya]
+
+English: [yes]
+
+C:
+Indonesian: [tidak]
+
+English: [no]
+
+C:
+Indonesian: [pagi]
+
+English: [morning]
+
+C:
+Indonesian: [hari]
+
+English: [day]
+
+C:
+Indonesian: [hotel]
+
+English: [hotel]
+
+C:
+Indonesian: [besar]
+
+English: [big]
+
+C:
+Indonesian: [air]
+
+English: [water]

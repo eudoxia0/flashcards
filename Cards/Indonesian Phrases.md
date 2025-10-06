@@ -42,3 +42,18 @@ C:
 I [live] in Sydney
 
 [Saya] [tinggal] [di] [Sydney]
+
+C:
+[Thank you]
+
+[Terima kasih]
+
+C:
+[You're welcome]
+
+[Sama-sama]
+
+C:
+[What is] [this]?
+
+[Apa] [ini]?
