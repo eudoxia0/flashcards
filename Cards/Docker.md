@@ -24,3 +24,9 @@ A: Builds the Dockerfile in the current directory.
 
 Q: What is a Docker image tag?
 A: A human-readable name for the image.
+
+Q: How do you run a tagged Docker image with its default command?
+A: `docker run <tag>`
+
+Q: How do you run a tagged Docker image with a custom command?
+A: `docker run <tag> <command>`
