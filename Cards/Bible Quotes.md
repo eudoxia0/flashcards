@@ -32,3 +32,18 @@ C:
 He that believeth on me, as the scripture hath said, out of his belly shall flow rivers of living water.
 
 — [John] [7]:[38]
+
+C:
+For God shall bring every work into judgment, with every secret thing, whether it be good, or whether it be evil.
+
+— [Ecclesiastes] [12]:[14]
+
+C:
+[O remember that my life is wind.]
+
+— [Job] [7]:[7]
+
+C:
+[The Lord knoweth the thoughts of man, that they are vanity.]
+
+— [Psalm] [94]:[11]
