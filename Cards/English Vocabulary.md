@@ -132,3 +132,9 @@ A: To diminish.
 
 Q: wax (verb)
 A: to grow
+
+Q: wherefore
+A: why / therefore
+
+Q: withal
+A: moreover / nevertheless / with
