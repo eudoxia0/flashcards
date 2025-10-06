@@ -137,3 +137,18 @@ C:
 Indonesian: [sepuluh]
 
 English: [ten]
+
+C:
+Indonesian: [saya]
+
+English: [I]
+
+C:
+Indonesian: [anda]
+
+English: [you (singular, formal)]
+
+C:
+Indonesian: [kamu]
+
+English: [you (singular, informal)]

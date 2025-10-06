@@ -7,3 +7,15 @@ C: Word-final `k` is pronounced [silent].
 C: `sy` is pronounced like English [`sh`].
 
 C: Stress goes on the [penultimate] syllable.
+
+Q: first-person pronoun
+A: saya
+
+Q: Literal translation of _bapak_
+A: father
+
+Q: Term of address for an adult male
+A: bapak
+
+Q: Term of address for an adult woman
+A: ibu

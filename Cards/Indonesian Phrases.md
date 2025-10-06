@@ -56,4 +56,19 @@ C:
 C:
 [What is] [this]?
 
-[Apakah] [ini]?
+[Apa] [ini]?
+
+C:
+[How are you?]
+
+[Apa kabar?]
+
+C:
+[Mr.] Jones
+
+[Bapak] Jones
+
+C:
+[What is your name?]
+
+[Siapa nama anda?]
