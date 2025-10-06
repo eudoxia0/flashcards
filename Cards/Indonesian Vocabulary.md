@@ -87,3 +87,53 @@ C:
 Indonesian: [air]
 
 English: [water]
+
+C:
+Indonesian: [satu]
+
+English: [one]
+
+C:
+Indonesian: [dua]
+
+English: [two]
+
+C:
+Indonesian: [tiga]
+
+English: [three]
+
+C:
+Indonesian: [empat]
+
+English: [four]
+
+C:
+Indonesian: [lima]
+
+English: [five]
+
+C:
+Indonesian: [enam]
+
+English: [six]
+
+C:
+Indonesian: [tujuh]
+
+English: [seven]
+
+C:
+Indonesian: [delapan]
+
+English: [eight]
+
+C:
+Indonesian: [sembilan]
+
+English: [nine]
+
+C:
+Indonesian: [sepuluh]
+
+English: [ten]
