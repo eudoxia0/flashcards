@@ -32,3 +32,63 @@ C:
 Practical men who believe themselves to be quite exempt from any intellectual influence, are usually the slaves of some defunct economist. Madmen in authority, who hear voices in the air, are distilling their frenzy from some academic scribbler of a few years back.
 
 — [John Maynard Keynes]
+
+C:
+Though philosophy is carried on as a coercive activity, the penalty philosophers wield is, after all, rather weak. If the other person is willing to bear the label of “irrational” or “having the worse arguments,” he can skip away happily maintaining his previous belief. He will be trailed, of course, by the philosopher furiously hurling philosophical imprecations: “What do you mean, you’re willing to be irrational? You shouldn’t be irrational because…” And although the philosopher is embarrassed by his inability to complete this sentence in a noncircular fashion—he can only produce reasons for accepting reasons—still, he is unwilling to let his adversary go.
+
+— [Robert Nozick]
+
+C:
+Perhaps the first pyramids were the piles of stones that entombed people who were stoned to death.
+
+— [Peter Thiel]
+
+C:
+And the words slide into the slots ordained by syntax, and glitter as with atmospheric dust with those impurities which we call meaning.
+
+— [Anthony Burgess]
+
+C:
+Let's withdraw;
+
+And meet the time as it seeks us.
+
+— [Shakespeare], [_Cymbeline_]
+
+C:
+[And thus I clothe my naked villany]
+
+[With old odd ends stolen out of holy writ;]
+
+[And seem a saint, when most I play the devil.]
+
+— [Shakespeare], [_Richard III_]
+
+C:
+Now all are fled,
+
+Save only the gods
+
+— [Shakespeare], [_Timon of Athens_]
+
+C:
+Seek not my name.
+
+— [Shakespeare], [_Timon of Athens_]
+
+C:
+If the brain were so simple we could understand it, we would be so simple we couldn't.
+
+— [Emerson Pugh]
+
+C:
+The spider weaves the curtains in Caesar's palace;
+
+The owl calls the watches upon the dome of Afrasiab.
+
+— [Anvari]
+
+C:
+L'hydre Univers tordant son corps écaillé d'astres
+
+— [Victor Hugo], [_Les Contemplations_]
