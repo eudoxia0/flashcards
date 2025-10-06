@@ -32,3 +32,13 @@ C:
 I am a [tourist]
 
 [Saya] [turis]
+
+C:
+I [live] in Australia
+
+[Saya] [tinggal] [di] [Australia]
+
+C:
+I [live] in Sydney
+
+[Saya] [tinggal] [di] [Sydney]
