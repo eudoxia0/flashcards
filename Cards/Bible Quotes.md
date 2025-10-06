@@ -34,7 +34,7 @@ He that believeth on me, as the scripture hath said, out of his belly shall flow
 — [John] [7]:[38]
 
 C:
-For God shall bring every work into judgment, with every secret thing, whether it be good, or whether it be evil.
+[For God shall bring every work into judgment], [with every secret thing], [whether it be good], [or whether it be evil].
 
 — [Ecclesiastes] [12]:[14]
 
