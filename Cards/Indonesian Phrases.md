@@ -77,3 +77,8 @@ C:
 [Where are you from?]
 
 [Anda] [dari] [mana]?
+
+C:
+[Ini] [buku]
+
+[This] is a [book]
