@@ -17,3 +17,18 @@ C:
 My name is Fernando
 
 [Nama saya Fernando]
+
+C:
+[selamat pagi]
+
+[good morning]
+
+C:
+[selamat malam]
+
+[good evening]
+
+C:
+I am a [tourist]
+
+[Saya] [turis]
