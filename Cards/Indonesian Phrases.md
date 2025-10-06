@@ -82,3 +82,8 @@ C:
 [Ini] [buku]
 
 [This] is a [book]
+
+C:
+[Apakah ini buku?]
+
+[Is this a book?]
