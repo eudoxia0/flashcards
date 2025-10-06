@@ -56,4 +56,4 @@ C:
 C:
 [What is] [this]?
 
-[Apa] [ini]?
+[Apakah] [ini]?
