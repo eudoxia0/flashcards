@@ -107,3 +107,18 @@ C:
 I am apt to think, if we knew what it was to be an angel for one hour, we should return to this world, though it were to sit on the brightest throne in it, with vastly more loathing and reluctance than we would now descend into a loathsome dungeon or sepulchre.
 
 — [George Berkeley]
+
+C:
+I was given to understand that She manipulated whole sciences and thought systems as I might string words into a sentence. But Her 'sentences' were as huge and profound as the utterances of the universe itself.
+
+— [David Zindell, _Neverness_]
+
+C:
+Mortal man does not know how the universe and all that it contains may appear to a superhuman intelligence. Perhaps such an exalted mind is in a position to elaborate a coherent and comprehensive monistic interpretation of all phenomena.
+
+— [Ludwig von Mises], [_Theory and History_]
+
+C:
+There are wavelengths that people cannot see, there are sounds that people cannot hear, and maybe computers have thoughts that people cannot think.
+
+— [Richard Hamming]
