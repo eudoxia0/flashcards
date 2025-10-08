@@ -24,9 +24,3 @@ A: Ophthalmic nerve.
 
 Q: Largest branch of the trigeminal nerve.
 A: Mandibular nerve.
-
-C: The [ophthalmic] nerve exits the skull through the [superior orbital fissure].
-
-C: The [maxillary] nerve exits the skull through the [foramen rotundum].
-
-C: The [mandibular] nerve exits the skull through the [foramen ovale].
