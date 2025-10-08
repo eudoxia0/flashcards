@@ -92,3 +92,13 @@ C:
 [Apakah ini buku?]
 
 [Is this a book?]
+
+C:
+Welcome to Jakarta.
+
+[Selamat] [datang] [di] [Jakarta].
+
+C:
+Welcome to Jakarta.
+
+[Selamat datang di Jakarta].

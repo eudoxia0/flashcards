@@ -152,3 +152,28 @@ C:
 Indonesian: [kamu]
 
 English: [you (singular, informal)]
+
+C:
+Indonesian: [kamus]
+
+English: [dictionary]
+
+C:
+Indonesian: [kopi]
+
+English: [coffee]
+
+C:
+Indonesian: [toko]
+
+English: [shop]
+
+C:
+Indonesian: [guru]
+
+English: [teacher]
+
+C:
+Indonesian: [nasi]
+
+English: [rice]
