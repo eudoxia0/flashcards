@@ -19,3 +19,7 @@ A: bapak
 
 Q: Term of address for an adult woman
 A: ibu
+
+C: The [informal] version of [anda] is [kamu].
+
+C: The [formal] version of [kamu] is [anda].
