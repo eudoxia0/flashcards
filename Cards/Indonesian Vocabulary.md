@@ -202,3 +202,18 @@ C:
 Indonesian: [mereka]
 
 English: [they]
+
+C:
+Indonesian: [pensil]
+
+English: [pencil]
+
+C:
+Indonesian: [pena]
+
+English: [pen]
+
+C:
+Indonesian: [kertas]
+
+English: [paper]

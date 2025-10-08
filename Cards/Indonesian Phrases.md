@@ -107,3 +107,33 @@ C:
 [I'm fine].
 
 [Kabar baik].
+
+C:
+I have a pencil.
+
+[Saya] [punya] [pensil].
+
+C:
+You have a car.
+
+[Anda] [punya] [mobil].
+
+C:
+They have a book.
+
+[Mereka] [punya] [buku].
+
+C:
+[I have a pencil].
+
+[Saya punya pensil].
+
+C:
+[You have a car].
+
+[Anda punya mobil].
+
+C:
+[They have a book].
+
+[Mereka punya buku].
