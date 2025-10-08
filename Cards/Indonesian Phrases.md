@@ -137,3 +137,38 @@ C:
 [They have a book].
 
 [Mereka punya buku].
+
+C:
+[Apa?]
+
+[What?]
+
+C:
+[Apa ini?]
+
+[What is this?]
+
+C:
+[Siapa?]
+
+[Who?]
+
+C:
+[Kapan?]
+
+[When?]
+
+C:
+[Di mana?]
+
+[Where?]
+
+C:
+[Kemana?]
+
+[To where?]
+
+C:
+[Dari mana?]
+
+[From where?]
