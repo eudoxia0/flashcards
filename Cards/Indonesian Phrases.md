@@ -74,6 +74,11 @@ C:
 [Siapa nama anda?]
 
 C:
+What is your name?
+
+[Siapa] [nama] [anda]?
+
+C:
 [Where are you from?]
 
 [Anda] [dari] [mana]?
