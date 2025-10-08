@@ -24,3 +24,15 @@ A: Ophthalmic nerve.
 
 Q: Largest branch of the trigeminal nerve.
 A: Mandibular nerve.
+
+C: Fluvoxamine is primarily metabolized by cytochromes [1A2] and [2D6].
+
+C: Fluvoxamine is a [strong] inhibitor of cytochromes [1A2] and [2C19].
+
+C: Fluvoxamine is a [moderate] inhibitor of cytochromes [2C9] and [3A4].
+
+C: Fluvoxamine is a [weak] inhibitor of cytochromes [2B6] and [2D6].
+
+C: Caffeine is metabolized by cytochrome [1A2].
+
+C: Melatonin is metabolized by cytochrome [1A2].
