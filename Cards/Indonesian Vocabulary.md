@@ -187,3 +187,18 @@ C:
 Indonesian: [selamat datang]
 
 English: [welcome]
+
+C:
+Indonesian: [apa]
+
+English: [what]
+
+C:
+Indonesian: [kabar]
+
+English: [news]
+
+C:
+Indonesian: [mereka]
+
+English: [they]

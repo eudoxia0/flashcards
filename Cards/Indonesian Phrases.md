@@ -102,3 +102,8 @@ C:
 Welcome to Jakarta.
 
 [Selamat datang di Jakarta].
+
+C:
+[I'm fine].
+
+[Kabar baik].

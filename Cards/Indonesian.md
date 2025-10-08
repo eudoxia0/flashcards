@@ -14,6 +14,9 @@ A: saya
 Q: Literal translation of _bapak_
 A: father
 
+Q: Literal translation of _ibu_
+A: mother
+
 Q: Term of address for an adult male
 A: bapak
 
@@ -23,3 +26,7 @@ A: ibu
 C: The [informal] version of [anda] is [kamu].
 
 C: The [formal] version of [kamu] is [anda].
+
+C: [kita] means "we" and [includes] the interlocutor.
+
+C: [kami] means "we" and [excludes] the interlocutor.
