@@ -177,3 +177,8 @@ C:
 Indonesian: [nasi]
 
 English: [rice]
+
+C:
+Indonesian: [mobil]
+
+English: [car]
