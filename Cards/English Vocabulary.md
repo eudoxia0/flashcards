@@ -138,3 +138,6 @@ A: why / therefore
 
 Q: withal
 A: moreover / nevertheless / with
+
+Q: hieratic
+A: of or pertaining to priests
