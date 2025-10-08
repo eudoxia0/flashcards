@@ -111,7 +111,7 @@ I am apt to think, if we knew what it was to be an angel for one hour, we should
 C:
 I was given to understand that She manipulated whole sciences and thought systems as I might string words into a sentence. But Her 'sentences' were as huge and profound as the utterances of the universe itself.
 
-— [David Zindell, _Neverness_]
+— [David Zindell], [_Neverness_]
 
 C:
 Mortal man does not know how the universe and all that it contains may appear to a superhuman intelligence. Perhaps such an exalted mind is in a position to elaborate a coherent and comprehensive monistic interpretation of all phenomena.
