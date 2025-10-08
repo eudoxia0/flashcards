@@ -122,3 +122,28 @@ C:
 There are wavelengths that people cannot see, there are sounds that people cannot hear, and maybe computers have thoughts that people cannot think.
 
 — [Richard Hamming]
+
+C:
+Some thinkers suppose that the motion of bodies of that size must produce a noise, since on our earth the motion of bodies far inferior in size and in speed of movement has that effect.
+
+Also, when the sun and the moon, they say, and all the stars, so great in number and in size, are moving with so rapid a motion, how should they not produce a sound immensely great?
+
+Starting from this argument and from the observation that their speeds, as measured by their distances, are in the same ratios as musical concordances, they assert that the sound given forth by the circular movement of the stars is a harmony.
+
+Since, however, it appears unaccountable that we should not hear this music, they explain this by saying that the sound is in our ears from the very moment of birth and is thus indistinguishable from its contrary silence, since sound and silence are discriminated by mutual contrast.
+
+What happens to men, then, is just what happens to coppersmiths, who are so accustomed to the noise of the smithy that it makes no difference to them.
+
+— [Aristotle], [_On the Heavens_]
+
+C:
+Neither dreamt sand can kill me, nor are there dreams within dreams.
+
+— [Jorge Luis Borges], [_La Escritura del Dios_]
+
+C:
+Forsake thy cage,
+
+Thy rope of sands
+
+— [George Herbert], [_The Collar_]
