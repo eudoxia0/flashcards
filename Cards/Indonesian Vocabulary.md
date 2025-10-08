@@ -182,3 +182,8 @@ C:
 Indonesian: [mobil]
 
 English: [car]
+
+C:
+Indonesian: [selamat datang]
+
+English: [welcome]
