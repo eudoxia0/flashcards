@@ -27,7 +27,7 @@ Q: What are the two types of cell in the nervous system?
 A: Neurons and glia.
 
 Q: What are the two types of glial cells?
-A: Microglia and macroglia.
+A: Macroglia and microglia.
 
 Q: What are microglia?
 A: Macrophages that provide immune defense in the CNS.
