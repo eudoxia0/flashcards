@@ -16,6 +16,7 @@ A: At plate boundaries.
 
 C:
 Term: [plate boundary]
+
 Definition: [The zones where tectonic plates meet.]
 
 Q: What are the three types of plate boundary?
