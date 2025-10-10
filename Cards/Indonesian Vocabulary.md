@@ -217,3 +217,8 @@ C:
 Indonesian: [kertas]
 
 English: [paper]
+
+C:
+Indonesian: [mana]
+
+English: [where]
