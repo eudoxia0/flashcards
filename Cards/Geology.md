@@ -43,9 +43,8 @@ A: Iron and nickel.
 Q: What is the temperature of the Earth's core?
 A: 6000 C.
 
-
-Q: What happens in the interior of a divergent plate boundary?
-A: The asthenosphere flows upward to fill the gap and cools to form new crust.
+Q: How does new crust form at a divergent plate boundary?
+A: The asthenosphere flows upward to fill the gap, and cools to form new crust.
 
 Q: Where are volcanoes most common?
 A: At convergent and divergent plate boundaries.
