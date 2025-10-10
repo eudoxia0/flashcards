@@ -3,7 +3,6 @@ Term: [lithosphere]
 
 Definition: [The rigid outermost layer of the Earth, made up of the crust and the upper mantle.]
 
-
 C:
 Term: [asthenosphere]
 
