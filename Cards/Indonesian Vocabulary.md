@@ -222,3 +222,8 @@ C:
 Indonesian: [mana]
 
 English: [where]
+
+C:
+Indonesian: [punya]
+
+English: [to have]
