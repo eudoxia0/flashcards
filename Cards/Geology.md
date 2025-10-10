@@ -26,7 +26,7 @@ C: At a [convergent] boundary, the two plates [move closer together].
 
 C: At a [divergent] boundary, the two plates [move apart].
 
-C: At a [divergent] boundary, the two plates [slide past each other].
+C: At a [transform] boundary, the two plates [slide past each other].
 
 Q: What is oceanic crust made out of?
 A: Basalt.
