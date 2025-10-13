@@ -138,3 +138,6 @@ A: why / therefore
 
 Q: hieratic
 A: of or pertaining to priests
+
+Q: threadbare
+A: (of clothing) worn out
