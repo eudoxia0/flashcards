@@ -41,7 +41,7 @@ C: [Oxervate] is the trade name of [Cenegermin].
 
 C: [Cenegermin] is the therapeutic form of [human nerve growth factor].
 
-Q: What is the INN for the therapeutic form of human NFG?
+Q: What is the INN for the therapeutic form of human NGF?
 A: Cenegermin
 
 Q: What is Cenegermin indicated for?
