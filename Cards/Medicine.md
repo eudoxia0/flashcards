@@ -46,3 +46,5 @@ A: Cenegermin
 
 Q: What is Cenegermin indicated for?
 A: Neurotrophic keratitis.
+
+C: NFG was discovered in the year [1954] by [Rita Levi-Montalcini] and [Stanley Cohen].
