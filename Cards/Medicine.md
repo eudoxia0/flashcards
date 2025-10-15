@@ -30,3 +30,19 @@ C: Fluvoxamine is primarily metabolized by cytochromes [1A2] and [2D6].
 C: Caffeine is metabolized by cytochrome [1A2].
 
 C: Melatonin is metabolized by cytochrome [1A2].
+
+Q: What does INN stand for?
+A: International nonproprietary name.
+
+Q: What is an international nonproprietary name?
+A: The official generic name of a drug.
+
+C: [Oxervate] is the trade name of [Cenegermin].
+
+C: [Cenegermin] is the therapeutic form of [human nerve growth factor].
+
+Q: What is the INN for the therapeutic form of human NFG?
+A: Cenegermin
+
+Q: What is Cenegermin indicated for?
+A: Neurotrophic keratitis.
