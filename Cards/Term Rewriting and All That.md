@@ -11,6 +11,29 @@ Term: [confluence]
 
 Definition: [A property of a rewrite system where: if $x \stackrel{+}{\to} y_1$ and $x \stackrel{+}{\to} y_2$, then $y_1 \downarrow y_2$.]
 
+C: A term $x$ is [reducible] iff [there exists a $y$ such that $x \to y$].
+
+C: A term $x$ is [irreducible] is equivalent to saying $x$ is a [normal form].
+
+Q: Let $x$ be a term. How do we denote "$x$ has a unique normal form"?
+A: $x \downarrow$
+
+Q: Let $x$ be a term. What does the notation $x \downarrow$ mean?
+
+C: The notation [$x \downarrow$] means that $x$ [has a unique normal form].
+
+C: If $x \to y$, then $y$ is called a [direct successor] of $x$.
+
+C: If $x \to y$, then $x$ is called a [direct ancestor] of $x$.
+
+C: If $x \stackrel{+}{\rightarrow} y$, then $y$ is called a [successor] of $x$.
+
+C: If $x \stackrel{+}{\rightarrow} y$, then $x$ is called an [ancestor] of $x$.
+
+C: $x$ and $y$ are called [joinable] iff [there exists a $z$ such that $x \stackrel{+}{\rightarrow} z$ and $y \stackrel{+}{\rightarrow} z$].
+
+C: Let $x$ and $y$ be terms. The notation [$x \downarrow y$] means that $x$ and $y$ are [joinable].
+
 Q: When is a rewrite system confluent?
 A: If $x \stackrel{+}{\to} y_1$ and $x \stackrel{+}{\to} y_2$, then $y_1 \downarrow y_2$.
 
