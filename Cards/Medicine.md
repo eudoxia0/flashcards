@@ -47,8 +47,6 @@ A: Cenegermin
 Q: What is Cenegermin indicated for?
 A: Neurotrophic keratitis.
 
-C: NFG was discovered in the year [1954] by [Rita Levi-Montalcini] and [Stanley Cohen].
-
 C: Oxycodone is primarily metabolized by cytochrome [3A4].
 
 C: [Endone] is the Australian trade name of [oxycodone].
