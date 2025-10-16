@@ -9,7 +9,7 @@ Definition: [An expression for which no more rules apply.]
 C:
 Term: [confluence]
 
-Definition: [A property of a rewrite system where: if $x \stackrel{+}{\to} y_1$ and $x \stackrel{+}{\to} y_2$, then $y_1 \downarrow y_2$.]
+Definition: [A property of a rewrite system where, if $x \stackrel{+}{\to} y_1$ and $x \stackrel{+}{\to} y_2$, then $y_1 \downarrow y_2$.]
 
 C: A term $x$ is [reducible] iff [there exists a $y$ such that $x \to y$].
 
