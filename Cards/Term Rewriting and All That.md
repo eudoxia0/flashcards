@@ -19,6 +19,7 @@ Q: Let $x$ be a term. How do we denote "$x$ has a unique normal form"?
 A: $x \downarrow$
 
 Q: Let $x$ be a term. What does the notation $x \downarrow$ mean?
+A: $x$ has a unique normal form.
 
 C: The notation [$x \downarrow$] means that $x$ [has a unique normal form].
 
