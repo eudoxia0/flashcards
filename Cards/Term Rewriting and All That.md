@@ -60,3 +60,20 @@ C:
 Term: [convergent rewrite system]
 
 Definition: [A rewrite system that is both terminating and confluent.]
+
+C: A relation is called [Church-Rosser] iff [$x \stackrel{*}{\leftrightarrow} y \implies x \join y$].
+
+Q: Let $R$ be a relation. Define $\text{ChurchRosser}(R)$ symbolically.
+
+$$
+\text{ChurchRosser}(R) \iff \ldots
+$$
+
+A:
+
+$$
+\text{ChurchRosser}(R) \iff
+\left(
+  x \stackrel{*}{\leftrightarrow} y \implies x \downarrow y
+\right)
+$$
