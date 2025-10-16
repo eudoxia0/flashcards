@@ -13,7 +13,7 @@ Definition: [A property of a rewrite system where: if $x \stackrel{+}{\to} y_1$ 
 
 C: A term $x$ is [reducible] iff [there exists a $y$ such that $x \to y$].
 
-C: A term $x$ is [irreducible] is equivalent to saying $x$ is a [normal form].
+C: Saying "$x$ is [irreducible]" is equivalent to saying "$x$ is a [normal form]".
 
 Q: Let $x$ be a term. How do we denote "$x$ has a unique normal form"?
 A: $x \downarrow$
@@ -62,7 +62,7 @@ Term: [convergent rewrite system]
 
 Definition: [A rewrite system that is both terminating and confluent.]
 
-C: A relation is called [Church-Rosser] iff [$x \stackrel{*}{\leftrightarrow} y \implies x \join y$].
+C: A relation is called [Church-Rosser] iff [$x \stackrel{\*}{\leftrightarrow} y \implies x \downarrow y$].
 
 Q: Let $R$ be a relation. Define $\text{ChurchRosser}(R)$ symbolically.
 
