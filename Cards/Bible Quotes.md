@@ -3,47 +3,77 @@ C:
 
 — [Ecclesiastes] [6]:[9]
 
+Q: Ecclesiastes 6:9
+A: Better is the sight of the eyes than the wandering of the desire: this is also vanity and vexation of spirit.
+
 C:
 [Surely God will not hear vanity], [neither will the Almighty regard it].
 
 — [Job] [35]:[13]
+
+Q: Job 35:13
+A: Surely God will not hear vanity, neither will the Almighty regard it.
 
 C:
 [For he remembered that they were but flesh]; [a wind that passeth away], [and cometh not again].
 
 — [Psalm] [79]:[39]
 
+Q: Psalm 79:39
+A: For he remembered that they were but flesh; a wind that passeth away, and cometh not again.
+
 C:
 I will even make a way in the wilderness, and rivers in the desert.
 
 — [Isaiah] [43]:[19]
+
+Q: Isaiah 43:19
+A: I will even make a way in the wilderness, and rivers in the desert.
 
 C:
 Whereas ye know not what shall be on the morrow. For what is your life? It is even a vapour, that appeareth for a little time, and then vanisheth away.
 
 — [James] [4]:[14]
 
+Q: James 4:14
+A: Whereas ye know not what shall be on the morrow. For what is your life? It is even a vapour, that appeareth for a little time, and then vanisheth away.
+
 C:
 I will give you a new heart and put a new spirit in you; I will remove from you your heart of stone and give you a heart of flesh.
 
 — [Ezekiel] [36]:[26]
+
+Q: Ezekiel 36:26
+A: I will give you a new heart and put a new spirit in you; I will remove from you your heart of stone and give you a heart of flesh.
 
 C:
 He that believeth on me, as the scripture hath said, out of his belly shall flow rivers of living water.
 
 — [John] [7]:[38]
 
+Q: John 7:38
+A: He that believeth on me, as the scripture hath said, out of his belly shall flow rivers of living water.
+
 C:
 [For God shall bring every work into judgment], [with every secret thing], [whether it be good], [or whether it be evil].
 
 — [Ecclesiastes] [12]:[14]
+
+Q: Ecclesiastes 12:14
+A: For God shall bring every work into judgment, with every secret thing, whether it be good, or whether it be evil.
 
 C:
 [O remember that my life is wind.]
 
 — [Job] [7]:[7]
 
+Q: Job 7:7
+A: O remember that my life is wind.
+
 C:
 [The Lord knoweth the thoughts of man, that they are vanity.]
 
 — [Psalm] [94]:[11]
+
+Q: Psalm 94:11
+A: The Lord knoweth the thoughts of man, that they are vanity.
