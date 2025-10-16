@@ -172,3 +172,38 @@ C:
 [Dari mana?]
 
 [From where?]
+
+C:
+Mobil kami sudah menunggu di luar.
+
+[Our car is already waiting outside.]
+
+C:
+[Mobil] kami [sudah] [menunggu] [di luar].
+
+Our car is already waiting outside.
+
+C:
+He is waiting.
+
+[Dia sedang menunggu.]
+
+C:
+He is [waiting].
+
+[Dia] [sedang] [menunggu].
+
+C:
+She is waiting outside.
+
+[Dia sedang menunggu di luar.]
+
+C:
+[Is this your luggage?]
+
+[Apakah ini kopor-kopor anda?]
+
+C:
+[Is this] [your] [luggage]?
+
+[Apakah ini] [kopor-kopor] [anda]?

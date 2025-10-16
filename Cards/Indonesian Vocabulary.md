@@ -227,3 +227,13 @@ C:
 Indonesian: [punya]
 
 English: [to have]
+
+C:
+Indonesian: [di luar]
+
+English: [outside]
+
+C:
+Indonesian: [teman]
+
+English: [friend]
