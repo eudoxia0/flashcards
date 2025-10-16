@@ -18,6 +18,9 @@ A: Guelph
 Q: What faction did Dante belong to in the Guelph-Ghibelline controversy?
 A: He was a Guelph.
 
+Q: Dante was what kind of Guelph?
+A: White Guelph.
+
 C: In the Guelph-Ghibelline controversy, the [Guelphs] supported the [Pope].
 
 C: In the Guelph-Ghibelline controversy, the [Ghibellines] supported the [Holy Roman Emperor].
