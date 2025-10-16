@@ -29,7 +29,7 @@ C: If $x \to y$, then $x$ is called a [direct ancestor] of $x$.
 
 C: If $x \stackrel{+}{\rightarrow} y$, then $y$ is called a [successor] of $x$.
 
-C: If $x \stackrel{+}{\rightarrow} y$, then $x$ is called an [ancestor] of $x$.
+C: If $x \stackrel{+}{\rightarrow} y$, then $x$ is called an [ancestor] of $y$.
 
 C: $x$ and $y$ are called [joinable] iff [there exists a $z$ such that $x \stackrel{+}{\rightarrow} z$ and $y \stackrel{+}{\rightarrow} z$].
 
