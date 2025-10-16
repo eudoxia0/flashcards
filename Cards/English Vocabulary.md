@@ -144,3 +144,6 @@ A: (of clothing) worn out
 
 Q: panentheism
 A: The idea that God is everywhere, but also transcends the material universe.
+
+Q: bête noire
+A: Literally “black beast”; figuratively, an object of aversion.
