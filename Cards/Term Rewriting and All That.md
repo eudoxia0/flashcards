@@ -23,6 +23,18 @@ A: $x$ has a unique normal form.
 
 C: The notation [$x \downarrow$] means that $x$ [has a unique normal form].
 
+Q: Express "$x$ is an ancestor of $y$" symbolically.
+A: $x \stackrel{\*}{\to} y$
+
+Q: Express "$x$ is a direct ancestor of $y$" symbolically.
+A: $x \to y$
+
+Q: Express "$y$ is a successor of $x$" symbolically.
+A: $x \stackrel{\*}{\to} y$
+
+Q: Express "$y$ is a direct successor of $x$" symbolically.
+A: $x \to y$
+
 C: $x$ and $y$ are called [joinable] iff [there exists a $z$ such that $x \stackrel{+}{\rightarrow} z$ and $y \stackrel{+}{\rightarrow} z$].
 
 C: Let $x$ and $y$ be terms. The notation [$x \downarrow y$] means that $x$ and $y$ are [joinable].
