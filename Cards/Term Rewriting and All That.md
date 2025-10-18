@@ -23,14 +23,6 @@ A: $x$ has a unique normal form.
 
 C: The notation [$x \downarrow$] means that $x$ [has a unique normal form].
 
-C: If $x \to y$, then $y$ is called a [direct successor] of $x$.
-
-C: If $x \to y$, then $x$ is called a [direct ancestor] of $x$.
-
-C: If $x \stackrel{+}{\rightarrow} y$, then $y$ is called a [successor] of $x$.
-
-C: If $x \stackrel{+}{\rightarrow} y$, then $x$ is called an [ancestor] of $y$.
-
 C: $x$ and $y$ are called [joinable] iff [there exists a $z$ such that $x \stackrel{+}{\rightarrow} z$ and $y \stackrel{+}{\rightarrow} z$].
 
 C: Let $x$ and $y$ be terms. The notation [$x \downarrow y$] means that $x$ and $y$ are [joinable].
