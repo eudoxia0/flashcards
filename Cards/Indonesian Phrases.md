@@ -206,4 +206,4 @@ C:
 C:
 [Is this] [your] [luggage]?
 
-[Apakah ini] [kopor-kopor] [anda]?
+[Apakah] [ini] [kopor-kopor] [anda]?
