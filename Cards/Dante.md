@@ -24,3 +24,6 @@ A: White Guelph.
 C: In the Guelph-Ghibelline controversy, the [Guelphs] supported the [Pope].
 
 C: In the Guelph-Ghibelline controversy, the [Ghibellines] supported the [Holy Roman Emperor].
+
+Q: What are the three books of the Divine Comedy?
+A: Inferno, Purgatorio, Paradiso.
