@@ -19,12 +19,30 @@ $$
 Q: When is a collection of sets said to be "pairwise disjoint"?
 A: Where every pair of sets in the collection is disjoint.
 
-Q: Evaluate: $0!$
-A: $1$
-
 Q: Define the factorial function symbolically.
 
 $$\text{Fact}(n) = \ldots$$
 A: $$\text{Fact}(n) = n \times \text{Fact}(n-1)$$
+
+Q: Express $n!$ using product notation.
+A: $$\prod\limits_{i=1}^n i$$
+
+Q: Evaluate: $0!$
+A: $1$
+
+Q: Evaluate: $1!$
+A: $1$
+
+Q: Evaluate: $2!$
+A: $2$
+
+Q: Evaluate: $3!$
+A: $6$
+
+Q: Evaluate: $4!$
+A: $24$
+
+Q: Evaluate: $5!$
+A: $120$
 
 C: The $n$th triangular number is [the number of dots in an equilateral triangle with $n$ dots per side].
