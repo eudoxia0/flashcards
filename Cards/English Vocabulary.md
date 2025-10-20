@@ -150,3 +150,6 @@ A: Literally “black beast”; figuratively, an object of aversion.
 
 Q: antinomian
 A: Rejecting laws and moral codes.
+
+Q: voir dire
+A: A preliminary examination of a juror or witness.
