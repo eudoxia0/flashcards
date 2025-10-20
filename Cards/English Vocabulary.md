@@ -153,3 +153,6 @@ A: Rejecting laws and moral codes.
 
 Q: voir dire
 A: A preliminary examination of a juror or witness.
+
+Q: Barangay
+A: The smallest administrative division of the Philippines.
