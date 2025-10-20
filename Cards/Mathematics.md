@@ -61,7 +61,7 @@ $$
 
 A:
 $$
-\binom{n}{k} = \frac{n!}{k!(n-k)!}
+\binom{n}{k} = \frac{\fact{n}}{\fact{k}\fact{n-k}}
 $$
 
 Q: What is the combinatorial meaning of $\binom{n}{k}$?
