@@ -21,8 +21,8 @@ A: Where every pair of sets in the collection is disjoint.
 
 Q: Define the factorial function symbolically.
 
-$$\text{Fact}(n) = \ldots$$
-A: $$\text{Fact}(n) = n \times \text{Fact}(n-1)$$
+$$\fact{n} = \ldots$$
+A: $$\fact{n} = n \times \fact{n-1}$$
 
 Q: Express $n!$ using product notation.
 A: $$\prod\limits_{i=1}^n i$$
