@@ -82,3 +82,7 @@ Q: Define the predicate $\text{Composite} : \N \to \text{Bool}$ symbolically.
 $$\text{Composite}(n) = \ldots$$
 
 A: $$\text{Composite}(n) = \exists a,b \in \Z^+ . 1 \lt a \lt n, 1 \lt b \lt n, ab = n$$
+
+C: Term: [highly composite number]
+
+Definition: [A positive integer that has more divisors than any smaller positive integer.]
