@@ -18,3 +18,13 @@ $$
 
 Q: When is a collection of sets said to be "pairwise disjoint"?
 A: Where every pair of sets in the collection is disjoint.
+
+Q: Evaluate: $0!$
+A: $1$
+
+Q: Define the factorial function symbolically.
+
+$$\text{Fact}(n) = \ldots$$
+A: $$\text{Fact}(n) = n \times \text{Fact}(n-1)$$
+
+C: The $n$th triangular number is [the number of dots in an equilateral triangle with $n$ dots per side].
