@@ -87,5 +87,5 @@ C: Term: [highly composite number]
 
 Definition: [A positive integer that has more divisors than any smaller positive integer.]
 
-Q: How do you read $m \divides n$?
+Q: How do you read $m \mid n$?
 A: "$m$ divides $n$"
