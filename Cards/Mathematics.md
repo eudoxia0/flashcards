@@ -65,5 +65,4 @@ $$
 $$
 
 Q: What is the combinatorial meaning of $\binom{n}{k}$?
-
 A: From a set of size $n$, we can chose $\binom{n}{k}$ sets of size $k$.
