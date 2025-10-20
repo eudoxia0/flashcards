@@ -66,3 +66,19 @@ $$
 
 Q: What is the combinatorial meaning of $\binom{n}{k}$?
 A: From a set of size $n$, we can chose $\binom{n}{k}$ sets of size $k$.
+
+C: The dual of the prime numbers are the [composite] numbers.
+
+C: The dual of the composite numbers are the [prime] numbers.
+
+C: Every positive integer is either [prime], [composite], or [one].
+
+C: Term: [composite number]
+
+Definition: [A positive integer that is the product of two smaller positive integers.]
+
+Q: Define the predicate $\text{Composite} : \N \to \text{Bool}$ symbolically.
+
+$$\text{Composite}(n) = \ldots$$
+
+A: $$\text{Composite}(n) = \exists a,b \in \Z^+ . 1 \lt a \lt n, 1 \lt b \lt n, ab = n$$
