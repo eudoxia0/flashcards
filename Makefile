@@ -46,7 +46,7 @@ check:
 
 .PHONY: drill
 drill:
-	hashcards drill Cards --card-limit=10
+	hashcards drill Cards
 
 .PHONY: stats
 stats:
