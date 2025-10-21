@@ -156,3 +156,6 @@ A: A preliminary examination of a juror or witness.
 
 Q: Barangay
 A: The smallest administrative division of the Philippines.
+
+Q: glyptic art
+A: The art of carving small gemstones.
