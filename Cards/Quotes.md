@@ -101,7 +101,7 @@ For us humanity was a distant goal toward which all men were moving, whose image
 C:
 The whole of the developments and operations of analysis are now capable of being executed by machinery.
 
-— [Charles Babbage], [Passages from the Life of a Philosopher]
+— [Charles Babbage], [_Passages from the Life of a Philosopher_]
 
 C:
 I am apt to think, if we knew what it was to be an angel for one hour, we should return to this world, though it were to sit on the brightest throne in it, with vastly more loathing and reluctance than we would now descend into a loathsome dungeon or sepulchre.
