@@ -6,7 +6,7 @@ with open(sys.argv[1], "r") as istream:
         for line in istream:
             line: str = line.strip()
 
-            if line == "":
+            if line == "" or line.startswith("%"):
                 continue
 
             if first:
