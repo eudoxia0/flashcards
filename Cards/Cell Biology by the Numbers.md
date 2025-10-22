@@ -18,3 +18,12 @@ C: The SI unit for an amount of substance is the [mole].
 
 Q: What is the name for this unit? $$\text{mol}^{-1}$$
 A: Reciprocal moles.
+
+Q: What does ssDNA stand for?
+A: Single-stranded DNA.
+
+Q: What does dsDNA stand for?
+A: Double-stranded DNA.
+
+Q: _E. coli_, approximate diameter.
+A: $$ \approx 1 \micron $$
