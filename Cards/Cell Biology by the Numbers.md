@@ -49,3 +49,8 @@ C:
 Term: [diploid cell]
 
 Definition: [A cell that has two copies of each chromosome.]
+
+C:
+Term: [ploidy]
+
+Definition: [The number of copies of each chromosome in a cell.]
