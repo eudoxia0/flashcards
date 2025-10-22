@@ -162,3 +162,6 @@ A: The art of carving small gemstones.
 
 Q: cynosure
 A: A focal point of attention and admiration.
+
+Q: spavined
+A: Lame, old, worn-out.
