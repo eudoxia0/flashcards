@@ -12,9 +12,13 @@ PERSIAN_PY     := Scripts/persian.py
 POW            := Cards/Powers\ of\ Two.md
 POW_PY         := Scripts/pow2.py
 PY             := python3
-TARGETS        := $(AWS) $(ENG) $(INDO_VOCAB) $(NATO) $(PERSIAN) $(POW) $(STATS) README.md
-VOCAB_PY       := Scripts/vocab.py
 STATS          := stats.json
+TEX_OUT        := Cards/TeX.md
+TEX_PY         := Scripts/tex.py
+TEX_SRC        := Sources/expr.tex
+VOCAB_PY       := Scripts/vocab.py
+
+TARGETS        := $(AWS) $(ENG) $(INDO_VOCAB) $(NATO) $(PERSIAN) $(POW) $(STATS) $(TEX_OUT) README.md
 
 .PHONY: all
 all: $(TARGETS)
@@ -39,6 +43,9 @@ $(POW): $(POW_PY)
 
 $(STATS): Cards/**.md
 	hashcards stats Cards --format=json > $(STATS)
+
+$(TEX_OUT): $(TEX_PY) $(TEX_SRC)
+	$(PY) $(TEX_PY) $(TEX_SRC) $(TEX_OUT)
 
 README.md: stats.json Sources/README.tmpl.md
 	CARDS_IN_DECK=$$(hashcards stats Cards --format=json | jq -r .cardsInDeckCount); \
