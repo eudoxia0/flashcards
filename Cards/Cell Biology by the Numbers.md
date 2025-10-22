@@ -33,3 +33,9 @@ A: $$ \approx 2 \micron $$
 
 Q: _E. coli_, approximate volume.
 A: $$ \approx 1 \micron^3 $$
+
+C: An _E. coli_ bacterium is shaped like a [spherocylinder].
+
+C: Term: [spherocylinder]
+
+Definition: [A cylinder capped with a hemisphere at both ends.]
