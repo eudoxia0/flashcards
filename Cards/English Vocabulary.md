@@ -159,3 +159,6 @@ A: The smallest administrative division of the Philippines.
 
 Q: glyptic art
 A: The art of carving small gemstones.
+
+Q: cynosure
+A: A focal point of attention and admiration.
