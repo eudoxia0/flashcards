@@ -27,3 +27,9 @@ A: Double-stranded DNA.
 
 Q: _E. coli_, approximate diameter.
 A: $$ \approx 1 \micron $$
+
+Q: _E. coli_, approximate length.
+A: $$ \approx 2 \micron $$
+
+Q: _E. coli_, approximate volume.
+A: $$ \approx 1 \micron^3 $$
