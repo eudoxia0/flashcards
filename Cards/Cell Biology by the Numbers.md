@@ -39,3 +39,13 @@ C: An _E. coli_ bacterium is shaped like a [spherocylinder].
 C: Term: [spherocylinder]
 
 Definition: [A cylinder capped with a hemisphere at both ends.]
+
+C:
+Term: [haploid cell]
+
+Definition: [A cell that has one copy of each chromosome.]
+
+C:
+Term: [diploid cell]
+
+Definition: [A cell that has two copies of each chromosome.]
