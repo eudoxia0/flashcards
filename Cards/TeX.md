@@ -212,3 +212,8 @@ C:
 TeX: [`\partial`]
 
 Result: [$\partial$]
+
+C:
+TeX: [`\emptyset`]
+
+Result: [$\emptyset$]
