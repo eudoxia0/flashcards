@@ -40,8 +40,8 @@ $(POW): $(POW_PY)
 $(STATS): Cards/**.md
 	hashcards stats Cards --format=json > $(STATS)
 
-README.md: stats.json README.tmpl.md
-	sed "s/CARDS_IN_DECK/$$(hashcards stats Cards --format=json | jq -r .cardsInDeckCount)/" README.tmpl.md > README.md
+README.md: stats.json Sources/README.tmpl.md
+	sed "s/CARDS_IN_DECK/$$(hashcards stats Cards --format=json | jq -r .cardsInDeckCount)/" Sources/README.tmpl.md > README.md
 
 .PHONY: check
 check:
