@@ -9,13 +9,13 @@ jobs:
         uses: actions/checkout@v5
 
       - name: clone hashcards repo locally
-        run: git clone https://github.com/eudoxia0/hashcards.git
+        run: git clone https://github.com/eudoxia0/hashcards.git /opt/hashcards
 
       - name: install hashcards
         run: |
           make
           sudo make install
-        working-directory: ./hashcards
+        working-directory: /opt/hashcards
 
       - run: make
 
