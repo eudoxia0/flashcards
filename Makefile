@@ -12,8 +12,9 @@ PERSIAN_PY     := Scripts/persian.py
 POW            := Cards/Powers\ of\ Two.md
 POW_PY         := Scripts/pow2.py
 PY             := python3
-TARGETS        := $(AWS) $(ENG) $(INDO_VOCAB) $(NATO) $(PERSIAN) $(POW)
+TARGETS        := $(AWS) $(ENG) $(INDO_VOCAB) $(NATO) $(PERSIAN) $(POW) $(STATS) README.md
 VOCAB_PY       := Scripts/vocab.py
+STATS          := stats.json
 
 .PHONY: all
 all: $(TARGETS)
@@ -36,9 +37,11 @@ $(PERSIAN): $(PERSIAN_PY)
 $(POW): $(POW_PY)
 	$(PY) $(POW_PY) > $(POW)
 
-.PHONY: clean
-clean:
-	rm -f $(TARGETS)
+$(STATS): Cards/**.md
+	hashcards stats Cards --format=json > $(STATS)
+
+README.md: stats.json README.tmpl.md
+	sed "s/CARDS_IN_DECK/$$(hashcards stats Cards --format=json | jq -r .cardsInDeckCount)/" README.tmpl.md > README.md
 
 .PHONY: check
 check:
@@ -51,3 +54,7 @@ drill:
 .PHONY: stats
 stats:
 	hashcards stats Cards --format=json
+
+.PHONY: clean
+clean:
+	rm -f $(TARGETS)

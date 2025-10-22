@@ -8,4 +8,4 @@ My collection of flashcards, using [hashcards].
 
 ## Stats
 
-- Number of cards in the deck: 991
+- Number of cards in the deck: CARDS_IN_DECK
