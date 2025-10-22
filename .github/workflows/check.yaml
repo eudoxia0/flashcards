@@ -2,12 +2,20 @@ name: check
 on: push
 
 jobs:
-  # Ensure make output is up to date.
-  make:
+  check:
     runs-on: ubuntu-latest
     steps:
       - name: checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
+
+      - name: clone hashcards repo locally
+        run: git clone https://github.com/eudoxia0/hashcards.git
+
+      - name: install hashcards
+        run: |
+          make
+          sudo make install
+        working-directory: ./hashcards
 
       - run: make
 
@@ -24,22 +32,5 @@ jobs:
             echo "Success: All generated files are up to date."
           fi
 
-      - run: make clean
-
-  # Check card integrity.
-  check:
-    runs-on: ubuntu-latest
-    steps:
-      - name: checkout
-        uses: actions/checkout@v4
-
-      - name: clone hashcards repo locally
-        run: git clone https://github.com/eudoxia0/hashcards.git
-
-      - name: install hashcards
-        run: |
-          make
-          sudo make install
-        working-directory: ./hashcards
-
-      - run: make check
+      - name: check card integrity
+        run: make check
