@@ -60,3 +60,13 @@ C:
 Term: [coloboma of the iris]
 
 Definition: [A defect of the eye where the iris is shaped like a keyhole.]
+
+C:
+Term: [infarction]
+
+Definition: [Tissue death caused by loss of blood supply.]
+
+C:
+Term: [infarct]
+
+Definition: [A lesion resulting from an infarction.]
