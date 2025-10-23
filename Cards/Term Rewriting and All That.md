@@ -45,14 +45,29 @@ A: If $x \stackrel{+}{\to} y_1$ and $x \stackrel{+}{\to} y_2$, then $y_1 \downar
 Q: Define confluence in plain language.
 A: If two terms have a common (possibly indirect) ancestor, they are joinable.
 
-Q: Let $R$ be a relation. Define $\text{Confluent}(R)$ symbolically.
-
+Q:
 $$
 \text{Confluent}(R) \iff \ldots
 $$
+A:
+$$
+\text{Confluent}(R) \iff \left(
+y_1 \stackrel{\*}{\leftarrow} x \stackrel{\*}{\rightarrow} y_2
+\implies
+y_1 \downarrow y_2
+\right)
+$$
+
+Q:
+$$
+\ldots \iff \left(
+y_1 \stackrel{\*}{\leftarrow} x \stackrel{\*}{\rightarrow} y_2
+\implies
+y_1 \downarrow y_2
+\right)
+$$
 
 A:
-
 $$
 \text{Confluent}(R) \iff \left(
 y_1 \stackrel{\*}{\leftarrow} x \stackrel{\*}{\rightarrow} y_2
