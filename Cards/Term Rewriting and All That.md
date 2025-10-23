@@ -89,10 +89,7 @@ $$
 
 A:
 $$
-\text{ChurchRosser}(R) \iff
-\left(
-  x \conv y \implies x \downarrow y
-\right)
+\text{ChurchRosser}(R) \iff \left( x \conv y \implies x \downarrow y \right)
 $$
 
 Q: Define the identity relation $R^0$ on a set $A$.
