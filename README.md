@@ -10,15 +10,8 @@ My collection of flashcards, using [hashcards].
 
 - Number of cards in the deck: 1083
 
-## Structure
-
-- `Cards`: the actual flashcards.
-- `Inbox`: decks that are not ready to be learned yet, WIP.
-- `Scripts`: scripts to generate flashcards from data sources.
-- `Sources`: data sources to generate flashcards.
-
 ## License
 
-© 2025 [Fernando Borretti](https://borretti.me/)
+© 2025 by [Fernando Borretti](https://borretti.me/)
 
 Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
