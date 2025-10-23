@@ -9,7 +9,7 @@ A: ~80 billion.
 Q: Why do antidepressants take time to work?
 A: Because the therapeutic benefit is caused by long-term brain adaptation to the change in neurotransmitter activity.
 
-Q: How many sorotonergic neurons are there in the human brain?
+Q: How many serotonergic neurons are there in the human brain?
 A: ~200,000
 
 Q: How do SSRIs work?
