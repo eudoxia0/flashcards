@@ -112,3 +112,9 @@ $$
   x \stackrel{*}{\leftrightarrow} y \implies x \downarrow y
 \right)
 $$
+
+Q: Define the identity relation $R^0$ on a set $A$.
+A: $$ R^0 = \set{(x,x) \mid x \in A} $$
+
+Q: Rewrite $x \starpath y$ in Prolog notation.
+A: $$ R^{\*}(x,y) $$
