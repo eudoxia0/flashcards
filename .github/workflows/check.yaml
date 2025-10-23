@@ -21,10 +21,10 @@ jobs:
 
       - name: check for uncommitted changes
         run: |
-          if [[ -n $(git status --porcelain Cards) ]]; then
+          if [[ -n $(git status --porcelain) ]]; then
             echo "Error: Generated files are out of date!"
             echo "The following files have changes:"
-            git status --porcelain Cards
+            git status --porcelain
             echo ""
             echo "Please run 'make' locally and commit the updated files."
             exit 1
