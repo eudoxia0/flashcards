@@ -4,10 +4,6 @@
 
 My collection of flashcards, using [hashcards].
 
-## Stats
-
-- Number of cards in the deck: 1131
-
 ## Structure
 
 - `Cards`: the actual flashcards.

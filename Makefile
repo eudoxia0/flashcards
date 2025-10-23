@@ -18,7 +18,7 @@ TEX_PY         := Scripts/tex.py
 TEX_SRC        := Sources/expr.tex
 VOCAB_PY       := Scripts/vocab.py
 
-TARGETS        := $(AWS) $(ENG) $(INDO_VOCAB) $(NATO) $(PERSIAN) $(POW) $(STATS) $(TEX_OUT) README.md
+TARGETS        := $(AWS) $(ENG) $(INDO_VOCAB) $(NATO) $(PERSIAN) $(POW) $(STATS) $(TEX_OUT)
 
 .PHONY: all
 all: $(TARGETS)
@@ -46,10 +46,6 @@ $(STATS): Cards/**.md
 
 $(TEX_OUT): $(TEX_PY) $(TEX_SRC)
 	$(PY) $(TEX_PY) $(TEX_SRC) $(TEX_OUT)
-
-README.md: stats.json Sources/README.tmpl.md
-	CARDS_IN_DECK=$$(hashcards stats Cards --format=json | jq -r .cardsInDeckCount); \
-	sed "s/CARDS_IN_DECK/$$CARDS_IN_DECK/" Sources/README.tmpl.md > README.md
 
 .PHONY: check
 check:
