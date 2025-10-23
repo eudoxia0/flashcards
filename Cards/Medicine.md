@@ -70,3 +70,13 @@ C:
 Term: [infarct]
 
 Definition: [A lesion resulting from an infarction.]
+
+C:
+Term: [embolus]
+
+Definition: [A clot that travels through circulation, becomes lodged in a blood vessel, and impedes block flood.]
+
+C:
+Term: [thrombus]
+
+Definition: [A blood clot that forms _in situ_ and impedes blood flow.]
