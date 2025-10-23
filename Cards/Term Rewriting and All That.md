@@ -70,27 +70,10 @@ Term: [convergent rewrite system]
 
 Definition: [A rewrite system that is both terminating and confluent.]
 
-C: A relation is called [Church-Rosser] iff [$x \conv y \implies x \downarrow y$].
-
-Q:
-$$
-\text{ChurchRosser}(R) \iff \ldots
-$$
-
-A:
-$$
-\text{ChurchRosser}(R) \iff \left( x \conv y \implies x \downarrow y \right)
-$$
-
-Q:
-$$
-\ldots \iff \left( x \conv y \implies x \downarrow y \right)
-$$
-
-A:
-$$
-\text{ChurchRosser}(R) \iff \left( x \conv y \implies x \downarrow y \right)
-$$
+C:
+[$\text{ChurchRosser}(R)$]
+$\iff$
+[$\left( x \conv y \implies x \downarrow y \right)$]
 
 Q: Define the identity relation $R^0$ on a set $A$.
 A: $$ R^0 = \set{(x,x) \mid x \in A} $$
