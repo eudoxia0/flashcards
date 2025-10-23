@@ -45,25 +45,10 @@ A: If $x \stackrel{+}{\to} y_1$ and $x \stackrel{+}{\to} y_2$, then $y_1 \downar
 Q: Define confluence in plain language.
 A: If two terms have a common (possibly indirect) ancestor, they are joinable.
 
-Q:
-$$
-\text{Confluent}(R) \iff \ldots
-$$
-
-A:
-$$
-\text{Confluent}(R) \iff \left( y_1 \lstarpath x \starpath y_2 \implies y_1 \downarrow y_2 \right)
-$$
-
-Q:
-$$
-\ldots \iff \left( y_1 \lstarpath x \starpath y_2 \implies y_1 \downarrow y_2 \right)
-$$
-
-A:
-$$
-\text{Confluent}(R) \iff \left( y_1 \lstarpath x \starpath y_2 \implies y_1 \downarrow y_2 \right)
-$$
+C:
+[$\text{Confluent}(R)$]
+$\iff$
+[$\left( y_1 \lstarpath x \starpath y_2 \implies y_1 \downarrow y_2 \right)$]
 
 C:
 Term: [convergent rewrite system]
