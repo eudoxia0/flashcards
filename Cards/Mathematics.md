@@ -25,7 +25,7 @@ $$\fact{n} = \ldots$$
 A: $$\fact{n} = n \times \fact{n-1}$$
 
 Q: Express $n!$ using product notation.
-A: $$\prod\limits_{i=1}^n i$$
+A: $$n! = \prod\limits_{i=1}^n i$$
 
 Q: Evaluate: $0!$
 A: $1$
