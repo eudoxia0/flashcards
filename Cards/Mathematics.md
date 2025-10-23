@@ -85,7 +85,7 @@ A: $$\text{Composite}(n) = \exists a,b \in \Z^+ . 1 \lt a \lt n, 1 \lt b \lt n, 
 
 C: Term: [highly composite number]
 
-Definition: [A positive integer that has more divisors than any smaller positive integer.]
+Definition: [A positive integer that has more factors than any smaller positive integer.]
 
 Q: How do you read $m \mid n$?
 A: "$m$ divides $n$"
