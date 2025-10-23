@@ -4,8 +4,6 @@
 
 My collection of flashcards, using [hashcards].
 
-[hashcards]: https://github.com/eudoxia0/hashcards
-
 ## Stats
 
 - Number of cards in the deck: 1083
@@ -19,6 +17,8 @@ My collection of flashcards, using [hashcards].
 
 ## License
 
-© 2025 by [Fernando Borretti](https://borretti.me/)
+© 2025 by [Fernando Borretti][fb]. Licensed under [CC BY 4.0][cc].
 
-Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+[hashcards]: https://github.com/eudoxia0/hashcards
+[fb]: https://borretti.me/
+[cc]: https://creativecommons.org/licenses/by/4.0/
