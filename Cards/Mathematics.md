@@ -96,5 +96,5 @@ $$m \mid n = \ldots$$
 
 A:
 $$
-m \mid n = \exists k \in \Z . n = km
+m \mid n = \exists k \in \Z . mk = n
 $$
