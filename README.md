@@ -12,6 +12,7 @@ My collection of flashcards, using [hashcards].
 
 - `Cards`: the actual flashcards.
 - `Inbox`: decks that are not ready to be learned yet, WIP.
+- `Private`: unpublished decks.
 - `Scripts`: scripts to generate flashcards from data sources.
 - `Sources`: data sources to generate flashcards.
 
