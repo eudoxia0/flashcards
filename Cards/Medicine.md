@@ -50,3 +50,13 @@ A: Neurotrophic keratitis.
 C: Oxycodone is primarily metabolized by cytochrome [3A4].
 
 C: [Endone] is the Australian trade name of [oxycodone].
+
+C:
+Term: [prodromal]
+
+Definition: [The phase of disease before the onset of symptoms.]
+
+C:
+Term: [coloboma of the iris]
+
+Definition: [A defect of the eye where the iris is shaped like a keyhole.]
