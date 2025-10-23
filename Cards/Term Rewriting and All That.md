@@ -24,13 +24,13 @@ A: $x$ has a unique normal form.
 C: The notation [$x \downarrow$] means that $x$ [has a unique normal form].
 
 Q: Express "$x$ is an ancestor of $y$" symbolically.
-A: $x \stackrel{\*}{\to} y$
+A: $x \starpath y$
 
 Q: Express "$x$ is a direct ancestor of $y$" symbolically.
 A: $x \to y$
 
 Q: Express "$y$ is a successor of $x$" symbolically.
-A: $x \stackrel{\*}{\to} y$
+A: $x \starpath y$
 
 Q: Express "$y$ is a direct successor of $x$" symbolically.
 A: $x \to y$
@@ -52,29 +52,17 @@ $$
 
 A:
 $$
-\text{Confluent}(R) \iff \left(
-y_1 \stackrel{\*}{\leftarrow} x \stackrel{\*}{\rightarrow} y_2
-\implies
-y_1 \downarrow y_2
-\right)
+\text{Confluent}(R) \iff \left( y_1 \lstarpath x \rstarpath y_2 \implies y_1 \downarrow y_2 \right)
 $$
 
 Q:
 $$
-\ldots \iff \left(
-y_1 \stackrel{\*}{\leftarrow} x \stackrel{\*}{\rightarrow} y_2
-\implies
-y_1 \downarrow y_2
-\right)
+\ldots \iff \left( y_1 \lstarpath x \rstarpath y_2 \implies y_1 \downarrow y_2 \right)
 $$
 
 A:
 $$
-\text{Confluent}(R) \iff \left(
-y_1 \stackrel{\*}{\leftarrow} x \stackrel{\*}{\rightarrow} y_2
-\implies
-y_1 \downarrow y_2
-\right)
+\text{Confluent}(R) \iff \left( y_1 \lstarpath x \rstarpath y_2 \implies y_1 \downarrow y_2 \right)
 $$
 
 C:
@@ -82,7 +70,7 @@ Term: [convergent rewrite system]
 
 Definition: [A rewrite system that is both terminating and confluent.]
 
-C: A relation is called [Church-Rosser] iff [$x \stackrel{\*}{\leftrightarrow} y \implies x \downarrow y$].
+C: A relation is called [Church-Rosser] iff [$x \conv y \implies x \downarrow y$].
 
 Q:
 $$
@@ -93,7 +81,7 @@ A:
 $$
 \text{ChurchRosser}(R) \iff
 \left(
-  x \stackrel{*}{\leftrightarrow} y \implies x \downarrow y
+  x \conv y \implies x \downarrow y
 \right)
 $$
 
@@ -101,7 +89,7 @@ Q:
 $$
 \ldots \iff
 \left(
-  x \stackrel{*}{\leftrightarrow} y \implies x \downarrow y
+  x \conv y \implies x \downarrow y
 \right)
 $$
 
@@ -109,7 +97,7 @@ A:
 $$
 \text{ChurchRosser}(R) \iff
 \left(
-  x \stackrel{*}{\leftrightarrow} y \implies x \downarrow y
+  x \conv y \implies x \downarrow y
 \right)
 $$
 
