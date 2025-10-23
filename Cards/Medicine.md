@@ -80,3 +80,13 @@ C:
 Term: [thrombus]
 
 Definition: [A blood clot that forms _in situ_ and impedes blood flow.]
+
+C:
+Term: [orthopantomogram]
+
+Definition: [A panoramic dental x-ray.]
+
+C:
+Term: [pericoronitis]
+
+Definition: [Infection of the gum around a partially erupted wisdom tooth.]
