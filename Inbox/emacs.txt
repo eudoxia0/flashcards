@@ -1,0 +1,14 @@
+M-f, forward word
+M-b, back word
+M-a, go to start of sentence
+M-e, go to end of sentence
+M-<backspace>, kill previous word
+M-d, kill next word
+C-w, cut
+M-w, copy
+C-y, paste
+M-y, paste from kill ring
+C-x C-b, list buffers
+C-x C-c, quit emacs
+C-h x, get help on a command
+C-h k, get help on a key
