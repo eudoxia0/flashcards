@@ -165,6 +165,3 @@ A: A focal point of attention and admiration.
 
 Q: spavined
 A: Lame, old, worn-out.
-
-Q: bawn
-A: A meadow.
