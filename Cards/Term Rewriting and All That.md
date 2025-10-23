@@ -49,6 +49,7 @@ Q:
 $$
 \text{Confluent}(R) \iff \ldots
 $$
+
 A:
 $$
 \text{Confluent}(R) \iff \left(
@@ -83,14 +84,28 @@ Definition: [A rewrite system that is both terminating and confluent.]
 
 C: A relation is called [Church-Rosser] iff [$x \stackrel{\*}{\leftrightarrow} y \implies x \downarrow y$].
 
-Q: Let $R$ be a relation. Define $\text{ChurchRosser}(R)$ symbolically.
-
+Q:
 $$
 \text{ChurchRosser}(R) \iff \ldots
 $$
 
 A:
+$$
+\text{ChurchRosser}(R) \iff
+\left(
+  x \stackrel{*}{\leftrightarrow} y \implies x \downarrow y
+\right)
+$$
 
+Q:
+$$
+\ldots \iff
+\left(
+  x \stackrel{*}{\leftrightarrow} y \implies x \downarrow y
+\right)
+$$
+
+A:
 $$
 \text{ChurchRosser}(R) \iff
 \left(
