@@ -52,17 +52,17 @@ $$
 
 A:
 $$
-\text{Confluent}(R) \iff \left( y_1 \lstarpath x \rstarpath y_2 \implies y_1 \downarrow y_2 \right)
+\text{Confluent}(R) \iff \left( y_1 \lstarpath x \starpath y_2 \implies y_1 \downarrow y_2 \right)
 $$
 
 Q:
 $$
-\ldots \iff \left( y_1 \lstarpath x \rstarpath y_2 \implies y_1 \downarrow y_2 \right)
+\ldots \iff \left( y_1 \lstarpath x \starpath y_2 \implies y_1 \downarrow y_2 \right)
 $$
 
 A:
 $$
-\text{Confluent}(R) \iff \left( y_1 \lstarpath x \rstarpath y_2 \implies y_1 \downarrow y_2 \right)
+\text{Confluent}(R) \iff \left( y_1 \lstarpath x \starpath y_2 \implies y_1 \downarrow y_2 \right)
 $$
 
 C:
@@ -79,18 +79,12 @@ $$
 
 A:
 $$
-\text{ChurchRosser}(R) \iff
-\left(
-  x \conv y \implies x \downarrow y
-\right)
+\text{ChurchRosser}(R) \iff \left( x \conv y \implies x \downarrow y \right)
 $$
 
 Q:
 $$
-\ldots \iff
-\left(
-  x \conv y \implies x \downarrow y
-\right)
+\ldots \iff \left( x \conv y \implies x \downarrow y \right)
 $$
 
 A:
@@ -106,3 +100,11 @@ A: $$ R^0 = \set{(x,x) \mid x \in A} $$
 
 Q: Rewrite $x \starpath y$ in Prolog notation.
 A: $$ R^{\*}(x,y) $$
+
+Q: How do you read $x \conv y$?
+A: "$x$ and $y$ are convertible"
+
+C:
+Term: [normalizing rewrite system]
+
+Definition: [A rewrite system where every element has a normal form.]
