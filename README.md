@@ -6,7 +6,7 @@ My collection of flashcards, using [hashcards].
 
 ## Stats
 
-- Number of cards in the deck: 1097
+- Number of cards in the deck: 1098
 
 ## Structure
 
