@@ -9,3 +9,9 @@ My collection of flashcards, using [hashcards].
 ## Stats
 
 - Number of cards in the deck: 1083
+
+## License
+
+© 2025 [Fernando Borretti](https://borretti.me/)
+
+Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
