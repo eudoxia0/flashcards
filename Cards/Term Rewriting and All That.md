@@ -72,7 +72,7 @@ A: "$x$ and $y$ are convertible"
 C:
 Term: [normalizing rewrite system]
 
-Definition: [A rewrite system where every element has a normal form.]
+Definition: [A rewrite system where every element has at least one normal form.]
 
 C:
 [$\text{SemiConfluent}(R)$]
@@ -88,3 +88,7 @@ A: Let $\text{Confluent}(R)$ and pick a term $x$. There are two possibilities.
 One, $x$ has zero or one normal form, which satisfies the theorem.
 
 Two, $x$ has more than one normal form. Pick at least two normal forms $y$ and $z$. We know $x \starpath y$ and $x \starpath z$, thus $y \conv z$ and by confluence, $y \downarrow z$, which means they can't be normal forms. Contradiction.
+
+Q: Give a proof sketch of the following theorem: if a relation $R$ is normalizing and confluent, then every element has a unique normal form.
+
+A: If $R$ is normalizing then every element must have at least one normal form, and we know that under confluence, multiple normal forms lead to a contradiction. Therefore, $x!$ is unique.
