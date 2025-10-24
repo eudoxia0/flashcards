@@ -6,11 +6,6 @@ Term: [normal form]
 
 Definition: [An expression for which no more rules apply.]
 
-C:
-Term: [confluence]
-
-Definition: [A property of a rewrite system where, if $x \stackrel{+}{\to} y_1$ and $x \stackrel{+}{\to} y_2$, then $y_1 \join y_2$.]
-
 C: A term $x$ is [reducible] iff [there exists a $y$ such that $x \to y$].
 
 C: Saying "$x$ is [irreducible]" is equivalent to saying "$x$ is a [normal form]".
@@ -38,9 +33,6 @@ A: $x \to y$
 C: $x$ and $y$ are called [joinable] iff [there exists a $z$ such that $x \stackrel{+}{\rightarrow} z$ and $y \stackrel{+}{\rightarrow} z$].
 
 C: Let $x$ and $y$ be terms. The notation [$x \join y$] means that $x$ and $y$ are [joinable].
-
-Q: When is a rewrite system confluent?
-A: If $x \stackrel{+}{\to} y_1$ and $x \stackrel{+}{\to} y_2$, then $y_1 \join y_2$.
 
 Q: Define confluence in plain language.
 A: If two terms have a common (possibly indirect) ancestor, they are joinable.
