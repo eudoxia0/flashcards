@@ -73,3 +73,18 @@ C:
 Term: [normalizing rewrite system]
 
 Definition: [A rewrite system where every element has a normal form.]
+
+C:
+[$\text{SemiConfluent}(R)$]
+$\iff$
+[$\left( y_1 \leftarrow x \starpath y_2 \implies y_1 \downarrow y_2 \right)$]
+
+Q: Give a proof sketch of the following theorem: if a relation $R$ is confluent, then every element has at most one normal form.
+A: An element $x$ can have zero, one, or many normal forms. The first two cases satisfy the statement. The third case leads to a contradiction: because $x$ is a common ancestor of any two normal forms, by confluence, those normal forms are joinable, and if they are joinable, they can't be normal.
+
+Q: Prove the following theorem: if a relation $R$ is confluent, then every element has at most one normal form.
+A: Let $\text{Confluent}(R)$ and pick a term $x$. There are two possibilities.
+
+One, $x$ has zero or one normal form, which satisfies the theorem.
+
+Two, $x$ has more than one normal form. Pick at least two normal forms $y$ and $z$. We know $x \starpath y$ and $x \starpath z$, thus $y \conv z$ and by confluence, $y \downarrow z$, which means they can't be normal forms. Contradiction.
