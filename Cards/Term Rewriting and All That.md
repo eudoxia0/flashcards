@@ -95,3 +95,41 @@ A: If $R$ is normalizing then every element must have at least one normal form, 
 
 Q: Explain the intuition behind the following theorem: if a relation $R$ is normalizing and confluent, then every element has a unique normal form.
 A: Normalizing means every element has at least one normal form. Confluence means multiple normal forms must be joinable, i.e., not normal forms at all. Therefore this implies uniqueness of the normal form.
+
+C:
+Term: [finitely branching relation]
+
+Definition: [A relation where every element has only finitely many direct successors.]
+
+C:
+Term: [globally finite relation]
+
+Definition: [A relation where every element has only finitely many distinct successors.]
+
+Q: Difference between termination and global finitude of a relation.
+A: Termination: the chains from every element have finite length.
+
+Global finitude: the set of distinct successors from every element is finite.
+
+Q: Give an example of a relation that is globally finite but non-terminating.
+A:
+$$\set{a \to b, b \to a}$$
+
+The set of successors is $\set{a,b}$ for every element.
+
+C:
+Term: [acyclic relation]
+
+Definition: [A relation where there is no element $a$ such that $a \pluspath a$.]
+
+Q: Give an example of a relation that is terminating but not finitely branching.
+A: The relation:
+
+$$
+\begin{align*}
+a \to n, & \forall n \in \N \\\\
+n \to b, & \forall n \in N
+\end{align*}
+$$
+
+That is: $a$ rewrites to any natural number, and every natural number rewrites to $b$.
