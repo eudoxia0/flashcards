@@ -92,3 +92,6 @@ Two, $x$ has more than one normal form. Pick at least two normal forms $y$ and $
 Q: Give a proof sketch of the following theorem: if a relation $R$ is normalizing and confluent, then every element has a unique normal form.
 
 A: If $R$ is normalizing then every element must have at least one normal form, and we know that under confluence, multiple normal forms lead to a contradiction. Therefore, $x \downarrow$ is unique.
+
+Q: Explain the intuition behind the following theorem: if a relation $R$ is normalizing and confluent, then every element has a unique normal form.
+A: Normalizing means every element has at least one normal form. Confluence means multiple normal forms must be joinable, i.e., not normal forms at all. Therefore this implies uniqueness of the normal form.
