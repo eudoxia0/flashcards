@@ -77,3 +77,11 @@ C:
 
 Q: Psalm 94:11
 A: The Lord knoweth the thoughts of man, that they are vanity.
+
+C:
+[I was the eyes to the blind, and I was the feet to the lame.]
+
+— [Job] [29]:[15]
+
+Q: Job 29:15
+A: I was the eyes to the blind, and I was the feet to the lame.
