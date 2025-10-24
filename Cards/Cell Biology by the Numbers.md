@@ -54,3 +54,23 @@ C:
 Term: [ploidy]
 
 Definition: [The number of copies of each chromosome in a cell.]
+
+C:
+Term: [endocytosis]
+
+Definition: [A process by which a cell acquires extracellular material, by wrapping its membrane around it, which buds off into an intracellular vesicle.]
+
+Q: Synapse clearance time.
+A: $\approx 1 ~\text{ms}$
+
+C: Humans are made of about [60]% water.
+
+C:
+Term: [catabolism]
+
+Definition: [The metabolic processes that construct large biomolecules from smaller units.]
+
+C:
+Term: [catabolism]
+
+Definition: [The metabolic processes that break down large molecules, either to provide energy or feedstock for anabolism.]
