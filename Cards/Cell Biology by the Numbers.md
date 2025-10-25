@@ -66,7 +66,7 @@ A: $\approx 1 ~\text{ms}$
 C: Humans are made of about [60]% water.
 
 C:
-Term: [catabolism]
+Term: [anabolism]
 
 Definition: [The metabolic processes that construct large biomolecules from smaller units.]
 
