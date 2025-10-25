@@ -73,4 +73,4 @@ Definition: [The metabolic processes that construct large biomolecules from smal
 C:
 Term: [catabolism]
 
-Definition: [The metabolic processes that break down large molecules, either to provide energy or feedstock for anabolism.]
+Definition: [The metabolic processes that break down large molecules, either to provide energy or feedstock.]
