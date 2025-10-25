@@ -89,4 +89,4 @@ Definition: [A panoramic dental x-ray.]
 C:
 Term: [pericoronitis]
 
-Definition: [Infection of the gum around a partially erupted wisdom tooth.]
+Definition: [infection of the gum around a partially-erupted wisdom tooth.]
