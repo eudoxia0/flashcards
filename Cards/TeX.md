@@ -109,11 +109,6 @@ TeX: [`\tau`]
 Result: [$\tau$]
 
 C:
-TeX: [`\upsilon`]
-
-Result: [$\upsilon$]
-
-C:
 TeX: [`\Phi`]
 
 Result: [$\Phi$]
