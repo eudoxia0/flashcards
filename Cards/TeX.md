@@ -109,11 +109,6 @@ TeX: [`\tau`]
 Result: [$\tau$]
 
 C:
-TeX: [`\Phi`]
-
-Result: [$\Phi$]
-
-C:
 TeX: [`\phi`]
 
 Result: [$\phi$]
