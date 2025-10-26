@@ -159,3 +159,8 @@ C: Let $t$ be a term. Then:
 [$\text{Ground}(t)$]
 $\iff$
 [$\left( \mathcal{Var}(t) = \emptyset \right)$]
+
+C:
+Notation: [$T(\Sigma)$]
+
+Definition: [the set of ground terms over a signature $\Sigma$.]
