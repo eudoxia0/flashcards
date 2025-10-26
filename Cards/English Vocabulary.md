@@ -165,3 +165,6 @@ A: A focal point of attention and admiration.
 
 Q: spavined
 A: Lame, old, worn-out.
+
+Q: vehmic
+A: Of or relating to the Vehm, a medieval German secret court.
