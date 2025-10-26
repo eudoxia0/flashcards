@@ -142,3 +142,5 @@ C:
 Abbreviation: [prn]
 
 Definition: [As needed.]
+
+C: Methylphenidate is primarily metabolized by [CES1].
