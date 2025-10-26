@@ -10,13 +10,10 @@ C: A term $x$ is [reducible] iff [there exists a $y$ such that $x \to y$].
 
 C: Saying "$x$ is [irreducible]" is equivalent to saying "$x$ is a [normal form]".
 
-Q: Let $x$ be a term. How do we denote "$x$ has a unique normal form"?
-A: $x \join$
+C:
+Notation: [$x!$]
 
-Q: Let $x$ be a term. What does the notation $x \join$ mean?
-A: $x$ has a unique normal form.
-
-C: The notation [$x \join$] means that $x$ [has a unique normal form].
+Definition: [$x$ has a unique normal form.]
 
 Q: Express "$x$ is an ancestor of $y$" symbolically.
 A: $x \starpath y$
