@@ -102,3 +102,43 @@ A: phentermine
 
 Q: fen-phen, drug class.
 A: anorectic
+
+C:
+Abbreviation: [qd]
+
+Definition: [once daily.]
+
+C:
+Abbreviation: [qAM]
+
+Definition: [Every morning.]
+
+C:
+Abbreviation: [qHS]
+
+Definition: [At bedtime.]
+
+C:
+Abbreviation: [bid]
+
+Definition: [Twice daily.]
+
+C:
+Abbreviation: [tid]
+
+Definition: [Three times daily.]
+
+C:
+Abbreviation: [qid]
+
+Definition: [Four times daily.]
+
+C:
+Abbreviation: [qPM]
+
+Definition: [Every evening.]
+
+C:
+Abbreviation: [prn]
+
+Definition: [As needed.]
