@@ -101,3 +101,21 @@ C:
 Term: [transcription factor]
 
 Definition: [A protein that binds to a DNA sequence, turning transcription on/off in response to signals.]
+
+C:
+
+Process: [replication]
+
+Diagram: [$\text{DNA} \rightarrow \text{DNA}$]
+
+C:
+
+Process: [transcription]
+
+Diagram: [$\text{DNA} \rightarrow \text{RNA}$]
+
+C:
+
+Process: [translation]
+
+Diagram: [$\text{RNA} \rightarrow \text{Protein}$]
