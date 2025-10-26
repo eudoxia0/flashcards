@@ -94,10 +94,10 @@ Definition: [infection of the gum around a partially-erupted wisdom tooth.]
 Q: fen-phen is a combination of which two drugs?
 A: fenfluramine and phentermine.
 
-Q: What's the "phen" in fen-phen?
+Q: What's the "fen" in fen-phen?
 A: fenfluramine
 
-Q: What's the "fen" in fen-phen?
+Q: What's the "phen" in fen-phen?
 A: phentermine
 
 Q: fen-phen, drug class.
