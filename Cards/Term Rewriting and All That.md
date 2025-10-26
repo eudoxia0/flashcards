@@ -144,10 +144,28 @@ Definition: [the set of $n$-ary symbols in a signature $\Sigma$.]
 
 C: Let $\Sigma$ be a signature. The elements of [$\Sigma^{(0)}$] are called [constant] symbols.
 
+Q: Let $\Sigma$ be a signature, and $X$ a set of variables such that $\Sigma \cap X = \emptyset$. How do we construct the set of **$\Sigma$-terms over $X$**?
+A: By induction: every variable is a term, and every application of function symbols in $\Sigma$ to a list of terms is also a term.
+
+C:
+Notation: [$T(\Sigma, X)$]
+
+Definition: [the set of $\Sigma$-terms over $X$.]
+
+C:
+Notation: [$\mathcal{Pos}(t)$]
+
+Definition: [the set of positions in a term $t$.]
+
 C:
 Notation: [$\mathcal{Var}(t)$]
 
 Definition: [the set of variables in a term $t$.]
+
+C:
+Notation: [$t |_p$]
+
+Definition: [the subterm of $t$ at position $p$.]
 
 C:
 Term: [ground term]
