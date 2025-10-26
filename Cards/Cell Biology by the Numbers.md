@@ -74,3 +74,30 @@ C:
 Term: [catabolism]
 
 Definition: [The metabolic processes that break down large molecules, either to provide energy or feedstock.]
+
+Q: What does mRNA stand for?
+A: Messenger RNA.
+
+Q: What does tRNA stand for?
+A: Transfer RNA.
+
+Q: Where does translation happen?
+A: In the ribosome.
+
+C:
+Term: [cell cycle time]
+
+Definition: [The time it takes for a cell to complete a full cycle of division.]
+
+C:
+Term: [transcription]
+
+Definition: [The process by which mRNA is synthesized from a DNA template.]
+
+Q: Term for the process of making mRNA from a DNA template.
+A: Transcription.
+
+C:
+Term: [transcription factor]
+
+Definition: [A protein that binds to a DNA sequence, turning transcription on/off in response to signals.]

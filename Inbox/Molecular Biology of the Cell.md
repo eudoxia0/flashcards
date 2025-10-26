@@ -16,15 +16,6 @@ A: The set of all genes in an organism.
 Q: Term for the set of all genes in an organism.
 A: Genome
 
-Q: What is tRNA short for?
-A: Transfer RNA.
-
-Q: What is mRNA short for?
-A: Messenger RNA.
-
-Q: Where does translation happen?
-A: In the ribosome.
-
 Q: How many possible codons are there?
 A: $$4^3$$
 
