@@ -125,3 +125,8 @@ n \to b, & \forall n \in N
 $$
 
 That is: $a$ rewrites to any natural number, and every natural number rewrites to $b$.
+
+C:
+[$\text{Diamond}(R)$]
+$\iff$
+[$\left( y_1 \leftarrow x \rightarrow y_2 \implies \exists z . y_1 \rightarrow z \leftarrow y_2 \right)$]
