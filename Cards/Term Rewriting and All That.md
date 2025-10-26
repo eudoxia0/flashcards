@@ -126,7 +126,32 @@ $$
 
 That is: $a$ rewrites to any natural number, and every natural number rewrites to $b$.
 
-C:
+C: Let $R$ be a relation. Then:
+
 [$\text{Diamond}(R)$]
 $\iff$
 [$\left( y_1 \leftarrow x \rightarrow y_2 \implies \exists z . y_1 \rightarrow z \leftarrow y_2 \right)$]
+
+C:
+Term: [signature]
+
+Definition: [a set of function symbols, each of which is associated with a natural number called its arity.]
+
+Q: Notation: the set of $n$-ary symbols in a signature $\Sigma$.
+A: $\Sigma^{(n)}$
+
+C: Let $\Sigma$ be a signature. The elements of [$\Sigma^{(0)}$] are called [constant] symbols.
+
+Q: Notation: the set of variables in a term $t$.
+A: $\mathcal{Var}(t)$
+
+C:
+Term: [ground term]
+
+Definition: [a term with no free variables.]
+
+C: Let $t$ be a term. Then:
+
+[$\text{Ground}(t)$]
+$\iff$
+[$\left( \mathcal{Var}(t) = \emptyset \right)$]
