@@ -137,13 +137,17 @@ Term: [signature]
 
 Definition: [a set of function symbols, each of which is associated with a natural number called its arity.]
 
-Q: Notation: the set of $n$-ary symbols in a signature $\Sigma$.
-A: $\Sigma^{(n)}$
+C:
+Notation: [$\Sigma^{(n)}$]
+
+Definition: [the set of $n$-ary symbols in a signature $\Sigma$.]
 
 C: Let $\Sigma$ be a signature. The elements of [$\Sigma^{(0)}$] are called [constant] symbols.
 
-Q: Notation: the set of variables in a term $t$.
-A: $\mathcal{Var}(t)$
+C:
+Notation: [$\mathcal{Var}(t)$]
+
+Definition: [the set of variables in a term $t$.]
 
 C:
 Term: [ground term]
