@@ -18,7 +18,7 @@ A: SSRIs inhibit SERT and increase serotonin activity.
 C:
 Term: [Allosteric regulation]
 
-Definition: [The changing of a protein's activity by ligand binding somewhere other than the protein's active site.]
+Definition: [The changing of a protein's activity by a ligand binding somewhere other than the protein's active site.]
 
 C:
 Term: [Agonist]
