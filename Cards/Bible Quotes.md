@@ -85,3 +85,11 @@ C:
 
 Q: Job 29:15
 A: I was the eyes to the blind, and I was the feet to the lame.
+
+C:
+[Thy walls shall shake at the noise of the horsemen], [and of the wheels], [and of the chariots].
+
+— [Ezekiel] [26]:[10]
+
+Q: Ezekiel 26:10
+A: Thy walls shall shake at the noise of the horsemen, and of the wheels, and of the chariots.
