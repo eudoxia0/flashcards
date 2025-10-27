@@ -12,3 +12,5 @@ A: Given a susceptible hash function $\mathrm{H}$, and the length of a string $a
 
 Q: How can a length-extension attack be used to break a MAC?
 A: Given a MAC like $\mathrm{H}(\mathrm{key} ~||~ \mathrm{text})$, if the length of $\mathrm{key}$ is known, an attacker can compute the hash of any message (i.e., sign messages) without knowing $\mathrm{key}$.
+
+C: Hash functions based on the [Merkle–Damgård] constructions are susceptible to length-extension attacks.
