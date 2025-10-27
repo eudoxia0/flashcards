@@ -144,3 +144,24 @@ Abbreviation: [prn]
 Definition: [As needed.]
 
 C: Methylphenidate is primarily metabolized by [CES1].
+
+C: The trade name of [lisdexamfetamine] is [Vyvanse].
+
+C: The trade name of [dextroamphetamine] is [Dexedrine].
+
+C: [Adderall] is the trade name for a combination of [amphetamine] and [dextroamphetamine] salts.
+
+C: The American trade name of [bupropion] is [Wellbutrin].
+
+C: The American trade name of [bupropion] is [Zyban].
+
+Q: Bupropion, drug class.
+A: NDRI.
+
+Q: Bupropion, main risk.
+A: Seizures.
+
+Q: Bupropion, formulations.
+A: IR, SR, XL.
+
+C: Bupropion is primarily metabolized by cytochrome [2B6].
