@@ -165,3 +165,6 @@ Q: Bupropion, formulations.
 A: IR, SR, XL.
 
 C: Bupropion is primarily metabolized by cytochrome [2B6].
+
+Q: What does NSAID stand for?
+A: Nonsteroidal anti-inflammatory drug.
