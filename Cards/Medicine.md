@@ -153,7 +153,7 @@ C: [Adderall] is the trade name for a combination of [amphetamine] and [dextroam
 
 C: The American trade name of [bupropion] is [Wellbutrin].
 
-C: The American trade name of [bupropion] is [Zyban].
+C: The Australian trade name of [bupropion] is [Zyban].
 
 Q: Bupropion, drug class.
 A: NDRI.
