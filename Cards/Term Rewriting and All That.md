@@ -139,7 +139,7 @@ Notation: [$\Sigma^{(n)}$]
 
 Definition: [the set of $n$-ary symbols in a signature $\Sigma$.]
 
-C: Let $\Sigma$ be a signature. The elements of [$\Sigma^{(0)}$] are called [constant] symbols.
+C: Let $\Sigma$ be a signature. The elements of [$\Sigma^{(0)}$] are called [constant symbols].
 
 Q: Let $\Sigma$ be a signature, and $X$ a set of variables such that $\Sigma \cap X = \emptyset$. How do we construct the set of **$\Sigma$-terms over $X$**?
 A: By induction: every variable is a term, and every application of function symbols in $\Sigma$ to a list of terms is also a term.
@@ -179,3 +179,29 @@ C:
 Notation: [$T(\Sigma)$]
 
 Definition: [the set of ground terms over a signature $\Sigma$.]
+
+Q: Let $R$ be a confluent relation. Give a proof of the following theorem:
+
+$$
+x \conv y \land \text{Normal}(y) \implies x \starpath y
+$$
+
+A:
+
+We know $x$ and $y$ are convertible, i.e., they are connected in some way. And since $y$ is a normal form, we know it can't be ancestor of $x$, so $x$ must be an ancestor of $y$, i.e., $x \starpath y$.
+
+Q: Let $R$ be a confluent relation. The following:
+
+$$
+x \conv y \land \text{Normal}(y) \implies x \starpath y
+$$
+
+is a theorem. Explain why it does not hold if we remove confluence.
+
+A: Consider the relation:
+
+$$
+a \leftarrow b \rightarrow c
+$$
+
+Here, $a \conv c$ and $c$ is a normal form, but it is not true that $b \starpath c$.
