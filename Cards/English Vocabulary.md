@@ -168,3 +168,6 @@ A: Lame, old, worn-out.
 
 Q: vehmic
 A: Of or relating to the Vehm, a medieval German secret court.
+
+Q: slovenly
+A: An untidy, unkempt person.
