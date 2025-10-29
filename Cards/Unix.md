@@ -31,3 +31,6 @@ A: `fc-match`
 
 Q: Consider this `fontconfig` expression: `Terminus:size=10`. What unit is the `size` parameter expressed in?
 A: Points.
+
+Q: Command to lock the screen with xscreensaver.
+A: `xscreensaver-command --lock`
