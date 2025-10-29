@@ -12,3 +12,16 @@ A: `dpkg -i package.deb`
 
 Q: What does `dpkg -i package.deb` do?
 A: Installs `package.deb`.
+
+C: Command: [`ln`]
+
+Purpose: [create symbolic links.]
+
+Q: Name of the command to create a symbolic link.
+A: `ln`
+
+Q: What is the `ln` command used for?
+A: Create symbolic links.
+
+Q: Write a command to create a symbolic link from `$link` to `$target`.
+A: `ln $target $link`
