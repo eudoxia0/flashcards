@@ -25,3 +25,9 @@ A: Create symbolic links.
 
 Q: Write a command to create a symbolic link from `$link` to `$target`.
 A: `ln $target $link`
+
+Q: Name of the command to test a `fontconfig` font expression.
+A: `fc-match`
+
+Q: Consider this `fontconfig` expression: `Terminus:size=10`. What unit is the `size` parameter expressed in?
+A: Points.
