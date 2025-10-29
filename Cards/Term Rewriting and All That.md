@@ -11,7 +11,7 @@ C: A term $x$ is [reducible] iff [there exists a $y$ such that $x \to y$].
 C: Saying "$x$ is [irreducible]" is equivalent to saying "$x$ is a [normal form]".
 
 C:
-Notation: [$x \exclam$]
+Notation: [$x!$]
 
 Definition: [$x$ has a unique normal form.]
 
