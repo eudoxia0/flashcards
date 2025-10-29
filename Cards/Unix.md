@@ -34,3 +34,6 @@ A: Points.
 
 Q: Command to lock the screen with xscreensaver.
 A: `xscreensaver-command --lock`
+
+Q: Shortcut to wipe the password prompt.
+A: `C-u`
