@@ -3,6 +3,8 @@ AWS_SRC        := Sources/aws.csv
 DEF_PY         := Scripts/def.py
 ENG            := Cards/English\ Vocabulary.md
 ENG_SRC        := Sources/english_vocab.csv
+FDI            := Cards/FDI\ Dental\ Notation.md
+FDI_PY         := Scripts/fdi.py
 INDO_VOCAB     := Cards/Indonesian\ Vocabulary.md
 INDO_VOCAB_SRC := Sources/indo_vocab.csv
 NATO           := Cards/NATO\ Phonetic\ Alphabet.md
@@ -18,7 +20,7 @@ TEX_PY         := Scripts/tex.py
 TEX_SRC        := Sources/expr.tex
 VOCAB_PY       := Scripts/vocab.py
 
-TARGETS        := $(AWS) $(ENG) $(INDO_VOCAB) $(NATO) $(PERSIAN) $(POW) $(STATS) $(TEX_OUT)
+TARGETS        := $(AWS) $(ENG) $(INDO_VOCAB) $(NATO) $(PERSIAN) $(POW) $(STATS) $(TEX_OUT) $(FDI)
 
 .PHONY: all
 all: $(TARGETS)
@@ -28,6 +30,9 @@ $(AWS): $(AWS_SRC) $(VOCAB_PY)
 
 $(ENG): $(ENG_SRC) $(DEF_PY)
 	$(PY) $(DEF_PY) $(ENG_SRC) > $(ENG)
+
+$(FDI): $(FDI_PY)
+	$(PY) $(FDI_PY) > $(FDI)
 
 $(INDO_VOCAB): $(INDO_VOCAB_SRC) $(VOCAB_PY)
 	$(PY) $(VOCAB_PY) $(INDO_VOCAB_SRC) > $(INDO_VOCAB)
