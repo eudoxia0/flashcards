@@ -14,6 +14,8 @@ with open(sys.argv[1]) as stream:
             first = False
         else:
             print()
+            print("---")
+            print()
         print("C:")
         print(f"{a_key}: [{a}]")
         print()
