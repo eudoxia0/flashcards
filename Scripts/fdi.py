@@ -38,7 +38,7 @@ for c, n in TEETH:
 
 for qc, qn in QUADRANTS:
     for tc, tn in TEETH:
-        print(f"C: FDI Notation: [{qc}.{tc}]")
+        print(f"C: FDI Notation: [{qc}{tc}]")
         print()
         print(f"Tooth: [{qn} {tn}]")
         if not (qc == 4 and tc == 8):
