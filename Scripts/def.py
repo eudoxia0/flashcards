@@ -9,5 +9,7 @@ with open(sys.argv[1]) as stream:
             first = False
         else:
             print()
+            print("---")
+            print()
         print(f"Q: {word.strip()}")
         print(f"A: {definition.strip()}")
