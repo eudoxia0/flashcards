@@ -23,12 +23,12 @@ A: Six
 
 ---
 
-Q: What are the PGM minerals?
+Q: What are the PGM elements?
 A: Ruthenium, rhodium, palladium, osmium, iridium, platinum.
 
 ---
 
-C: The PGM elem are:
+C: The PGM elements are:
 
 - [ruthenium]
 - [rhodium]
