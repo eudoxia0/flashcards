@@ -12,11 +12,11 @@ Definition: [Administration of a drug through the intestines, either orally or r
 
 ---
 
-C: Oral administration is a subtype of [enteral] administration
+C: Oral administration is a subtype of [enteral] administration.
 
 ---
 
-C: Rectal administration is a subtype of [enteral] administration
+C: Rectal administration is a subtype of [enteral] administration.
 
 ---
 
