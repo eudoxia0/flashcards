@@ -1,0 +1,136 @@
+// Copyright 2025 Fernando Borretti
+//
+// Licensed under the Apache License, Version 2.0 (the "License");
+// you may not use this file except in compliance with the License.
+// You may obtain a copy of the License at
+//
+//     http://www.apache.org/licenses/LICENSE-2.0
+//
+// Unless required by applicable law or agreed to in writing, software
+// distributed under the License is distributed on an "AS IS" BASIS,
+// WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+// See the License for the specific language governing permissions and
+// limitations under the License.
+
+use std::path::Path;
+
+use pulldown_cmark::CowStr;
+use pulldown_cmark::Event;
+use pulldown_cmark::Parser;
+use pulldown_cmark::Tag;
+use pulldown_cmark::html::push_html;
+
+use crate::path_resolution::resolve_media_path;
+
+const AUDIO_EXTENSIONS: [&str; 3] = ["mp3", "wav", "ogg"];
+
+fn is_audio_file(url: &str) -> bool {
+    if let Some(ext) = url.split('.').next_back() {
+        AUDIO_EXTENSIONS.contains(&ext)
+    } else {
+        false
+    }
+}
+
+pub fn markdown_to_html(
+    markdown: &str,
+    port: u16,
+    card_file_path: &Path,
+    collection_dir: &Path,
+) -> String {
+    let parser = Parser::new(markdown);
+    let parser = parser.map(|event| match event {
+        Event::Start(Tag::Image {
+            link_type,
+            title,
+            dest_url,
+            id,
+        }) => {
+            let url = modify_url(&dest_url, port, card_file_path, collection_dir);
+            // Does the URL point to an audio file?
+            if is_audio_file(&url) {
+                // If so, render it as an HTML5 audio element.
+                Event::Html(CowStr::Boxed(
+                    format!(
+                        r#"<audio controls src="{}" title="{}"></audio>"#,
+                        url, title
+                    )
+                    .into_boxed_str(),
+                ))
+            } else {
+                // Treat it as a normal image.
+                Event::Start(Tag::Image {
+                    link_type,
+                    title,
+                    dest_url: CowStr::Boxed(url.into_boxed_str()),
+                    id,
+                })
+            }
+        }
+        _ => event,
+    });
+    let mut html_output = String::new();
+    push_html(&mut html_output, parser);
+    html_output
+}
+
+pub fn markdown_to_html_inline(
+    markdown: &str,
+    port: u16,
+    card_file_path: &Path,
+    collection_dir: &Path,
+) -> String {
+    let text = markdown_to_html(markdown, port, card_file_path, collection_dir);
+    if text.starts_with("<p>") && text.ends_with("</p>\n") {
+        let len = text.len();
+        text[3..len - 5].to_string()
+    } else {
+        text
+    }
+}
+
+fn modify_url(url: &str, port: u16, card_file_path: &Path, collection_dir: &Path) -> String {
+    // Resolve the path (handles @-prefix and deck-relative paths)
+    let resolved_path = match resolve_media_path(url, card_file_path, collection_dir) {
+        Some(p) => p.to_string_lossy().to_string(),
+        None => url.to_string(), // Keep URLs as-is
+    };
+
+    format!("http://localhost:{port}/file/{resolved_path}")
+}
+
+#[cfg(test)]
+mod tests {
+    use super::*;
+    use std::path::PathBuf;
+
+    #[test]
+    fn test_markdown_to_html() {
+        let collection_dir = PathBuf::from("/home/user/Cards");
+        let card_file = PathBuf::from("/home/user/Cards/deck.md");
+        let markdown = "![alt](image.png)";
+        let html = markdown_to_html(markdown, 1234, &card_file, &collection_dir);
+        assert_eq!(
+            html,
+            "<p><img src=\"http://localhost:1234/file/image.png\" alt=\"alt\" /></p>\n"
+        );
+    }
+
+    #[test]
+    fn test_markdown_to_html_inline() {
+        let collection_dir = PathBuf::from("/home/user/Cards");
+        let card_file = PathBuf::from("/home/user/Cards/deck.md");
+        let markdown = "This is **bold** text.";
+        let html = markdown_to_html_inline(markdown, 0, &card_file, &collection_dir);
+        assert_eq!(html, "This is <strong>bold</strong> text.");
+    }
+
+    #[test]
+    fn test_markdown_to_html_inline_heading() {
+        let collection_dir = PathBuf::from("/home/user/Cards");
+        let card_file = PathBuf::from("/home/user/Cards/deck.md");
+        let markdown = "# Foo";
+        let html = markdown_to_html_inline(markdown, 0, &card_file, &collection_dir);
+        assert_eq!(html, "<h1>Foo</h1>\n");
+    }
+}

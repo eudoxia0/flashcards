@@ -1,0 +1,49 @@
+// Copyright 2025 Fernando Borretti
+//
+// Licensed under the Apache License, Version 2.0 (the "License");
+// you may not use this file except in compliance with the License.
+// You may obtain a copy of the License at
+//
+//     http://www.apache.org/licenses/LICENSE-2.0
+//
+// Unless required by applicable law or agreed to in writing, software
+// distributed under the License is distributed on an "AS IS" BASIS,
+// WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+// See the License for the specific language governing permissions and
+// limitations under the License.
+
+use std::fs::copy;
+use std::fs::create_dir_all;
+use std::path::PathBuf;
+
+use tempfile::tempdir;
+
+use crate::error::Fallible;
+
+pub fn create_tmp_directory() -> Fallible<PathBuf> {
+    let dir: PathBuf = tempdir()?.path().to_path_buf().canonicalize()?;
+    create_dir_all(&dir)?;
+    Ok(dir)
+}
+
+pub fn create_tmp_copy_of_test_directory() -> Fallible<String> {
+    let source: PathBuf = PathBuf::from("./test").canonicalize()?;
+    let target: PathBuf = create_tmp_directory()?;
+    let files = ["Deck.md", "foo.jpg", "macros.tex"];
+    for file in files {
+        copy(source.join(file), target.join(file))?;
+    }
+    Ok(target.display().to_string())
+}
+
+#[cfg(test)]
+mod tests {
+    use super::*;
+
+    #[test]
+    fn test_create_tmp_copy_of_test_directory() -> Fallible<()> {
+        let result = create_tmp_copy_of_test_directory();
+        assert!(result.is_ok());
+        Ok(())
+    }
+}

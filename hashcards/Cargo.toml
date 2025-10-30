@@ -1,0 +1,40 @@
+[package]
+name = "hashcards"
+version = "0.1.1"
+edition = "2024"
+description = "A plain text-based spaced repetition system."
+homepage = "https://github.com/eudoxia0/hashcards"
+repository = "https://github.com/eudoxia0/hashcards"
+license = "Apache-2.0"
+categories = ["command-line-utilities"]
+
+[dependencies]
+axum = "0.8.4"
+blake3 = "1.8.2"
+chrono = "0.4.42"
+clap = { version = "4.5.50", features = ["derive"] }
+env_logger = "0.11.8"
+log = "0.4.28"
+maud = "0.27.0"
+open = "5.3.2"
+pulldown-cmark = "0.13.0"
+rusqlite = { version = "0.37.0", features = ["bundled"] }
+serde = { version = "1.0.224", features = ["derive"] }
+serde_json = "1.0.145"
+tokio = { version = "1.48.0", features = ["rt-multi-thread", "fs", "signal"] }
+toml = "0.9.8"
+walkdir = "2"
+
+[dev-dependencies]
+portpicker = "0.1.1"
+reqwest = "0.12.23"
+tempfile = "3.23.0"
+
+[profile.release]
+strip = "symbols"
+lto = true
+codegen-units = 1
+panic = "abort"
+
+[lints.clippy]
+collapsible_if = "allow"
