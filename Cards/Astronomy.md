@@ -10,3 +10,8 @@ A: $\approx 6380 ~\text{km}$
 
 Q: Earth, orbital velocity.
 A: $\approx 30 ~\text{km}/\text{s}$
+
+---
+
+Q: Sun, escape velocity at $1 ~\text{AU}$.
+A: $\approx 42 ~\text{km}/\text{s}$
