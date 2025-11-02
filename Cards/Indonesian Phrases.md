@@ -289,3 +289,15 @@ C:
 [Is this] [your] [luggage]?
 
 [Apakah] [ini] [kopor-kopor] [anda]?
+
+---
+
+C: English: [I am eating]
+
+Indonesian: [Saya sedang makan]
+
+---
+
+C: English: I am [eating]
+
+Indonesian: [Saya] [sedang] [makan]
