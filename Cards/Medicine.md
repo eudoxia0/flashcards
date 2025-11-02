@@ -282,3 +282,13 @@ C: The wisdom teeth are also called the [third molars].
 ---
 
 C: The third molars are also called the [wisdom teeth].
+
+---
+
+Q: How many premolars are there in one quadrant of the mouth?
+A: Two.
+
+---
+
+Q: How many molars are there in one quadrant of the mouth?
+A: Three.
