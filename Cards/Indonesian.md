@@ -56,3 +56,10 @@ C: [kita] means "we" and [includes] the interlocutor.
 ---
 
 C: [kami] means "we" and [excludes] the interlocutor.
+
+---
+
+Q: What's the difference between _sudah_ and _sedang_?
+A: _sudah_: already
+
+_sedang_: currently
