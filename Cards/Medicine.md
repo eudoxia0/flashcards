@@ -274,3 +274,11 @@ C: Bupropion is primarily metabolized by cytochrome [2B6].
 
 Q: What does NSAID stand for?
 A: Nonsteroidal anti-inflammatory drug.
+
+---
+
+C: The wisdom teeth are also called the [third molars].
+
+---
+
+C: The third molars are also called the [wisdom teeth].
