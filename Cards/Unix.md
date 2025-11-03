@@ -67,6 +67,6 @@ Action: [print the groups the current user is part of.]
 
 C: Command: [`groups u`]
 
-Action: [print the groups the currente user is part of.]
+Action: [print the groups that user `u` is part of.]
 
 ---
