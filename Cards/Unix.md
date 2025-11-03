@@ -56,3 +56,17 @@ A: `xscreensaver-command --lock`
 
 Q: Shortcut to wipe the password prompt.
 A: `C-u`
+
+---
+
+C: Command: [`groups`]
+
+Action: [print the groups the current user is part of.]
+
+---
+
+C: Command: [`groups u`]
+
+Action: [print the groups the currente user is part of.]
+
+---
