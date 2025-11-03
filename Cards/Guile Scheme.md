@@ -180,3 +180,10 @@ C:
 Function: [`string=?`]
 
 Synopsis: [string equality.]
+
+---
+
+C:
+Function: [`newline`]
+
+Synopsis: [print a newline to stdout.]
