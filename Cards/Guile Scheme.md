@@ -58,7 +58,7 @@ Synopsis: [value equality.]
 ---
 
 C:
-Function: [`member?`]
+Function: [`member`]
 
 Synopsis: [test if an element is part of a list.]
 
