@@ -73,3 +73,13 @@ Action: [print the groups that user `u` is part of.]
 
 Q: Command to print the MIME type of a file `f`.
 A: `file --mime-type --brief f`
+
+---
+
+Q: Command to reset Redshift colour temperature.
+A: `redshift -x`
+
+---
+
+Q: Command to set Redshift to a temperature `t`.
+A: `redshift -x t`
