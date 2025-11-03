@@ -70,3 +70,6 @@ C: Command: [`groups u`]
 Action: [print the groups that user `u` is part of.]
 
 ---
+
+Q: Command to print the MIME type of a file `f`.
+A: `file --mime-type --brief f`
