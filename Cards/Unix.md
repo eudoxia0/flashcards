@@ -82,4 +82,4 @@ A: `redshift -x`
 ---
 
 Q: Command to set Redshift to a temperature `t`.
-A: `redshift -x t`
+A: `redshift -O t`
