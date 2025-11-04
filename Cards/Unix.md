@@ -83,3 +83,37 @@ A: `redshift -x`
 
 Q: Command to set Redshift to a temperature `t`.
 A: `redshift -O t`
+
+---
+
+C: Signal: [`SIGTERM`]
+
+Effect: [terminate gracefully.]
+
+---
+
+C: Signal: [`SIGKILL`]
+
+Effect: [terminate immediately.]
+
+---
+
+C: Signal: [`SIGINT`]
+
+Effect: [keyboard interrupt.]
+
+---
+
+C: Signal: [`SIGABRT`]
+
+Effect: [process terminated abnormally.]
+
+---
+
+Q: What signal does `Ctrl+C` send?
+A: `SIGINT`
+
+---
+
+Q: What key combination sends `SIGINT` in the terminal?
+A: `Ctrl+C`
