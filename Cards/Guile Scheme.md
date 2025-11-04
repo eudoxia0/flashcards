@@ -165,14 +165,14 @@ Synopsis: [vector constructor.]
 C:
 Syntax: [`(vector-ref v i)`]
 
-Description: [return the `i`-th element of vector `v`.]
+Description: [return the `i`-th element of a vector `v`.]
 
 ---
 
 C:
 Syntax: [`(vector-set! v i e)`]
 
-Description: [store `e` as the value of the `i`-th element of vector `v`.]
+Description: [store `e` as the value of the `i`-th element of a vector `v`.]
 
 ---
 
