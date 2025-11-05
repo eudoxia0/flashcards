@@ -128,7 +128,7 @@ Definition: [A lesion resulting from an infarction.]
 C:
 Term: [embolus]
 
-Definition: [A clot that travels through circulation, becomes lodged in a blood vessel, and impedes block flood.]
+Definition: [A clot that travels through circulation, becomes lodged in a blood vessel, and impedes blood flow.]
 
 ---
 
