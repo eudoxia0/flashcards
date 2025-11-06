@@ -179,3 +179,29 @@ C:
 Process: [translation]
 
 Diagram: [$\text{RNA} \rightarrow \text{Protein}$]
+
+---
+
+C:
+Term: [proteolysis]
+
+Definition: [the breakdown of proteins.]
+
+---
+
+[Proteolysis] is catalyzed by enzymes called [proteases].
+
+---
+
+Q: What process do proteases catalyze?
+A: Proteolysis.
+
+---
+
+Q: What class of enzymes catalyze proteolysis?
+A: Proteases.
+
+---
+
+Q: What is a proteasome?
+A: A large protein complex that acts as a protease.
