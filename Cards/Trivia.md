@@ -36,3 +36,38 @@ C: The PGM elements are:
 - [osmium]
 - [iridium]
 - [platinum]
+
+---
+
+Q: ISS, year when the first module was launched.
+A: 1998
+
+---
+
+Q: ISS, mass.
+A: 450t
+
+---
+
+Q: Space Shuttle, year of first launch.
+A: 1981
+
+---
+
+Q: Space Shuttle, year of final launch.
+A: 2011
+
+---
+
+Q: Space Shuttle, name of first vehicle to reach space.
+A: _Columbia_
+
+---
+
+Q: What is a nitrogen vacancy center?
+A: A defect in a diamond lattice where a C-C pair is replaced with N and a lattice vacancy.
+
+---
+
+Q: Soyuz spacecraft, year of first crewed launch.
+A: 1967
