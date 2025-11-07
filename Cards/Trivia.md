@@ -86,3 +86,8 @@ A: $1361 ~\text{W}/\text{m}^2$
 
 Q: Solar irradiance at 1AU.
 A: $1000 ~\text{W}/\text{m}^2$
+
+---
+
+Q: Definition of one electronvolt.
+A: The amount of energy gained or loss by an electron moving through a $1 ~\text{V}$ voltage in vacuum.
