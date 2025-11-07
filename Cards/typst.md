@@ -18,17 +18,17 @@ A: `typst compile doc.typ doc.pdf`
 
 ---
 
-Q: Markup: h1 heading.
+Q: Syntax: h1 heading.
 A: `= I'm a heading`
 
 ---
 
-Q: Markup: italics.
+Q: Syntax: italics.
 A: `_italics_`
 
 ---
 
-Q: Markup: bold.
+Q: Syntax: bold.
 A: `*bold*`
 
 ---
@@ -43,25 +43,42 @@ A: `+`
 
 ---
 
-Q: Markup: image.
+Q: Syntax: image.
 A: `#image("foo.jpg")`
 
 ---
 
-Q: Markup: generate `n` words of lorem ipsum text.
+Q: Syntax: generate `n` words of lorem ipsum text.
 A: `#lorem(n)`
 
 ---
 
-Q: Markup: document title.
+Q: Syntax: document title.
 A: `#title[I'm a document!]`
 
 ---
 
-Q: Markup: define a variable `v` with a value `e`.
+Q: Syntax: define a variable `v` with a value `e`.
 A: `#let v = e`
 
 ---
 
-Q: Markup: embed a variable `v`.
+Q: Syntax: embed a variable `v`.
 A: `#v`
+
+---
+
+Q: Syntax: link to a URL `u` with text `t`.
+A: `#link(u)[t]`
+
+---
+
+Q: Syntax: single-line comment.
+A: `//`
+
+---
+
+Q: Syntax: multi-line comment.
+A: `/* ... */`
+
+---
