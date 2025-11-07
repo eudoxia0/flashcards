@@ -92,12 +92,24 @@ A: estribor
 
 ---
 
+C: Term: [bow]
+
+Definition: [the front part of a ship.]
+
+---
+
 C: Term: [stern]
 
 Definition: [the rear part of a ship.]
 
 ---
 
-C: Term: [bow]
+C: Term: [fore]
 
-Definition: [the front part of a ship.]
+Definition: [the direction towards the front of a ship.]
+
+---
+
+C: Term: [aft]
+
+Definition: [the direction towards the back of a ship.]
