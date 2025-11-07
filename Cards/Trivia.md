@@ -95,3 +95,33 @@ A: The amount of energy gained or loss by an electron moving through a $1 ~\text
 ---
 
 C: A proton is around [1800] times more massive than an electron.
+
+---
+
+Q: LHC, year construction started.
+A: 1998
+
+---
+
+Q: LHC, year construction ended.
+A: 2008
+
+---
+
+Q: LHC, year of first beam.
+A: 2008
+
+---
+
+Q: LHC, circumference.
+A: $27 ~\text{km}$
+
+---
+
+Q: What was the world's first ICBM?
+A: The SS-6.
+
+---
+
+Q: SS-6, designer.
+A: Sergei Korolev.
