@@ -71,3 +71,13 @@ A: A defect in a diamond lattice where a C-C pair is replaced with N and a latti
 
 Q: Soyuz spacecraft, year of first crewed launch.
 A: 1967
+
+---
+
+Q: What does OKB-1 stand for?
+A: "Experimental Design Bureau-1"
+
+---
+
+Q: Solar irradiance at 1AU.
+A: $1361 ~\text{W}/\text{m}^2$
