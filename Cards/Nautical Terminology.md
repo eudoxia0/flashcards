@@ -89,3 +89,15 @@ A: babor
 
 Q: How do you say "starboard" in Spanish?
 A: estribor
+
+---
+
+C: Term: [stern]
+
+Definition: [the rear part of a ship.]
+
+---
+
+C: Term: [bow]
+
+Definition: [the front part of a ship.]
