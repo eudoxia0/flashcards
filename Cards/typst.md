@@ -50,3 +50,18 @@ A: `#image("foo.jpg")`
 
 Q: Markup: generate `n` words of lorem ipsum text.
 A: `#lorem(n)`
+
+---
+
+Q: Markup: document title.
+A: `#title[I'm a document!]`
+
+---
+
+Q: Markup: define a variable `v` with a value `e`.
+A: `#let v = e`
+
+---
+
+Q: Markup: embed a variable `v`.
+A: `#v`
