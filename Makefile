@@ -22,7 +22,8 @@ VOCAB_PY       := Scripts/vocab.py
 
 TARGETS        := $(AWS) $(ENG) $(INDO_VOCAB) $(NATO) $(PERSIAN) $(POW) $(STATS) $(TEX_OUT) $(FDI)
 
-.PHONY: all
+.PHONY: all check drill stats clean
+
 all: $(TARGETS)
 
 $(AWS): $(AWS_SRC) $(VOCAB_PY)
@@ -52,18 +53,14 @@ $(STATS): Cards/**.md
 $(TEX_OUT): $(TEX_PY) $(TEX_SRC)
 	$(PY) $(TEX_PY) $(TEX_SRC) $(TEX_OUT)
 
-.PHONY: check
 check:
 	hashcards check Cards
 
-.PHONY: drill
 drill:
 	hashcards drill Cards --card-limit=50
 
-.PHONY: stats
 stats:
 	hashcards stats Cards --format=json
 
-.PHONY: clean
 clean:
 	rm -f $(TARGETS)
