@@ -58,7 +58,7 @@ check:
 
 .PHONY: drill
 drill:
-	hashcards drill Cards
+	hashcards drill Cards --card-limit=50
 
 .PHONY: stats
 stats:
