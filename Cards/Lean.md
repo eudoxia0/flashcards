@@ -55,3 +55,13 @@ A: `def v: t := e`
 
 Q: Define a function `sq` that returns the square of a natural number.
 A: `def sq (n: Nat): Nat := n * n`
+
+---
+
+Q: Define a structure `Coord` with fields `x`, `y` of type `Float`.
+A:
+```
+structure Coord where
+    x : Float
+    y : Float
+```
