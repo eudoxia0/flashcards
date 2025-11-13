@@ -65,3 +65,15 @@ structure Coord where
     x : Float
     y : Float
 ```
+
+---
+
+Q: Syntax: structure literal assigning a singleton field `x` a value of `e`.
+A: `{ x := e }`
+
+---
+
+Q: Syntax: update a struct `s` so that field `x` has a new value `e`.
+A: `{ s with x := e }`
+
+---
