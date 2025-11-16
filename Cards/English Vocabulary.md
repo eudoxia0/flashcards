@@ -38,6 +38,11 @@ A: banter
 
 ---
 
+Q: barbican
+A: A tower at the entrance to a castle or fortress.
+
+---
+
 Q: burgeon
 A: a bud, sprout, or shoot
 
