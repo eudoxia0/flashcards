@@ -97,6 +97,22 @@ Q: Define the `Bool` type.
 A:
 ```
 inductive Bool where
+  | false : Bool
   | true : Bool
-  | false: Bool
 ```
+
+
+---
+
+Q: Define the `Nat` type.
+A:
+```
+inductive Nat where
+  | zero : Nat
+  | succ (n : Nat) : Nat
+```
+
+---
+
+Q: Name of the logical not function.
+A: `Bool.not`
