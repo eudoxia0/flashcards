@@ -125,3 +125,18 @@ A: The SS-6.
 
 Q: SS-6, designer.
 A: Sergei Korolev.
+
+---
+
+Q: Points are a unit of what?
+A: Length.
+
+---
+
+Q: What field uses points as a unit of measure?
+A: Typography.
+
+---
+
+Q: What is the standard definition of the $1 \text{pt}$?
+A: $\frac{1}{72}$ of an inch.
