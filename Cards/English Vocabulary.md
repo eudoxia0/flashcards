@@ -168,6 +168,11 @@ A: Apparently attractive but lacking real value
 
 ---
 
+Q: mojibake
+A: Corrupted text resulting from using the wrong character decoding.
+
+---
+
 Q: nicodemite
 A: Someone suspected of misrepresenting their religious beliefs.
 
