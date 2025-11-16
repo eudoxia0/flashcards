@@ -77,3 +77,6 @@ Q: Syntax: update a struct `s` so that field `x` has a new value `e`.
 A: `{ s with x := e }`
 
 ---
+
+Q: Why are recursive sum types called inductive data types?
+A: Because mathematical induction can be used to prove theorems about them.
