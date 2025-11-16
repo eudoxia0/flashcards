@@ -97,6 +97,6 @@ Q: Define the `Bool` type.
 A:
 ```
 inductive Bool where
-    true : Bool
-    false: Bool
+  | true : Bool
+  | false: Bool
 ```
