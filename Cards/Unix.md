@@ -35,7 +35,7 @@ A: Create symbolic links.
 ---
 
 Q: Write a command to create a symbolic link from `$link` to `$target`.
-A: `ln $target $link`
+A: `ln -s $target $link`
 
 ---
 
