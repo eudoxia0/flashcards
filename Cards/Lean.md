@@ -58,6 +58,11 @@ A: `def sq (n: Nat): Nat := n * n`
 
 ---
 
+Q: Keyword for structure declarations.
+A: `structure`
+
+---
+
 Q: Define a structure `Coord` with fields `x`, `y` of type `Float`.
 A:
 ```
@@ -80,3 +85,18 @@ A: `{ s with x := e }`
 
 Q: Why are recursive sum types called inductive data types?
 A: Because mathematical induction can be used to prove theorems about them.
+
+---
+
+Q: Keyword for inductive datatype declarations.
+A: `inductive`
+
+---
+
+Q: Define the `Bool` type.
+A:
+```
+inductive Bool where
+    true : Bool
+    false: Bool
+```
