@@ -140,3 +140,8 @@ A: Typography.
 
 Q: What is the standard definition of the $1 \text{pt}$?
 A: $\frac{1}{72}$ of an inch.
+
+---
+
+Q: What's the visual difference between phi and psi?
+A: Phi is a circle, psi a U shape.
