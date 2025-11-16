@@ -44,3 +44,9 @@ The first two lines are called the [premises].
 
 Q: Who invented the _Characteristica Universalis_?
 A: Leibniz.
+
+---
+
+C: Term: [existential-conjunctive logic]
+
+Definition: [the subset of logical expressions with only $\exists$ and $\land$.]
