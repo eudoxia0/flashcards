@@ -41,3 +41,6 @@ C: In the Aristotelian syllogism:
 The first two lines are called the [premises].
 
 ---
+
+Q: Who invented the _Characteristica Universalis_?
+A: Leibniz.
