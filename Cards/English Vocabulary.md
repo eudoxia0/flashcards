@@ -34,7 +34,7 @@ A: going in opposite directions
 ---
 
 Q: badelaire
-A: A short sword with a heavy, curved blade; and S-shaped quillions.
+A: A short sword with a heavy, curved blade; and S-shaped quillons.
 
 ---
 
@@ -220,6 +220,11 @@ A: like prose, matter of fact, lacking poetry
 
 Q: protean
 A: frequently changing
+
+---
+
+Q: quillon
+A: Another word for the crossguard of a sword.
 
 ---
 
