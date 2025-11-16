@@ -29,6 +29,16 @@ A: `ln`
 
 ---
 
+Q: In the `ln` command, what is `-s` short for?
+A: `--symbolic`
+
+---
+
+Q: In the `ln` command, what does the `-s` flag do?
+A: Create a symbolic link instead of a hard link.
+
+---
+
 Q: What is the `ln` command used for?
 A: Create symbolic links.
 
