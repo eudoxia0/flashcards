@@ -1,3 +1,8 @@
+Q: Barangay
+A: The smallest administrative division of the Philippines.
+
+---
+
 Q: _ad patres_
 A: gone to his fathers, died
 
@@ -18,6 +23,11 @@ A: indulging in moderation
 
 ---
 
+Q: antinomian
+A: Rejecting laws and moral codes.
+
+---
+
 Q: antiparallel
 A: going in opposite directions
 
@@ -33,6 +43,11 @@ A: a bud, sprout, or shoot
 
 ---
 
+Q: bête noire
+A: Literally “black beast”; figuratively, an object of aversion.
+
+---
+
 Q: chancel
 A: The part of a church near the altar, separated from the nave by a barrier.
 
@@ -45,6 +60,11 @@ A: A projection jutting out from a wall.
 
 Q: cupidity
 A: greed
+
+---
+
+Q: cynosure
+A: A focal point of attention and admiration.
 
 ---
 
@@ -83,6 +103,11 @@ A: purposeless/unskilled
 
 ---
 
+Q: glyptic art
+A: The art of carving small gemstones.
+
+---
+
 Q: grandam
 A: grandmother
 
@@ -90,6 +115,11 @@ A: grandmother
 
 Q: hereunder
 A: Under this
+
+---
+
+Q: hieratic
+A: of or pertaining to priests
 
 ---
 
@@ -148,6 +178,11 @@ A: extravagant
 
 ---
 
+Q: panentheism
+A: The idea that God is everywhere, but also transcends the material universe.
+
+---
+
 Q: particoloured
 A: many-coloured
 
@@ -193,8 +228,23 @@ A: standing close together
 
 ---
 
+Q: slovenly
+A: An untidy, unkempt person.
+
+---
+
+Q: spavined
+A: Lame, old, worn-out.
+
+---
+
 Q: sully
 A: To soil something.
+
+---
+
+Q: threadbare
+A: (of clothing) worn out
 
 ---
 
@@ -213,6 +263,16 @@ A: Hypochondriacal.
 
 ---
 
+Q: vehmic
+A: Of or relating to the Vehm, a medieval German secret court.
+
+---
+
+Q: voir dire
+A: A preliminary examination of a juror or witness.
+
+---
+
 Q: wane
 A: To diminish.
 
@@ -225,63 +285,3 @@ A: to grow
 
 Q: wherefore
 A: why / therefore
-
----
-
-Q: hieratic
-A: of or pertaining to priests
-
----
-
-Q: threadbare
-A: (of clothing) worn out
-
----
-
-Q: panentheism
-A: The idea that God is everywhere, but also transcends the material universe.
-
----
-
-Q: bête noire
-A: Literally “black beast”; figuratively, an object of aversion.
-
----
-
-Q: antinomian
-A: Rejecting laws and moral codes.
-
----
-
-Q: voir dire
-A: A preliminary examination of a juror or witness.
-
----
-
-Q: Barangay
-A: The smallest administrative division of the Philippines.
-
----
-
-Q: glyptic art
-A: The art of carving small gemstones.
-
----
-
-Q: cynosure
-A: A focal point of attention and admiration.
-
----
-
-Q: spavined
-A: Lame, old, worn-out.
-
----
-
-Q: vehmic
-A: Of or relating to the Vehm, a medieval German secret court.
-
----
-
-Q: slovenly
-A: An untidy, unkempt person.
