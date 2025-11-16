@@ -103,6 +103,11 @@ A: purposeless/unskilled
 
 ---
 
+Q: gallipot
+A: A small jar used by apothecaries to hold medicines.
+
+---
+
 Q: glyptic art
 A: The art of carving small gemstones.
 
