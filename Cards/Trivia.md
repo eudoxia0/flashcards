@@ -138,7 +138,7 @@ A: Typography.
 
 ---
 
-Q: What is the standard definition of the $1 \text{pt}$?
+Q: What is the standard definition of $1 \text{pt}$?
 A: $\frac{1}{72}$ of an inch.
 
 ---
