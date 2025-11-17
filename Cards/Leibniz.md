@@ -22,6 +22,10 @@ A: Hanover.
 
 ---
 
+C: Leibniz died in the city of [Hanover].
+
+---
+
 Q: Who said of Leibniz: "When one compares the talents one has with those of a
 Leibniz, one is tempted to throw away one's books and go die quietly in the dark
 of some forgotten corner".
