@@ -4,7 +4,7 @@ A: 1646.
 ---
 
 Q: Leibniz, year of death.
-A: 1716.
+A: 1716
 
 ---
 
