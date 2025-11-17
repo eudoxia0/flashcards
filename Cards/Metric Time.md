@@ -13,7 +13,7 @@ A: ~31 years.
 
 ---
 
-Q: 1 teraseconds in normal time.
+Q: 1 terasecond in normal time.
 A: ~31,000 years.
 
 ---
