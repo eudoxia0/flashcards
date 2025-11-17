@@ -63,3 +63,8 @@ Q: What's the difference between _sudah_ and _sedang_?
 A: _sudah_: already
 
 _sedang_: currently
+
+---
+
+Q: Count to ten in Indonesian.
+A: Satu, dua, tiga, empat, lima, enam, tujuh, delapan, sembilan, sepuluh.
