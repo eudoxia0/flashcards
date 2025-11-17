@@ -48,7 +48,7 @@ A: Nishapur.
 ---
 
 Q: Attar, year of death.
-A: 1221.
+A: 1221 AD.
 
 ---
 
