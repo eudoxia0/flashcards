@@ -114,7 +114,7 @@ A: purposeless/unskilled
 ---
 
 Q: gallipot
-A: A small jar used by apothecaries to hold medicines.
+A: A small pot used by apothecaries to hold medicines.
 
 ---
 
