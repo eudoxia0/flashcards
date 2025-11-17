@@ -68,3 +68,65 @@ _sedang_: currently
 
 Q: Count to ten in Indonesian.
 A: Satu, dua, tiga, empat, lima, enam, tujuh, delapan, sembilan, sepuluh.
+
+---
+
+C: Number: [1]
+
+Indonesian: [satu]
+
+---
+
+C: Number: [2]
+
+Indonesian: [dua]
+
+---
+
+C: Number: [3]
+
+Indonesian: [tiga]
+
+---
+
+C: Number: [4]
+
+Indonesian: [empat]
+
+---
+
+C: Number: [5]
+
+Indonesian: [lima]
+
+---
+
+C: Number: [6]
+
+Indonesian: [enam]
+
+---
+
+C: Number: [7]
+
+Indonesian: [tujuh]
+
+---
+
+C: Number: [8]
+
+Indonesian: [delapan]
+
+---
+
+C: Number: [9]
+
+Indonesian: [sembilan]
+
+---
+
+C: Number: [10]
+
+Indonesian: [sepuluh]
+
+---
