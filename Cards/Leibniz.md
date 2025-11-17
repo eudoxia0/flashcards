@@ -1,5 +1,5 @@
 Q: Leibniz, year of birth.
-A: 1646.
+A: 1646
 
 ---
 
