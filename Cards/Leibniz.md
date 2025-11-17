@@ -13,6 +13,10 @@ A: Leipzig.
 
 ---
 
+C: Leibniz was born in the city of [Leipzig].
+
+---
+
 Q: Leibniz, city of death.
 A: Hanover.
 
