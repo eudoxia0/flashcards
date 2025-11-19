@@ -27,6 +27,10 @@ C: Ferdowsi died sometime between [1019 AD] and [1025] AD.
 
 ---
 
+C: Ferdowsi was born in [940] AD and died sometime between [1019] AD and [1025] AD.
+
+---
+
 Q: The most famous work of Attar.
 A: _The Conference of the Birds_.
 
