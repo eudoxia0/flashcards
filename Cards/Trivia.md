@@ -145,3 +145,28 @@ A: $\frac{1}{72}$ of an inch.
 
 Q: What's the visual difference between phi and psi?
 A: Phi is a circle, psi a U shape.
+
+---
+
+Q: Who was Clarence Madison Dally?
+A: The first recorded victim of radiation poisoning.
+
+---
+
+Q: Who was the first recorded victim of radiation poisoning?
+A: Clarence Madison Dally.
+
+---
+
+Q: Name of the longest river in Russia.
+A: The Lena.
+
+---
+
+Q: What country is Yakutsk in?
+A: Russia
+
+---
+
+Q: Name of the river that runs through Yakutsk.
+A: The Lena.
