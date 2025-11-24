@@ -310,3 +310,13 @@ A: to grow
 
 Q: wherefore
 A: why / therefore
+
+---
+
+Q: stolid
+A: Calm, dependable.
+
+---
+
+Q: hauberk
+A: A coat of mail.
