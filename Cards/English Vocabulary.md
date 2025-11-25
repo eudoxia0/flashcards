@@ -113,6 +113,11 @@ A: purposeless/unskilled
 
 ---
 
+Q: fen
+A: A swamp or mire.
+
+---
+
 Q: gallipot
 A: A small pot used by apothecaries to hold medicines.
 
@@ -125,6 +130,11 @@ A: The art of carving small gemstones.
 
 Q: grandam
 A: grandmother
+
+---
+
+Q: hauberk
+A: A coat of mail.
 
 ---
 
@@ -263,6 +273,11 @@ A: Lame, old, worn-out.
 
 ---
 
+Q: stolid
+A: Calm, dependable.
+
+---
+
 Q: sully
 A: To soil something.
 
@@ -310,18 +325,3 @@ A: to grow
 
 Q: wherefore
 A: why / therefore
-
----
-
-Q: stolid
-A: Calm, dependable.
-
----
-
-Q: hauberk
-A: A coat of mail.
-
----
-
-Q: fen
-A: A swamp or mire.
