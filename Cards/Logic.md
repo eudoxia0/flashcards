@@ -31,4 +31,9 @@ C: _Modus ponens_ is also called [implication elimination].
 ---
 
 Q: Write _modus ponens_ in sequent notation.
-A: $P \to Q, P \vdash Q$
+A: $P \implies Q, P \vdash Q$
+
+---
+
+Q: Write _modus tollens_ in sequent notation.
+A: $P \implies Q, \neg Q \vdash \neg P$
