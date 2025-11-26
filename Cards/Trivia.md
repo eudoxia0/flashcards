@@ -175,3 +175,24 @@ A: The Lena.
 
 Q: When did the Khmelnytsky pogrom happen?
 A: 1648–1649.
+
+---
+
+C: The Torah is also known as the [Pentateuch].
+
+---
+
+C: The Pentateuch is another name for the [Torah].
+
+---
+
+C: The Torah is the compilation of the first [five] books of the Hebrew Bible.
+
+---
+
+C: The first five books of the Hebrew Bible are collectively known as the [Torah].
+
+---
+
+Q: Define: dybbuk
+A: In Jewish mythology, the soul of a deceased person that is said to possess a living host.
