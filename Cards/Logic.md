@@ -37,3 +37,19 @@ A: $P \implies Q, P \vdash Q$
 
 Q: Write _modus tollens_ in sequent notation.
 A: $P \implies Q, \neg Q \vdash \neg P$
+
+---
+
+Q: What is the name of this inference rule?
+
+$$P \implies Q, P \vdash Q$$
+
+A: _Modus ponens_.
+
+---
+
+Q: What is the name of this inference rule?
+
+$$P \implies Q, \neg Q \vdash \neg P$$
+
+A: _Modus tollens_.
