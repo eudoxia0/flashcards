@@ -139,3 +139,14 @@ C:
 
 Q: Ezekiel 26:10
 A: Thy walls shall shake at the noise of the horsemen, and of the wheels, and of the chariots.
+
+---
+
+C: [Knowest thou the ordinances of heaven?] [canst thou set the dominion thereof in the earth?]
+
+— [Job] [38]:[33]
+
+---
+
+Q: Job 38:33
+A: Knowest thou the ordinances of heaven? canst thou set the dominion thereof in the earth?
