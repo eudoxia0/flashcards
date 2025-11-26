@@ -23,6 +23,11 @@ A: indulging in moderation
 
 ---
 
+Q: anastylosis
+A: The reconstruction of archaeological ruins from the remaining fragments.
+
+---
+
 Q: antinomian
 A: Rejecting laws and moral codes.
 
