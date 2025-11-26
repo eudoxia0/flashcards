@@ -53,3 +53,8 @@ Q: What is the name of this inference rule?
 $$P \implies Q, \neg Q \vdash \neg P$$
 
 A: _Modus tollens_.
+
+---
+
+Q: What is the contrapositive of $P \implies Q$?
+A: $\neg Q \implies \neg P$
