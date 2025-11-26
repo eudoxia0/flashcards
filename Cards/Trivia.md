@@ -170,3 +170,8 @@ A: Russia
 
 Q: Name of the river that runs through Yakutsk.
 A: The Lena.
+
+---
+
+Q: When did the Khmelnytsky pogrom happen?
+A: 1648–1649.
