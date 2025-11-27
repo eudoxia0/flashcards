@@ -313,6 +313,11 @@ A: Of or relating to the Vehm, a medieval German secret court.
 
 ---
 
+Q: vitiate
+A: To reduce the effectiveness of something.
+
+---
+
 Q: voir dire
 A: A preliminary examination of a juror or witness.
 
