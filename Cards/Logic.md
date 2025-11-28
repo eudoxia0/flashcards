@@ -6,7 +6,7 @@ Satisfiable: true for some assignment.
 
 ---
 
-C: Term: [equiconsistency]
+C: Term: [equiconsistent]
 
 Definition: [two mathematical theories are called this if the consistency of one implies that of the other.]
 
