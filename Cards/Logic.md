@@ -58,3 +58,13 @@ A: _Modus tollens_.
 
 Q: What is the contrapositive of $P \implies Q$?
 A: $\neg Q \implies \neg P$
+
+---
+
+Q: State Gödel's first incompleteness theorem.
+A: Any consistent formal system that contains arithmetic has semantically true statements which cannot be proven within the system.
+
+---
+
+Q: State Gödel's second incompleteness theorem.
+A: The consistency of a consistent formal system that contains arithmetic cannot be proven by arguments formalizable within the system.
