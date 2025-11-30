@@ -142,11 +142,11 @@ A: Thy walls shall shake at the noise of the horsemen, and of the wheels, and of
 
 ---
 
-C: [Knowest thou the ordinances of heaven?] [canst thou set the dominion thereof in the earth?]
+C: [Knowest thou the ordinances of heaven?]
 
 — [Job] [38]:[33]
 
 ---
 
 Q: Job 38:33
-A: Knowest thou the ordinances of heaven? canst thou set the dominion thereof in the earth?
+A: Knowest thou the ordinances of heaven?
