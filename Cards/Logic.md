@@ -68,3 +68,8 @@ A: Any consistent formal system that contains arithmetic has semantically true s
 
 Q: State Gödel's second incompleteness theorem.
 A: The consistency of a consistent formal system that contains arithmetic cannot be proven by arguments formalizable within the system.
+
+---
+
+Q: What kind of systems do Gödel's incompleteness theorems apply to?
+A: Consistent, recursively enumerable formal systems that contain arithmetic.
