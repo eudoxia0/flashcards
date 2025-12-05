@@ -196,3 +196,13 @@ C: The first five books of the Hebrew Bible are collectively known as the [Torah
 
 Q: Define: dybbuk
 A: In Jewish mythology, the soul of a deceased person that is said to possess a living host.
+
+---
+
+Q: TeX Gyre equivalent of Times New Roman?
+A: TeX Gyre Termes.
+
+---
+
+Q: TeX Gyre sans-serif font?
+A: TeX Gyre Heros.
