@@ -178,6 +178,11 @@ A: To convince through lies and flattery.
 
 ---
 
+Q: loquacious
+A: Talkative.
+
+---
+
 Q: machicolation
 A: A hole on the floor of a corbel, through which stones can be thrown at attackers.
 
