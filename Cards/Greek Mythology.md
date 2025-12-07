@@ -55,3 +55,8 @@ A: _Oedipus Rex_, _Oedipus at Colonus_, _Antigone_.
 
 Q: Sort the three Theban plays into publication order.
 A: _Antigone_, _Oedipus Rex_, _Oedipus at Colonus_.
+
+---
+
+Q: In _Antigone_, Tiresias speaks of the "gods below the earth". What does this refer to?
+A: The cthonic deities, associated with death, the underworld, and fertility.
