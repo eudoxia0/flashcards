@@ -60,3 +60,13 @@ A: _Antigone_, _Oedipus Rex_, _Oedipus at Colonus_.
 
 Q: In _Antigone_, Tiresias speaks of the "gods below the earth". What does this refer to?
 A: The cthonic deities, associated with death, the underworld, and fertility.
+
+---
+
+Q: What is the "suspect passage" in _Antigone_?
+A: The passage where Antigone says she would not have defied the laws for a child or a husband.
+
+---
+
+Q: What is the evidence that the suspect passage in _Antigone_ is real, and not a later interpolation?
+A: Aristotle, in his _Rhetoric_, quotes the passage.
