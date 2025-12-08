@@ -45,3 +45,17 @@ $$\ket{\psi} = \alpha \ket{0} + \beta \ket{1}$$
 What condition must $\alpha$ and $\beta$ satisfy, and why?
 
 A: $|\alpha|^2 + |\beta|^2 = 1$, since the probability of observing 0 or 1 must sum to one.
+
+---
+
+C: The set $\set{\ket{0}, \ket{1}}$ forms an [orthonormal] basis for the state of a qubit.
+
+---
+
+Q: Consider the state of a qubit:
+
+$$\ket{\psi} = \alpha \ket{0} + \beta \ket{1}$$
+
+Geometrically, what is the interpretation of the constraint $|\alpha|^2 + |\beta|^2 = 1$?
+
+A: $\ket{\psi}$ has unit length.
