@@ -44,4 +44,4 @@ $$\ket{\psi} = \alpha \ket{0} + \beta \ket{1}$$
 
 What condition must $\alpha$ and $\beta$ satisfy, and why?
 
-A: $|\alpha|^2 + |\beta|^2 = 2$, since the probability of observing 0 or 1 must sum to one.
+A: $|\alpha|^2 + |\beta|^2 = 1$, since the probability of observing 0 or 1 must sum to one.
