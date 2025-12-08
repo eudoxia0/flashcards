@@ -59,3 +59,30 @@ $$\ket{\psi} = \alpha \ket{0} + \beta \ket{1}$$
 Geometrically, what is the interpretation of the constraint $|\alpha|^2 + |\beta|^2 = 1$?
 
 A: $\ket{\psi}$ has unit length.
+
+---
+
+C: The [north] pole of the Bloch sphere is given to the vector [$\ket{0}$].
+
+---
+
+C: The [south] pole of the Bloch sphere is given to the vector [$\ket{1}$].
+
+---
+
+Q: What does it mean for a matrix $U$ to be unitary?
+A: $U^\dagger U = I$.
+
+---
+
+C: Let $A$ be a matrix. If $A^\dagger A = I$, then $A$ is said to be a [unitary] matrix.
+
+---
+
+Q: Let $A$ be a matrix. What does the notation $A^\dagger$ mean?
+A: The adjoint of $A$.
+
+---
+
+Q: Notation for the adjoint of a matrix $A$.
+A: $A^\dagger$.
