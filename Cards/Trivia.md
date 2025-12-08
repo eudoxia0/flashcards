@@ -206,3 +206,17 @@ A: TeX Gyre Termes.
 
 Q: TeX Gyre sans-serif font?
 A: TeX Gyre Heros.
+
+---
+
+C: Hyperthreading is Intel's implementation of [simultaneous multithreading].
+
+---
+
+C: Intel's implementation of simultaneous multithreading is called [hyperthreading].
+
+---
+
+C: Term: [simultaneous multithreading]
+
+Definition: [a technique whereby a single CPU can execute multiple threads in parallel.]
