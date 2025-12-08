@@ -71,7 +71,7 @@ C: The [south] pole of the Bloch sphere is given to the vector [$\ket{1}$].
 ---
 
 Q: What does it mean for a matrix $U$ to be unitary?
-A: $U^\dagger U = I$.
+A: $U^\dagger U = I$
 
 ---
 
@@ -85,4 +85,4 @@ A: The adjoint of $A$.
 ---
 
 Q: Notation for the adjoint of a matrix $A$.
-A: $A^\dagger$.
+A: $A^\dagger$
