@@ -92,3 +92,18 @@ A: $A^\dagger$
 C: Term: [adjoint of a matrix]
 
 Definition: [the operation that takes a matrix, tranposes it, and applies the complex conjugate to each element.]
+
+---
+
+Q: What does CNOT stand for?
+A: Controlled NOT.
+
+---
+
+Q: The CNOT gate has how many inputs.
+A: Two.
+
+---
+
+Q: The CNOT gate has two inputs: what are they?
+A: Control, target.
