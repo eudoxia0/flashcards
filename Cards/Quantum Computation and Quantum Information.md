@@ -86,3 +86,9 @@ A: The adjoint of $A$.
 
 Q: Notation for the adjoint of a matrix $A$.
 A: $A^\dagger$
+
+---
+
+C: Term: [adjoint of a matrix]
+
+Definition: [the operation that takes a matrix, tranposes it, and applies the complex conjugate to each element.]
