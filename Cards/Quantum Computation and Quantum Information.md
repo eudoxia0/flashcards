@@ -35,3 +35,13 @@ C: Measuring the state of a qubit gives us the state [0] with probability $|\alp
 ---
 
 C: Measuring the state of a qubit gives us the state [1] with probability $|\beta|^2$.
+
+---
+
+Q: Consider the state of a qubit:
+
+$$\ket{\psi} = \alpha \ket{0} + \beta \ket{1}$$
+
+What condition must $\alpha$ and $\beta$ satisfy, and why?
+
+A: $|\alpha|^2 + |\beta|^2 = 2$, since the probability of observing 0 or 1 must sum to one.
