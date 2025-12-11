@@ -1,3 +1,7 @@
+---
+title = "Zathura Keybindings"
+---
+
 C: Key: [gg]
 
 Action: [go to the first page]
