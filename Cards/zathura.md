@@ -47,3 +47,9 @@ Action: [next search result]
 C: Key: [N]
 
 Action: [previous search result]
+
+---
+
+C: Key: [q]
+
+Action: [quit]
