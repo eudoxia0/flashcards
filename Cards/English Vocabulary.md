@@ -123,6 +123,11 @@ A: A swamp or mire.
 
 ---
 
+Q: flense
+A: To strip the blubber or skin from an animal.
+
+---
+
 Q: gallipot
 A: A small pot used by apothecaries to hold medicines.
 
