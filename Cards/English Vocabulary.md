@@ -278,6 +278,11 @@ A: standing close together
 
 ---
 
+Q: sexton
+A: A church official who looks after a church and its graveyard.
+
+---
+
 Q: slovenly
 A: An untidy, unkempt person.
 
