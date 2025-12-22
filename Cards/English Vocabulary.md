@@ -8,6 +8,11 @@ A: gone to his fathers, died
 
 ---
 
+Q: _obiter dicta_
+A: Things said in passing.
+
+---
+
 Q: _pro forma_
 A: Perfunctorily, for the sake of procedure or politeness.
 
