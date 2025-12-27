@@ -10,7 +10,7 @@ Action: [increase playback speed.]
 
 ---
 
-C: Key: [#]
+C: Key: [`#`]
 
 Action: [cycle audio tracks.]
 
