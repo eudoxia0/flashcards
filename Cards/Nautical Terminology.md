@@ -46,18 +46,6 @@ Definition: [a tensioned cable that stabilizes a spar.]
 
 ---
 
-C: Term: [stay]
-
-Definition: [a guy wire that runs fore-and-aft and which stabilizes the mast.]
-
----
-
-C: Term: [shroud]
-
-Definition: [a guy wire that runs perpendicular to the ship and which stabilizes the mast.]
-
----
-
 C: Term: [fore-and-aft]
 
 Definition: [the axis parallel to the keel, that is, from bow to stern.]
