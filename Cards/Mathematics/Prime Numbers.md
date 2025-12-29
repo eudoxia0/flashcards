@@ -1,5 +1,5 @@
 ---
-title = "Mathematics"
+name = "Mathematics"
 ---
 
 C: The dual of the prime numbers are the [composite] numbers.

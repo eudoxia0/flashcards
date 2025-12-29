@@ -1,5 +1,5 @@
 ---
-title = "Mathematics"
+name = "Mathematics"
 ---
 
 Q: When is a collection of sets said to be "pairwise disjoint"?

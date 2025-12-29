@@ -1,5 +1,5 @@
 ---
-title = "Mathematics"
+name = "Mathematics"
 ---
 
 C: Term: [injective function]

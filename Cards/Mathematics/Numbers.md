@@ -1,5 +1,5 @@
 ---
-title = "Mathematics"
+name = "Mathematics"
 ---
 
 C: The set of the [natural numbers] is denoted by [$\N$].

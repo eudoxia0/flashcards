@@ -1,5 +1,5 @@
 ---
-title = "Mathematics"
+name = "Mathematics"
 ---
 
 Q: Define the factorial function symbolically.
