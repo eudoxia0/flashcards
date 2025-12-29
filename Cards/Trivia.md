@@ -220,3 +220,8 @@ C: Intel's implementation of simultaneous multithreading is called [hyperthreadi
 C: Term: [simultaneous multithreading]
 
 Definition: [a technique whereby a single CPU can execute multiple threads in parallel.]
+
+---
+
+Q: Frequency of AC power in Australia.
+A: $50~\text{Hz}$.
