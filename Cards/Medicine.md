@@ -292,3 +292,8 @@ A: Two.
 
 Q: How many molars are there in one quadrant of the mouth?
 A: Three.
+
+---
+
+Q: Abbreviation for orthopantomogram.
+A: OPG.
