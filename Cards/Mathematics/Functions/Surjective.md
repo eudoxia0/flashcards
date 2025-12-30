@@ -16,4 +16,4 @@ C: A [surjective] function is also called [onto].
 
 ---
 
-C: An [onto] function is also called [surjective].
+C: A [onto] function is also called [surjective].
