@@ -8,7 +8,7 @@ Definition: [a function that maps distinct elements in its domain to distinct el
 
 ---
 
-C: In an [injective] function, every element in the codomain is the image of [at most one] element in the domain.
+C: In a [injective] function, every element in the codomain is the image of [at most one] element in the domain.
 
 ---
 
