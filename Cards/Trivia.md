@@ -225,3 +225,8 @@ Definition: [a technique whereby a single CPU can execute multiple threads in pa
 
 Q: Frequency of AC power in Australia.
 A: $50~\text{Hz}$.
+
+---
+
+Q: Who wrote _The Unreasonable Effectiveness of Mathematics in the Natural Sciences_?
+A: Eugene Wigner.
