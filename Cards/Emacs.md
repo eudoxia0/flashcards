@@ -22,3 +22,22 @@ A: `C-c`.
 
 Q: What is `C-c` used for?
 A: Custom user keybindings.
+
+---
+
+Q: What's the command to turn this:
+
+```
+alpha = 1
+beta = 2
+gamma = 3
+
+Into this:
+
+```
+alpha = 1
+beta  = 2
+gamma = 3
+```
+
+A: `align-regexp =`
