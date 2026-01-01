@@ -31,6 +31,7 @@ Q: What's the command to turn this:
 alpha = 1
 beta = 2
 gamma = 3
+```
 
 Into this:
 
