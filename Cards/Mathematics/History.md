@@ -11,3 +11,7 @@ C: The word _algorithm_ comes from the name of mathematician [Mohammed al-Khwari
 ---
 
 C: Mohammed al-Khwarizmi was active in the [9th] century AD.
+
+---
+
+C: Abelian groups are named after mathematician [Niels Henrik Abel].
