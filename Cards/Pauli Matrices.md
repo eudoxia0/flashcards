@@ -18,7 +18,7 @@ C:
 
 C:
 
-[$\sigma_23] $\equiv$ [$\sigma_z$] $\equiv$ [$Z$] $\equiv$ [$\begin{bmatrix} 1 & 0 \\\\ 0 & -1 \end{bmatrix}$]
+[$\sigma_2$] $\equiv$ [$\sigma_z$] $\equiv$ [$Z$] $\equiv$ [$\begin{bmatrix} 1 & 0 \\\\ 0 & -1 \end{bmatrix}$]
 
 ---
 
