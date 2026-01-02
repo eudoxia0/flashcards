@@ -204,3 +204,9 @@ It is unworthy of excellent men to lose hours like slaves in the labour of calcu
 which could safely be relegated to anyone else if machines were used.
 
 — [Leibniz]
+
+---
+
+By relieving the brain of all unnecessary work, a good notation sets it free to concentrate on more advanced problems, and, in effect, increases the mental power of the race.
+
+— [Alfred North Whitehead]
