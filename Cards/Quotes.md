@@ -197,3 +197,10 @@ Forsake thy cage,
 Thy rope of sands
 
 — [George Herbert], [_The Collar_]
+
+---
+
+It is unworthy of excellent men to lose hours like slaves in the labour of calculations
+which could safely be relegated to anyone else if machines were used.
+
+— [Leibniz]
