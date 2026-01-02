@@ -216,3 +216,9 @@ By relieving the brain of all unnecessary work, a good notation sets it free to 
 God made the integers, all the rest is the work of man.
 
 — [Leopold Kronecker]
+
+---
+
+When it is useful to them, men can believe a theory of which they know nothing more than its name. 
+
+— [Vilfredo Pareto]
