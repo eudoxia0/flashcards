@@ -73,3 +73,11 @@ A: The consistency of a consistent formal system that contains arithmetic cannot
 
 Q: What kind of systems do Gödel's incompleteness theorems apply to?
 A: Consistent, recursively enumerable formal systems that contain arithmetic.
+
+---
+
+C: A [metalanguage] is a formal language used to talk about a distinct [object] language.
+
+---
+
+C: Theorems _about_ formal systems are often called [metatheorems], to distinguish them from theorems _inside_ the formal system.
