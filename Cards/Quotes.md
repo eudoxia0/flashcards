@@ -210,3 +210,9 @@ which could safely be relegated to anyone else if machines were used.
 By relieving the brain of all unnecessary work, a good notation sets it free to concentrate on more advanced problems, and, in effect, increases the mental power of the race.
 
 — [Alfred North Whitehead]
+
+---
+
+God made the integers, all the rest is the work of man.
+
+— [Leopold Kronecker]
