@@ -247,4 +247,4 @@ A: Friedrich Hayek.
 
 ---
 
-C: _The Use of Knowledge in Society_ was published in the year[1945].
+C: _The Use of Knowledge in Society_ was published in the year [1945].
