@@ -222,3 +222,9 @@ God made the integers, all the rest is the work of man.
 When it is useful to them, men can believe a theory of which they know nothing more than its name. 
 
 — [Vilfredo Pareto]
+
+---
+
+Asia begins at the Landstrasse.
+
+— Metternich
