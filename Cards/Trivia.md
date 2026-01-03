@@ -230,3 +230,12 @@ A: $50~\text{Hz}$.
 
 Q: Who wrote _The Unreasonable Effectiveness of Mathematics in the Natural Sciences_?
 A: Eugene Wigner.
+
+---
+
+Q: Who wrote _The Nature of the Firm_?
+A: Ronald Coase.
+
+---
+
+C: _The Nature of the Firm_ was written by [Ronald Coase] and published in [1937].
