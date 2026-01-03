@@ -238,4 +238,13 @@ A: Ronald Coase.
 
 ---
 
-C: _The Nature of the Firm_ was written by [Ronald Coase] and published in [1937].
+C: _The Nature of the Firm_ was published in the year [1937].
+
+---
+
+Q: Who wrote _The Use of Knowledge in Society_?
+A: Friedrich Hayek.
+
+---
+
+C: _The Use of Knowledge in Society_ was published in the year[1945].
