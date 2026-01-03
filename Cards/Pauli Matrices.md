@@ -18,7 +18,7 @@ C:
 
 C:
 
-[$\sigma_2$] $\equiv$ [$\sigma_z$] $\equiv$ [$Z$] $\equiv$ [$\begin{bmatrix} 1 & 0 \\\\ 0 & -1 \end{bmatrix}$]
+[$\sigma_3$] $\equiv$ [$\sigma_z$] $\equiv$ [$Z$] $\equiv$ [$\begin{bmatrix} 1 & 0 \\\\ 0 & -1 \end{bmatrix}$]
 
 ---
 
