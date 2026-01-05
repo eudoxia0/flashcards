@@ -107,3 +107,8 @@ A: Two.
 
 Q: The CNOT gate has two inputs: what are they?
 A: Control, target.
+
+---
+
+Q: What operation does the notation $\ket{a}\bra{b}$ represent?
+A: Outer product.
