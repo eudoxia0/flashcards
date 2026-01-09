@@ -115,5 +115,33 @@ A: Outer product.
 
 ---
 
-Q: What operation does the notation $\braket{a|b|}$ represent?
-A: Inner product of the vectors $\ket{a}$ and $\ket{b}$.
+C:
+Notation: [$\braket{a|b|}$]
+
+Definition: [inner product of the vectors $\ket{a}$ and $\ket{b}$.]
+
+---
+
+C:
+Notation: [$\ket{a} \otimes \ket{b}$]
+
+Definition: [tensor product of the vectors $\ket{a}$ and $\ket{b}$.]
+
+---
+
+C:
+Notation: [$\ket{a} \ket{b}$]
+
+Definition: [abbreviated notation for the tensor product of the vectors $\ket{a}$ and $\ket{b}$.]
+
+---
+
+C:
+Notation: [$\overline{A}$]
+
+Definition: [complex conjugate of a matrix $A$.]
+
+---
+
+Q: How is the complex conjugate of a matrix defined?
+A: Elementwise.
