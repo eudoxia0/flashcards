@@ -157,3 +157,7 @@ Definition: [inner product of $A^\dagger \ket{a}$ and $\ket{b}$.]
 
 Q: Let $A$ be a matrix. Define the conjugate transpose $A^\dagger$ in symbols.
 A: $$A^\dagger = (\overline{A})^T$$
+
+---
+
+C: Let $A$ be a linear operator in a finite-dimensional inner product space. The Hermitian adjoint is given by [$A^\dagger$.]
