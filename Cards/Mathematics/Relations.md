@@ -27,3 +27,10 @@ C:
 Term: [antisymmetric (relation)]
 
 Definition: [$\forall x,y . R(x,y) \land R(y,x) \to x=y$]
+
+---
+
+C:
+Term: [asymmetric (relation)]
+
+Definition: [$\forall x,y . R(x,y) \to \neg R(y,x)$]
