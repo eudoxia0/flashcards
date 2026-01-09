@@ -161,3 +161,8 @@ A: $$A^\dagger = (\overline{A})^T$$
 ---
 
 C: Let $A$ be a linear operator in a finite-dimensional inner product space. The Hermitian adjoint is given by [$A^\dagger$.]
+
+---
+
+Q: Why can't we use a repetition code in quantum error correction?
+A: Because of no-cloning.
