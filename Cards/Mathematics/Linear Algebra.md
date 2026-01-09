@@ -3,5 +3,7 @@ A: $\langle a, b \rangle$
 
 ---
 
-Q: Signature of the inner product $\langle \cdot, \cdot \rangle$ in a vector space $V$ with field $\mathbb{F}$.
+Q: Signature of the inner product $\langle \cdot, \cdot \rangle$ in a vector space $V$ over a field $\mathbb{F}$.
 A: $$\langle \cdot, \cdot \rangle : V \times V \to \mathbb{F}$$
+
+---
