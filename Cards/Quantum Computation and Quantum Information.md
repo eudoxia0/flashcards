@@ -112,3 +112,8 @@ A: Control, target.
 
 Q: What operation does the notation $\ket{a}\bra{b}$ represent?
 A: Outer product.
+
+---
+
+Q: What operation does the notation $\braket{a|b|}$ represent?
+A: Inner product of the vectors $\ket{a}$ and $\ket{b}$.
