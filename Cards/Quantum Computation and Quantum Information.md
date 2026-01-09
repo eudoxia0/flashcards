@@ -80,18 +80,18 @@ C: Let $A$ be a matrix. If $A^\dagger A = I$, then $A$ is said to be a [unitary]
 ---
 
 Q: Let $A$ be a matrix. What does the notation $A^\dagger$ mean?
-A: The adjoint of $A$.
+A: The conjugate transpose of $A$.
 
 ---
 
-Q: Notation for the adjoint of a matrix $A$.
+Q: Notation for the conjugate transpose of a matrix $A$.
 A: $A^\dagger$
 
 ---
 
-C: Term: [adjoint of a matrix]
+C: Term: [conjugate transpose]
 
-Definition: [the operation that takes a matrix, tranposes it, and applies the complex conjugate to each element.]
+Definition: [the operation that takes the transpose of the complex conjugate of a matrix.]
 
 ---
 
@@ -152,3 +152,8 @@ C:
 Notation: [$\braket{a|A|b}$]
 
 Definition: [inner product of $A^\dagger \ket{a}$ and $\ket{b}$.]
+
+---
+
+Q: Let $A$ be a matrix. Define the conjugate transpose $A^\dagger$ in symbols.
+A: $$A^\dagger = (\overline{A})^T$$
