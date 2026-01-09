@@ -7,3 +7,6 @@ Q: Signature of the inner product $\langle \cdot, \cdot \rangle$ in a vector spa
 A: $$\langle \cdot, \cdot \rangle : V \times V \to \mathbb{F}$$
 
 ---
+
+Q: Define the norm of a vector $v$ using the inner product.
+A: $$|v| = \sqrt{\langle v, v \rangle}$$
