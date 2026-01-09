@@ -9,4 +9,4 @@ A: $$\langle \cdot, \cdot \rangle : V \times V \to \mathbb{F}$$
 ---
 
 Q: Define the norm of a vector $v$ using the inner product.
-A: $$|v| = \sqrt{\langle v, v \rangle}$$
+A: $$||v|| = \sqrt{\langle v, v \rangle}$$
