@@ -10,3 +10,13 @@ Definition: [a mathematical object made up of a set $S$, an a binary operation $
 ---
 
 C: A group without inverses is called a [monoid].
+
+---
+
+C: The **order** of a group $G$, denoted [|G|], is [the number of elements it contains].
+
+---
+
+C: Term: [Abelian group]
+
+Definition: [a group whose operation is commutative.]
