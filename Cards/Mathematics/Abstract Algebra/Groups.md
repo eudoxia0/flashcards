@@ -42,3 +42,9 @@ A: $$gH = \set{ gh | h \in H }$$
 
 Q: Let $H \subset G$. Given $g \in G$, define the right coset of $H$ in $G$ determined by $g$.
 A: $$Hg = \set{ hg | h \in H }$$
+
+---
+
+C: Term: [matrix group]
+
+Definition: [a set of square matrices that satisfy the group properties under matrix multiplication.]
