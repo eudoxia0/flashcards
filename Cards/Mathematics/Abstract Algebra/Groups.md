@@ -1,5 +1,5 @@
 ---
-name = "Mathematics"
+name = "Group Theory"
 ---
 
 C:
@@ -20,3 +20,9 @@ C: The **order** of a group $G$, denoted [|G|], is [the number of elements it co
 C: Term: [Abelian group]
 
 Definition: [a group whose operation is commutative.]
+
+---
+
+C: Term: [order of an element]
+
+Definition: [given $g \in G$, the smallest positive integer $r$ such that $g^r=e$.]
