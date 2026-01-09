@@ -26,3 +26,14 @@ Definition: [a group whose operation is commutative.]
 C: Term: [order of an element]
 
 Definition: [given $g \in G$, the smallest positive integer $r$ such that $g^r=e$.]
+
+---
+
+C: Theorem: [Lagrange's theorem]
+
+Statement: [if $H \subset G$ and $G$ is finite, then $|H|$ divides $|G|$.]
+
+---
+
+Q: Let $H \subset G$. Given $g \in G$, define the left coset of $H$ in $G$ determined by $g$.
+A: $$gH = \set{ gh | h \in H }$$
