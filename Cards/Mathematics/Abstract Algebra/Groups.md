@@ -48,3 +48,9 @@ A: $$Hg = \set{ hg | h \in H }$$
 C: Term: [matrix group]
 
 Definition: [a set of square matrices that satisfy the group properties under matrix multiplication.]
+
+---
+
+C: Term: [group representation]
+
+Definition: [a function that maps a group to a matrix group in a way that preserves products.]
