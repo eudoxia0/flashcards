@@ -37,3 +37,8 @@ Statement: [if $H \subset G$ and $G$ is finite, then $|H|$ divides $|G|$.]
 
 Q: Let $H \subset G$. Given $g \in G$, define the left coset of $H$ in $G$ determined by $g$.
 A: $$gH = \set{ gh | h \in H }$$
+
+---
+
+Q: Let $H \subset G$. Given $g \in G$, define the right coset of $H$ in $G$ determined by $g$.
+A: $$Hg = \set{ hg | h \in H }$$
