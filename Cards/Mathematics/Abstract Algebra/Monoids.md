@@ -5,7 +5,7 @@ name = "Mathematics"
 C:
 Term: [monoid]
 
-Definition: [a set $S$ with an associative binary operation $S \times S \to S$ and an identity element $e \in S$.]
+Definition: [a mathematical object made up of a set $S$ and an associative binary operation $S \times S \to S$ and an identity element $e \in S$.]
 
 ---
 
