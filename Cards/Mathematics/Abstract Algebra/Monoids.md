@@ -13,10 +13,6 @@ C: The set $\N$ under addition is a monoid, where the identity is $0$.
 
 ---
 
-C: A semigroup with an identity element is called a [monoid].
-
----
-
 C: Removing the identity from a monoid gives us a [semigroup].
 
 ---
