@@ -145,3 +145,10 @@ Definition: [complex conjugate of a matrix $A$.]
 
 Q: How is the complex conjugate of a matrix defined?
 A: Elementwise.
+
+---
+
+C:
+Notation: [$\braket{a|A|b}$]
+
+Definition: [inner product of $A^\dagger \ket{a}$ and $\ket{b}$.]
