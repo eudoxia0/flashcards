@@ -1,36 +1,36 @@
 ---
-name = "Mathematics"
+name = "Relations"
 ---
 
 C:
-Term: [reflexive (relation)]
+Term: [reflexive]
 
 Definition: [$\forall x . R(x,x)$]
 
 ---
 
 C:
-Term: [irreflexive (relation)]
+Term: [irreflexive]
 
 Definition: [$\forall x . \neg R(x,x)$]
 
 ---
 
 C:
-Term: [symmetric (relation)]
+Term: [symmetric]
 
 Definition: [$\forall x,y . R(x,y) \to R(y,x)$]
 
 ---
 
 C:
-Term: [antisymmetric (relation)]
+Term: [antisymmetric]
 
 Definition: [$\forall x,y . R(x,y) \land R(y,x) \to x=y$]
 
 ---
 
 C:
-Term: [asymmetric (relation)]
+Term: [asymmetric]
 
 Definition: [$\forall x,y . R(x,y) \to \neg R(y,x)$]
