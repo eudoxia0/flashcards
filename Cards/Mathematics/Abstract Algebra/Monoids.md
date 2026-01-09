@@ -17,4 +17,4 @@ C: Removing the identity from a monoid gives us a [semigroup].
 
 ---
 
-C:
+C: Adding an inverse to each element in a monoid yields a [group].
