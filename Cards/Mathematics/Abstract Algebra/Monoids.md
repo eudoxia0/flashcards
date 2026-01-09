@@ -9,7 +9,7 @@ Definition: [a mathematical object made up of a set $S$ and an associative binar
 
 ---
 
-C: The set $\N$ under addition is a monoid, where the identity is $0$.
+C: The set $\N$ under addition is a monoid, where the identity is [$0$].
 
 ---
 
