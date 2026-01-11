@@ -116,7 +116,7 @@ A: Outer product.
 ---
 
 C:
-Notation: [$\braket{a|b|}$]
+Notation: [$\braket{a|b}$]
 
 Definition: [inner product of the vectors $\ket{a}$ and $\ket{b}$.]
 
