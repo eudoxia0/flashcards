@@ -13,7 +13,7 @@ C: A group without inverses is called a [monoid].
 
 ---
 
-C: The **order** of a group $G$, denoted [|G|], is [the number of elements it contains].
+C: The **order** of a group $G$, denoted [$|G|$], is [the number of elements it contains].
 
 ---
 
