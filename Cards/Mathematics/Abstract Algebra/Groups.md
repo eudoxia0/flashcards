@@ -31,7 +31,7 @@ Definition: [given $g \in G$, the smallest positive integer $r$ such that $g^r=e
 
 C: Theorem: [Lagrange's theorem]
 
-Statement: [if $H \subset G$ and $G$ is finite, then $|H|$ divides $|G|$.]
+Statement: [if $H \subseteq G$ and $G$ is finite, then $|H|$ divides $|G|$.]
 
 ---
 
