@@ -14,7 +14,7 @@ A: $$\sqrt{-1}$$
 ---
 
 Q: Notation for the conjugate of a complex number $z$.
-A: $\overline{x}$.
+A: $\overline{z}$
 
 ---
 
