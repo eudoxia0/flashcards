@@ -258,3 +258,8 @@ A: "In a geometric manner".
 
 Q: What is "_more geometrico_" an allusion to?
 A: Spinoza's _Ethics_.
+
+---
+
+Q: Vernier acuity.
+A: The ability of the human visual system to notice misalignment between two parallel line segments.
