@@ -248,3 +248,13 @@ A: Friedrich Hayek.
 ---
 
 C: _The Use of Knowledge in Society_ was published in the year [1945].
+
+---
+
+Q: What does _more geometrico_ mean?
+A: "In a geometric manner".
+
+---
+
+Q: What is "_more geometrico_" an allusion to?
+A: Spinoza's _Ethics_.
