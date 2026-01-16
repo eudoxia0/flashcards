@@ -57,7 +57,7 @@ check:
 	hashcards check Cards
 
 drill:
-	hashcards drill Cards
+	hashcards drill Cards --bury-siblings=false
 
 stats:
 	hashcards stats Cards --format=json
