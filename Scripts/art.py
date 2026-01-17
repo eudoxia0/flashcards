@@ -5,7 +5,6 @@ Images should be named: [title]—[artist].[ext]
 Note: uses em-dash (—) as separator.
 """
 
-import os
 import sys
 from pathlib import Path
 
