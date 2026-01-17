@@ -26,19 +26,24 @@ def parse_filename(filename: str) -> tuple[str, str] | None:
 
 
 def main():
-    images = []
+    # Load images.
+    images: list[tuple[Path, str, str]] = []
     for f in ART_DIR.iterdir():
         if f.suffix.lower() in IMAGE_EXTS:
             parsed = parse_filename(f.name)
             if parsed:
+                artist: str
+                title: str
                 artist, title = parsed
-                f = Path("/".join(f.parts[1:]))
-                images.append((f, artist, title))
+                filepath: Path = Path("/".join(f.parts[1:]))
+                images.append((filepath, artist, title))
             else:
                 print(f"Warning: skipping {f.name} (invalid format)", file=sys.stderr)
 
-    images.sort(key=lambda x: (x[1], x[2]))  # Sort by artist, then title
+    # Sort by artist, then title.
+    images.sort(key=lambda x: (x[1], x[2]))
 
+    # Print deck.
     first = True
     for path, artist, title in images:
         if first:
@@ -53,11 +58,9 @@ def main():
         print(f"![](<@/{path}>)")
         print()
         print(f"A: {title}")
-
         print()
         print("---")
         print()
-
         print("Q: Artist?")
         print()
         print(f"![](<@/{path}>)")
