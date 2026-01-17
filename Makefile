@@ -1,3 +1,6 @@
+ART            := Cards/Art/Art.md
+ART_DIR        := Cards/Art
+ART_PY         := Scripts/art.py
 AWS            := Cards/AWS\ Regions.md
 AWS_SRC        := Sources/aws.csv
 DEF_PY         := Scripts/def.py
@@ -20,11 +23,14 @@ TEX_PY         := Scripts/tex.py
 TEX_SRC        := Sources/expr.tex
 VOCAB_PY       := Scripts/vocab.py
 
-TARGETS        := $(AWS) $(ENG) $(INDO_VOCAB) $(NATO) $(PERSIAN) $(POW) $(STATS) $(TEX_OUT) $(FDI)
+TARGETS        := $(ART) $(AWS) $(ENG) $(INDO_VOCAB) $(NATO) $(PERSIAN) $(POW) $(STATS) $(TEX_OUT) $(FDI)
 
 .PHONY: all check drill stats clean
 
 all: $(TARGETS)
+
+$(ART): $(ART_PY) $(ART_DIR)
+	$(PY) $(ART_PY) > $(ART)
 
 $(AWS): $(AWS_SRC) $(VOCAB_PY)
 	$(PY) $(VOCAB_PY) $(AWS_SRC) > $(AWS)

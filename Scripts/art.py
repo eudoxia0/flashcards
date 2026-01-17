@@ -1,0 +1,69 @@
+#!/usr/bin/env python3
+"""Generate flashcards from art images in Cards/Art/.
+
+Images should be named: [title]—[artist].[ext]
+Note: uses em-dash (—) as separator.
+"""
+
+import os
+import sys
+from pathlib import Path
+
+ART_DIR = Path("Cards/Art")
+IMAGE_EXTS = {".jpg", ".jpeg", ".png", ".gif", ".webp"}
+
+
+def parse_filename(filename: str) -> tuple[str, str] | None:
+    """Parse 'Artist—Title' from filename, return (artist, title) or None."""
+    stem = Path(filename).stem
+    if "—" not in stem:
+        return None
+    parts = stem.split("—", 1)
+    if len(parts) != 2:
+        return None
+    artist, title = parts
+    return artist.strip(), title.strip()
+
+
+def main():
+    images = []
+    for f in ART_DIR.iterdir():
+        if f.suffix.lower() in IMAGE_EXTS:
+            parsed = parse_filename(f.name)
+            if parsed:
+                artist, title = parsed
+                f = Path("/".join(f.parts[1:]))
+                images.append((f, artist, title))
+            else:
+                print(f"Warning: skipping {f.name} (invalid format)", file=sys.stderr)
+
+    images.sort(key=lambda x: (x[1], x[2]))  # Sort by artist, then title
+
+    first = True
+    for path, artist, title in images:
+        if first:
+            first = False
+        else:
+            print()
+            print("---")
+            print()
+
+        print("Q: Title?")
+        print()
+        print(f"![](<@/{path}>)")
+        print()
+        print(f"A: {title}")
+
+        print()
+        print("---")
+        print()
+
+        print("Q: Artist?")
+        print()
+        print(f"![](<@/{path}>)")
+        print()
+        print(f"A: {artist}")
+
+
+if __name__ == "__main__":
+    main()
