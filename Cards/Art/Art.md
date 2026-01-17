@@ -16,22 +16,6 @@ A: John Singer Sargent
 
 Q: Title?
 
-![](<@/Art/John Singer Sargent—El Jaleo.webp>)
-
-A: El Jaleo
-
----
-
-Q: Artist?
-
-![](<@/Art/John Singer Sargent—El Jaleo.webp>)
-
-A: John Singer Sargent
-
----
-
-Q: Title?
-
 ![](<@/Art/John Singer Sargent—Portrait of Lady Agnew of Lochnaw.jpg>)
 
 A: Portrait of Lady Agnew of Lochnaw
