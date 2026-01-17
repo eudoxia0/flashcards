@@ -13,6 +13,11 @@ A: Things said in passing.
 
 ---
 
+Q: _prima facie_
+A: At first sight.
+
+---
+
 Q: _pro forma_
 A: Perfunctorily, for the sake of procedure or politeness.
 
