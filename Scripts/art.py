@@ -1,8 +1,5 @@
-#!/usr/bin/env python3
-"""Generate flashcards from art images in Cards/Art/.
-
-Images should be named: [title]—[artist].[ext]
-Note: uses em-dash (—) as separator.
+"""
+Generate flashcards for the great works.
 """
 
 import sys
