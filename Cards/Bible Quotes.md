@@ -150,3 +150,14 @@ C: [Knowest thou the ordinances of heaven?]
 
 Q: Job 38:33
 A: Knowest thou the ordinances of heaven?
+
+---
+
+C: Better is the end of a thing than the beginning thereof.
+
+— [Ecclesiastes] [7]:[8]
+
+---
+
+Q: Ecclesiastes 7:8
+A: Better is the end of a thing than the beginning thereof.
