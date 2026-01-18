@@ -22,10 +22,6 @@ C:
 
 ---
 
-C: The Pauli matrix $\sigma_x$ corresponds to the [NOT] gate.
-
----
-
 C: In quantum error correction, the Pauli matrix [$\sigma_0$] corresponds to [perfect transmission].
 
 ---
