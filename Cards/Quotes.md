@@ -228,3 +228,9 @@ C: When it is useful to them, men can believe a theory of which they know nothin
 C: Asia begins at the Landstrasse.
 
 — [Metternich]
+
+---
+
+C: Belief in this transcendental world (of mathematical ideals, of propositions of infinite length, and of a continuum of numbers) taxes the strength of our faith hardly less than the doctrines of the early Fathers of the Church or of the scholastic philosophers of the Middle Ages.
+
+— [Hermann Weyl]
