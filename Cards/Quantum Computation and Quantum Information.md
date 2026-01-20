@@ -166,3 +166,13 @@ C: Let $A$ be a linear operator in a finite-dimensional inner product space. The
 
 Q: Why can't we use a repetition code in quantum error correction?
 A: Because of no-cloning.
+
+---
+
+Q: What does the Eastin–Knill theorem state?
+A: No quantum error-correcting code can implement a universal gate set.
+
+---
+
+Q: Name of the theorem which states: no quantum error-correcting code implement a universal gate set.
+A: Eastin-Knill theorem.
