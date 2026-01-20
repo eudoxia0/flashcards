@@ -200,31 +200,31 @@ Thy rope of sands
 
 ---
 
-It is unworthy of excellent men to lose hours like slaves in the labour of calculations
+C: It is unworthy of excellent men to lose hours like slaves in the labour of calculations
 which could safely be relegated to anyone else if machines were used.
 
 — [Leibniz]
 
 ---
 
-By relieving the brain of all unnecessary work, a good notation sets it free to concentrate on more advanced problems, and, in effect, increases the mental power of the race.
+C: By relieving the brain of all unnecessary work, a good notation sets it free to concentrate on more advanced problems, and, in effect, increases the mental power of the race.
 
 — [Alfred North Whitehead]
 
 ---
 
-God made the integers, all the rest is the work of man.
+C: God made the integers, all the rest is the work of man.
 
 — [Leopold Kronecker]
 
 ---
 
-When it is useful to them, men can believe a theory of which they know nothing more than its name. 
+C: When it is useful to them, men can believe a theory of which they know nothing more than its name. 
 
 — [Vilfredo Pareto]
 
 ---
 
-Asia begins at the Landstrasse.
+C: Asia begins at the Landstrasse.
 
-— Metternich
+— [Metternich]
