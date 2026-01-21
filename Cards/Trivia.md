@@ -263,3 +263,9 @@ A: Spinoza's _Ethics_.
 
 Q: Vernier acuity.
 A: The ability of the human visual system to notice misalignment between two parallel line segments.
+
+---
+
+C: Country: [Uzbekistan]
+
+Capital City: [Tashkent]
