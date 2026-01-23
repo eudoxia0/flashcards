@@ -174,5 +174,5 @@ A: No quantum error-correcting code can implement a universal gate set.
 
 ---
 
-Q: Name of the theorem which states: no quantum error-correcting code implement a universal gate set.
+Q: Name of the theorem which states: no quantum error-correcting code can implement a universal gate set.
 A: Eastin-Knill theorem.
