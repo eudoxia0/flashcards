@@ -161,3 +161,14 @@ C: Better is the end of a thing than the beginning thereof.
 
 Q: Ecclesiastes 7:8
 A: Better is the end of a thing than the beginning thereof.
+
+---
+
+C: [If a man die, shall he live again?] [all the days of my appointed time will I wait], [till my change come].
+
+– [Job] [14]:[14]
+
+---
+
+Q: Job 14:14
+A: If a man die, shall he live again? all the days of my appointed time will I wait, till my change come.
