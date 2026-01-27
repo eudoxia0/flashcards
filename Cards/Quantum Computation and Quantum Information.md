@@ -176,3 +176,7 @@ A: No quantum error-correcting code can implement a universal gate set.
 
 Q: Name of the theorem which states: no quantum error-correcting code can implement a universal gate set.
 A: Eastin-Knill theorem.
+
+---
+
+C: Let $\ket{\psi}$ be a pure quantum state. A unitary matrix $U$ is said to [stabilize] the state $\ket{\psi}$ if [$U\ket{\psi}=\ket{\psi}$].
