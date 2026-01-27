@@ -19,3 +19,13 @@ C: Abelian groups are named after mathematician [Niels Henrik Abel].
 ---
 
 C: George Boole introduced Boolean algebra is his book [_The Laws of Thought_], published in [1854].
+
+---
+
+Q: Who coined the term "symplectic"?
+A: Hermann Weyl.
+
+---
+
+Q: What is the etymologycal meaning of "symplectic"?
+A: "Intertwined" or "woven together".
