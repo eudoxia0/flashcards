@@ -200,3 +200,16 @@ A: $\text{Stab}(\ket{\psi})$
 
 Q: What does the notation $\text{Stab}(\ket{\psi})$ mean?
 A: The stabilizer group of $\ket{\psi}$.
+
+---
+
+Q: Let $\ket{\psi}$ be a quantum state, and $U$ a stabilizers of $\ket{\psi}$. Then $U^{-1}$ is also a stabilizer of $\ket{\psi}$. Why?
+A:
+$$
+\begin{align*}
+U\ket{\psi} &= \ket{\psi} \\
+U^{-1}U\ket{\psi} &= U^{-1}\ket{\psi} \\
+\ket{\psi} &= U^{-1}\ket{\psi} \\
+U^{-1}\ket{\psi} &= \ket{\psi}
+\end{align*}
+$$
