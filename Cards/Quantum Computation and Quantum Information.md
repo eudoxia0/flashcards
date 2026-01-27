@@ -195,3 +195,8 @@ A: $UV\ket{\psi} = U\ket{\psi} = \ket{\psi}$
 
 Q: Notation for the stabilizer group of a quantum state $\ket{\psi}$.
 A: $\text{Stab}(\ket{\psi})$
+
+---
+
+Q: What does the notation $\text{Stab}(\ket{\psi})$ mean?
+A: The stabilizer group of $\ket{\psi}$.
