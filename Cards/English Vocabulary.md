@@ -360,3 +360,8 @@ A: to grow
 
 Q: wherefore
 A: why / therefore
+
+---
+
+Q: whither
+A: To what place.
