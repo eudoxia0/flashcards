@@ -31,7 +31,7 @@ C: If a matrix $A$ satisfies $A^T = -A$, it is termed [skew-symmetric].
 
 ---
 
-C: A matrix $A$ is termed skew-symmetric when it satisfies the equation $A^T = -A$.
+C: A matrix $A$ is termed skew-symmetric when it satisfies the equation [$A^T = -A$].
 
 ---
 
