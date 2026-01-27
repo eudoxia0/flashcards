@@ -190,3 +190,8 @@ A: Applying that operator leaves the state unchanged.
 
 Q: Let $\ket{\psi}$ be a quantum state, and $U$ and $V$ be stabilizers of $\ket{\psi}$. Then $UV$ is also a stabilizer of $\ket{\psi}$. Why?
 A: $UV\ket{\psi} = U\ket{\psi} = \ket{\psi}$
+
+---
+
+Q: Notation for the stabilizer group of a quantum state $\ket{\psi}$.
+A: $\text{Stab}(\ket{\psi})$
