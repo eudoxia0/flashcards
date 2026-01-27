@@ -180,3 +180,8 @@ A: Eastin-Knill theorem.
 ---
 
 C: Let $\ket{\psi}$ be a pure quantum state. A unitary matrix $U$ is said to [stabilize] the state $\ket{\psi}$ if [$U\ket{\psi}=\ket{\psi}$].
+
+---
+
+Q: Informally, what does it mean to say a unitary operator stabilizes a quantum state $\ket{\psi}$?
+A: Applying that operator leaves the state unchanged.
