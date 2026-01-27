@@ -185,3 +185,8 @@ C: Let $\ket{\psi}$ be a pure quantum state. A unitary matrix $U$ is said to [st
 
 Q: Informally, what does it mean to say a unitary operator stabilizes a quantum state $\ket{\psi}$?
 A: Applying that operator leaves the state unchanged.
+
+---
+
+Q: Let $\ket{\psi}$ be a quantum state, and $U$ and $V$ be stabilizers of $\ket{\psi}$. Then $UV$ is also a stabilizer of $\ket{\psi}$. Why?
+A: $UV\ket{\psi} = U\ket{\psi} = \ket{\psi}$
