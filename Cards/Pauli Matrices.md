@@ -50,3 +50,12 @@ A: $$\alpha\ket{0} - \beta\ket{1}$$
 
 Q: Consider a quantum state $\alpha\ket{0} + \beta\ket{1}$. What is the result of applying the Pauli $\sigma_y$ matrix to it?
 A: $$\alpha i \ket{1} - \beta i \ket{0}$$
+
+---
+
+Q: Pauli matrices have an important commutativity property. What is it?
+A: Any two Pauli matrices either commute or anti-commute.
+
+---
+
+C: The square of every Pauli matrix is [the identity matrix].
