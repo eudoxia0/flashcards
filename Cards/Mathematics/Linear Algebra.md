@@ -65,3 +65,8 @@ A: Symplectic.
 
 Q: Let $\mathcal{P}_n$ be the Pauli group for $n$ qubits. How many operators in $\mathcal{P}_n$?
 A: $4^{n+1}$
+
+---
+
+Q: Notation for the commutator of two matrices $A$ and $B$.
+A: $[A,B]$
