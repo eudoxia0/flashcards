@@ -80,3 +80,18 @@ A: The commutator.
 
 Q: Let $A$ and $B$ be matrices. Define the commutator $[A,B]$.
 A: $[A,B] = AB-BA$
+
+---
+
+Q: Notation for the anti-commutator of two matrices $A$ and $B$.
+A: ${A,B}$
+
+---
+
+Q: Let $A$ and $B$ be matrices. What does the notation ${A,B}$ mean?
+A: The anti-commutator.
+
+---
+
+Q: Let $A$ and $B$ be matrices. Define the anti-commutator ${A,B}$.
+A: ${A,B} = AB+BA$
