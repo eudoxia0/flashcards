@@ -70,3 +70,8 @@ A: $4^{n+1}$
 
 Q: Notation for the commutator of two matrices $A$ and $B$.
 A: $[A,B]$
+
+---
+
+Q: Let $A$ and $B$ be matrices. What does the notation $[A,B]$ mean?
+A: The commutator.
