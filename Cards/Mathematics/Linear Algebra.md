@@ -84,7 +84,7 @@ A: $[A,B] = AB-BA$
 ---
 
 Q: Notation for the anti-commutator of two matrices $A$ and $B$.
-A: ${A,B}$
+A: $\set{A,B}$
 
 ---
 
