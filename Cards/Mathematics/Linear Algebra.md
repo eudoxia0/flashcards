@@ -88,10 +88,10 @@ A: ${A,B}$
 
 ---
 
-Q: Let $A$ and $B$ be matrices. What does the notation ${A,B}$ mean?
+Q: Let $A$ and $B$ be matrices. What does the notation $\set{A,B}$ mean?
 A: The anti-commutator.
 
 ---
 
-Q: Let $A$ and $B$ be matrices. Define the anti-commutator ${A,B}$.
-A: ${A,B} = AB+BA$
+Q: Let $A$ and $B$ be matrices. Define the anti-commutator $\set{A,B}$.
+A: $\set{A,B} = AB+BA$
