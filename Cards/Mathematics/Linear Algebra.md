@@ -75,3 +75,8 @@ A: $[A,B]$
 
 Q: Let $A$ and $B$ be matrices. What does the notation $[A,B]$ mean?
 A: The commutator.
+
+---
+
+Q: Let $A$ and $B$ be matrices. Define the commutator $[A,B]$.
+A: $[A,B] = AB-BA$
