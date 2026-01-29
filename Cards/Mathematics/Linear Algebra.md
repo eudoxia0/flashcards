@@ -95,3 +95,13 @@ A: The anti-commutator.
 
 Q: Let $A$ and $B$ be matrices. Define the anti-commutator $\set{A,B}$.
 A: $\set{A,B} = AB+BA$
+
+---
+
+Q: In the context of sparse matrices, what does CSR stand for?
+A: Compressed Sparse Row.
+
+--
+
+Q: In the context of sparse matrices, what does CSC stand for?
+A: Compressed Sparse Column.
