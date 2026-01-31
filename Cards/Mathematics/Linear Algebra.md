@@ -44,7 +44,7 @@ Q: Define symplectic matrix.
 A: A symplectic matrix $A$ is a $2n \times 2n$ matrix that satisfies:
 
 $$
-A^A \Omega A = \Omega
+A^T \Omega A = \Omega
 $$
 
 where $\Omega$ is a fixed $2n \times 2n$ invertible skew-symmetric matrix.
