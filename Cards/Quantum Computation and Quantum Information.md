@@ -203,7 +203,7 @@ A: The stabilizer group of $\ket{\psi}$.
 
 ---
 
-Q: Let $\ket{\psi}$ be a quantum state, and $U$ a stabilizers of $\ket{\psi}$. Then $U^{-1}$ is also a stabilizer of $\ket{\psi}$. Why?
+Q: Let $\ket{\psi}$ be a quantum state, and $U$ a stabilizer of $\ket{\psi}$. Then $U^{-1}$ is also a stabilizer of $\ket{\psi}$. Why?
 A:
 $$
 \begin{align*}
