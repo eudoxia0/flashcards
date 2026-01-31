@@ -54,7 +54,7 @@ where $\Omega$ is a fixed $2n \times 2n$ invertible skew-symmetric matrix.
 Q: Let $A$ be a $2n \times 2n$ matrix that satisfies:
 
 $$
-A^A \Omega A = \Omega
+A^T \Omega A = \Omega
 $$
 
 where $\Omega$ is a fixed $2n \times 2n$ invertible skew-symmetric matrix. What is the term for $A$?
