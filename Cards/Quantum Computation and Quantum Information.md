@@ -213,3 +213,8 @@ U^{-1}U\ket{\psi} &= U^{-1}\ket{\psi} \\
 U^{-1}\ket{\psi} &= \ket{\psi}
 \end{align*}
 $$
+
+---
+
+Q: What does SPAM stand for?
+A: State Preparation and Measurement.
