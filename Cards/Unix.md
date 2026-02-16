@@ -147,3 +147,8 @@ A: `readlink p`
 
 Q: Let _p_ be the path to a symlink. What is the command to find the transitive target of _p_?
 A: `readlink -f p`
+
+---
+
+Q: What is the Wayland equivalent of Redshift?
+A: `wlsunset`
