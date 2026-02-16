@@ -3,6 +3,11 @@ A: Short Message Service
 
 ---
 
+Q: What's the modern alternative to `lxappearance`?
+A: `nwg-look`
+
+---
+
 Q: Who was the first documented case of paranoid schizophrenia?
 A: James Tilly Matthews
 

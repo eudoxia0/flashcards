@@ -243,6 +243,11 @@ A: many-coloured
 
 ---
 
+Q: phlegmatic
+A: Calm and unemotional.
+
+---
+
 Q: pluperfect
 A: more than perfect/ideal
 
