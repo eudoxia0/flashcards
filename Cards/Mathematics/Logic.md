@@ -81,3 +81,13 @@ C: A [metalanguage] is a formal language used to talk about a distinct [object] 
 ---
 
 C: Theorems _about_ formal systems are often called [metatheorems], to distinguish them from theorems _inside_ the formal system.
+
+---
+
+Q: What is an impredicative definition?
+A: A definition that defines an object by quantifying over a collection that contains the object being defined.
+
+---
+
+Q: What is the term for a definition that defines an object by quantifying over a collection containing that object?
+A: Impredicative.
