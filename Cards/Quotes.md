@@ -234,3 +234,9 @@ C: Asia begins at the Landstrasse.
 C: Belief in this transcendental world (of mathematical ideals, of propositions of infinite length, and of a continuum of numbers) taxes the strength of our faith hardly less than the doctrines of the early Fathers of the Church or of the scholastic philosophers of the Middle Ages.
 
 — [Hermann Weyl]
+
+---
+
+C: Beauty is the first test: there is no permanent place in the world for ugly mathematics.
+
+— [G. H. Hardy]
