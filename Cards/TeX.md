@@ -154,6 +154,16 @@ TeX: [`\models`]
 Result: [$\models$]
 
 C:
+TeX: [`\top`]
+
+Result: [$\top$]
+
+C:
+TeX: [`\bot`]
+
+Result: [$\bot$]
+
+C:
 TeX: [`\approx`]
 
 Result: [$\approx$]
