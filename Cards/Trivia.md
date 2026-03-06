@@ -284,3 +284,8 @@ A: An optical illusion that can be perceived either as two faces in profile or a
 
 Q: What is the name of the optical illusion depicting two faces or a vase?
 A: Rubin's vase.
+
+---
+
+Q: What is a Bernoulli grip?
+A: A pneumatic gripping device that uses airflow to lift objects without physical contact.
