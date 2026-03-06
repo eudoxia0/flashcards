@@ -274,3 +274,13 @@ A: The ability of the human visual system to notice misalignment between two par
 C: Country: [Uzbekistan]
 
 Capital City: [Tashkent]
+
+---
+
+Q: What is Rubin's vase?
+A: An optical illusion that can be perceived either as two faces in profile or as a vase.
+
+---
+
+Q: What is the name of the optical illusion depicting two faces or a vase?
+A: Rubin's vase.
