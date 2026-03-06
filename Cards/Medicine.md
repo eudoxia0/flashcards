@@ -297,3 +297,23 @@ A: Three.
 
 Q: Abbreviation for orthopantomogram.
 A: OPG.
+
+---
+
+Q: What is the Bereitschaftspotential?
+A: A negative electrical potential in the brain that precedes voluntary movement.
+
+---
+
+Q: What is another name for the Bereitschaftspotential?
+A: Readiness potential.
+
+---
+
+Q: What is another name for the readiness potential?
+A: Bereitschaftspotential.
+
+---
+
+Q: What is the term for the negative electrical potential that precedes voluntary movement?
+A: Bereitschaftspotential.
