@@ -317,3 +317,15 @@ A: Bereitschaftspotential.
 
 Q: What is the term for the negative electrical potential that precedes voluntary movement?
 A: Bereitschaftspotential.
+
+---
+
+C:
+Term: [serial passage]
+
+Definition: [The repeated transfer of a pathogen through a series of hosts or cultures to attenuate or adapt it.]
+
+---
+
+Q: What is the term for the repeated transfer of a pathogen through a series of hosts or cultures?
+A: Serial passage.
