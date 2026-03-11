@@ -240,3 +240,9 @@ C: Belief in this transcendental world (of mathematical ideals, of propositions 
 C: Beauty is the first test: there is no permanent place in the world for ugly mathematics.
 
 — [G. H. Hardy]
+
+---
+
+C: There are two ways of constructing a software design: One way is to make it so simple that there are obviously no deficiencies, and the other way is to make it so complicated that there are no obvious deficiencies.
+
+— [C. A. R. Hoare]
