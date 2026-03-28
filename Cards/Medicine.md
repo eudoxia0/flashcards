@@ -329,3 +329,8 @@ Definition: [The repeated transfer of a pathogen through a series of hosts or cu
 
 Q: What is the term for the repeated transfer of a pathogen through a series of hosts or cultures?
 A: Serial passage.
+
+---
+
+Q: What does DREADD stand for?
+A: Designer Receptors Exclusively Activated by Designer Drugs
