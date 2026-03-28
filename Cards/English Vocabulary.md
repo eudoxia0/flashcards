@@ -218,6 +218,11 @@ A: Apparently attractive but lacking real value
 
 ---
 
+Q: milliner
+A: A hatmaker.
+
+---
+
 Q: mojibake
 A: Corrupted text resulting from using the wrong character decoding.
 

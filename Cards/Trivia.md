@@ -289,3 +289,11 @@ A: Rubin's vase.
 
 Q: What is a Bernoulli grip?
 A: A pneumatic gripping device that uses airflow to lift objects without physical contact.
+
+---
+
+Q: What is this hat-like thing called?
+
+![](Images/fascinator.jpg)
+
+A: A fascinator.
