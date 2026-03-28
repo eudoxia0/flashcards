@@ -83,5 +83,10 @@ A: The story of the wife of Intaphrenes.
 
 ---
 
+Q: Who executed Intaphrenes?
+A: Darius.
+
+---
+
 Q: Tell the story of the wife of Intaphrenes.
 A: When Darius executed Intaphrenes and his entire family, his wife was given the choice of sparing either her brother or her son. She chose her brother, because a husband and child can be replaced. Darius, impressed by her reasoning, spared the lives of both brother and son.
