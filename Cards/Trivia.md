@@ -297,3 +297,8 @@ Q: What is this hat-like thing called?
 ![](Images/fascinator.jpg)
 
 A: A fascinator.
+
+---
+
+Q: Which star is called the "dog star"?
+A: Sirius.
