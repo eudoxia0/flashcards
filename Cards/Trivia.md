@@ -326,3 +326,8 @@ C: Phase-contrast imaging works by exploiting differences in [refractive index].
 
 Q: Rose criterion.
 A: A signal must exceed the noise by a factor of ~3–5 to be reliably detected.
+
+---
+
+Q: Kirkpatrick–Baez mirror
+A: A pair of concave mirrors that focus x-rays by reflecting them at a shallow angle.
