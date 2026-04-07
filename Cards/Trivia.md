@@ -343,3 +343,9 @@ Definition: [rapid fragmentation of an object caused by Coulomb repulsion when m
 C: Term: [Diffraction before destruction]
 
 Definition: [an imaging technique where a femtosecond pulse creates a diffraction pattern before the sample is destroyed by a Coulomb explosion.]
+
+---
+
+C: Term: [ankylography]
+
+Definition: [3D structure determination from a single diffraction pattern.]
