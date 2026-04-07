@@ -317,3 +317,12 @@ A: Complementary Metal Oxide Semiconductor.
 
 Q: What does XFEL stand for?
 A: X-ray free electron laser.
+
+---
+
+C: Phase-contrast imaging works by exploiting differences in [refractive index].
+
+---
+
+Q: Rose criterion.
+A: A signal must exceed the noise by a factor of ~3–5 to be reliably detected.
