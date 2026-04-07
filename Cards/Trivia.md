@@ -312,3 +312,8 @@ A: Charge-coupled device.
 
 Q: What does CMOS stand for?
 A: Complementary Metal Oxide Semiconductor.
+
+---
+
+Q: What does XFEL stand for?
+A: X-ray free electron laser.
