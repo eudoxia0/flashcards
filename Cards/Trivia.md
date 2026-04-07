@@ -337,3 +337,9 @@ A: A pair of concave mirrors that focus x-rays by reflecting them at a shallow a
 C: Term: [Coulomb explosion]
 
 Definition: [rapid fragmentation of an object caused by Coulomb repulsion when multiple electrons are freed.]
+
+---
+
+C: Term: [Diffraction before destruction]
+
+Definition: [an imaging technique where a femtosecond pulse creates a diffraction pattern before the sample is destroyed by a Coulomb explosion.]
