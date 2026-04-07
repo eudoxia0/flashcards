@@ -307,3 +307,8 @@ A: Sirius.
 
 Q: What does CCD stand for?
 A: Charge-coupled device.
+
+---
+
+Q: What does CMOS stand for?
+A: Complementary Metal Oxide Semiconductor.
