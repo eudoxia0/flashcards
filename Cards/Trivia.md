@@ -302,3 +302,8 @@ A: A fascinator.
 
 Q: Which star is called the "dog star"?
 A: Sirius.
+
+---
+
+Q: What does CCD stand for?
+A: Charge-coupled device.
