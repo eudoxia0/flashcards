@@ -228,6 +228,11 @@ A: Corrupted text resulting from using the wrong character decoding.
 
 ---
 
+Q: moral exemplar
+A: A moral role model.
+
+---
+
 Q: nicodemite
 A: Someone suspected of misrepresenting their religious beliefs.
 
