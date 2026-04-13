@@ -334,3 +334,9 @@ A: Serial passage.
 
 Q: What does DREADD stand for?
 A: Designer Receptors Exclusively Activated by Designer Drugs
+
+---
+
+C: Term: [intrathecal administration]
+
+Definition: [administration of a drug into the CSF.]
