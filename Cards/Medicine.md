@@ -340,3 +340,9 @@ A: Designer Receptors Exclusively Activated by Designer Drugs
 C: Term: [intrathecal administration]
 
 Definition: [administration of a drug into the CSF.]
+
+---
+
+C: Term: [Capgras syndrome]
+
+Definition: [a psychiatric disorder where the patient believes people around them have been replaced by impostors.]
