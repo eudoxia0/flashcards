@@ -346,3 +346,9 @@ Definition: [administration of a drug into the CSF.]
 C: Term: [Capgras syndrome]
 
 Definition: [a psychiatric disorder where the patient believes people around them have been replaced by impostors.]
+
+---
+
+C: Term: [transient global amnesia]
+
+Definition: [a neurological disorder where the patient has no short-term memory for some hours.]
