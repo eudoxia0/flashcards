@@ -349,3 +349,9 @@ Definition: [an imaging technique where a femtosecond pulse creates a diffractio
 C: Term: [ankylography]
 
 Definition: [3D structure determination from a single diffraction pattern.]
+
+---
+
+C: Term: [Kerckhoffs' principle]
+
+Definition: [the idea that a cryptosystem should be secure if everything about it, except the key, is public knowledge.]
