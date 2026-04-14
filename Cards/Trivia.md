@@ -355,3 +355,8 @@ Definition: [3D structure determination from a single diffraction pattern.]
 C: Term: [Kerckhoffs' principle]
 
 Definition: [the idea that a cryptosystem should be secure if everything about it, except the key, is public knowledge.]
+
+---
+
+Q: What does Cortical Labs do?
+A: Neurons in a petri dish for compute.
