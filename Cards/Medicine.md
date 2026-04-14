@@ -352,3 +352,8 @@ Definition: [a psychiatric disorder where the patient believes people around the
 C: Term: [transient global amnesia]
 
 Definition: [a neurological disorder where the patient has no short-term memory for some hours.]
+
+---
+
+Q: What does tFUS stand for?
+A: Transcranial focused ultrasound.
