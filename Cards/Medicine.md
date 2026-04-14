@@ -367,3 +367,13 @@ A: Prozac.
 
 Q: What is the INN of Prozac?
 A: Fluoxetine.
+
+---
+
+Q: What is the trade name of sertraline?
+A: Zoloft.
+
+---
+
+Q: What is the INN of Zoloft?
+A: Sertraline.
