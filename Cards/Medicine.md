@@ -357,3 +357,13 @@ Definition: [a neurological disorder where the patient has no short-term memory 
 
 Q: What does tFUS stand for?
 A: Transcranial focused ultrasound.
+
+---
+
+Q: What is the trade name of fluoxetine?
+A: Prozac.
+
+---
+
+Q: What is the INN of Prozac?
+A: Fluoxetine.
