@@ -23,3 +23,10 @@ C:
 Term: [basolect]
 
 Definition: [The least prestigious dialect of a language.]
+
+---
+
+C:
+Term: [lexicalization]
+
+Definition: [The addition of a new word to a language.]
