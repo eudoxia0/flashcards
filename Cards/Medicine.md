@@ -377,3 +377,13 @@ A: Zoloft.
 
 Q: What is the INN of Zoloft?
 A: Sertraline.
+
+---
+
+Q: What is the trade name of fluvoxamine?
+A: Luvox.
+
+---
+
+Q: What is the INN of Luvox?
+A: Fluvoxamine.
