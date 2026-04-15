@@ -138,6 +138,16 @@ A: To strip the blubber or skin from an animal.
 
 ---
 
+Q: fudanshi
+A: A male fan of yaoi.
+
+---
+
+Q: fujoshi
+A: A female fan of yaoi.
+
+---
+
 Q: gallipot
 A: A small pot used by apothecaries to hold medicines.
 
@@ -165,6 +175,11 @@ A: Under this
 
 Q: hieratic
 A: of or pertaining to priests
+
+---
+
+Q: himejoshi
+A: A female fan of yuri.
 
 ---
 
