@@ -249,12 +249,12 @@ C: There are two ways of constructing a software design: One way is to make it s
 
 ---
 
-Everything is already there in Dedekind.
+C: Everything is already there in Dedekind.
 
 — [Emmy Noether]
 
 ---
 
-Lenin was more severe.
+C: Lenin was more severe.
 
 — [Vyacheslav Molotov], asked to compare Lenin to [Stalin].
