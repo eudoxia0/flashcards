@@ -365,3 +365,18 @@ A: Neurons in a petri dish for compute.
 
 Q: Who was lead author of the Google Stim paper?
 A: Craig Gidney.
+
+---
+
+Q: What does RoCE stand for?
+A: RDMA over Converged Ethernet.
+
+---
+
+Q: What does RDMA stand for?
+A: Remote Direct Memory Access.
+
+---
+
+Q: What does _bit_ stand for?
+A: Binary digit.
