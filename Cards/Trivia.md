@@ -360,3 +360,8 @@ Definition: [the idea that a cryptosystem should be secure if everything about i
 
 Q: What does Cortical Labs do?
 A: Neurons in a petri dish for compute.
+
+---
+
+Q: Who was lead author of the Google Stim paper?
+A: Craig Gidney.
