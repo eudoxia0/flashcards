@@ -128,6 +128,54 @@ A: Kisho Kurokawa
 
 Q: Name?
 
+![](<@/Great Buildings/Ludwig Mies van der Rohe—Barcelona Pavilion.jpg>)
+
+A: Barcelona Pavilion
+
+---
+
+Q: Architect?
+
+![](<@/Great Buildings/Ludwig Mies van der Rohe—Barcelona Pavilion.jpg>)
+
+A: Ludwig Mies van der Rohe
+
+---
+
+Q: Name?
+
+![](<@/Great Buildings/Ludwig Mies van der Rohe—Farnsworth House.jpg>)
+
+A: Farnsworth House
+
+---
+
+Q: Architect?
+
+![](<@/Great Buildings/Ludwig Mies van der Rohe—Farnsworth House.jpg>)
+
+A: Ludwig Mies van der Rohe
+
+---
+
+Q: Name?
+
+![](<@/Great Buildings/Ludwig Mies van der Rohe—Neue Nationalgalerie.jpg>)
+
+A: Neue Nationalgalerie
+
+---
+
+Q: Architect?
+
+![](<@/Great Buildings/Ludwig Mies van der Rohe—Neue Nationalgalerie.jpg>)
+
+A: Ludwig Mies van der Rohe
+
+---
+
+Q: Name?
+
 ![](<@/Great Buildings/Ludwig Mies van der Rohe—Seagram Building.jpg>)
 
 A: Seagram Building
