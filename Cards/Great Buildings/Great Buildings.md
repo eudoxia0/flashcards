@@ -296,6 +296,198 @@ A: Minoru Yamasaki
 
 Q: Name?
 
+![](<@/Great Buildings/Norman Foster—Apple Park.jpg>)
+
+A: Apple Park
+
+---
+
+Q: Architect?
+
+![](<@/Great Buildings/Norman Foster—Apple Park.jpg>)
+
+A: Norman Foster
+
+---
+
+Q: Name?
+
+![](<@/Great Buildings/Norman Foster—Century Tower.jpg>)
+
+A: Century Tower
+
+---
+
+Q: Architect?
+
+![](<@/Great Buildings/Norman Foster—Century Tower.jpg>)
+
+A: Norman Foster
+
+---
+
+Q: Name?
+
+![](<@/Great Buildings/Norman Foster—Commerzbank Tower.jpg>)
+
+A: Commerzbank Tower
+
+---
+
+Q: Architect?
+
+![](<@/Great Buildings/Norman Foster—Commerzbank Tower.jpg>)
+
+A: Norman Foster
+
+---
+
+Q: Name?
+
+![](<@/Great Buildings/Norman Foster—Deutsche Bank Place.jpg>)
+
+A: Deutsche Bank Place
+
+---
+
+Q: Architect?
+
+![](<@/Great Buildings/Norman Foster—Deutsche Bank Place.jpg>)
+
+A: Norman Foster
+
+---
+
+Q: Name?
+
+![](<@/Great Buildings/Norman Foster—HSBC Building.jpg>)
+
+A: HSBC Building
+
+---
+
+Q: Architect?
+
+![](<@/Great Buildings/Norman Foster—HSBC Building.jpg>)
+
+A: Norman Foster
+
+---
+
+Q: Name?
+
+![](<@/Great Buildings/Norman Foster—Millau Viaduct.jpg>)
+
+A: Millau Viaduct
+
+---
+
+Q: Architect?
+
+![](<@/Great Buildings/Norman Foster—Millau Viaduct.jpg>)
+
+A: Norman Foster
+
+---
+
+Q: Name?
+
+![](<@/Great Buildings/Norman Foster—Salesforce Tower, Sydney.jpg>)
+
+A: Salesforce Tower, Sydney
+
+---
+
+Q: Architect?
+
+![](<@/Great Buildings/Norman Foster—Salesforce Tower, Sydney.jpg>)
+
+A: Norman Foster
+
+---
+
+Q: Name?
+
+![](<@/Great Buildings/Norman Foster—Supreme Court of Singapore.jpg>)
+
+A: Supreme Court of Singapore
+
+---
+
+Q: Architect?
+
+![](<@/Great Buildings/Norman Foster—Supreme Court of Singapore.jpg>)
+
+A: Norman Foster
+
+---
+
+Q: Name?
+
+![](<@/Great Buildings/Norman Foster—The Gherkin.jpg>)
+
+A: The Gherkin
+
+---
+
+Q: Architect?
+
+![](<@/Great Buildings/Norman Foster—The Gherkin.jpg>)
+
+A: Norman Foster
+
+---
+
+Q: Name?
+
+![](<@/Great Buildings/Norman Foster—The Glasshouse.jpg>)
+
+A: The Glasshouse
+
+---
+
+Q: Architect?
+
+![](<@/Great Buildings/Norman Foster—The Glasshouse.jpg>)
+
+A: Norman Foster
+
+---
+
+Q: Name?
+
+![](<@/Great Buildings/Norman Foster—Torre de Collserola.jpg>)
+
+A: Torre de Collserola
+
+---
+
+Q: Architect?
+
+![](<@/Great Buildings/Norman Foster—Torre de Collserola.jpg>)
+
+A: Norman Foster
+
+---
+
+Q: Name?
+
+![](<@/Great Buildings/Norman Foster—Varso.jpg>)
+
+A: Varso
+
+---
+
+Q: Architect?
+
+![](<@/Great Buildings/Norman Foster—Varso.jpg>)
+
+A: Norman Foster
+
+---
+
+Q: Name?
+
 ![](<@/Great Buildings/Oscar Niemeyer—Itamaraty Palace.jpg>)
 
 A: Itamaraty Palace
@@ -419,6 +611,54 @@ Q: Architect?
 ![](<@/Great Buildings/Raymond Hood—McGraw-Hill Building.jpg>)
 
 A: Raymond Hood
+
+---
+
+Q: Name?
+
+![](<@/Great Buildings/Renzo Piano—Centre Pompidou.jpg>)
+
+A: Centre Pompidou
+
+---
+
+Q: Architect?
+
+![](<@/Great Buildings/Renzo Piano—Centre Pompidou.jpg>)
+
+A: Renzo Piano
+
+---
+
+Q: Name?
+
+![](<@/Great Buildings/Renzo Piano—Maison Hermès.jpg>)
+
+A: Maison Hermès
+
+---
+
+Q: Architect?
+
+![](<@/Great Buildings/Renzo Piano—Maison Hermès.jpg>)
+
+A: Renzo Piano
+
+---
+
+Q: Name?
+
+![](<@/Great Buildings/Renzo Piano—The Shard.jpg>)
+
+A: The Shard
+
+---
+
+Q: Architect?
+
+![](<@/Great Buildings/Renzo Piano—The Shard.jpg>)
+
+A: Renzo Piano
 
 ---
 
