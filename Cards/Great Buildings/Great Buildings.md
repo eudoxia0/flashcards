@@ -1,5 +1,45 @@
 Q: Name?
 
+![](<@/Great Buildings/—181 Fremont.jpg>)
+
+A: 181 Fremont
+
+---
+
+Q: Name?
+
+![](<@/Great Buildings/César Pelli—Petronas Towers.jpg>)
+
+A: Petronas Towers
+
+---
+
+Q: Architect?
+
+![](<@/Great Buildings/César Pelli—Petronas Towers.jpg>)
+
+A: César Pelli
+
+---
+
+Q: Name?
+
+![](<@/Great Buildings/César Pelli—Salesforce Tower.jpg>)
+
+A: Salesforce Tower
+
+---
+
+Q: Architect?
+
+![](<@/Great Buildings/César Pelli—Salesforce Tower.jpg>)
+
+A: César Pelli
+
+---
+
+Q: Name?
+
 ![](<@/Great Buildings/Ennis House—Frank Lloyd Wright.jpg>)
 
 A: Frank Lloyd Wright
@@ -411,3 +451,19 @@ Q: Architect?
 ![](<@/Great Buildings/SHoP—Steinway Tower.jpg>)
 
 A: SHoP
+
+---
+
+Q: Name?
+
+![](<@/Great Buildings/William Pereira—Transamerica Pyramid.jpg>)
+
+A: Transamerica Pyramid
+
+---
+
+Q: Architect?
+
+![](<@/Great Buildings/William Pereira—Transamerica Pyramid.jpg>)
+
+A: William Pereira
