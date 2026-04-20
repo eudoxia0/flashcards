@@ -380,3 +380,11 @@ A: Remote Direct Memory Access.
 
 Q: What does _bit_ stand for?
 A: Binary digit.
+
+---
+
+C: The [lee] side of an object is the side that is facing [downwind].
+
+---
+
+C: The [windward] side of an object is the side that is facing [upwind].
