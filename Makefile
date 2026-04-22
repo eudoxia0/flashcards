@@ -69,7 +69,7 @@ check:
 	hashcards check Cards
 
 drill:
-	hashcards drill Cards
+	hashcards drill Cards --new-card-limit=5
 
 stats:
 	hashcards stats Cards --format=json
