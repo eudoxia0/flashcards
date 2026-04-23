@@ -393,3 +393,8 @@ C: The [windward] side of an object is the side that is facing [upwind].
 
 Q: Xilinx was acquired by which company?
 A: AMD.
+
+---
+
+Q: Who wrote _The Wreck of the Hesperus_?
+A: Henry Wadsworth Longfellow.
