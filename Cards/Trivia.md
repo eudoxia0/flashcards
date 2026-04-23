@@ -398,3 +398,9 @@ A: AMD.
 
 Q: Who wrote _The Wreck of the Hesperus_?
 A: Henry Wadsworth Longfellow.
+
+---
+
+C: Term: [soft-core microprocessor]
+
+Definition: [a microprocessor that can be implemented entirely with logic synthesis.]
