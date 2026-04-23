@@ -1,6 +1,6 @@
 Q: Name?
 
-![](<@/Great Buildings/—181 Fremont.jpg>)
+![](<@/Great Buildings/nil—181 Fremont.jpg>)
 
 A: 181 Fremont
 
@@ -8,7 +8,7 @@ A: 181 Fremont
 
 Q: Name?
 
-![](<@/Great Buildings/—CN Tower.jpg>)
+![](<@/Great Buildings/nil—CN Tower.jpg>)
 
 A: CN Tower
 
@@ -16,7 +16,7 @@ A: CN Tower
 
 Q: Name?
 
-![](<@/Great Buildings/—Goldin Finance 117.jpg>)
+![](<@/Great Buildings/nil—Goldin Finance 117.jpg>)
 
 A: Goldin Finance 117
 
@@ -24,7 +24,7 @@ A: Goldin Finance 117
 
 Q: Name?
 
-![](<@/Great Buildings/—Mercury City Tower.jpg>)
+![](<@/Great Buildings/nil—Mercury City Tower.jpg>)
 
 A: Mercury City Tower
 
@@ -32,7 +32,7 @@ A: Mercury City Tower
 
 Q: Name?
 
-![](<@/Great Buildings/—One World Trade Center.jpg>)
+![](<@/Great Buildings/nil—One World Trade Center.jpg>)
 
 A: One World Trade Center
 
@@ -40,7 +40,7 @@ A: One World Trade Center
 
 Q: Name?
 
-![](<@/Great Buildings/—Ostankino Tower.jpg>)
+![](<@/Great Buildings/nil—Ostankino Tower.jpg>)
 
 A: Ostankino Tower
 
@@ -48,7 +48,7 @@ A: Ostankino Tower
 
 Q: Name?
 
-![](<@/Great Buildings/—Shanghai Park Hotel.jpg>)
+![](<@/Great Buildings/nil—Shanghai Park Hotel.jpg>)
 
 A: Shanghai Park Hotel
 
@@ -56,7 +56,7 @@ A: Shanghai Park Hotel
 
 Q: Name?
 
-![](<@/Great Buildings/—Tokyo Tower.jpg>)
+![](<@/Great Buildings/nil—Tokyo Tower.jpg>)
 
 A: Tokyo Tower
 
@@ -64,7 +64,7 @@ A: Tokyo Tower
 
 Q: Name?
 
-![](<@/Great Buildings/—Trade Tower.jpg>)
+![](<@/Great Buildings/nil—Trade Tower.jpg>)
 
 A: Trade Tower
 

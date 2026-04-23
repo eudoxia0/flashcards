@@ -16,7 +16,10 @@ def parse_filename(filename: str) -> tuple[str, str]:
     if "—" in stem:
         parts = stem.split("—", 1)
         artist, title = parts
-        return (artist.strip(), title.strip())
+        if artist == "nil":
+            return ("", title.strip())
+        else:
+            return (artist.strip(), title.strip())
     else:
         return ("", stem.strip())
 
