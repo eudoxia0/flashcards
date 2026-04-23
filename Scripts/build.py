@@ -8,25 +8,32 @@ DIR: Path = Path("Cards/Great Buildings")
 IMAGE_EXTS = {".jpg", ".jpeg", ".png", ".gif", ".webp"}
 
 
-def parse_filename(filename: str) -> tuple[str, str]:
+def parse_filename(filename: str) -> tuple[str | None, str]:
     """
-    Parse 'Architect—Name' or 'Name' from filename, return (architect | "", title).
+    Parse 'Architect—Name' from filename.
     """
-    stem = Path(filename).stem
-    if "—" in stem:
-        parts = stem.split("—", 1)
-        artist, title = parts
-        if artist == "nil":
-            return ("", title.strip())
-        else:
-            return (artist.strip(), title.strip())
+    stem: str = Path(filename).stem
+    if "—" not in stem:
+        raise ValueError(f"Invalid filename format: '{filename}'")
+
+    parts: list[str] = stem.split("—", 1)
+
+    if len(parts) != 2:
+        raise ValueError(f"Invalid filename format: '{filename}'")
+
+    architect: str
+    title: str
+    architect, title = parts
+    title = title.strip()
+    if architect == "nil":
+        return (None, title)
     else:
-        return ("", stem.strip())
+        return (architect, title)
 
 
 def main():
     # Parse.
-    images: list[tuple[Path, str, str]] = []
+    images: list[tuple[Path, str | None, str]] = []
     for p in Path("Cards/Great Buildings").iterdir():
         if p.suffix.lower() in IMAGE_EXTS:
             architect, name = parse_filename(p.name)
@@ -34,7 +41,7 @@ def main():
             images.append((filepath, architect, name))
 
     # Sort by architect, then name.
-    images.sort(key=lambda x: (x[1], x[2]))
+    images.sort(key=lambda x: (x[1] or "", x[2]))
 
     # Print deck.
     first = True
