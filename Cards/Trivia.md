@@ -388,3 +388,8 @@ C: The [lee] side of an object is the side that is facing [downwind].
 ---
 
 C: The [windward] side of an object is the side that is facing [upwind].
+
+---
+
+Q: Xilinx was acquired by which company?
+A: AMD.
