@@ -8,6 +8,118 @@ A: 181 Fremont
 
 Q: Name?
 
+![](<@/Great Buildings/—CN Tower.jpg>)
+
+A: CN Tower
+
+---
+
+Q: Name?
+
+![](<@/Great Buildings/—Goldin Finance 117.jpg>)
+
+A: Goldin Finance 117
+
+---
+
+Q: Name?
+
+![](<@/Great Buildings/—Mercury City Tower.jpg>)
+
+A: Mercury City Tower
+
+---
+
+Q: Name?
+
+![](<@/Great Buildings/—One World Trade Center.jpg>)
+
+A: One World Trade Center
+
+---
+
+Q: Name?
+
+![](<@/Great Buildings/—Ostankino Tower.jpg>)
+
+A: Ostankino Tower
+
+---
+
+Q: Name?
+
+![](<@/Great Buildings/—Shanghai Park Hotel.jpg>)
+
+A: Shanghai Park Hotel
+
+---
+
+Q: Name?
+
+![](<@/Great Buildings/—Tokyo Tower.jpg>)
+
+A: Tokyo Tower
+
+---
+
+Q: Name?
+
+![](<@/Great Buildings/—Trade Tower.jpg>)
+
+A: Trade Tower
+
+---
+
+Q: Name?
+
+![](<@/Great Buildings/Adrian Smith—Burj Khalifa.jpg>)
+
+A: Burj Khalifa
+
+---
+
+Q: Architect?
+
+![](<@/Great Buildings/Adrian Smith—Burj Khalifa.jpg>)
+
+A: Adrian Smith
+
+---
+
+Q: Name?
+
+![](<@/Great Buildings/Adrian Smith—Central Park Tower.jpg>)
+
+A: Central Park Tower
+
+---
+
+Q: Architect?
+
+![](<@/Great Buildings/Adrian Smith—Central Park Tower.jpg>)
+
+A: Adrian Smith
+
+---
+
+Q: Name?
+
+![](<@/Great Buildings/Adrian Smith—Jin Mao Tower.jpg>)
+
+A: Jin Mao Tower
+
+---
+
+Q: Architect?
+
+![](<@/Great Buildings/Adrian Smith—Jin Mao Tower.jpg>)
+
+A: Adrian Smith
+
+---
+
+Q: Name?
+
 ![](<@/Great Buildings/César Pelli—Petronas Towers.jpg>)
 
 A: Petronas Towers
@@ -163,6 +275,54 @@ Q: Architect?
 ![](<@/Great Buildings/Kisho Kurokawa—Nakagin Capsule Tower.jpg>)
 
 A: Kisho Kurokawa
+
+---
+
+Q: Name?
+
+![](<@/Great Buildings/Kohn Pedersen Fox—Ping An Finance Centre.jpg>)
+
+A: Ping An Finance Centre
+
+---
+
+Q: Architect?
+
+![](<@/Great Buildings/Kohn Pedersen Fox—Ping An Finance Centre.jpg>)
+
+A: Kohn Pedersen Fox
+
+---
+
+Q: Name?
+
+![](<@/Great Buildings/Kohn Pedersen Fox—Roppongi Hills.jpg>)
+
+A: Roppongi Hills
+
+---
+
+Q: Architect?
+
+![](<@/Great Buildings/Kohn Pedersen Fox—Roppongi Hills.jpg>)
+
+A: Kohn Pedersen Fox
+
+---
+
+Q: Name?
+
+![](<@/Great Buildings/Kohn Pedersen Fox—Shanghai World Financial Center.jpg>)
+
+A: Shanghai World Financial Center
+
+---
+
+Q: Architect?
+
+![](<@/Great Buildings/Kohn Pedersen Fox—Shanghai World Financial Center.jpg>)
+
+A: Kohn Pedersen Fox
 
 ---
 
