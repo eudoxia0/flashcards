@@ -404,3 +404,8 @@ A: Henry Wadsworth Longfellow.
 C: Term: [soft-core microprocessor]
 
 Definition: [a microprocessor that can be implemented entirely with logic synthesis.]
+
+---
+
+Q: Venus surface temperature?
+A: 460C.
