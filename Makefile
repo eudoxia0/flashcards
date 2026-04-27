@@ -11,8 +11,6 @@ ENG            := Cards/English\ Vocabulary.md
 ENG_SRC        := Sources/english_vocab.csv
 FDI            := Cards/FDI\ Dental\ Notation.md
 FDI_PY         := Scripts/fdi.py
-INDO_VOCAB     := Cards/Indonesian\ Vocabulary.md
-INDO_VOCAB_SRC := Sources/indo_vocab.csv
 NATO           := Cards/NATO\ Phonetic\ Alphabet.md
 NATO_SRC       := Sources/nato.csv
 PERSIAN        := Cards/Persian\ Alphabet.md
@@ -26,7 +24,7 @@ TEX_PY         := Scripts/tex.py
 TEX_SRC        := Sources/expr.tex
 VOCAB_PY       := Scripts/vocab.py
 
-TARGETS        := $(ART) $(AWS) $(ENG) $(INDO_VOCAB) $(NATO) $(PERSIAN) $(POW) $(STATS) $(TEX_OUT) $(FDI) $(BUILD)
+TARGETS        := $(ART) $(AWS) $(ENG) $(NATO) $(PERSIAN) $(POW) $(STATS) $(TEX_OUT) $(FDI) $(BUILD)
 
 .PHONY: all check drill stats clean
 
@@ -46,9 +44,6 @@ $(ENG): $(ENG_SRC) $(DEF_PY)
 
 $(FDI): $(FDI_PY)
 	$(PY) $(FDI_PY) > $(FDI)
-
-$(INDO_VOCAB): $(INDO_VOCAB_SRC) $(VOCAB_PY)
-	$(PY) $(VOCAB_PY) $(INDO_VOCAB_SRC) > $(INDO_VOCAB)
 
 $(NATO): $(NATO_SRC) $(DEF_PY)
 	$(PY) $(DEF_PY) $(NATO_SRC) > $(NATO)
