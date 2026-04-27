@@ -414,3 +414,9 @@ A: 460C.
 
 Q: Name of the airport in Fiji?
 A: Nadi.
+
+---
+
+C: Term: [hygroscopic]
+
+Definition: [of a substance: readily absording water, particularly from the atmosphere.]
