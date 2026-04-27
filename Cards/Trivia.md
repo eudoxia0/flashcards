@@ -409,3 +409,8 @@ Definition: [a microprocessor that can be implemented entirely with logic synthe
 
 Q: Venus surface temperature?
 A: 460C.
+
+---
+
+Q: Name of the airport in Fiji?
+A: Nadi.
