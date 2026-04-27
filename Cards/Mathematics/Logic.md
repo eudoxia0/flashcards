@@ -22,7 +22,7 @@ A: Implication.
 
 ---
 
-C: Introduction elimination is also called [_modus ponens_].
+C: Implication elimination is also called [_modus ponens_].
 
 ---
 
