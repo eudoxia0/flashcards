@@ -420,3 +420,8 @@ A: Nadi.
 C: Term: [hygroscopic]
 
 Definition: [of a substance: readily absording water, particularly from the atmosphere.]
+
+---
+
+Q: What does BPO stand for?
+A: Business process outsourcing.
