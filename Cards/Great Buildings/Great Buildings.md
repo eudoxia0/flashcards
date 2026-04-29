@@ -152,17 +152,17 @@ A: César Pelli
 
 Q: Name?
 
-![](<@/Great Buildings/Ennis House—Frank Lloyd Wright.jpg>)
+![](<@/Great Buildings/Frank Lloyd Wright—Ennis House.jpg>)
 
-A: Frank Lloyd Wright
+A: Ennis House
 
 ---
 
 Q: Architect?
 
-![](<@/Great Buildings/Ennis House—Frank Lloyd Wright.jpg>)
+![](<@/Great Buildings/Frank Lloyd Wright—Ennis House.jpg>)
 
-A: Ennis House
+A: Frank Lloyd Wright
 
 ---
 
