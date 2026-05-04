@@ -62,11 +62,12 @@ def main():
         print()
         print("---")
         print()
-        print("Q: Artist?")
-        print()
-        print(f"![](<@/{path}>)")
-        print()
-        print(f"A: {artist}")
+        if artist is not None:
+            print("Q: Artist?")
+            print()
+            print(f"![](<@/{path}>)")
+            print()
+            print(f"A: {artist}")
 
 
 if __name__ == "__main__":
