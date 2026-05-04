@@ -387,3 +387,13 @@ A: Luvox.
 
 Q: What is the INN of Luvox?
 A: Fluvoxamine.
+
+---
+
+Q: Syphilis is caused by what bacterium?
+A: _Treponema pallidum_.
+
+---
+
+Q: _Treponema pallidum_ is the bacterium that causes which disease?
+A: Syphilis.
