@@ -59,10 +59,10 @@ def main():
         print(f"![](<@/{path}>)")
         print()
         print(f"A: {title}")
-        print()
-        print("---")
-        print()
         if artist is not None:
+            print()
+            print("---")
+            print()
             print("Q: Artist?")
             print()
             print(f"![](<@/{path}>)")
