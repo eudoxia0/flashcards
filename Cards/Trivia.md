@@ -425,3 +425,15 @@ Definition: [of a substance: readily absording water, particularly from the atmo
 
 Q: What does BPO stand for?
 A: Business process outsourcing.
+
+---
+
+C: Term: [hypnagogic]
+
+Definition: [the state of consciousness while falling asleep.]
+
+---
+
+C: Term: [hypnopompic]
+
+Definition: [the state of consciousness while waking.]
