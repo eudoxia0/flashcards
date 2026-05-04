@@ -9,35 +9,40 @@ ART_DIR = Path("Cards/Art")
 IMAGE_EXTS = {".jpg", ".jpeg", ".png", ".gif", ".webp"}
 
 
-def parse_filename(filename: str) -> tuple[str, str] | None:
-    """Parse 'Artist—Title' from filename, return (artist, title) or None."""
-    stem = Path(filename).stem
+def parse_filename(filename: str) -> tuple[str | None, str]:
+    """
+    Parse 'Artist—Name' from filename.
+    """
+    stem: str = Path(filename).stem
     if "—" not in stem:
-        return None
-    parts = stem.split("—", 1)
+        raise ValueError(f"Invalid filename format: '{filename}'")
+
+    parts: list[str] = stem.split("—", 1)
+
     if len(parts) != 2:
-        return None
+        raise ValueError(f"Invalid filename format: '{filename}'")
+
+    artist: str
+    title: str
     artist, title = parts
-    return artist.strip(), title.strip()
+    title = title.strip()
+    if artist == "nil":
+        return (None, title)
+    else:
+        return (artist, title)
 
 
 def main():
-    # Load images.
-    images: list[tuple[Path, str, str]] = []
-    for f in ART_DIR.iterdir():
-        if f.suffix.lower() in IMAGE_EXTS:
-            parsed = parse_filename(f.name)
-            if parsed:
-                artist: str
-                title: str
-                artist, title = parsed
-                filepath: Path = Path("/".join(f.parts[1:]))
-                images.append((filepath, artist, title))
-            else:
-                print(f"Warning: skipping {f.name} (invalid format)", file=sys.stderr)
+    # Parse.
+    images: list[tuple[Path, str | None, str]] = []
+    for p in Path("Cards/Art").iterdir():
+        if p.suffix.lower() in IMAGE_EXTS:
+            artist, name = parse_filename(p.name)
+            filepath: Path = Path("/".join(p.parts[1:]))
+            images.append((filepath, artist, name))
 
-    # Sort by artist, then title.
-    images.sort(key=lambda x: (x[1], x[2]))
+    # Sort by artist, then name.
+    images.sort(key=lambda x: (x[1] or "", x[2]))
 
     # Print deck.
     first = True
