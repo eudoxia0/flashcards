@@ -437,3 +437,13 @@ Definition: [the state of consciousness while falling asleep.]
 C: Term: [hypnopompic]
 
 Definition: [the state of consciousness while waking.]
+
+---
+
+Q: Capital of Burkina Faso?
+A: Ouagadougou.
+
+---
+
+Q: Ouagadougou is the capital of?
+A: Burkina Faso.
