@@ -280,6 +280,22 @@ A: Kisho Kurokawa
 
 Q: Name?
 
+![](<@/Great Buildings/Kohn Pedersen Fox—Lotte World Tower.jpg>)
+
+A: Lotte World Tower
+
+---
+
+Q: Architect?
+
+![](<@/Great Buildings/Kohn Pedersen Fox—Lotte World Tower.jpg>)
+
+A: Kohn Pedersen Fox
+
+---
+
+Q: Name?
+
 ![](<@/Great Buildings/Kohn Pedersen Fox—Ping An Finance Centre.jpg>)
 
 A: Ping An Finance Centre
