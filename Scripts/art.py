@@ -2,7 +2,6 @@
 Generate flashcards for the great works.
 """
 
-import sys
 from pathlib import Path
 
 ART_DIR = Path("Cards/Art")
