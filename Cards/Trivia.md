@@ -447,3 +447,8 @@ A: Ouagadougou.
 
 Q: Ouagadougou is the capital of?
 A: Burkina Faso.
+
+---
+
+Q: What is a Lehr furnace?
+A: A long conveyor-belt kiln used to anneal products by transporting them across a temperature gradient.
