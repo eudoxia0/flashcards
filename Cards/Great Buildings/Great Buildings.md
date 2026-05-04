@@ -248,6 +248,22 @@ A: I. M. Pei
 
 Q: Name?
 
+![](<@/Great Buildings/Kenzo Tange—Fuji Broadcasting Center.jpg>)
+
+A: Fuji Broadcasting Center
+
+---
+
+Q: Architect?
+
+![](<@/Great Buildings/Kenzo Tange—Fuji Broadcasting Center.jpg>)
+
+A: Kenzo Tange
+
+---
+
+Q: Name?
+
 ![](<@/Great Buildings/Kenzo Tange—Tokyo Metropolitan Government Building.jpg>)
 
 A: Tokyo Metropolitan Government Building
