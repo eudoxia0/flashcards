@@ -120,6 +120,22 @@ A: Adrian Smith
 
 Q: Name?
 
+![](<@/Great Buildings/César Pelli—Abeno Harukas.jpg>)
+
+A: Abeno Harukas
+
+---
+
+Q: Architect?
+
+![](<@/Great Buildings/César Pelli—Abeno Harukas.jpg>)
+
+A: César Pelli
+
+---
+
+Q: Name?
+
 ![](<@/Great Buildings/César Pelli—Petronas Towers.jpg>)
 
 A: Petronas Towers
@@ -739,6 +755,22 @@ Q: Architect?
 ![](<@/Great Buildings/Oscar Niemeyer—Palácio do Planalto.jpg>)
 
 A: Oscar Niemeyer
+
+---
+
+Q: Name?
+
+![](<@/Great Buildings/Paul Rudolph—Lippo Centre.jpg>)
+
+A: Lippo Centre
+
+---
+
+Q: Architect?
+
+![](<@/Great Buildings/Paul Rudolph—Lippo Centre.jpg>)
+
+A: Paul Rudolph
 
 ---
 
