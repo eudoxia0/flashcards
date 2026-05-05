@@ -8,6 +8,22 @@ A: Uffington White Horse
 
 Q: Title?
 
+![](<@/Art/Antonio Canova—Mars and Venus.jpg>)
+
+A: Mars and Venus
+
+---
+
+Q: Artist?
+
+![](<@/Art/Antonio Canova—Mars and Venus.jpg>)
+
+A: Antonio Canova
+
+---
+
+Q: Title?
+
 ![](<@/Art/Dante Gabriel Rossetti—Lady Lilith.jpg>)
 
 A: Lady Lilith
