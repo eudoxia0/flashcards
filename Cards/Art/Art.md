@@ -8,6 +8,22 @@ A: Uffington White Horse
 
 Q: Title?
 
+![](<@/Art/Dante Gabriel Rossetti—Lady Lilith.jpg>)
+
+A: Lady Lilith
+
+---
+
+Q: Artist?
+
+![](<@/Art/Dante Gabriel Rossetti—Lady Lilith.jpg>)
+
+A: Dante Gabriel Rossetti
+
+---
+
+Q: Title?
+
 ![](<@/Art/Ilya Repin—A Paris Cafe.jpg>)
 
 A: A Paris Cafe
