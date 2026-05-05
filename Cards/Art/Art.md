@@ -211,3 +211,131 @@ Q: Artist?
 ![](<@/Art/John Singer Sargent—Portrait of Madame X.jpg>)
 
 A: John Singer Sargent
+
+---
+
+Q: Title?
+
+![](<@/Art/John William Waterhouse—A Mermaid.jpg>)
+
+A: A Mermaid
+
+---
+
+Q: Artist?
+
+![](<@/Art/John William Waterhouse—A Mermaid.jpg>)
+
+A: John William Waterhouse
+
+---
+
+Q: Title?
+
+![](<@/Art/John William Waterhouse—Diogenes.jpg>)
+
+A: Diogenes
+
+---
+
+Q: Artist?
+
+![](<@/Art/John William Waterhouse—Diogenes.jpg>)
+
+A: John William Waterhouse
+
+---
+
+Q: Title?
+
+![](<@/Art/John William Waterhouse—Hylas and the Nymphs.jpg>)
+
+A: Hylas and the Nymphs
+
+---
+
+Q: Artist?
+
+![](<@/Art/John William Waterhouse—Hylas and the Nymphs.jpg>)
+
+A: John William Waterhouse
+
+---
+
+Q: Title?
+
+![](<@/Art/John William Waterhouse—Jason and Medea.jpg>)
+
+A: Jason and Medea
+
+---
+
+Q: Artist?
+
+![](<@/Art/John William Waterhouse—Jason and Medea.jpg>)
+
+A: John William Waterhouse
+
+---
+
+Q: Title?
+
+![](<@/Art/John William Waterhouse—Miranda.jpg>)
+
+A: Miranda
+
+---
+
+Q: Artist?
+
+![](<@/Art/John William Waterhouse—Miranda.jpg>)
+
+A: John William Waterhouse
+
+---
+
+Q: Title?
+
+![](<@/Art/John William Waterhouse—Pandora.jpg>)
+
+A: Pandora
+
+---
+
+Q: Artist?
+
+![](<@/Art/John William Waterhouse—Pandora.jpg>)
+
+A: John William Waterhouse
+
+---
+
+Q: Title?
+
+![](<@/Art/John William Waterhouse—The Sorceress.jpg>)
+
+A: The Sorceress
+
+---
+
+Q: Artist?
+
+![](<@/Art/John William Waterhouse—The Sorceress.jpg>)
+
+A: John William Waterhouse
+
+---
+
+Q: Title?
+
+![](<@/Art/John William Waterhouse—Ulysses and the Sirens.jpg>)
+
+A: Ulysses and the Sirens
+
+---
+
+Q: Artist?
+
+![](<@/Art/John William Waterhouse—Ulysses and the Sirens.jpg>)
+
+A: John William Waterhouse
