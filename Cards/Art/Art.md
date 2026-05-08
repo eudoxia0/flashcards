@@ -8,6 +8,54 @@ A: Uffington White Horse
 
 Q: Title?
 
+![](<@/Art/Albrecht Dürer—Portrait of Maximilian I.jpg>)
+
+A: Portrait of Maximilian I
+
+---
+
+Q: Artist?
+
+![](<@/Art/Albrecht Dürer—Portrait of Maximilian I.jpg>)
+
+A: Albrecht Dürer
+
+---
+
+Q: Title?
+
+![](<@/Art/Albrecht Dürer—Self-Portrait with Fur-Trimmed Robe.jpg>)
+
+A: Self-Portrait with Fur-Trimmed Robe
+
+---
+
+Q: Artist?
+
+![](<@/Art/Albrecht Dürer—Self-Portrait with Fur-Trimmed Robe.jpg>)
+
+A: Albrecht Dürer
+
+---
+
+Q: Title?
+
+![](<@/Art/Albrecht Dürer—Wing of a European Roller.jpg>)
+
+A: Wing of a European Roller
+
+---
+
+Q: Artist?
+
+![](<@/Art/Albrecht Dürer—Wing of a European Roller.jpg>)
+
+A: Albrecht Dürer
+
+---
+
+Q: Title?
+
 ![](<@/Art/Antonio Canova—Mars and Venus.jpg>)
 
 A: Mars and Venus
