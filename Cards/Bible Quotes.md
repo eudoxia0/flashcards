@@ -175,12 +175,12 @@ A: If a man die, shall he live again? all the days of my appointed time will I w
 
 ---
 
-C: [And as a ship that passeth over the waves of the water], [which when it is gone by], [the trace thereof cannot be found], [neither the pathway of the keel in the waves];
+C: And as a ship that passeth over the waves of the water, which when it is gone by, the trace thereof cannot be found, neither the pathway of the keel in the waves.
 
 — [Wisdom of Solomon] [5]:[10]
 
 ---
 
-C: [or like as when an arrow is shot at a mark], [it parteth the air], [which immediately cometh together again], [so that a man cannot know where it went through]
+C: Or like as when an arrow is shot at a mark, it parteth the air, which immediately cometh together again, so that a man cannot know where it went through.
 
 — [Wisdom of Solomon] [5]:[12]
