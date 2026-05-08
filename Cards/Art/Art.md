@@ -467,3 +467,35 @@ Q: Artist?
 ![](<@/Art/John William Waterhouse—Ulysses and the Sirens.jpg>)
 
 A: John William Waterhouse
+
+---
+
+Q: Title?
+
+![](<@/Art/William Blake—Newton.jpg>)
+
+A: Newton
+
+---
+
+Q: Artist?
+
+![](<@/Art/William Blake—Newton.jpg>)
+
+A: William Blake
+
+---
+
+Q: Title?
+
+![](<@/Art/William Blake—The Great Red Dragon and the Woman Clothed In Sun.jpg>)
+
+A: The Great Red Dragon and the Woman Clothed In Sun
+
+---
+
+Q: Artist?
+
+![](<@/Art/William Blake—The Great Red Dragon and the Woman Clothed In Sun.jpg>)
+
+A: William Blake
