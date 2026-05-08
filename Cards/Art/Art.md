@@ -536,6 +536,22 @@ A: J. M. W. Turner
 
 Q: Title?
 
+![](<@/Art/Jan van Eyck—Arnolfini Portrait.jpg>)
+
+A: Arnolfini Portrait
+
+---
+
+Q: Artist?
+
+![](<@/Art/Jan van Eyck—Arnolfini Portrait.jpg>)
+
+A: Jan van Eyck
+
+---
+
+Q: Title?
+
 ![](<@/Art/John Singer Sargent—Carnation, Lily, Lily, Rose.jpg>)
 
 A: Carnation, Lily, Lily, Rose
