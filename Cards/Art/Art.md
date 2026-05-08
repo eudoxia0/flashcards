@@ -72,6 +72,54 @@ A: Edwin Landseer
 
 Q: Title?
 
+![](<@/Art/Henry Tanner—Salome.jpg>)
+
+A: Salome
+
+---
+
+Q: Artist?
+
+![](<@/Art/Henry Tanner—Salome.jpg>)
+
+A: Henry Tanner
+
+---
+
+Q: Title?
+
+![](<@/Art/Henry Tanner—The Annunciation.jpg>)
+
+A: The Annunciation
+
+---
+
+Q: Artist?
+
+![](<@/Art/Henry Tanner—The Annunciation.jpg>)
+
+A: Henry Tanner
+
+---
+
+Q: Title?
+
+![](<@/Art/Henry Tanner—The Resurrection of Lazarus.jpg>)
+
+A: The Resurrection of Lazarus
+
+---
+
+Q: Artist?
+
+![](<@/Art/Henry Tanner—The Resurrection of Lazarus.jpg>)
+
+A: Henry Tanner
+
+---
+
+Q: Title?
+
 ![](<@/Art/Ilya Repin—A Paris Cafe.jpg>)
 
 A: A Paris Cafe
