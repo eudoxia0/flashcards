@@ -600,6 +600,54 @@ A: John William Waterhouse
 
 Q: Title?
 
+![](<@/Art/Merab Abramishvili—Black Panther.jpg>)
+
+A: Black Panther
+
+---
+
+Q: Artist?
+
+![](<@/Art/Merab Abramishvili—Black Panther.jpg>)
+
+A: Merab Abramishvili
+
+---
+
+Q: Title?
+
+![](<@/Art/Merab Abramishvili—Semiramis.jpg>)
+
+A: Semiramis
+
+---
+
+Q: Artist?
+
+![](<@/Art/Merab Abramishvili—Semiramis.jpg>)
+
+A: Merab Abramishvili
+
+---
+
+Q: Title?
+
+![](<@/Art/Merab Abramishvili—Three Hundred Aragvians.jpg>)
+
+A: Three Hundred Aragvians
+
+---
+
+Q: Artist?
+
+![](<@/Art/Merab Abramishvili—Three Hundred Aragvians.jpg>)
+
+A: Merab Abramishvili
+
+---
+
+Q: Title?
+
 ![](<@/Art/William Blake—Newton.jpg>)
 
 A: Newton
