@@ -24,6 +24,118 @@ A: Antonio Canova
 
 Q: Title?
 
+![](<@/Art/Arnold Böcklin—Isle of the Dead.jpg>)
+
+A: Isle of the Dead
+
+---
+
+Q: Artist?
+
+![](<@/Art/Arnold Böcklin—Isle of the Dead.jpg>)
+
+A: Arnold Böcklin
+
+---
+
+Q: Title?
+
+![](<@/Art/Arnold Böcklin—Moonlit Landscape.jpg>)
+
+A: Moonlit Landscape
+
+---
+
+Q: Artist?
+
+![](<@/Art/Arnold Böcklin—Moonlit Landscape.jpg>)
+
+A: Arnold Böcklin
+
+---
+
+Q: Title?
+
+![](<@/Art/Arnold Böcklin—Mourning under the Cross.jpg>)
+
+A: Mourning under the Cross
+
+---
+
+Q: Artist?
+
+![](<@/Art/Arnold Böcklin—Mourning under the Cross.jpg>)
+
+A: Arnold Böcklin
+
+---
+
+Q: Title?
+
+![](<@/Art/Arnold Böcklin—Self-Portrait with Death Playing the Fiddle.jpg>)
+
+A: Self-Portrait with Death Playing the Fiddle
+
+---
+
+Q: Artist?
+
+![](<@/Art/Arnold Böcklin—Self-Portrait with Death Playing the Fiddle.jpg>)
+
+A: Arnold Böcklin
+
+---
+
+Q: Title?
+
+![](<@/Art/Arnold Böcklin—The Elysian Fields.jpg>)
+
+A: The Elysian Fields
+
+---
+
+Q: Artist?
+
+![](<@/Art/Arnold Böcklin—The Elysian Fields.jpg>)
+
+A: Arnold Böcklin
+
+---
+
+Q: Title?
+
+![](<@/Art/Caspar David Friedrich—Chalk Cliffs on Rügen.jpg>)
+
+A: Chalk Cliffs on Rügen
+
+---
+
+Q: Artist?
+
+![](<@/Art/Caspar David Friedrich—Chalk Cliffs on Rügen.jpg>)
+
+A: Caspar David Friedrich
+
+---
+
+Q: Title?
+
+![](<@/Art/Caspar David Friedrich—The Abbey in the Oakwood.jpg>)
+
+A: The Abbey in the Oakwood
+
+---
+
+Q: Artist?
+
+![](<@/Art/Caspar David Friedrich—The Abbey in the Oakwood.jpg>)
+
+A: Caspar David Friedrich
+
+---
+
+Q: Title?
+
 ![](<@/Art/Caspar David Friedrich—The Sea of Ice.jpg>)
 
 A: The Sea of Ice
@@ -33,6 +145,22 @@ A: The Sea of Ice
 Q: Artist?
 
 ![](<@/Art/Caspar David Friedrich—The Sea of Ice.jpg>)
+
+A: Caspar David Friedrich
+
+---
+
+Q: Title?
+
+![](<@/Art/Caspar David Friedrich—Wanderer above the Sea of Fog.jpg>)
+
+A: Wanderer above the Sea of Fog
+
+---
+
+Q: Artist?
+
+![](<@/Art/Caspar David Friedrich—Wanderer above the Sea of Fog.jpg>)
 
 A: Caspar David Friedrich
 
