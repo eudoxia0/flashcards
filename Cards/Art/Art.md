@@ -536,6 +536,22 @@ A: Ivan Aivazovsky
 
 Q: Title?
 
+![](<@/Art/Ivan Shishkin—Morning in a Pine Forest.jpg>)
+
+A: Morning in a Pine Forest
+
+---
+
+Q: Artist?
+
+![](<@/Art/Ivan Shishkin—Morning in a Pine Forest.jpg>)
+
+A: Ivan Shishkin
+
+---
+
+Q: Title?
+
 ![](<@/Art/J. M. W. Turner—Rain, Steam, and Speed.jpg>)
 
 A: Rain, Steam, and Speed
