@@ -91,3 +91,54 @@ A: A definition that defines an object by quantifying over a collection that con
 
 Q: What is the term for a definition that defines an object by quantifying over a collection containing that object?
 A: Impredicative.
+
+---
+
+C: In the Aristotelian syllogism:
+
+1. All men are mortal.
+2. All Greeks are men.
+3. All Greeks are mortal.
+
+The first line is called the [major premise].
+
+---
+
+C: In the Aristotelian syllogism:
+
+1. All men are mortal.
+2. All Greeks are men.
+3. All Greeks are mortal.
+
+The second line is called the [minor premise].
+
+---
+
+C: In the Aristotelian syllogism:
+
+1. All men are mortal.
+2. All Greeks are men.
+3. All Greeks are mortal.
+
+The third line is called the [conclusion].
+
+---
+
+C: In the Aristotelian syllogism:
+
+1. All men are mortal.
+2. All Greeks are men.
+3. All Greeks are mortal.
+
+The first two lines are called the [premises].
+
+---
+
+Q: Who invented the _Characteristica Universalis_?
+A: Leibniz.
+
+---
+
+C: Term: [existential-conjunctive logic]
+
+Definition: [the subset of logical expressions with only $\exists$ and $\land$.]
