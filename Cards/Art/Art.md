@@ -216,6 +216,118 @@ A: Giotto
 
 Q: Title?
 
+![](<@/Art/Hans Holbein the Younger—Portrait of Anne of Cleves.jpg>)
+
+A: Portrait of Anne of Cleves
+
+---
+
+Q: Artist?
+
+![](<@/Art/Hans Holbein the Younger—Portrait of Anne of Cleves.jpg>)
+
+A: Hans Holbein the Younger
+
+---
+
+Q: Title?
+
+![](<@/Art/Hans Holbein the Younger—Portrait of Erasmus of Rotterdam.jpg>)
+
+A: Portrait of Erasmus of Rotterdam
+
+---
+
+Q: Artist?
+
+![](<@/Art/Hans Holbein the Younger—Portrait of Erasmus of Rotterdam.jpg>)
+
+A: Hans Holbein the Younger
+
+---
+
+Q: Title?
+
+![](<@/Art/Hans Holbein the Younger—Portrait of Henry VIII.jpg>)
+
+A: Portrait of Henry VIII
+
+---
+
+Q: Artist?
+
+![](<@/Art/Hans Holbein the Younger—Portrait of Henry VIII.jpg>)
+
+A: Hans Holbein the Younger
+
+---
+
+Q: Title?
+
+![](<@/Art/Hans Holbein the Younger—Portrait of Jane Seymour.jpg>)
+
+A: Portrait of Jane Seymour
+
+---
+
+Q: Artist?
+
+![](<@/Art/Hans Holbein the Younger—Portrait of Jane Seymour.jpg>)
+
+A: Hans Holbein the Younger
+
+---
+
+Q: Title?
+
+![](<@/Art/Hans Holbein the Younger—Portrait of Sir Thomas More.jpg>)
+
+A: Portrait of Sir Thomas More
+
+---
+
+Q: Artist?
+
+![](<@/Art/Hans Holbein the Younger—Portrait of Sir Thomas More.jpg>)
+
+A: Hans Holbein the Younger
+
+---
+
+Q: Title?
+
+![](<@/Art/Hans Holbein the Younger—Portrait of the Merchant Georg Giese.jpg>)
+
+A: Portrait of the Merchant Georg Giese
+
+---
+
+Q: Artist?
+
+![](<@/Art/Hans Holbein the Younger—Portrait of the Merchant Georg Giese.jpg>)
+
+A: Hans Holbein the Younger
+
+---
+
+Q: Title?
+
+![](<@/Art/Hans Holbein the Younger—The Ambassadors.jpg>)
+
+A: The Ambassadors
+
+---
+
+Q: Artist?
+
+![](<@/Art/Hans Holbein the Younger—The Ambassadors.jpg>)
+
+A: Hans Holbein the Younger
+
+---
+
+Q: Title?
+
 ![](<@/Art/Henry Tanner—Salome.jpg>)
 
 A: Salome
