@@ -24,6 +24,22 @@ A: Antonio Canova
 
 Q: Title?
 
+![](<@/Art/Caspar David Friedrich—The Sea of Ice.jpg>)
+
+A: The Sea of Ice
+
+---
+
+Q: Artist?
+
+![](<@/Art/Caspar David Friedrich—The Sea of Ice.jpg>)
+
+A: Caspar David Friedrich
+
+---
+
+Q: Title?
+
 ![](<@/Art/Dante Gabriel Rossetti—Lady Lilith.jpg>)
 
 A: Lady Lilith
