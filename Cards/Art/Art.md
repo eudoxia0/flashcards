@@ -136,6 +136,22 @@ A: Ilya Repin
 
 Q: Title?
 
+![](<@/Art/Ivan Aivazovsky—Constantinople.jpg>)
+
+A: Constantinople
+
+---
+
+Q: Artist?
+
+![](<@/Art/Ivan Aivazovsky—Constantinople.jpg>)
+
+A: Ivan Aivazovsky
+
+---
+
+Q: Title?
+
 ![](<@/Art/J. M. W. Turner—Rain, Steam, and Speed.jpg>)
 
 A: Rain, Steam, and Speed
