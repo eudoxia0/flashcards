@@ -200,6 +200,22 @@ A: Edwin Landseer
 
 Q: Title?
 
+![](<@/Art/Giotto—Kiss of Judas.jpg>)
+
+A: Kiss of Judas
+
+---
+
+Q: Artist?
+
+![](<@/Art/Giotto—Kiss of Judas.jpg>)
+
+A: Giotto
+
+---
+
+Q: Title?
+
 ![](<@/Art/Henry Tanner—Salome.jpg>)
 
 A: Salome
