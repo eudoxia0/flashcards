@@ -56,6 +56,22 @@ A: Dante Gabriel Rossetti
 
 Q: Title?
 
+![](<@/Art/Edwin Landseer—The Monarch of the Glen.png>)
+
+A: The Monarch of the Glen
+
+---
+
+Q: Artist?
+
+![](<@/Art/Edwin Landseer—The Monarch of the Glen.png>)
+
+A: Edwin Landseer
+
+---
+
+Q: Title?
+
 ![](<@/Art/Ilya Repin—A Paris Cafe.jpg>)
 
 A: A Paris Cafe
