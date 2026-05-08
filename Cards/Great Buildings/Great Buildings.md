@@ -24,6 +24,14 @@ A: Goldin Finance 117
 
 Q: Name?
 
+![](<@/Great Buildings/nil—ICC Berlin.jpg>)
+
+A: ICC Berlin
+
+---
+
+Q: Name?
+
 ![](<@/Great Buildings/nil—Mercury City Tower.jpg>)
 
 A: Mercury City Tower
