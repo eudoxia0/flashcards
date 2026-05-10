@@ -248,6 +248,22 @@ A: Edwin Landseer
 
 Q: Title?
 
+![](<@/Art/Georges de La Tour—Magdalene with Two Flames.jpg>)
+
+A: Magdalene with Two Flames
+
+---
+
+Q: Artist?
+
+![](<@/Art/Georges de La Tour—Magdalene with Two Flames.jpg>)
+
+A: Georges de La Tour
+
+---
+
+Q: Title?
+
 ![](<@/Art/Giotto—Kiss of Judas.jpg>)
 
 A: Kiss of Judas
@@ -1011,6 +1027,86 @@ Q: Artist?
 ![](<@/Art/Joseph Wright of Derby—Three Persons Viewing the Gladiator by Candlelight.jpg>)
 
 A: Joseph Wright of Derby
+
+---
+
+Q: Title?
+
+![](<@/Art/Leonid Pasternak—Albert Einstein.jpg>)
+
+A: Albert Einstein
+
+---
+
+Q: Artist?
+
+![](<@/Art/Leonid Pasternak—Albert Einstein.jpg>)
+
+A: Leonid Pasternak
+
+---
+
+Q: Title?
+
+![](<@/Art/Leonid Pasternak—At the Window. Autumn.jpg>)
+
+A: At the Window. Autumn
+
+---
+
+Q: Artist?
+
+![](<@/Art/Leonid Pasternak—At the Window. Autumn.jpg>)
+
+A: Leonid Pasternak
+
+---
+
+Q: Title?
+
+![](<@/Art/Leonid Pasternak—Boris Beside the Sea.jpg>)
+
+A: Boris Beside the Sea
+
+---
+
+Q: Artist?
+
+![](<@/Art/Leonid Pasternak—Boris Beside the Sea.jpg>)
+
+A: Leonid Pasternak
+
+---
+
+Q: Title?
+
+![](<@/Art/Leonid Pasternak—Nikolai Fyodorovich Fyodorov.jpg>)
+
+A: Nikolai Fyodorovich Fyodorov
+
+---
+
+Q: Artist?
+
+![](<@/Art/Leonid Pasternak—Nikolai Fyodorovich Fyodorov.jpg>)
+
+A: Leonid Pasternak
+
+---
+
+Q: Title?
+
+![](<@/Art/Leonid Pasternak—The Moscow Kremlin in the March Sun.jpg>)
+
+A: The Moscow Kremlin in the March Sun
+
+---
+
+Q: Artist?
+
+![](<@/Art/Leonid Pasternak—The Moscow Kremlin in the March Sun.jpg>)
+
+A: Leonid Pasternak
 
 ---
 
