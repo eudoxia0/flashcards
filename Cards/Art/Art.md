@@ -904,6 +904,118 @@ A: John William Waterhouse
 
 Q: Title?
 
+![](<@/Art/Joseph Wright of Derby—A Philosopher Lecturing on the Orrery.jpg>)
+
+A: A Philosopher Lecturing on the Orrery
+
+---
+
+Q: Artist?
+
+![](<@/Art/Joseph Wright of Derby—A Philosopher Lecturing on the Orrery.jpg>)
+
+A: Joseph Wright of Derby
+
+---
+
+Q: Title?
+
+![](<@/Art/Joseph Wright of Derby—Academy by Lamplight.jpg>)
+
+A: Academy by Lamplight
+
+---
+
+Q: Artist?
+
+![](<@/Art/Joseph Wright of Derby—Academy by Lamplight.jpg>)
+
+A: Joseph Wright of Derby
+
+---
+
+Q: Title?
+
+![](<@/Art/Joseph Wright of Derby—An Experiment on a Bird in the Air Pump.jpg>)
+
+A: An Experiment on a Bird in the Air Pump
+
+---
+
+Q: Artist?
+
+![](<@/Art/Joseph Wright of Derby—An Experiment on a Bird in the Air Pump.jpg>)
+
+A: Joseph Wright of Derby
+
+---
+
+Q: Title?
+
+![](<@/Art/Joseph Wright of Derby—An Iron Forge.jpg>)
+
+A: An Iron Forge
+
+---
+
+Q: Artist?
+
+![](<@/Art/Joseph Wright of Derby—An Iron Forge.jpg>)
+
+A: Joseph Wright of Derby
+
+---
+
+Q: Title?
+
+![](<@/Art/Joseph Wright of Derby—Moonlight, Coast of Tuscany.jpg>)
+
+A: Moonlight, Coast of Tuscany
+
+---
+
+Q: Artist?
+
+![](<@/Art/Joseph Wright of Derby—Moonlight, Coast of Tuscany.jpg>)
+
+A: Joseph Wright of Derby
+
+---
+
+Q: Title?
+
+![](<@/Art/Joseph Wright of Derby—The Alchemist Discovering Phosphorus.jpg>)
+
+A: The Alchemist Discovering Phosphorus
+
+---
+
+Q: Artist?
+
+![](<@/Art/Joseph Wright of Derby—The Alchemist Discovering Phosphorus.jpg>)
+
+A: Joseph Wright of Derby
+
+---
+
+Q: Title?
+
+![](<@/Art/Joseph Wright of Derby—Three Persons Viewing the Gladiator by Candlelight.jpg>)
+
+A: Three Persons Viewing the Gladiator by Candlelight
+
+---
+
+Q: Artist?
+
+![](<@/Art/Joseph Wright of Derby—Three Persons Viewing the Gladiator by Candlelight.jpg>)
+
+A: Joseph Wright of Derby
+
+---
+
+Q: Title?
+
 ![](<@/Art/Merab Abramishvili—Black Panther.jpg>)
 
 A: Black Panther
