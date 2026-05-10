@@ -452,3 +452,8 @@ A: Burkina Faso.
 
 Q: What is a Lehr furnace?
 A: A long conveyor-belt kiln used to anneal products by transporting them across a temperature gradient.
+
+---
+
+Q: Who created the rainbow flag?
+A: Gilbert Baker
