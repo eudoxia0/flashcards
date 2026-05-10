@@ -264,6 +264,38 @@ A: Giotto
 
 Q: Title?
 
+![](<@/Art/Gustave Caillebotte—The Floor Scrapers.jpg>)
+
+A: The Floor Scrapers
+
+---
+
+Q: Artist?
+
+![](<@/Art/Gustave Caillebotte—The Floor Scrapers.jpg>)
+
+A: Gustave Caillebotte
+
+---
+
+Q: Title?
+
+![](<@/Art/Gustave Caillebotte—Young Man at His Window.jpg>)
+
+A: Young Man at His Window
+
+---
+
+Q: Artist?
+
+![](<@/Art/Gustave Caillebotte—Young Man at His Window.jpg>)
+
+A: Gustave Caillebotte
+
+---
+
+Q: Title?
+
 ![](<@/Art/Hans Holbein the Younger—Portrait of Anne of Cleves.jpg>)
 
 A: Portrait of Anne of Cleves
@@ -600,6 +632,22 @@ A: J. M. W. Turner
 
 Q: Title?
 
+![](<@/Art/Jan Matejko—Stańczyk.jpg>)
+
+A: Stańczyk
+
+---
+
+Q: Artist?
+
+![](<@/Art/Jan Matejko—Stańczyk.jpg>)
+
+A: Jan Matejko
+
+---
+
+Q: Title?
+
 ![](<@/Art/Jan van Eyck—Arnolfini Portrait.jpg>)
 
 A: Arnolfini Portrait
@@ -611,6 +659,54 @@ Q: Artist?
 ![](<@/Art/Jan van Eyck—Arnolfini Portrait.jpg>)
 
 A: Jan van Eyck
+
+---
+
+Q: Title?
+
+![](<@/Art/Johan Christian Dahl—View of Dresden by Moonlight.jpg>)
+
+A: View of Dresden by Moonlight
+
+---
+
+Q: Artist?
+
+![](<@/Art/Johan Christian Dahl—View of Dresden by Moonlight.jpg>)
+
+A: Johan Christian Dahl
+
+---
+
+Q: Title?
+
+![](<@/Art/John Atkinson Grimshaw—Boar Lane, Leeds.jpg>)
+
+A: Boar Lane, Leeds
+
+---
+
+Q: Artist?
+
+![](<@/Art/John Atkinson Grimshaw—Boar Lane, Leeds.jpg>)
+
+A: John Atkinson Grimshaw
+
+---
+
+Q: Title?
+
+![](<@/Art/John Atkinson Grimshaw—Shipping on the Clyde.jpg>)
+
+A: Shipping on the Clyde
+
+---
+
+Q: Artist?
+
+![](<@/Art/John Atkinson Grimshaw—Shipping on the Clyde.jpg>)
+
+A: John Atkinson Grimshaw
 
 ---
 
@@ -856,6 +952,86 @@ A: Merab Abramishvili
 
 Q: Title?
 
+![](<@/Art/Peder Severin Krøyer—A luncheon.jpg>)
+
+A: A luncheon
+
+---
+
+Q: Artist?
+
+![](<@/Art/Peder Severin Krøyer—A luncheon.jpg>)
+
+A: Peder Severin Krøyer
+
+---
+
+Q: Title?
+
+![](<@/Art/Peder Severin Krøyer—Midsummer Eve Bonfire on Skagen Beach.jpg>)
+
+A: Midsummer Eve Bonfire on Skagen Beach
+
+---
+
+Q: Artist?
+
+![](<@/Art/Peder Severin Krøyer—Midsummer Eve Bonfire on Skagen Beach.jpg>)
+
+A: Peder Severin Krøyer
+
+---
+
+Q: Title?
+
+![](<@/Art/Peder Severin Krøyer—Roses.jpg>)
+
+A: Roses
+
+---
+
+Q: Artist?
+
+![](<@/Art/Peder Severin Krøyer—Roses.jpg>)
+
+A: Peder Severin Krøyer
+
+---
+
+Q: Title?
+
+![](<@/Art/Peder Severin Krøyer—Summer Evening at Skagen.jpg>)
+
+A: Summer Evening at Skagen
+
+---
+
+Q: Artist?
+
+![](<@/Art/Peder Severin Krøyer—Summer Evening at Skagen.jpg>)
+
+A: Peder Severin Krøyer
+
+---
+
+Q: Title?
+
+![](<@/Art/Peder Severin Krøyer—Summer Evening at Skagen Beach.jpg>)
+
+A: Summer Evening at Skagen Beach
+
+---
+
+Q: Artist?
+
+![](<@/Art/Peder Severin Krøyer—Summer Evening at Skagen Beach.jpg>)
+
+A: Peder Severin Krøyer
+
+---
+
+Q: Title?
+
 ![](<@/Art/William Blake—Newton.jpg>)
 
 A: Newton
@@ -883,3 +1059,99 @@ Q: Artist?
 ![](<@/Art/William Blake—The Great Red Dragon and the Woman Clothed In Sun.jpg>)
 
 A: William Blake
+
+---
+
+Q: Title?
+
+![](<@/Art/Édouard Manet—A Bar at the Folies-Bergère.jpg>)
+
+A: A Bar at the Folies-Bergère
+
+---
+
+Q: Artist?
+
+![](<@/Art/Édouard Manet—A Bar at the Folies-Bergère.jpg>)
+
+A: Édouard Manet
+
+---
+
+Q: Title?
+
+![](<@/Art/Édouard Manet—Banks of the Seine at Argenteuil.jpg>)
+
+A: Banks of the Seine at Argenteuil
+
+---
+
+Q: Artist?
+
+![](<@/Art/Édouard Manet—Banks of the Seine at Argenteuil.jpg>)
+
+A: Édouard Manet
+
+---
+
+Q: Title?
+
+![](<@/Art/Édouard Manet—Masked Ball at the Opera House.jpg>)
+
+A: Masked Ball at the Opera House
+
+---
+
+Q: Artist?
+
+![](<@/Art/Édouard Manet—Masked Ball at the Opera House.jpg>)
+
+A: Édouard Manet
+
+---
+
+Q: Title?
+
+![](<@/Art/Édouard Manet—Music in the Tuileries.jpg>)
+
+A: Music in the Tuileries
+
+---
+
+Q: Artist?
+
+![](<@/Art/Édouard Manet—Music in the Tuileries.jpg>)
+
+A: Édouard Manet
+
+---
+
+Q: Title?
+
+![](<@/Art/Édouard Manet—The Dead Matador.jpg>)
+
+A: The Dead Matador
+
+---
+
+Q: Artist?
+
+![](<@/Art/Édouard Manet—The Dead Matador.jpg>)
+
+A: Édouard Manet
+
+---
+
+Q: Title?
+
+![](<@/Art/Édouard Manet—The Execution of Emperor Maximilian.jpg>)
+
+A: The Execution of Emperor Maximilian
+
+---
+
+Q: Artist?
+
+![](<@/Art/Édouard Manet—The Execution of Emperor Maximilian.jpg>)
+
+A: Édouard Manet
