@@ -103,6 +103,11 @@ A: Relating to a final judgement or determination.
 
 ---
 
+Q: distaff
+A: A tool used in textile spinning to hold unspun fibers.
+
+---
+
 Q: dowdy
 A: Unfashionably dressed.
 
