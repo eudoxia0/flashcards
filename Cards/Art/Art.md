@@ -2440,6 +2440,70 @@ A: Oskar Kokoschka
 
 Q: Title?
 
+![](<@/Art/Paul Cézanne—Bread and Eggs.jpg>)
+
+A: Bread and Eggs
+
+---
+
+Q: Artist?
+
+![](<@/Art/Paul Cézanne—Bread and Eggs.jpg>)
+
+A: Paul Cézanne
+
+---
+
+Q: Title?
+
+![](<@/Art/Paul Cézanne—Bread and Leg of Lamb.jpg>)
+
+A: Bread and Leg of Lamb
+
+---
+
+Q: Artist?
+
+![](<@/Art/Paul Cézanne—Bread and Leg of Lamb.jpg>)
+
+A: Paul Cézanne
+
+---
+
+Q: Title?
+
+![](<@/Art/Paul Cézanne—The Abduction.jpg>)
+
+A: The Abduction
+
+---
+
+Q: Artist?
+
+![](<@/Art/Paul Cézanne—The Abduction.jpg>)
+
+A: Paul Cézanne
+
+---
+
+Q: Title?
+
+![](<@/Art/Paul Cézanne—The Stove in the Studio.jpg>)
+
+A: The Stove in the Studio
+
+---
+
+Q: Artist?
+
+![](<@/Art/Paul Cézanne—The Stove in the Studio.jpg>)
+
+A: Paul Cézanne
+
+---
+
+Q: Title?
+
 ![](<@/Art/Paul Delaroche—Charles I Insulted by Cromwell's Soldiers.jpg>)
 
 A: Charles I Insulted by Cromwell's Soldiers
