@@ -1576,6 +1576,38 @@ A: Hans Holbein the Younger
 
 Q: Title?
 
+![](<@/Art/Henri de Toulouse-Lautrec—At the Moulin Rouge.jpg>)
+
+A: At the Moulin Rouge
+
+---
+
+Q: Artist?
+
+![](<@/Art/Henri de Toulouse-Lautrec—At the Moulin Rouge.jpg>)
+
+A: Henri de Toulouse-Lautrec
+
+---
+
+Q: Title?
+
+![](<@/Art/Henri de Toulouse-Lautrec—In Bed.jpg>)
+
+A: In Bed
+
+---
+
+Q: Artist?
+
+![](<@/Art/Henri de Toulouse-Lautrec—In Bed.jpg>)
+
+A: Henri de Toulouse-Lautrec
+
+---
+
+Q: Title?
+
 ![](<@/Art/Henri-Paul Motte—Richelieu on the Sea Wall of La Rochelle.png>)
 
 A: Richelieu on the Sea Wall of La Rochelle
