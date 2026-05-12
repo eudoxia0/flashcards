@@ -1368,6 +1368,22 @@ A: Frederic Edwin Church
 
 Q: Title?
 
+![](<@/Art/Georges Seurat—A Sunday Afternoon on the Island of La Grande Jatte.jpg>)
+
+A: A Sunday Afternoon on the Island of La Grande Jatte
+
+---
+
+Q: Artist?
+
+![](<@/Art/Georges Seurat—A Sunday Afternoon on the Island of La Grande Jatte.jpg>)
+
+A: Georges Seurat
+
+---
+
+Q: Title?
+
 ![](<@/Art/Georges de La Tour—Magdalene with Two Flames.jpg>)
 
 A: Magdalene with Two Flames
