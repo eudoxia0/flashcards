@@ -856,6 +856,166 @@ A: Francis Bacon
 
 Q: Title?
 
+![](<@/Art/Francisco Goya—Boy scared by a man.jpg>)
+
+A: Boy scared by a man
+
+---
+
+Q: Artist?
+
+![](<@/Art/Francisco Goya—Boy scared by a man.jpg>)
+
+A: Francisco Goya
+
+---
+
+Q: Title?
+
+![](<@/Art/Francisco Goya—Courtyard with Lunatics.jpg>)
+
+A: Courtyard with Lunatics
+
+---
+
+Q: Artist?
+
+![](<@/Art/Francisco Goya—Courtyard with Lunatics.jpg>)
+
+A: Francisco Goya
+
+---
+
+Q: Title?
+
+![](<@/Art/Francisco Goya—Man Mocked by Two Women.jpg>)
+
+A: Man Mocked by Two Women
+
+---
+
+Q: Artist?
+
+![](<@/Art/Francisco Goya—Man Mocked by Two Women.jpg>)
+
+A: Francisco Goya
+
+---
+
+Q: Title?
+
+![](<@/Art/Francisco Goya—Saturn Devouring His Son.jpg>)
+
+A: Saturn Devouring His Son
+
+---
+
+Q: Artist?
+
+![](<@/Art/Francisco Goya—Saturn Devouring His Son.jpg>)
+
+A: Francisco Goya
+
+---
+
+Q: Title?
+
+![](<@/Art/Francisco Goya—The Dog.jpg>)
+
+A: The Dog
+
+---
+
+Q: Artist?
+
+![](<@/Art/Francisco Goya—The Dog.jpg>)
+
+A: Francisco Goya
+
+---
+
+Q: Title?
+
+![](<@/Art/Francisco Goya—The Great He-Goat.jpg>)
+
+A: The Great He-Goat
+
+---
+
+Q: Artist?
+
+![](<@/Art/Francisco Goya—The Great He-Goat.jpg>)
+
+A: Francisco Goya
+
+---
+
+Q: Title?
+
+![](<@/Art/Francisco Goya—The Sleep of Reason Produces Monsters.jpg>)
+
+A: The Sleep of Reason Produces Monsters
+
+---
+
+Q: Artist?
+
+![](<@/Art/Francisco Goya—The Sleep of Reason Produces Monsters.jpg>)
+
+A: Francisco Goya
+
+---
+
+Q: Title?
+
+![](<@/Art/Francisco Goya—The Third of May 1808.jpg>)
+
+A: The Third of May 1808
+
+---
+
+Q: Artist?
+
+![](<@/Art/Francisco Goya—The Third of May 1808.jpg>)
+
+A: Francisco Goya
+
+---
+
+Q: Title?
+
+![](<@/Art/Francisco Goya—Two Old Men.jpg>)
+
+A: Two Old Men
+
+---
+
+Q: Artist?
+
+![](<@/Art/Francisco Goya—Two Old Men.jpg>)
+
+A: Francisco Goya
+
+---
+
+Q: Title?
+
+![](<@/Art/Francisco Goya—Witches' Sabbath.jpg>)
+
+A: Witches' Sabbath
+
+---
+
+Q: Artist?
+
+![](<@/Art/Francisco Goya—Witches' Sabbath.jpg>)
+
+A: Francisco Goya
+
+---
+
+Q: Title?
+
 ![](<@/Art/Georges de La Tour—Magdalene with Two Flames.jpg>)
 
 A: Magdalene with Two Flames
