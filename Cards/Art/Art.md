@@ -3384,6 +3384,134 @@ A: Rembrandt van Rijn
 
 Q: Title?
 
+![](<@/Art/Umberto Boccioni—Charge of the Lancers.jpg>)
+
+A: Charge of the Lancers
+
+---
+
+Q: Artist?
+
+![](<@/Art/Umberto Boccioni—Charge of the Lancers.jpg>)
+
+A: Umberto Boccioni
+
+---
+
+Q: Title?
+
+![](<@/Art/Umberto Boccioni—Dynamism of a Cyclist.jpg>)
+
+A: Dynamism of a Cyclist
+
+---
+
+Q: Artist?
+
+![](<@/Art/Umberto Boccioni—Dynamism of a Cyclist.jpg>)
+
+A: Umberto Boccioni
+
+---
+
+Q: Title?
+
+![](<@/Art/Umberto Boccioni—Dynamism of a Man's Head.jpg>)
+
+A: Dynamism of a Man's Head
+
+---
+
+Q: Artist?
+
+![](<@/Art/Umberto Boccioni—Dynamism of a Man's Head.jpg>)
+
+A: Umberto Boccioni
+
+---
+
+Q: Title?
+
+![](<@/Art/Umberto Boccioni—Dynamism of a Soccer Player.jpg>)
+
+A: Dynamism of a Soccer Player
+
+---
+
+Q: Artist?
+
+![](<@/Art/Umberto Boccioni—Dynamism of a Soccer Player.jpg>)
+
+A: Umberto Boccioni
+
+---
+
+Q: Title?
+
+![](<@/Art/Umberto Boccioni—States of Mind I, The Farewells.jpg>)
+
+A: States of Mind I, The Farewells
+
+---
+
+Q: Artist?
+
+![](<@/Art/Umberto Boccioni—States of Mind I, The Farewells.jpg>)
+
+A: Umberto Boccioni
+
+---
+
+Q: Title?
+
+![](<@/Art/Umberto Boccioni—The City Rises.jpg>)
+
+A: The City Rises
+
+---
+
+Q: Artist?
+
+![](<@/Art/Umberto Boccioni—The City Rises.jpg>)
+
+A: Umberto Boccioni
+
+---
+
+Q: Title?
+
+![](<@/Art/Umberto Boccioni—The Laugh.jpg>)
+
+A: The Laugh
+
+---
+
+Q: Artist?
+
+![](<@/Art/Umberto Boccioni—The Laugh.jpg>)
+
+A: Umberto Boccioni
+
+---
+
+Q: Title?
+
+![](<@/Art/Umberto Boccioni—The Street Enters The House.jpg>)
+
+A: The Street Enters The House
+
+---
+
+Q: Artist?
+
+![](<@/Art/Umberto Boccioni—The Street Enters The House.jpg>)
+
+A: Umberto Boccioni
+
+---
+
+Q: Title?
+
 ![](<@/Art/William Blake—Newton.jpg>)
 
 A: Newton
