@@ -3416,6 +3416,150 @@ A: William Blake
 
 Q: Title?
 
+![](<@/Art/Winslow Homer—Early Evening.jpg>)
+
+A: Early Evening
+
+---
+
+Q: Artist?
+
+![](<@/Art/Winslow Homer—Early Evening.jpg>)
+
+A: Winslow Homer
+
+---
+
+Q: Title?
+
+![](<@/Art/Winslow Homer—Mink Pond.jpg>)
+
+A: Mink Pond
+
+---
+
+Q: Artist?
+
+![](<@/Art/Winslow Homer—Mink Pond.jpg>)
+
+A: Winslow Homer
+
+---
+
+Q: Title?
+
+![](<@/Art/Winslow Homer—Northeaster.jpg>)
+
+A: Northeaster
+
+---
+
+Q: Artist?
+
+![](<@/Art/Winslow Homer—Northeaster.jpg>)
+
+A: Winslow Homer
+
+---
+
+Q: Title?
+
+![](<@/Art/Winslow Homer—Summer Night.jpg>)
+
+A: Summer Night
+
+---
+
+Q: Artist?
+
+![](<@/Art/Winslow Homer—Summer Night.jpg>)
+
+A: Winslow Homer
+
+---
+
+Q: Title?
+
+![](<@/Art/Winslow Homer—The Fog Warning.jpg>)
+
+A: The Fog Warning
+
+---
+
+Q: Artist?
+
+![](<@/Art/Winslow Homer—The Fog Warning.jpg>)
+
+A: Winslow Homer
+
+---
+
+Q: Title?
+
+![](<@/Art/Winslow Homer—The Fountains at Night, World's Columbian Exposition.jpg>)
+
+A: The Fountains at Night, World's Columbian Exposition
+
+---
+
+Q: Artist?
+
+![](<@/Art/Winslow Homer—The Fountains at Night, World's Columbian Exposition.jpg>)
+
+A: Winslow Homer
+
+---
+
+Q: Title?
+
+![](<@/Art/Winslow Homer—The Hudson River.jpg>)
+
+A: The Hudson River
+
+---
+
+Q: Artist?
+
+![](<@/Art/Winslow Homer—The Hudson River.jpg>)
+
+A: Winslow Homer
+
+---
+
+Q: Title?
+
+![](<@/Art/Winslow Homer—The Life Line.jpg>)
+
+A: The Life Line
+
+---
+
+Q: Artist?
+
+![](<@/Art/Winslow Homer—The Life Line.jpg>)
+
+A: Winslow Homer
+
+---
+
+Q: Title?
+
+![](<@/Art/Winslow Homer—Watching the Breakers.jpg>)
+
+A: Watching the Breakers
+
+---
+
+Q: Artist?
+
+![](<@/Art/Winslow Homer—Watching the Breakers.jpg>)
+
+A: Winslow Homer
+
+---
+
+Q: Title?
+
 ![](<@/Art/Édouard Manet—A Bar at the Folies-Bergère.jpg>)
 
 A: A Bar at the Folies-Bergère
