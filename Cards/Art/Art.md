@@ -2360,6 +2360,22 @@ A: Jacques-Louis David
 
 Q: Title?
 
+![](<@/Art/Jan Brueghel the Elder and Peter Paul Rubens—The Garden of Eden with the Fall of Man.jpg>)
+
+A: The Garden of Eden with the Fall of Man
+
+---
+
+Q: Artist?
+
+![](<@/Art/Jan Brueghel the Elder and Peter Paul Rubens—The Garden of Eden with the Fall of Man.jpg>)
+
+A: Jan Brueghel the Elder and Peter Paul Rubens
+
+---
+
+Q: Title?
+
 ![](<@/Art/Jan Matejko—Stańczyk.jpg>)
 
 A: Stańczyk
