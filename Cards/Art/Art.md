@@ -792,6 +792,70 @@ A: Edward Burne-Jones
 
 Q: Title?
 
+![](<@/Art/Edward Poynter—Andromeda.jpg>)
+
+A: Andromeda
+
+---
+
+Q: Artist?
+
+![](<@/Art/Edward Poynter—Andromeda.jpg>)
+
+A: Edward Poynter
+
+---
+
+Q: Title?
+
+![](<@/Art/Edward Poynter—Faithful unto Death.jpg>)
+
+A: Faithful unto Death
+
+---
+
+Q: Artist?
+
+![](<@/Art/Edward Poynter—Faithful unto Death.jpg>)
+
+A: Edward Poynter
+
+---
+
+Q: Title?
+
+![](<@/Art/Edward Poynter—The Siren.jpg>)
+
+A: The Siren
+
+---
+
+Q: Artist?
+
+![](<@/Art/Edward Poynter—The Siren.jpg>)
+
+A: Edward Poynter
+
+---
+
+Q: Title?
+
+![](<@/Art/Edward Poynter—The Visit of the Queen of Sheba to King Solomon.jpg>)
+
+A: The Visit of the Queen of Sheba to King Solomon
+
+---
+
+Q: Artist?
+
+![](<@/Art/Edward Poynter—The Visit of the Queen of Sheba to King Solomon.jpg>)
+
+A: Edward Poynter
+
+---
+
+Q: Title?
+
 ![](<@/Art/Edwin Landseer—The Monarch of the Glen.png>)
 
 A: The Monarch of the Glen
