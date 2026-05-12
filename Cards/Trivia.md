@@ -457,3 +457,13 @@ A: A long conveyor-belt kiln used to anneal products by transporting them across
 
 Q: Who created the rainbow flag?
 A: Gilbert Baker
+
+---
+
+Q: Capital of Slovakia?
+A: Bratislava.
+
+---
+
+Q: Bratislava is the capital of which country?
+A: Slovakia.
