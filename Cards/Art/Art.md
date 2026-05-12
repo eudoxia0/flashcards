@@ -2616,6 +2616,166 @@ A: Jacques-Louis David
 
 Q: Title?
 
+![](<@/Art/James McNeill Whistler—Arrangement in Grey and Black, No. 2 - Portrait of Thomas Carlyle.jpg>)
+
+A: Arrangement in Grey and Black, No. 2 - Portrait of Thomas Carlyle
+
+---
+
+Q: Artist?
+
+![](<@/Art/James McNeill Whistler—Arrangement in Grey and Black, No. 2 - Portrait of Thomas Carlyle.jpg>)
+
+A: James McNeill Whistler
+
+---
+
+Q: Title?
+
+![](<@/Art/James McNeill Whistler—At the Piano.jpg>)
+
+A: At the Piano
+
+---
+
+Q: Artist?
+
+![](<@/Art/James McNeill Whistler—At the Piano.jpg>)
+
+A: James McNeill Whistler
+
+---
+
+Q: Title?
+
+![](<@/Art/James McNeill Whistler—Mother of Pearl and Silver, The Andalusian.jpg>)
+
+A: Mother of Pearl and Silver, The Andalusian
+
+---
+
+Q: Artist?
+
+![](<@/Art/James McNeill Whistler—Mother of Pearl and Silver, The Andalusian.jpg>)
+
+A: James McNeill Whistler
+
+---
+
+Q: Title?
+
+![](<@/Art/James McNeill Whistler—Nocturne.jpg>)
+
+A: Nocturne
+
+---
+
+Q: Artist?
+
+![](<@/Art/James McNeill Whistler—Nocturne.jpg>)
+
+A: James McNeill Whistler
+
+---
+
+Q: Title?
+
+![](<@/Art/James McNeill Whistler—Nocturne - Blue and Gold - Old Battersea Bridge.jpg>)
+
+A: Nocturne - Blue and Gold - Old Battersea Bridge
+
+---
+
+Q: Artist?
+
+![](<@/Art/James McNeill Whistler—Nocturne - Blue and Gold - Old Battersea Bridge.jpg>)
+
+A: James McNeill Whistler
+
+---
+
+Q: Title?
+
+![](<@/Art/James McNeill Whistler—Nocturne - Blue and Gold - Southampton Water.jpg>)
+
+A: Nocturne - Blue and Gold - Southampton Water
+
+---
+
+Q: Artist?
+
+![](<@/Art/James McNeill Whistler—Nocturne - Blue and Gold - Southampton Water.jpg>)
+
+A: James McNeill Whistler
+
+---
+
+Q: Title?
+
+![](<@/Art/James McNeill Whistler—Nocturne - Blue and Silver - Battersea Reach .jpg>)
+
+A: Nocturne - Blue and Silver - Battersea Reach
+
+---
+
+Q: Artist?
+
+![](<@/Art/James McNeill Whistler—Nocturne - Blue and Silver - Battersea Reach .jpg>)
+
+A: James McNeill Whistler
+
+---
+
+Q: Title?
+
+![](<@/Art/James McNeill Whistler—Nocturne in Black and Gold - The Falling Rocket.jpg>)
+
+A: Nocturne in Black and Gold - The Falling Rocket
+
+---
+
+Q: Artist?
+
+![](<@/Art/James McNeill Whistler—Nocturne in Black and Gold - The Falling Rocket.jpg>)
+
+A: James McNeill Whistler
+
+---
+
+Q: Title?
+
+![](<@/Art/James McNeill Whistler—Symphony in White, No. 1 - The White Girl.jpg>)
+
+A: Symphony in White, No. 1 - The White Girl
+
+---
+
+Q: Artist?
+
+![](<@/Art/James McNeill Whistler—Symphony in White, No. 1 - The White Girl.jpg>)
+
+A: James McNeill Whistler
+
+---
+
+Q: Title?
+
+![](<@/Art/James McNeill Whistler—Whistler's Mother.jpg>)
+
+A: Whistler's Mother
+
+---
+
+Q: Artist?
+
+![](<@/Art/James McNeill Whistler—Whistler's Mother.jpg>)
+
+A: James McNeill Whistler
+
+---
+
+Q: Title?
+
 ![](<@/Art/Jan Brueghel the Elder and Peter Paul Rubens—The Garden of Eden with the Fall of Man.jpg>)
 
 A: The Garden of Eden with the Fall of Man
