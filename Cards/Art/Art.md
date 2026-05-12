@@ -2872,6 +2872,22 @@ A: Joseph Wright of Derby
 
 Q: Title?
 
+![](<@/Art/Kazimir Malevich—The Knifegrinder.jpg>)
+
+A: The Knifegrinder
+
+---
+
+Q: Artist?
+
+![](<@/Art/Kazimir Malevich—The Knifegrinder.jpg>)
+
+A: Kazimir Malevich
+
+---
+
+Q: Title?
+
 ![](<@/Art/Lawrence Alma-Tadema—A Favourite Custom.jpg>)
 
 A: A Favourite Custom
