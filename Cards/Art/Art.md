@@ -1144,6 +1144,38 @@ A: Georges de La Tour
 
 Q: Title?
 
+![](<@/Art/Giacomo Balla—Abstract Speed + Sound.jpg>)
+
+A: Abstract Speed + Sound
+
+---
+
+Q: Artist?
+
+![](<@/Art/Giacomo Balla—Abstract Speed + Sound.jpg>)
+
+A: Giacomo Balla
+
+---
+
+Q: Title?
+
+![](<@/Art/Giacomo Balla—Dynamism of a Dog on a Leash.jpg>)
+
+A: Dynamism of a Dog on a Leash
+
+---
+
+Q: Artist?
+
+![](<@/Art/Giacomo Balla—Dynamism of a Dog on a Leash.jpg>)
+
+A: Giacomo Balla
+
+---
+
+Q: Title?
+
 ![](<@/Art/Giotto—Kiss of Judas.jpg>)
 
 A: Kiss of Judas
