@@ -3096,6 +3096,54 @@ A: Leonid Pasternak
 
 Q: Title?
 
+![](<@/Art/Luigi Russolo—Dynamism of a Car.jpg>)
+
+A: Dynamism of a Car
+
+---
+
+Q: Artist?
+
+![](<@/Art/Luigi Russolo—Dynamism of a Car.jpg>)
+
+A: Luigi Russolo
+
+---
+
+Q: Title?
+
+![](<@/Art/Luigi Russolo—La Rivolta.jpg>)
+
+A: La Rivolta
+
+---
+
+Q: Artist?
+
+![](<@/Art/Luigi Russolo—La Rivolta.jpg>)
+
+A: Luigi Russolo
+
+---
+
+Q: Title?
+
+![](<@/Art/Luigi Russolo—Solidity of Fog.jpg>)
+
+A: Solidity of Fog
+
+---
+
+Q: Artist?
+
+![](<@/Art/Luigi Russolo—Solidity of Fog.jpg>)
+
+A: Luigi Russolo
+
+---
+
+Q: Title?
+
 ![](<@/Art/Merab Abramishvili—Black Panther.jpg>)
 
 A: Black Panther
