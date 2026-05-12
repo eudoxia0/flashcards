@@ -2931,3 +2931,19 @@ Q: Artist?
 ![](<@/Art/Édouard Manet—The Execution of Emperor Maximilian.jpg>)
 
 A: Édouard Manet
+
+---
+
+Q: Title?
+
+![](<@/Art/Édouard Manet—The Execution of Emperor Maximilian (Boston).jpg>)
+
+A: The Execution of Emperor Maximilian (Boston)
+
+---
+
+Q: Artist?
+
+![](<@/Art/Édouard Manet—The Execution of Emperor Maximilian (Boston).jpg>)
+
+A: Édouard Manet
