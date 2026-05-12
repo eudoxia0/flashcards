@@ -232,6 +232,38 @@ A: Dante Gabriel Rossetti
 
 Q: Title?
 
+![](<@/Art/Diego Rivera—Man, Controller of the Universe.jpg>)
+
+A: Man, Controller of the Universe
+
+---
+
+Q: Artist?
+
+![](<@/Art/Diego Rivera—Man, Controller of the Universe.jpg>)
+
+A: Diego Rivera
+
+---
+
+Q: Title?
+
+![](<@/Art/Diego Rivera—Mural of Tenochtitlan.jpg>)
+
+A: Mural of Tenochtitlan
+
+---
+
+Q: Artist?
+
+![](<@/Art/Diego Rivera—Mural of Tenochtitlan.jpg>)
+
+A: Diego Rivera
+
+---
+
+Q: Title?
+
 ![](<@/Art/Diego Velázquez—Christ Crucified.jpg>)
 
 A: Christ Crucified
@@ -1784,6 +1816,54 @@ A: Jan van Eyck
 
 Q: Title?
 
+![](<@/Art/Johan Christian Dahl—Copenhagen Harbour by Moonlight.jpg>)
+
+A: Copenhagen Harbour by Moonlight
+
+---
+
+Q: Artist?
+
+![](<@/Art/Johan Christian Dahl—Copenhagen Harbour by Moonlight.jpg>)
+
+A: Johan Christian Dahl
+
+---
+
+Q: Title?
+
+![](<@/Art/Johan Christian Dahl—Eruption of the Volcano Vesuvius.jpg>)
+
+A: Eruption of the Volcano Vesuvius
+
+---
+
+Q: Artist?
+
+![](<@/Art/Johan Christian Dahl—Eruption of the Volcano Vesuvius.jpg>)
+
+A: Johan Christian Dahl
+
+---
+
+Q: Title?
+
+![](<@/Art/Johan Christian Dahl—The Castle Ruin at Tharandt.jpg>)
+
+A: The Castle Ruin at Tharandt
+
+---
+
+Q: Artist?
+
+![](<@/Art/Johan Christian Dahl—The Castle Ruin at Tharandt.jpg>)
+
+A: Johan Christian Dahl
+
+---
+
+Q: Title?
+
 ![](<@/Art/Johan Christian Dahl—View of Dresden by Moonlight.jpg>)
 
 A: View of Dresden by Moonlight
@@ -1793,6 +1873,22 @@ A: View of Dresden by Moonlight
 Q: Artist?
 
 ![](<@/Art/Johan Christian Dahl—View of Dresden by Moonlight.jpg>)
+
+A: Johan Christian Dahl
+
+---
+
+Q: Title?
+
+![](<@/Art/Johan Christian Dahl—Winter at the Sognefjord.jpg>)
+
+A: Winter at the Sognefjord
+
+---
+
+Q: Artist?
+
+![](<@/Art/Johan Christian Dahl—Winter at the Sognefjord.jpg>)
 
 A: Johan Christian Dahl
 
