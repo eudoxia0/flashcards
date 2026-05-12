@@ -1560,6 +1560,166 @@ A: Ilya Repin
 
 Q: Title?
 
+![](<@/Art/Isaac Levitan—A Quiet Monastery.jpg>)
+
+A: A Quiet Monastery
+
+---
+
+Q: Artist?
+
+![](<@/Art/Isaac Levitan—A Quiet Monastery.jpg>)
+
+A: Isaac Levitan
+
+---
+
+Q: Title?
+
+![](<@/Art/Isaac Levitan—By the Pool.jpg>)
+
+A: By the Pool
+
+---
+
+Q: Artist?
+
+![](<@/Art/Isaac Levitan—By the Pool.jpg>)
+
+A: Isaac Levitan
+
+---
+
+Q: Title?
+
+![](<@/Art/Isaac Levitan—Golden Autumn.jpg>)
+
+A: Golden Autumn
+
+---
+
+Q: Artist?
+
+![](<@/Art/Isaac Levitan—Golden Autumn.jpg>)
+
+A: Isaac Levitan
+
+---
+
+Q: Title?
+
+![](<@/Art/Isaac Levitan—Lake. Russia.jpg>)
+
+A: Lake. Russia
+
+---
+
+Q: Artist?
+
+![](<@/Art/Isaac Levitan—Lake. Russia.jpg>)
+
+A: Isaac Levitan
+
+---
+
+Q: Title?
+
+![](<@/Art/Isaac Levitan—March.jpg>)
+
+A: March
+
+---
+
+Q: Artist?
+
+![](<@/Art/Isaac Levitan—March.jpg>)
+
+A: Isaac Levitan
+
+---
+
+Q: Title?
+
+![](<@/Art/Isaac Levitan—Over Eternal Peace.jpg>)
+
+A: Over Eternal Peace
+
+---
+
+Q: Artist?
+
+![](<@/Art/Isaac Levitan—Over Eternal Peace.jpg>)
+
+A: Isaac Levitan
+
+---
+
+Q: Title?
+
+![](<@/Art/Isaac Levitan—Portrait of Sofia Kuvshinnikova.jpg>)
+
+A: Portrait of Sofia Kuvshinnikova
+
+---
+
+Q: Artist?
+
+![](<@/Art/Isaac Levitan—Portrait of Sofia Kuvshinnikova.jpg>)
+
+A: Isaac Levitan
+
+---
+
+Q: Title?
+
+![](<@/Art/Isaac Levitan—Silence.jpg>)
+
+A: Silence
+
+---
+
+Q: Artist?
+
+![](<@/Art/Isaac Levitan—Silence.jpg>)
+
+A: Isaac Levitan
+
+---
+
+Q: Title?
+
+![](<@/Art/Isaac Levitan—Spring in Italy.jpg>)
+
+A: Spring in Italy
+
+---
+
+Q: Artist?
+
+![](<@/Art/Isaac Levitan—Spring in Italy.jpg>)
+
+A: Isaac Levitan
+
+---
+
+Q: Title?
+
+![](<@/Art/Isaac Levitan—Vladimirka.jpg>)
+
+A: Vladimirka
+
+---
+
+Q: Artist?
+
+![](<@/Art/Isaac Levitan—Vladimirka.jpg>)
+
+A: Isaac Levitan
+
+---
+
+Q: Title?
+
 ![](<@/Art/Ivan Aivazovsky—Constantinople.jpg>)
 
 A: Constantinople
