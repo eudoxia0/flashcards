@@ -824,6 +824,22 @@ A: Henry Tanner
 
 Q: Title?
 
+![](<@/Art/Horace Vernet—Portrait of Louise Vernet.jpg>)
+
+A: Portrait of Louise Vernet
+
+---
+
+Q: Artist?
+
+![](<@/Art/Horace Vernet—Portrait of Louise Vernet.jpg>)
+
+A: Horace Vernet
+
+---
+
+Q: Title?
+
 ![](<@/Art/Ilya Repin—A Paris Cafe.jpg>)
 
 A: A Paris Cafe
