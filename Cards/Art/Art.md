@@ -1000,6 +1000,230 @@ A: J. M. W. Turner
 
 Q: Title?
 
+![](<@/Art/Jacques-Louis David—Hector's body.jpg>)
+
+A: Hector's body
+
+---
+
+Q: Artist?
+
+![](<@/Art/Jacques-Louis David—Hector's body.jpg>)
+
+A: Jacques-Louis David
+
+---
+
+Q: Title?
+
+![](<@/Art/Jacques-Louis David—Mars Being Disarmed by Venus.jpg>)
+
+A: Mars Being Disarmed by Venus
+
+---
+
+Q: Artist?
+
+![](<@/Art/Jacques-Louis David—Mars Being Disarmed by Venus.jpg>)
+
+A: Jacques-Louis David
+
+---
+
+Q: Title?
+
+![](<@/Art/Jacques-Louis David—Napoleon Crossing the Alps.jpg>)
+
+A: Napoleon Crossing the Alps
+
+---
+
+Q: Artist?
+
+![](<@/Art/Jacques-Louis David—Napoleon Crossing the Alps.jpg>)
+
+A: Jacques-Louis David
+
+---
+
+Q: Title?
+
+![](<@/Art/Jacques-Louis David—Oath of the Horatii.jpg>)
+
+A: Oath of the Horatii
+
+---
+
+Q: Artist?
+
+![](<@/Art/Jacques-Louis David—Oath of the Horatii.jpg>)
+
+A: Jacques-Louis David
+
+---
+
+Q: Title?
+
+![](<@/Art/Jacques-Louis David—Paris and Helen.jpg>)
+
+A: Paris and Helen
+
+---
+
+Q: Artist?
+
+![](<@/Art/Jacques-Louis David—Paris and Helen.jpg>)
+
+A: Jacques-Louis David
+
+---
+
+Q: Title?
+
+![](<@/Art/Jacques-Louis David—Patroclus.jpg>)
+
+A: Patroclus
+
+---
+
+Q: Artist?
+
+![](<@/Art/Jacques-Louis David—Patroclus.jpg>)
+
+A: Jacques-Louis David
+
+---
+
+Q: Title?
+
+![](<@/Art/Jacques-Louis David—Portrait of Antoine and Marie-Anne Lavoisier.jpg>)
+
+A: Portrait of Antoine and Marie-Anne Lavoisier
+
+---
+
+Q: Artist?
+
+![](<@/Art/Jacques-Louis David—Portrait of Antoine and Marie-Anne Lavoisier.jpg>)
+
+A: Jacques-Louis David
+
+---
+
+Q: Title?
+
+![](<@/Art/Jacques-Louis David—Portrait of Madame de Verninac.jpg>)
+
+A: Portrait of Madame de Verninac
+
+---
+
+Q: Artist?
+
+![](<@/Art/Jacques-Louis David—Portrait of Madame de Verninac.jpg>)
+
+A: Jacques-Louis David
+
+---
+
+Q: Title?
+
+![](<@/Art/Jacques-Louis David—Portrait of Pierre Sériziat.jpg>)
+
+A: Portrait of Pierre Sériziat
+
+---
+
+Q: Artist?
+
+![](<@/Art/Jacques-Louis David—Portrait of Pierre Sériziat.jpg>)
+
+A: Jacques-Louis David
+
+---
+
+Q: Title?
+
+![](<@/Art/Jacques-Louis David—Portrait of Pope Pius VII.jpg>)
+
+A: Portrait of Pope Pius VII
+
+---
+
+Q: Artist?
+
+![](<@/Art/Jacques-Louis David—Portrait of Pope Pius VII.jpg>)
+
+A: Jacques-Louis David
+
+---
+
+Q: Title?
+
+![](<@/Art/Jacques-Louis David—The Coronation of Napoleon.jpg>)
+
+A: The Coronation of Napoleon
+
+---
+
+Q: Artist?
+
+![](<@/Art/Jacques-Louis David—The Coronation of Napoleon.jpg>)
+
+A: Jacques-Louis David
+
+---
+
+Q: Title?
+
+![](<@/Art/Jacques-Louis David—The Death of Marat.jpg>)
+
+A: The Death of Marat
+
+---
+
+Q: Artist?
+
+![](<@/Art/Jacques-Louis David—The Death of Marat.jpg>)
+
+A: Jacques-Louis David
+
+---
+
+Q: Title?
+
+![](<@/Art/Jacques-Louis David—The Death of Socrates.jpg>)
+
+A: The Death of Socrates
+
+---
+
+Q: Artist?
+
+![](<@/Art/Jacques-Louis David—The Death of Socrates.jpg>)
+
+A: Jacques-Louis David
+
+---
+
+Q: Title?
+
+![](<@/Art/Jacques-Louis David—The Intervention of the Sabine Women.jpg>)
+
+A: The Intervention of the Sabine Women
+
+---
+
+Q: Artist?
+
+![](<@/Art/Jacques-Louis David—The Intervention of the Sabine Women.jpg>)
+
+A: Jacques-Louis David
+
+---
+
+Q: Title?
+
 ![](<@/Art/Jan Matejko—Stańczyk.jpg>)
 
 A: Stańczyk
