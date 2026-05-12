@@ -4024,6 +4024,38 @@ A: William Blake
 
 Q: Title?
 
+![](<@/Art/William Powell Frith—Charles Dickens in His Study.jpg>)
+
+A: Charles Dickens in His Study
+
+---
+
+Q: Artist?
+
+![](<@/Art/William Powell Frith—Charles Dickens in His Study.jpg>)
+
+A: William Powell Frith
+
+---
+
+Q: Title?
+
+![](<@/Art/William Powell Frith—Ramsgate Sands.jpg>)
+
+A: Ramsgate Sands
+
+---
+
+Q: Artist?
+
+![](<@/Art/William Powell Frith—Ramsgate Sands.jpg>)
+
+A: William Powell Frith
+
+---
+
+Q: Title?
+
 ![](<@/Art/Winslow Homer—Early Evening.jpg>)
 
 A: Early Evening
