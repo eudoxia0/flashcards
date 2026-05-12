@@ -3144,6 +3144,86 @@ A: Luigi Russolo
 
 Q: Title?
 
+![](<@/Art/Léon Bakst—Portrait of Rachel Strong, future Countess Henri de Boisgelin.jpg>)
+
+A: Portrait of Rachel Strong, future Countess Henri de Boisgelin
+
+---
+
+Q: Artist?
+
+![](<@/Art/Léon Bakst—Portrait of Rachel Strong, future Countess Henri de Boisgelin.jpg>)
+
+A: Léon Bakst
+
+---
+
+Q: Title?
+
+![](<@/Art/Léon Bakst—Poster for Afternoon of a Faun.jpg>)
+
+A: Poster for Afternoon of a Faun
+
+---
+
+Q: Artist?
+
+![](<@/Art/Léon Bakst—Poster for Afternoon of a Faun.jpg>)
+
+A: Léon Bakst
+
+---
+
+Q: Title?
+
+![](<@/Art/Léon Bakst—Self-Portrait.jpg>)
+
+A: Self-Portrait
+
+---
+
+Q: Artist?
+
+![](<@/Art/Léon Bakst—Self-Portrait.jpg>)
+
+A: Léon Bakst
+
+---
+
+Q: Title?
+
+![](<@/Art/Léon Bakst—Set design for Daphnis et Chloé.jpg>)
+
+A: Set design for Daphnis et Chloé
+
+---
+
+Q: Artist?
+
+![](<@/Art/Léon Bakst—Set design for Daphnis et Chloé.jpg>)
+
+A: Léon Bakst
+
+---
+
+Q: Title?
+
+![](<@/Art/Léon Bakst—Set design for Scheherazade.jpg>)
+
+A: Set design for Scheherazade
+
+---
+
+Q: Artist?
+
+![](<@/Art/Léon Bakst—Set design for Scheherazade.jpg>)
+
+A: Léon Bakst
+
+---
+
+Q: Title?
+
 ![](<@/Art/Merab Abramishvili—Black Panther.jpg>)
 
 A: Black Panther
