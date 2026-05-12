@@ -824,6 +824,38 @@ A: Henry Tanner
 
 Q: Title?
 
+![](<@/Art/Horace Vernet—Italian Brigands Surprised by Papal Troops.jpg>)
+
+A: Italian Brigands Surprised by Papal Troops
+
+---
+
+Q: Artist?
+
+![](<@/Art/Horace Vernet—Italian Brigands Surprised by Papal Troops.jpg>)
+
+A: Horace Vernet
+
+---
+
+Q: Title?
+
+![](<@/Art/Horace Vernet—Pope Julius II ordering Bramante and Michelangelo to design St Peter's Basilica.jpg>)
+
+A: Pope Julius II ordering Bramante and Michelangelo to design St Peter's Basilica
+
+---
+
+Q: Artist?
+
+![](<@/Art/Horace Vernet—Pope Julius II ordering Bramante and Michelangelo to design St Peter's Basilica.jpg>)
+
+A: Horace Vernet
+
+---
+
+Q: Title?
+
 ![](<@/Art/Horace Vernet—Portrait of Louise Vernet.jpg>)
 
 A: Portrait of Louise Vernet
@@ -833,6 +865,22 @@ A: Portrait of Louise Vernet
 Q: Artist?
 
 ![](<@/Art/Horace Vernet—Portrait of Louise Vernet.jpg>)
+
+A: Horace Vernet
+
+---
+
+Q: Title?
+
+![](<@/Art/Horace Vernet—The Battle of Jena.jpg>)
+
+A: The Battle of Jena
+
+---
+
+Q: Artist?
+
+![](<@/Art/Horace Vernet—The Battle of Jena.jpg>)
 
 A: Horace Vernet
 
