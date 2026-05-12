@@ -3864,6 +3864,70 @@ A: Peter Paul Rubens
 
 Q: Title?
 
+![](<@/Art/Piet Mondrian—Evening; Red Tree.jpg>)
+
+A: Evening; Red Tree
+
+---
+
+Q: Artist?
+
+![](<@/Art/Piet Mondrian—Evening; Red Tree.jpg>)
+
+A: Piet Mondrian
+
+---
+
+Q: Title?
+
+![](<@/Art/Piet Mondrian—Gray Tree.jpg>)
+
+A: Gray Tree
+
+---
+
+Q: Artist?
+
+![](<@/Art/Piet Mondrian—Gray Tree.jpg>)
+
+A: Piet Mondrian
+
+---
+
+Q: Title?
+
+![](<@/Art/Piet Mondrian—New York City.jpg>)
+
+A: New York City
+
+---
+
+Q: Artist?
+
+![](<@/Art/Piet Mondrian—New York City.jpg>)
+
+A: Piet Mondrian
+
+---
+
+Q: Title?
+
+![](<@/Art/Piet Mondrian—Tableau I.jpg>)
+
+A: Tableau I
+
+---
+
+Q: Artist?
+
+![](<@/Art/Piet Mondrian—Tableau I.jpg>)
+
+A: Piet Mondrian
+
+---
+
+Q: Title?
+
 ![](<@/Art/Pieter Bruegel the Elder—Children's Games.jpg>)
 
 A: Children's Games
