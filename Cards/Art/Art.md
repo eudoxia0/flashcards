@@ -232,6 +232,262 @@ A: Dante Gabriel Rossetti
 
 Q: Title?
 
+![](<@/Art/Edward Burne-Jones—Hope.jpg>)
+
+A: Hope
+
+---
+
+Q: Artist?
+
+![](<@/Art/Edward Burne-Jones—Hope.jpg>)
+
+A: Edward Burne-Jones
+
+---
+
+Q: Title?
+
+![](<@/Art/Edward Burne-Jones—King Cophetua and the Beggar Maid.jpg>)
+
+A: King Cophetua and the Beggar Maid
+
+---
+
+Q: Artist?
+
+![](<@/Art/Edward Burne-Jones—King Cophetua and the Beggar Maid.jpg>)
+
+A: Edward Burne-Jones
+
+---
+
+Q: Title?
+
+![](<@/Art/Edward Burne-Jones— Love Among the Ruins.jpg>)
+
+A: Love Among the Ruins
+
+---
+
+Q: Artist?
+
+![](<@/Art/Edward Burne-Jones— Love Among the Ruins.jpg>)
+
+A: Edward Burne-Jones
+
+---
+
+Q: Title?
+
+![](<@/Art/Edward Burne-Jones—Pan and Psyche.jpg>)
+
+A: Pan and Psyche
+
+---
+
+Q: Artist?
+
+![](<@/Art/Edward Burne-Jones—Pan and Psyche.jpg>)
+
+A: Edward Burne-Jones
+
+---
+
+Q: Title?
+
+![](<@/Art/Edward Burne-Jones—Portrait of Maria Zambaco.jpg>)
+
+A: Portrait of Maria Zambaco
+
+---
+
+Q: Artist?
+
+![](<@/Art/Edward Burne-Jones—Portrait of Maria Zambaco.jpg>)
+
+A: Edward Burne-Jones
+
+---
+
+Q: Title?
+
+![](<@/Art/Edward Burne-Jones—Saint Cecilia.jpg>)
+
+A: Saint Cecilia
+
+---
+
+Q: Artist?
+
+![](<@/Art/Edward Burne-Jones—Saint Cecilia.jpg>)
+
+A: Edward Burne-Jones
+
+---
+
+Q: Title?
+
+![](<@/Art/Edward Burne-Jones—Sidonia von Bork.jpg>)
+
+A: Sidonia von Bork
+
+---
+
+Q: Artist?
+
+![](<@/Art/Edward Burne-Jones—Sidonia von Bork.jpg>)
+
+A: Edward Burne-Jones
+
+---
+
+Q: Title?
+
+![](<@/Art/Edward Burne-Jones—St George Slaying the Dragon.jpg>)
+
+A: St George Slaying the Dragon
+
+---
+
+Q: Artist?
+
+![](<@/Art/Edward Burne-Jones—St George Slaying the Dragon.jpg>)
+
+A: Edward Burne-Jones
+
+---
+
+Q: Title?
+
+![](<@/Art/Edward Burne-Jones— The Arming and Departure of the Knights.jpg>)
+
+A: The Arming and Departure of the Knights
+
+---
+
+Q: Artist?
+
+![](<@/Art/Edward Burne-Jones— The Arming and Departure of the Knights.jpg>)
+
+A: Edward Burne-Jones
+
+---
+
+Q: Title?
+
+![](<@/Art/Edward Burne-Jones—The Baleful Head.jpg>)
+
+A: The Baleful Head
+
+---
+
+Q: Artist?
+
+![](<@/Art/Edward Burne-Jones—The Baleful Head.jpg>)
+
+A: Edward Burne-Jones
+
+---
+
+Q: Title?
+
+![](<@/Art/Edward Burne-Jones—The Beguiling of Merlin.jpg>)
+
+A: The Beguiling of Merlin
+
+---
+
+Q: Artist?
+
+![](<@/Art/Edward Burne-Jones—The Beguiling of Merlin.jpg>)
+
+A: Edward Burne-Jones
+
+---
+
+Q: Title?
+
+![](<@/Art/Edward Burne-Jones—The Doom Fulfilled.jpg>)
+
+A: The Doom Fulfilled
+
+---
+
+Q: Artist?
+
+![](<@/Art/Edward Burne-Jones—The Doom Fulfilled.jpg>)
+
+A: Edward Burne-Jones
+
+---
+
+Q: Title?
+
+![](<@/Art/Edward Burne-Jones—The Garden of Pan.jpg>)
+
+A: The Garden of Pan
+
+---
+
+Q: Artist?
+
+![](<@/Art/Edward Burne-Jones—The Garden of Pan.jpg>)
+
+A: Edward Burne-Jones
+
+---
+
+Q: Title?
+
+![](<@/Art/Edward Burne-Jones—The Golden Stairs.jpg>)
+
+A: The Golden Stairs
+
+---
+
+Q: Artist?
+
+![](<@/Art/Edward Burne-Jones—The Golden Stairs.jpg>)
+
+A: Edward Burne-Jones
+
+---
+
+Q: Title?
+
+![](<@/Art/Edward Burne-Jones—The Merciful Knight.jpg>)
+
+A: The Merciful Knight
+
+---
+
+Q: Artist?
+
+![](<@/Art/Edward Burne-Jones—The Merciful Knight.jpg>)
+
+A: Edward Burne-Jones
+
+---
+
+Q: Title?
+
+![](<@/Art/Edward Burne-Jones—The Star of Bethlehem.jpg>)
+
+A: The Star of Bethlehem
+
+---
+
+Q: Artist?
+
+![](<@/Art/Edward Burne-Jones—The Star of Bethlehem.jpg>)
+
+A: Edward Burne-Jones
+
+---
+
+Q: Title?
+
 ![](<@/Art/Edwin Landseer—The Monarch of the Glen.png>)
 
 A: The Monarch of the Glen
