@@ -1368,6 +1368,22 @@ A: Frederic Edwin Church
 
 Q: Title?
 
+![](<@/Art/Fyodor Bronnikov—Pythagoreans Celebrate the Sunrise.jpg>)
+
+A: Pythagoreans Celebrate the Sunrise
+
+---
+
+Q: Artist?
+
+![](<@/Art/Fyodor Bronnikov—Pythagoreans Celebrate the Sunrise.jpg>)
+
+A: Fyodor Bronnikov
+
+---
+
+Q: Title?
+
 ![](<@/Art/Georges Seurat—A Sunday Afternoon on the Island of La Grande Jatte.jpg>)
 
 A: A Sunday Afternoon on the Island of La Grande Jatte
