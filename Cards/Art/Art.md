@@ -1032,6 +1032,150 @@ A: Joseph Wright of Derby
 
 Q: Title?
 
+![](<@/Art/Lawrence Alma-Tadema—A Favourite Custom.jpg>)
+
+A: A Favourite Custom
+
+---
+
+Q: Artist?
+
+![](<@/Art/Lawrence Alma-Tadema—A Favourite Custom.jpg>)
+
+A: Lawrence Alma-Tadema
+
+---
+
+Q: Title?
+
+![](<@/Art/Lawrence Alma-Tadema—A Roman Flower Market.jpg>)
+
+A: A Roman Flower Market
+
+---
+
+Q: Artist?
+
+![](<@/Art/Lawrence Alma-Tadema—A Roman Flower Market.jpg>)
+
+A: Lawrence Alma-Tadema
+
+---
+
+Q: Title?
+
+![](<@/Art/Lawrence Alma-Tadema—Sappho and Alcaeus.jpg>)
+
+A: Sappho and Alcaeus
+
+---
+
+Q: Artist?
+
+![](<@/Art/Lawrence Alma-Tadema—Sappho and Alcaeus.jpg>)
+
+A: Lawrence Alma-Tadema
+
+---
+
+Q: Title?
+
+![](<@/Art/Lawrence Alma-Tadema—Spring.jpg>)
+
+A: Spring
+
+---
+
+Q: Artist?
+
+![](<@/Art/Lawrence Alma-Tadema—Spring.jpg>)
+
+A: Lawrence Alma-Tadema
+
+---
+
+Q: Title?
+
+![](<@/Art/Lawrence Alma-Tadema—The Education of the Children of Clovis.jpg>)
+
+A: The Education of the Children of Clovis
+
+---
+
+Q: Artist?
+
+![](<@/Art/Lawrence Alma-Tadema—The Education of the Children of Clovis.jpg>)
+
+A: Lawrence Alma-Tadema
+
+---
+
+Q: Title?
+
+![](<@/Art/Lawrence Alma-Tadema—The Finding of Moses.jpg>)
+
+A: The Finding of Moses
+
+---
+
+Q: Artist?
+
+![](<@/Art/Lawrence Alma-Tadema—The Finding of Moses.jpg>)
+
+A: Lawrence Alma-Tadema
+
+---
+
+Q: Title?
+
+![](<@/Art/Lawrence Alma-Tadema—The Roses of Heliogabalus.jpg>)
+
+A: The Roses of Heliogabalus
+
+---
+
+Q: Artist?
+
+![](<@/Art/Lawrence Alma-Tadema—The Roses of Heliogabalus.jpg>)
+
+A: Lawrence Alma-Tadema
+
+---
+
+Q: Title?
+
+![](<@/Art/Lawrence Alma-Tadema—The Tepidarium.jpg>)
+
+A: The Tepidarium
+
+---
+
+Q: Artist?
+
+![](<@/Art/Lawrence Alma-Tadema—The Tepidarium.jpg>)
+
+A: Lawrence Alma-Tadema
+
+---
+
+Q: Title?
+
+![](<@/Art/Lawrence Alma-Tadema—The Women of Amphissa.jpg>)
+
+A: The Women of Amphissa
+
+---
+
+Q: Artist?
+
+![](<@/Art/Lawrence Alma-Tadema—The Women of Amphissa.jpg>)
+
+A: Lawrence Alma-Tadema
+
+---
+
+Q: Title?
+
 ![](<@/Art/Leonid Pasternak—Albert Einstein.jpg>)
 
 A: Albert Einstein
