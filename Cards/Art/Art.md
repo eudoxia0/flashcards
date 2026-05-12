@@ -3864,6 +3864,166 @@ A: Peter Paul Rubens
 
 Q: Title?
 
+![](<@/Art/Pierre-Auguste Renoir—Dance at Bougival.jpg>)
+
+A: Dance at Bougival
+
+---
+
+Q: Artist?
+
+![](<@/Art/Pierre-Auguste Renoir—Dance at Bougival.jpg>)
+
+A: Pierre-Auguste Renoir
+
+---
+
+Q: Title?
+
+![](<@/Art/Pierre-Auguste Renoir—Dance at Le Moulin de la Galette.jpg>)
+
+A: Dance at Le Moulin de la Galette
+
+---
+
+Q: Artist?
+
+![](<@/Art/Pierre-Auguste Renoir—Dance at Le Moulin de la Galette.jpg>)
+
+A: Pierre-Auguste Renoir
+
+---
+
+Q: Title?
+
+![](<@/Art/Pierre-Auguste Renoir—La Grenouillère.jpg>)
+
+A: La Grenouillère
+
+---
+
+Q: Artist?
+
+![](<@/Art/Pierre-Auguste Renoir—La Grenouillère.jpg>)
+
+A: Pierre-Auguste Renoir
+
+---
+
+Q: Title?
+
+![](<@/Art/Pierre-Auguste Renoir—La Promenade.jpg>)
+
+A: La Promenade
+
+---
+
+Q: Artist?
+
+![](<@/Art/Pierre-Auguste Renoir—La Promenade.jpg>)
+
+A: Pierre-Auguste Renoir
+
+---
+
+Q: Title?
+
+![](<@/Art/Pierre-Auguste Renoir—Luncheon of the Boating Party.jpg>)
+
+A: Luncheon of the Boating Party
+
+---
+
+Q: Artist?
+
+![](<@/Art/Pierre-Auguste Renoir—Luncheon of the Boating Party.jpg>)
+
+A: Pierre-Auguste Renoir
+
+---
+
+Q: Title?
+
+![](<@/Art/Pierre-Auguste Renoir—Portrait of Jeanne Samary.jpg>)
+
+A: Portrait of Jeanne Samary
+
+---
+
+Q: Artist?
+
+![](<@/Art/Pierre-Auguste Renoir—Portrait of Jeanne Samary.jpg>)
+
+A: Pierre-Auguste Renoir
+
+---
+
+Q: Title?
+
+![](<@/Art/Pierre-Auguste Renoir—The Grands Boulevards.jpg>)
+
+A: The Grands Boulevards
+
+---
+
+Q: Artist?
+
+![](<@/Art/Pierre-Auguste Renoir—The Grands Boulevards.jpg>)
+
+A: Pierre-Auguste Renoir
+
+---
+
+Q: Title?
+
+![](<@/Art/Pierre-Auguste Renoir—Two Sisters.jpg>)
+
+A: Two Sisters
+
+---
+
+Q: Artist?
+
+![](<@/Art/Pierre-Auguste Renoir—Two Sisters.jpg>)
+
+A: Pierre-Auguste Renoir
+
+---
+
+Q: Title?
+
+![](<@/Art/Pierre-Auguste Renoir—Woman with a Parasol in a Garden.jpg>)
+
+A: Woman with a Parasol in a Garden
+
+---
+
+Q: Artist?
+
+![](<@/Art/Pierre-Auguste Renoir—Woman with a Parasol in a Garden.jpg>)
+
+A: Pierre-Auguste Renoir
+
+---
+
+Q: Title?
+
+![](<@/Art/Pierre-Auguste Renoir—Young Girl with Red Hair.jpg>)
+
+A: Young Girl with Red Hair
+
+---
+
+Q: Artist?
+
+![](<@/Art/Pierre-Auguste Renoir—Young Girl with Red Hair.jpg>)
+
+A: Pierre-Auguste Renoir
+
+---
+
+Q: Title?
+
 ![](<@/Art/Piet Mondrian—Evening; Red Tree.jpg>)
 
 A: Evening; Red Tree
