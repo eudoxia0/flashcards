@@ -1544,6 +1544,38 @@ A: Hans Holbein the Younger
 
 Q: Title?
 
+![](<@/Art/Henri-Paul Motte—Richelieu on the Sea Wall of La Rochelle.png>)
+
+A: Richelieu on the Sea Wall of La Rochelle
+
+---
+
+Q: Artist?
+
+![](<@/Art/Henri-Paul Motte—Richelieu on the Sea Wall of La Rochelle.png>)
+
+A: Henri-Paul Motte
+
+---
+
+Q: Title?
+
+![](<@/Art/Henri-Paul Motte—The Fiancée of Belus.jpg>)
+
+A: The Fiancée of Belus
+
+---
+
+Q: Artist?
+
+![](<@/Art/Henri-Paul Motte—The Fiancée of Belus.jpg>)
+
+A: Henri-Paul Motte
+
+---
+
+Q: Title?
+
 ![](<@/Art/Henry Tanner—Salome.jpg>)
 
 A: Salome
