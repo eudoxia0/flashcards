@@ -1192,6 +1192,134 @@ A: Gustave Caillebotte
 
 Q: Title?
 
+![](<@/Art/Gustave Doré—Andromeda.jpg>)
+
+A: Andromeda
+
+---
+
+Q: Artist?
+
+![](<@/Art/Gustave Doré—Andromeda.jpg>)
+
+A: Gustave Doré
+
+---
+
+Q: Title?
+
+![](<@/Art/Gustave Doré—Dante and Virgil in the Ninth Circle of Hell.jpg>)
+
+A: Dante and Virgil in the Ninth Circle of Hell
+
+---
+
+Q: Artist?
+
+![](<@/Art/Gustave Doré—Dante and Virgil in the Ninth Circle of Hell.jpg>)
+
+A: Gustave Doré
+
+---
+
+Q: Title?
+
+![](<@/Art/Gustave Doré—Jacob wrestling with the angel.jpg>)
+
+A: Jacob wrestling with the angel
+
+---
+
+Q: Artist?
+
+![](<@/Art/Gustave Doré—Jacob wrestling with the angel.jpg>)
+
+A: Gustave Doré
+
+---
+
+Q: Title?
+
+![](<@/Art/Gustave Doré—Paolo and Francesca da Rimini.jpg>)
+
+A: Paolo and Francesca da Rimini
+
+---
+
+Q: Artist?
+
+![](<@/Art/Gustave Doré—Paolo and Francesca da Rimini.jpg>)
+
+A: Gustave Doré
+
+---
+
+Q: Title?
+
+![](<@/Art/Gustave Doré—The Beggars of Burgos.jpg>)
+
+A: The Beggars of Burgos
+
+---
+
+Q: Artist?
+
+![](<@/Art/Gustave Doré—The Beggars of Burgos.jpg>)
+
+A: Gustave Doré
+
+---
+
+Q: Title?
+
+![](<@/Art/Gustave Doré—The Enigma.jpg>)
+
+A: The Enigma
+
+---
+
+Q: Artist?
+
+![](<@/Art/Gustave Doré—The Enigma.jpg>)
+
+A: Gustave Doré
+
+---
+
+Q: Title?
+
+![](<@/Art/Gustave Doré—The Tower of Babel.jpg>)
+
+A: The Tower of Babel
+
+---
+
+Q: Artist?
+
+![](<@/Art/Gustave Doré—The Tower of Babel.jpg>)
+
+A: Gustave Doré
+
+---
+
+Q: Title?
+
+![](<@/Art/Gustave Doré—The Valley of Tears.jpg>)
+
+A: The Valley of Tears
+
+---
+
+Q: Artist?
+
+![](<@/Art/Gustave Doré—The Valley of Tears.jpg>)
+
+A: Gustave Doré
+
+---
+
+Q: Title?
+
 ![](<@/Art/Hans Holbein the Younger—Portrait of Anne of Cleves.jpg>)
 
 A: Portrait of Anne of Cleves
