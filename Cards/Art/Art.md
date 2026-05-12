@@ -504,6 +504,102 @@ A: Edwin Landseer
 
 Q: Title?
 
+![](<@/Art/Francis Bacon—Figure with Meat.jpg>)
+
+A: Figure with Meat
+
+---
+
+Q: Artist?
+
+![](<@/Art/Francis Bacon—Figure with Meat.jpg>)
+
+A: Francis Bacon
+
+---
+
+Q: Title?
+
+![](<@/Art/Francis Bacon—Head I.jpg>)
+
+A: Head I
+
+---
+
+Q: Artist?
+
+![](<@/Art/Francis Bacon—Head I.jpg>)
+
+A: Francis Bacon
+
+---
+
+Q: Title?
+
+![](<@/Art/Francis Bacon—Study after Velázquez's Portrait of Pope Innocent X.jpg>)
+
+A: Study after Velázquez's Portrait of Pope Innocent X
+
+---
+
+Q: Artist?
+
+![](<@/Art/Francis Bacon—Study after Velázquez's Portrait of Pope Innocent X.jpg>)
+
+A: Francis Bacon
+
+---
+
+Q: Title?
+
+![](<@/Art/Francis Bacon—Study for Portrait II.jpg>)
+
+A: Study for Portrait II
+
+---
+
+Q: Artist?
+
+![](<@/Art/Francis Bacon—Study for Portrait II.jpg>)
+
+A: Francis Bacon
+
+---
+
+Q: Title?
+
+![](<@/Art/Francis Bacon—Study for the Head of George Dyer.jpg>)
+
+A: Study for the Head of George Dyer
+
+---
+
+Q: Artist?
+
+![](<@/Art/Francis Bacon—Study for the Head of George Dyer.jpg>)
+
+A: Francis Bacon
+
+---
+
+Q: Title?
+
+![](<@/Art/Francis Bacon—Triptych, May–June 1973.jpg>)
+
+A: Triptych, May–June 1973
+
+---
+
+Q: Artist?
+
+![](<@/Art/Francis Bacon—Triptych, May–June 1973.jpg>)
+
+A: Francis Bacon
+
+---
+
+Q: Title?
+
 ![](<@/Art/Georges de La Tour—Magdalene with Two Flames.jpg>)
 
 A: Magdalene with Two Flames
