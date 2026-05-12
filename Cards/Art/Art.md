@@ -1944,6 +1944,118 @@ A: Merab Abramishvili
 
 Q: Title?
 
+![](<@/Art/Paul Delaroche—Charles I Insulted by Cromwell's Soldiers.jpg>)
+
+A: Charles I Insulted by Cromwell's Soldiers
+
+---
+
+Q: Artist?
+
+![](<@/Art/Paul Delaroche—Charles I Insulted by Cromwell's Soldiers.jpg>)
+
+A: Paul Delaroche
+
+---
+
+Q: Title?
+
+![](<@/Art/Paul Delaroche—Cromwell and Charles I.jpg>)
+
+A: Cromwell and Charles I
+
+---
+
+Q: Artist?
+
+![](<@/Art/Paul Delaroche—Cromwell and Charles I.jpg>)
+
+A: Paul Delaroche
+
+---
+
+Q: Title?
+
+![](<@/Art/Paul Delaroche—Herodias.jpg>)
+
+A: Herodias
+
+---
+
+Q: Artist?
+
+![](<@/Art/Paul Delaroche—Herodias.jpg>)
+
+A: Paul Delaroche
+
+---
+
+Q: Title?
+
+![](<@/Art/Paul Delaroche—Napoleon abdicating at Fontainebleau.jpg>)
+
+A: Napoleon abdicating at Fontainebleau
+
+---
+
+Q: Artist?
+
+![](<@/Art/Paul Delaroche—Napoleon abdicating at Fontainebleau.jpg>)
+
+A: Paul Delaroche
+
+---
+
+Q: Title?
+
+![](<@/Art/Paul Delaroche—Peter the Great.jpg>)
+
+A: Peter the Great
+
+---
+
+Q: Artist?
+
+![](<@/Art/Paul Delaroche—Peter the Great.jpg>)
+
+A: Paul Delaroche
+
+---
+
+Q: Title?
+
+![](<@/Art/Paul Delaroche—The Children of Edward.jpg>)
+
+A: The Children of Edward
+
+---
+
+Q: Artist?
+
+![](<@/Art/Paul Delaroche—The Children of Edward.jpg>)
+
+A: Paul Delaroche
+
+---
+
+Q: Title?
+
+![](<@/Art/Paul Delaroche—The Execution of Lady Jane Grey.jpg>)
+
+A: The Execution of Lady Jane Grey
+
+---
+
+Q: Artist?
+
+![](<@/Art/Paul Delaroche—The Execution of Lady Jane Grey.jpg>)
+
+A: Paul Delaroche
+
+---
+
+Q: Title?
+
 ![](<@/Art/Peder Severin Krøyer—A luncheon.jpg>)
 
 A: A luncheon
