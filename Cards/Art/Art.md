@@ -3656,6 +3656,54 @@ A: Kazimir Malevich
 
 Q: Title?
 
+![](<@/Art/Konstantin Somov—Lady in Blue.jpg>)
+
+A: Lady in Blue
+
+---
+
+Q: Artist?
+
+![](<@/Art/Konstantin Somov—Lady in Blue.jpg>)
+
+A: Konstantin Somov
+
+---
+
+Q: Title?
+
+![](<@/Art/Konstantin Somov—The Boxer.jpg>)
+
+A: The Boxer
+
+---
+
+Q: Artist?
+
+![](<@/Art/Konstantin Somov—The Boxer.jpg>)
+
+A: Konstantin Somov
+
+---
+
+Q: Title?
+
+![](<@/Art/Konstantin Somov—The Rainbow.jpg>)
+
+A: The Rainbow
+
+---
+
+Q: Artist?
+
+![](<@/Art/Konstantin Somov—The Rainbow.jpg>)
+
+A: Konstantin Somov
+
+---
+
+Q: Title?
+
 ![](<@/Art/Lawrence Alma-Tadema—A Favourite Custom.jpg>)
 
 A: A Favourite Custom
