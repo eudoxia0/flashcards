@@ -2360,6 +2360,134 @@ A: John William Waterhouse
 
 Q: Title?
 
+![](<@/Art/Joseph Stella—Battle of Lights, Coney Island, Mardi Gras.jpg>)
+
+A: Battle of Lights, Coney Island, Mardi Gras
+
+---
+
+Q: Artist?
+
+![](<@/Art/Joseph Stella—Battle of Lights, Coney Island, Mardi Gras.jpg>)
+
+A: Joseph Stella
+
+---
+
+Q: Title?
+
+![](<@/Art/Joseph Stella—Brooklyn Bridge.jpg>)
+
+A: Brooklyn Bridge
+
+---
+
+Q: Artist?
+
+![](<@/Art/Joseph Stella—Brooklyn Bridge.jpg>)
+
+A: Joseph Stella
+
+---
+
+Q: Title?
+
+![](<@/Art/Joseph Stella—Flowers, Italy.jpg>)
+
+A: Flowers, Italy
+
+---
+
+Q: Artist?
+
+![](<@/Art/Joseph Stella—Flowers, Italy.jpg>)
+
+A: Joseph Stella
+
+---
+
+Q: Title?
+
+![](<@/Art/Joseph Stella—Men and women around the world united around Jesus.jpg>)
+
+A: Men and women around the world united around Jesus
+
+---
+
+Q: Artist?
+
+![](<@/Art/Joseph Stella—Men and women around the world united around Jesus.jpg>)
+
+A: Joseph Stella
+
+---
+
+Q: Title?
+
+![](<@/Art/Joseph Stella—Palm tree and bird.jpg>)
+
+A: Palm tree and bird
+
+---
+
+Q: Artist?
+
+![](<@/Art/Joseph Stella—Palm tree and bird.jpg>)
+
+A: Joseph Stella
+
+---
+
+Q: Title?
+
+![](<@/Art/Joseph Stella—Serenade, A Christmas Fantasy.jpg>)
+
+A: Serenade, A Christmas Fantasy
+
+---
+
+Q: Artist?
+
+![](<@/Art/Joseph Stella—Serenade, A Christmas Fantasy.jpg>)
+
+A: Joseph Stella
+
+---
+
+Q: Title?
+
+![](<@/Art/Joseph Stella—Spring (The Procession).jpg>)
+
+A: Spring (The Procession)
+
+---
+
+Q: Artist?
+
+![](<@/Art/Joseph Stella—Spring (The Procession).jpg>)
+
+A: Joseph Stella
+
+---
+
+Q: Title?
+
+![](<@/Art/Joseph Stella—The Virgin.jpg>)
+
+A: The Virgin
+
+---
+
+Q: Artist?
+
+![](<@/Art/Joseph Stella—The Virgin.jpg>)
+
+A: Joseph Stella
+
+---
+
+Q: Title?
+
 ![](<@/Art/Joseph Wright of Derby—A Philosopher Lecturing on the Orrery.jpg>)
 
 A: A Philosopher Lecturing on the Orrery
