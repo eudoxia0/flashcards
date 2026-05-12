@@ -2168,6 +2168,38 @@ A: John Atkinson Grimshaw
 
 Q: Title?
 
+![](<@/Art/John Michael Wright—Charles II of England in Coronation Robes.jpg>)
+
+A: Charles II of England in Coronation Robes
+
+---
+
+Q: Artist?
+
+![](<@/Art/John Michael Wright—Charles II of England in Coronation Robes.jpg>)
+
+A: John Michael Wright
+
+---
+
+Q: Title?
+
+![](<@/Art/John Michael Wright—Portrait of Charles II in Garter Robes.jpg>)
+
+A: Portrait of Charles II in Garter Robes
+
+---
+
+Q: Artist?
+
+![](<@/Art/John Michael Wright—Portrait of Charles II in Garter Robes.jpg>)
+
+A: John Michael Wright
+
+---
+
+Q: Title?
+
 ![](<@/Art/John Singer Sargent—Carnation, Lily, Lily, Rose.jpg>)
 
 A: Carnation, Lily, Lily, Rose
