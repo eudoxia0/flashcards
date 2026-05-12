@@ -1320,6 +1320,118 @@ A: Gustave Doré
 
 Q: Title?
 
+![](<@/Art/Gustave Moreau—Hercules and the Hydra of Lerna.jpg>)
+
+A: Hercules and the Hydra of Lerna
+
+---
+
+Q: Artist?
+
+![](<@/Art/Gustave Moreau—Hercules and the Hydra of Lerna.jpg>)
+
+A: Gustave Moreau
+
+---
+
+Q: Title?
+
+![](<@/Art/Gustave Moreau—Hesiod and the Muse.jpg>)
+
+A: Hesiod and the Muse
+
+---
+
+Q: Artist?
+
+![](<@/Art/Gustave Moreau—Hesiod and the Muse.jpg>)
+
+A: Gustave Moreau
+
+---
+
+Q: Title?
+
+![](<@/Art/Gustave Moreau—Jupiter and Semele.jpg>)
+
+A: Jupiter and Semele
+
+---
+
+Q: Artist?
+
+![](<@/Art/Gustave Moreau—Jupiter and Semele.jpg>)
+
+A: Gustave Moreau
+
+---
+
+Q: Title?
+
+![](<@/Art/Gustave Moreau—Oedipus and the Sphinx.jpg>)
+
+A: Oedipus and the Sphinx
+
+---
+
+Q: Artist?
+
+![](<@/Art/Gustave Moreau—Oedipus and the Sphinx.jpg>)
+
+A: Gustave Moreau
+
+---
+
+Q: Title?
+
+![](<@/Art/Gustave Moreau—Prometheus.jpg>)
+
+A: Prometheus
+
+---
+
+Q: Artist?
+
+![](<@/Art/Gustave Moreau—Prometheus.jpg>)
+
+A: Gustave Moreau
+
+---
+
+Q: Title?
+
+![](<@/Art/Gustave Moreau—Salome Dancing Before Herod.jpg>)
+
+A: Salome Dancing Before Herod
+
+---
+
+Q: Artist?
+
+![](<@/Art/Gustave Moreau—Salome Dancing Before Herod.jpg>)
+
+A: Gustave Moreau
+
+---
+
+Q: Title?
+
+![](<@/Art/Gustave Moreau—The Apparition.jpg>)
+
+A: The Apparition
+
+---
+
+Q: Artist?
+
+![](<@/Art/Gustave Moreau—The Apparition.jpg>)
+
+A: Gustave Moreau
+
+---
+
+Q: Title?
+
 ![](<@/Art/Hans Holbein the Younger—Portrait of Anne of Cleves.jpg>)
 
 A: Portrait of Anne of Cleves
