@@ -2824,6 +2824,230 @@ A: Jan van Eyck
 
 Q: Title?
 
+![](<@/Art/Jean-Léon Gérôme—Bashi-Bazouk.jpg>)
+
+A: Bashi-Bazouk
+
+---
+
+Q: Artist?
+
+![](<@/Art/Jean-Léon Gérôme—Bashi-Bazouk.jpg>)
+
+A: Jean-Léon Gérôme
+
+---
+
+Q: Title?
+
+![](<@/Art/Jean-Léon Gérôme—Bathsheba.jpg>)
+
+A: Bathsheba
+
+---
+
+Q: Artist?
+
+![](<@/Art/Jean-Léon Gérôme—Bathsheba.jpg>)
+
+A: Jean-Léon Gérôme
+
+---
+
+Q: Title?
+
+![](<@/Art/Jean-Léon Gérôme—Bonaparte Before the Sphinx.jpg>)
+
+A: Bonaparte Before the Sphinx
+
+---
+
+Q: Artist?
+
+![](<@/Art/Jean-Léon Gérôme—Bonaparte Before the Sphinx.jpg>)
+
+A: Jean-Léon Gérôme
+
+---
+
+Q: Title?
+
+![](<@/Art/Jean-Léon Gérôme—Diogenes.jpg>)
+
+A: Diogenes
+
+---
+
+Q: Artist?
+
+![](<@/Art/Jean-Léon Gérôme—Diogenes.jpg>)
+
+A: Jean-Léon Gérôme
+
+---
+
+Q: Title?
+
+![](<@/Art/Jean-Léon Gérôme—Phryne Before the Areopagus.jpg>)
+
+A: Phryne Before the Areopagus
+
+---
+
+Q: Artist?
+
+![](<@/Art/Jean-Léon Gérôme—Phryne Before the Areopagus.jpg>)
+
+A: Jean-Léon Gérôme
+
+---
+
+Q: Title?
+
+![](<@/Art/Jean-Léon Gérôme—Pollice Verso.jpg>)
+
+A: Pollice Verso
+
+---
+
+Q: Artist?
+
+![](<@/Art/Jean-Léon Gérôme—Pollice Verso.jpg>)
+
+A: Jean-Léon Gérôme
+
+---
+
+Q: Title?
+
+![](<@/Art/Jean-Léon Gérôme—Pygmalion and Galatea.jpg>)
+
+A: Pygmalion and Galatea
+
+---
+
+Q: Artist?
+
+![](<@/Art/Jean-Léon Gérôme—Pygmalion and Galatea.jpg>)
+
+A: Jean-Léon Gérôme
+
+---
+
+Q: Title?
+
+![](<@/Art/Jean-Léon Gérôme—The Death of Caesar.jpg>)
+
+A: The Death of Caesar
+
+---
+
+Q: Artist?
+
+![](<@/Art/Jean-Léon Gérôme—The Death of Caesar.jpg>)
+
+A: Jean-Léon Gérôme
+
+---
+
+Q: Title?
+
+![](<@/Art/Jean-Léon Gérôme—The Duel After the Masquerade.jpg>)
+
+A: The Duel After the Masquerade
+
+---
+
+Q: Artist?
+
+![](<@/Art/Jean-Léon Gérôme—The Duel After the Masquerade.jpg>)
+
+A: Jean-Léon Gérôme
+
+---
+
+Q: Title?
+
+![](<@/Art/Jean-Léon Gérôme—The Execution of Marshal Ney.jpg>)
+
+A: The Execution of Marshal Ney
+
+---
+
+Q: Artist?
+
+![](<@/Art/Jean-Léon Gérôme—The Execution of Marshal Ney.jpg>)
+
+A: Jean-Léon Gérôme
+
+---
+
+Q: Title?
+
+![](<@/Art/Jean-Léon Gérôme—The Wailing Wall.jpg>)
+
+A: The Wailing Wall
+
+---
+
+Q: Artist?
+
+![](<@/Art/Jean-Léon Gérôme—The Wailing Wall.jpg>)
+
+A: Jean-Léon Gérôme
+
+---
+
+Q: Title?
+
+![](<@/Art/Jean-Léon Gérôme—Tiger on the Watch.jpg>)
+
+A: Tiger on the Watch
+
+---
+
+Q: Artist?
+
+![](<@/Art/Jean-Léon Gérôme—Tiger on the Watch.jpg>)
+
+A: Jean-Léon Gérôme
+
+---
+
+Q: Title?
+
+![](<@/Art/Jean-Léon Gérôme—Truth Coming Out of Her Well.jpg>)
+
+A: Truth Coming Out of Her Well
+
+---
+
+Q: Artist?
+
+![](<@/Art/Jean-Léon Gérôme—Truth Coming Out of Her Well.jpg>)
+
+A: Jean-Léon Gérôme
+
+---
+
+Q: Title?
+
+![](<@/Art/Jean-Léon Gérôme—Éminence Grise.jpg>)
+
+A: Éminence Grise
+
+---
+
+Q: Artist?
+
+![](<@/Art/Jean-Léon Gérôme—Éminence Grise.jpg>)
+
+A: Jean-Léon Gérôme
+
+---
+
+Q: Title?
+
 ![](<@/Art/Johan Christian Dahl—Copenhagen Harbour by Moonlight.jpg>)
 
 A: Copenhagen Harbour by Moonlight
