@@ -108,6 +108,11 @@ A: A tool used in textile spinning to hold unspun fibers.
 
 ---
 
+Q: dovecote
+A: A structure for housing pigeons or doves.
+
+---
+
 Q: dowdy
 A: Unfashionably dressed.
 
