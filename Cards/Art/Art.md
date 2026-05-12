@@ -2408,6 +2408,38 @@ A: Merab Abramishvili
 
 Q: Title?
 
+![](<@/Art/Oskar Kokoschka—The Bride of the Wind.jpg>)
+
+A: The Bride of the Wind
+
+---
+
+Q: Artist?
+
+![](<@/Art/Oskar Kokoschka—The Bride of the Wind.jpg>)
+
+A: Oskar Kokoschka
+
+---
+
+Q: Title?
+
+![](<@/Art/Oskar Kokoschka—Veronica's Veil.jpg>)
+
+A: Veronica's Veil
+
+---
+
+Q: Artist?
+
+![](<@/Art/Oskar Kokoschka—Veronica's Veil.jpg>)
+
+A: Oskar Kokoschka
+
+---
+
+Q: Title?
+
 ![](<@/Art/Paul Delaroche—Charles I Insulted by Cromwell's Soldiers.jpg>)
 
 A: Charles I Insulted by Cromwell's Soldiers
