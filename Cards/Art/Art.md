@@ -3512,6 +3512,54 @@ A: Peder Severin Krøyer
 
 Q: Title?
 
+![](<@/Art/Peter Paul Rubens—Ecce Homo.jpg>)
+
+A: Ecce Homo
+
+---
+
+Q: Artist?
+
+![](<@/Art/Peter Paul Rubens—Ecce Homo.jpg>)
+
+A: Peter Paul Rubens
+
+---
+
+Q: Title?
+
+![](<@/Art/Peter Paul Rubens—Equestrian Portrait of the Duke of Lerma.jpg>)
+
+A: Equestrian Portrait of the Duke of Lerma
+
+---
+
+Q: Artist?
+
+![](<@/Art/Peter Paul Rubens—Equestrian Portrait of the Duke of Lerma.jpg>)
+
+A: Peter Paul Rubens
+
+---
+
+Q: Title?
+
+![](<@/Art/Peter Paul Rubens—The Fall of Man.jpg>)
+
+A: The Fall of Man
+
+---
+
+Q: Artist?
+
+![](<@/Art/Peter Paul Rubens—The Fall of Man.jpg>)
+
+A: Peter Paul Rubens
+
+---
+
+Q: Title?
+
 ![](<@/Art/Pieter Bruegel the Elder—Children's Games.jpg>)
 
 A: Children's Games
