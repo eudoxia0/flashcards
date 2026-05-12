@@ -8,6 +8,22 @@ A: Uffington White Horse
 
 Q: Title?
 
+![](<@/Art/Adam de Coster—A Man Singing by Candlelight.jpg>)
+
+A: A Man Singing by Candlelight
+
+---
+
+Q: Artist?
+
+![](<@/Art/Adam de Coster—A Man Singing by Candlelight.jpg>)
+
+A: Adam de Coster
+
+---
+
+Q: Title?
+
 ![](<@/Art/Albrecht Dürer—Portrait of Maximilian I.jpg>)
 
 A: Portrait of Maximilian I
