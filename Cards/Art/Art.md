@@ -232,6 +232,262 @@ A: Dante Gabriel Rossetti
 
 Q: Title?
 
+![](<@/Art/Diego Velázquez—Christ Crucified.jpg>)
+
+A: Christ Crucified
+
+---
+
+Q: Artist?
+
+![](<@/Art/Diego Velázquez—Christ Crucified.jpg>)
+
+A: Diego Velázquez
+
+---
+
+Q: Title?
+
+![](<@/Art/Diego Velázquez—Felipe IV.jpg>)
+
+A: Felipe IV
+
+---
+
+Q: Artist?
+
+![](<@/Art/Diego Velázquez—Felipe IV.jpg>)
+
+A: Diego Velázquez
+
+---
+
+Q: Title?
+
+![](<@/Art/Diego Velázquez—Head of a Stag.jpg>)
+
+A: Head of a Stag
+
+---
+
+Q: Artist?
+
+![](<@/Art/Diego Velázquez—Head of a Stag.jpg>)
+
+A: Diego Velázquez
+
+---
+
+Q: Title?
+
+![](<@/Art/Diego Velázquez—Las Meninas.jpg>)
+
+A: Las Meninas
+
+---
+
+Q: Artist?
+
+![](<@/Art/Diego Velázquez—Las Meninas.jpg>)
+
+A: Diego Velázquez
+
+---
+
+Q: Title?
+
+![](<@/Art/Diego Velázquez—Philip IV in Brown and Silver.jpg>)
+
+A: Philip IV in Brown and Silver
+
+---
+
+Q: Artist?
+
+![](<@/Art/Diego Velázquez—Philip IV in Brown and Silver.jpg>)
+
+A: Diego Velázquez
+
+---
+
+Q: Title?
+
+![](<@/Art/Diego Velázquez—Portrait of Don Luis de Góngora.jpg>)
+
+A: Portrait of Don Luis de Góngora
+
+---
+
+Q: Artist?
+
+![](<@/Art/Diego Velázquez—Portrait of Don Luis de Góngora.jpg>)
+
+A: Diego Velázquez
+
+---
+
+Q: Title?
+
+![](<@/Art/Diego Velázquez—Portrait of Innocent X.jpg>)
+
+A: Portrait of Innocent X
+
+---
+
+Q: Artist?
+
+![](<@/Art/Diego Velázquez—Portrait of Innocent X.jpg>)
+
+A: Diego Velázquez
+
+---
+
+Q: Title?
+
+![](<@/Art/Diego Velázquez—Portrait of Juan de Pareja.jpg>)
+
+A: Portrait of Juan de Pareja
+
+---
+
+Q: Artist?
+
+![](<@/Art/Diego Velázquez—Portrait of Juan de Pareja.jpg>)
+
+A: Diego Velázquez
+
+---
+
+Q: Title?
+
+![](<@/Art/Diego Velázquez—Portrait of Sebastián de Morra.jpg>)
+
+A: Portrait of Sebastián de Morra
+
+---
+
+Q: Artist?
+
+![](<@/Art/Diego Velázquez—Portrait of Sebastián de Morra.jpg>)
+
+A: Diego Velázquez
+
+---
+
+Q: Title?
+
+![](<@/Art/Diego Velázquez—Portrait of the Infanta Maria Theresa.jpg>)
+
+A: Portrait of the Infanta Maria Theresa
+
+---
+
+Q: Artist?
+
+![](<@/Art/Diego Velázquez—Portrait of the Infanta Maria Theresa.jpg>)
+
+A: Diego Velázquez
+
+---
+
+Q: Title?
+
+![](<@/Art/Diego Velázquez—Saint Paul.jpg>)
+
+A: Saint Paul
+
+---
+
+Q: Artist?
+
+![](<@/Art/Diego Velázquez—Saint Paul.jpg>)
+
+A: Diego Velázquez
+
+---
+
+Q: Title?
+
+![](<@/Art/Diego Velázquez—Self-portrait.jpg>)
+
+A: Self-portrait
+
+---
+
+Q: Artist?
+
+![](<@/Art/Diego Velázquez—Self-portrait.jpg>)
+
+A: Diego Velázquez
+
+---
+
+Q: Title?
+
+![](<@/Art/Diego Velázquez—The Supper at Emmaus.jpg>)
+
+A: The Supper at Emmaus
+
+---
+
+Q: Artist?
+
+![](<@/Art/Diego Velázquez—The Supper at Emmaus.jpg>)
+
+A: Diego Velázquez
+
+---
+
+Q: Title?
+
+![](<@/Art/Diego Velázquez—The Triumph of Bacchus.jpg>)
+
+A: The Triumph of Bacchus
+
+---
+
+Q: Artist?
+
+![](<@/Art/Diego Velázquez—The Triumph of Bacchus.jpg>)
+
+A: Diego Velázquez
+
+---
+
+Q: Title?
+
+![](<@/Art/Diego Velázquez—The Waterseller of Seville.jpg>)
+
+A: The Waterseller of Seville
+
+---
+
+Q: Artist?
+
+![](<@/Art/Diego Velázquez—The Waterseller of Seville.jpg>)
+
+A: Diego Velázquez
+
+---
+
+Q: Title?
+
+![](<@/Art/Diego Velázquez—View of the Garden of the Villa Medici.jpg>)
+
+A: View of the Garden of the Villa Medici
+
+---
+
+Q: Artist?
+
+![](<@/Art/Diego Velázquez—View of the Garden of the Villa Medici.jpg>)
+
+A: Diego Velázquez
+
+---
+
+Q: Title?
+
 ![](<@/Art/Edward Burne-Jones—Hope.jpg>)
 
 A: Hope
