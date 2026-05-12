@@ -536,6 +536,102 @@ A: Diego Velázquez
 
 Q: Title?
 
+![](<@/Art/Edgar Degas—At the Races in the Countryside.jpg>)
+
+A: At the Races in the Countryside
+
+---
+
+Q: Artist?
+
+![](<@/Art/Edgar Degas—At the Races in the Countryside.jpg>)
+
+A: Edgar Degas
+
+---
+
+Q: Title?
+
+![](<@/Art/Edgar Degas—Male Nude.jpg>)
+
+A: Male Nude
+
+---
+
+Q: Artist?
+
+![](<@/Art/Edgar Degas—Male Nude.jpg>)
+
+A: Edgar Degas
+
+---
+
+Q: Title?
+
+![](<@/Art/Edgar Degas—The Absinthe Drinker.jpg>)
+
+A: The Absinthe Drinker
+
+---
+
+Q: Artist?
+
+![](<@/Art/Edgar Degas—The Absinthe Drinker.jpg>)
+
+A: Edgar Degas
+
+---
+
+Q: Title?
+
+![](<@/Art/Edgar Degas—The Ballet Class.jpg>)
+
+A: The Ballet Class
+
+---
+
+Q: Artist?
+
+![](<@/Art/Edgar Degas—The Ballet Class.jpg>)
+
+A: Edgar Degas
+
+---
+
+Q: Title?
+
+![](<@/Art/Edgar Degas—The Orchestra at the Opera.jpg>)
+
+A: The Orchestra at the Opera
+
+---
+
+Q: Artist?
+
+![](<@/Art/Edgar Degas—The Orchestra at the Opera.jpg>)
+
+A: Edgar Degas
+
+---
+
+Q: Title?
+
+![](<@/Art/Edgar Degas—Woman Seated beside a Vase of Flowers.jpg>)
+
+A: Woman Seated beside a Vase of Flowers
+
+---
+
+Q: Artist?
+
+![](<@/Art/Edgar Degas—Woman Seated beside a Vase of Flowers.jpg>)
+
+A: Edgar Degas
+
+---
+
+Q: Title?
+
 ![](<@/Art/Edward Burne-Jones—Hope.jpg>)
 
 A: Hope
