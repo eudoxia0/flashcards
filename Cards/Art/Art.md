@@ -2744,6 +2744,38 @@ A: Merab Abramishvili
 
 Q: Title?
 
+![](<@/Art/Natalia Goncharova—Cyclist.jpg>)
+
+A: Cyclist
+
+---
+
+Q: Artist?
+
+![](<@/Art/Natalia Goncharova—Cyclist.jpg>)
+
+A: Natalia Goncharova
+
+---
+
+Q: Title?
+
+![](<@/Art/Natalia Goncharova—Rayonist Lilies.jpg>)
+
+A: Rayonist Lilies
+
+---
+
+Q: Artist?
+
+![](<@/Art/Natalia Goncharova—Rayonist Lilies.jpg>)
+
+A: Natalia Goncharova
+
+---
+
+Q: Title?
+
 ![](<@/Art/Oskar Kokoschka—The Bride of the Wind.jpg>)
 
 A: The Bride of the Wind
