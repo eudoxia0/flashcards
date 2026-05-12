@@ -1224,6 +1224,150 @@ A: Francisco Goya
 
 Q: Title?
 
+![](<@/Art/Frederic Edwin Church—Aurora Borealis.jpg>)
+
+A: Aurora Borealis
+
+---
+
+Q: Artist?
+
+![](<@/Art/Frederic Edwin Church—Aurora Borealis.jpg>)
+
+A: Frederic Edwin Church
+
+---
+
+Q: Title?
+
+![](<@/Art/Frederic Edwin Church—Cotopaxi.jpg>)
+
+A: Cotopaxi
+
+---
+
+Q: Artist?
+
+![](<@/Art/Frederic Edwin Church—Cotopaxi.jpg>)
+
+A: Frederic Edwin Church
+
+---
+
+Q: Title?
+
+![](<@/Art/Frederic Edwin Church—El Khasné, Petra.jpg>)
+
+A: El Khasné, Petra
+
+---
+
+Q: Artist?
+
+![](<@/Art/Frederic Edwin Church—El Khasné, Petra.jpg>)
+
+A: Frederic Edwin Church
+
+---
+
+Q: Title?
+
+![](<@/Art/Frederic Edwin Church—Niagara.jpg>)
+
+A: Niagara
+
+---
+
+Q: Artist?
+
+![](<@/Art/Frederic Edwin Church—Niagara.jpg>)
+
+A: Frederic Edwin Church
+
+---
+
+Q: Title?
+
+![](<@/Art/Frederic Edwin Church—Our Banner in the Sky.jpg>)
+
+A: Our Banner in the Sky
+
+---
+
+Q: Artist?
+
+![](<@/Art/Frederic Edwin Church—Our Banner in the Sky.jpg>)
+
+A: Frederic Edwin Church
+
+---
+
+Q: Title?
+
+![](<@/Art/Frederic Edwin Church—Rainy Season in the Tropics.jpg>)
+
+A: Rainy Season in the Tropics
+
+---
+
+Q: Artist?
+
+![](<@/Art/Frederic Edwin Church—Rainy Season in the Tropics.jpg>)
+
+A: Frederic Edwin Church
+
+---
+
+Q: Title?
+
+![](<@/Art/Frederic Edwin Church—The Heart of the Andes.jpg>)
+
+A: The Heart of the Andes
+
+---
+
+Q: Artist?
+
+![](<@/Art/Frederic Edwin Church—The Heart of the Andes.jpg>)
+
+A: Frederic Edwin Church
+
+---
+
+Q: Title?
+
+![](<@/Art/Frederic Edwin Church—The Icebergs.jpg>)
+
+A: The Icebergs
+
+---
+
+Q: Artist?
+
+![](<@/Art/Frederic Edwin Church—The Icebergs.jpg>)
+
+A: Frederic Edwin Church
+
+---
+
+Q: Title?
+
+![](<@/Art/Frederic Edwin Church—The Parthenon.jpg>)
+
+A: The Parthenon
+
+---
+
+Q: Artist?
+
+![](<@/Art/Frederic Edwin Church—The Parthenon.jpg>)
+
+A: Frederic Edwin Church
+
+---
+
+Q: Title?
+
 ![](<@/Art/Georges de La Tour—Magdalene with Two Flames.jpg>)
 
 A: Magdalene with Two Flames
