@@ -3048,6 +3048,22 @@ A: Jean-Léon Gérôme
 
 Q: Title?
 
+![](<@/Art/Joan Miró—The Farm.jpg>)
+
+A: The Farm
+
+---
+
+Q: Artist?
+
+![](<@/Art/Joan Miró—The Farm.jpg>)
+
+A: Joan Miró
+
+---
+
+Q: Title?
+
 ![](<@/Art/Johan Christian Dahl—Copenhagen Harbour by Moonlight.jpg>)
 
 A: Copenhagen Harbour by Moonlight
