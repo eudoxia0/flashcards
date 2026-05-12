@@ -4344,6 +4344,22 @@ A: Paul Delaroche
 
 Q: Title?
 
+![](<@/Art/Paul Gauguin—Tahitian Women on the Beach.jpg>)
+
+A: Tahitian Women on the Beach
+
+---
+
+Q: Artist?
+
+![](<@/Art/Paul Gauguin—Tahitian Women on the Beach.jpg>)
+
+A: Paul Gauguin
+
+---
+
+Q: Title?
+
 ![](<@/Art/Peder Severin Krøyer—A luncheon.jpg>)
 
 A: A luncheon
