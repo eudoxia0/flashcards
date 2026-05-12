@@ -1240,6 +1240,54 @@ A: Henry Tanner
 
 Q: Title?
 
+![](<@/Art/Hieronymus Bosch—Ascent of the Blessed.jpg>)
+
+A: Ascent of the Blessed
+
+---
+
+Q: Artist?
+
+![](<@/Art/Hieronymus Bosch—Ascent of the Blessed.jpg>)
+
+A: Hieronymus Bosch
+
+---
+
+Q: Title?
+
+![](<@/Art/Hieronymus Bosch—Saint Christopher Carrying the Christ Child.jpg>)
+
+A: Saint Christopher Carrying the Christ Child
+
+---
+
+Q: Artist?
+
+![](<@/Art/Hieronymus Bosch—Saint Christopher Carrying the Christ Child.jpg>)
+
+A: Hieronymus Bosch
+
+---
+
+Q: Title?
+
+![](<@/Art/Hieronymus Bosch—The Garden of Earthly Delights.jpg>)
+
+A: The Garden of Earthly Delights
+
+---
+
+Q: Artist?
+
+![](<@/Art/Hieronymus Bosch—The Garden of Earthly Delights.jpg>)
+
+A: Hieronymus Bosch
+
+---
+
+Q: Title?
+
 ![](<@/Art/Horace Vernet—Italian Brigands Surprised by Papal Troops.jpg>)
 
 A: Italian Brigands Surprised by Papal Troops
