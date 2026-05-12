@@ -3160,6 +3160,102 @@ A: Johan Christian Dahl
 
 Q: Title?
 
+![](<@/Art/Johannes Vermeer—Girl Reading a Letter at an Open Window.jpg>)
+
+A: Girl Reading a Letter at an Open Window
+
+---
+
+Q: Artist?
+
+![](<@/Art/Johannes Vermeer—Girl Reading a Letter at an Open Window.jpg>)
+
+A: Johannes Vermeer
+
+---
+
+Q: Title?
+
+![](<@/Art/Johannes Vermeer—Girl with a Pearl Earring.jpg>)
+
+A: Girl with a Pearl Earring
+
+---
+
+Q: Artist?
+
+![](<@/Art/Johannes Vermeer—Girl with a Pearl Earring.jpg>)
+
+A: Johannes Vermeer
+
+---
+
+Q: Title?
+
+![](<@/Art/Johannes Vermeer—The Astronomer.jpg>)
+
+A: The Astronomer
+
+---
+
+Q: Artist?
+
+![](<@/Art/Johannes Vermeer—The Astronomer.jpg>)
+
+A: Johannes Vermeer
+
+---
+
+Q: Title?
+
+![](<@/Art/Johannes Vermeer—The Little Street.jpg>)
+
+A: The Little Street
+
+---
+
+Q: Artist?
+
+![](<@/Art/Johannes Vermeer—The Little Street.jpg>)
+
+A: Johannes Vermeer
+
+---
+
+Q: Title?
+
+![](<@/Art/Johannes Vermeer—The Milkmaid.jpg>)
+
+A: The Milkmaid
+
+---
+
+Q: Artist?
+
+![](<@/Art/Johannes Vermeer—The Milkmaid.jpg>)
+
+A: Johannes Vermeer
+
+---
+
+Q: Title?
+
+![](<@/Art/Johannes Vermeer—The Music Lesson.jpg>)
+
+A: The Music Lesson
+
+---
+
+Q: Artist?
+
+![](<@/Art/Johannes Vermeer—The Music Lesson.jpg>)
+
+A: Johannes Vermeer
+
+---
+
+Q: Title?
+
 ![](<@/Art/John Atkinson Grimshaw—Boar Lane, Leeds.jpg>)
 
 A: Boar Lane, Leeds
