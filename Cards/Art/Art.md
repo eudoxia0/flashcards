@@ -3032,6 +3032,182 @@ A: Peder Severin Krøyer
 
 Q: Title?
 
+![](<@/Art/Pieter Bruegel the Elder—Children's Games.jpg>)
+
+A: Children's Games
+
+---
+
+Q: Artist?
+
+![](<@/Art/Pieter Bruegel the Elder—Children's Games.jpg>)
+
+A: Pieter Bruegel the Elder
+
+---
+
+Q: Title?
+
+![](<@/Art/Pieter Bruegel the Elder—Dull Gret.jpg>)
+
+A: Dull Gret
+
+---
+
+Q: Artist?
+
+![](<@/Art/Pieter Bruegel the Elder—Dull Gret.jpg>)
+
+A: Pieter Bruegel the Elder
+
+---
+
+Q: Title?
+
+![](<@/Art/Pieter Bruegel the Elder—Landscape with the Flight into Egypt.jpg>)
+
+A: Landscape with the Flight into Egypt
+
+---
+
+Q: Artist?
+
+![](<@/Art/Pieter Bruegel the Elder—Landscape with the Flight into Egypt.jpg>)
+
+A: Pieter Bruegel the Elder
+
+---
+
+Q: Title?
+
+![](<@/Art/Pieter Bruegel the Elder—The Beekeepers.jpg>)
+
+A: The Beekeepers
+
+---
+
+Q: Artist?
+
+![](<@/Art/Pieter Bruegel the Elder—The Beekeepers.jpg>)
+
+A: Pieter Bruegel the Elder
+
+---
+
+Q: Title?
+
+![](<@/Art/Pieter Bruegel the Elder—The Blind Leading the Blind.jpg>)
+
+A: The Blind Leading the Blind
+
+---
+
+Q: Artist?
+
+![](<@/Art/Pieter Bruegel the Elder—The Blind Leading the Blind.jpg>)
+
+A: Pieter Bruegel the Elder
+
+---
+
+Q: Title?
+
+![](<@/Art/Pieter Bruegel the Elder—The Fall of the Rebel Angels.jpg>)
+
+A: The Fall of the Rebel Angels
+
+---
+
+Q: Artist?
+
+![](<@/Art/Pieter Bruegel the Elder—The Fall of the Rebel Angels.jpg>)
+
+A: Pieter Bruegel the Elder
+
+---
+
+Q: Title?
+
+![](<@/Art/Pieter Bruegel the Elder—The Hunters in the Snow.jpg>)
+
+A: The Hunters in the Snow
+
+---
+
+Q: Artist?
+
+![](<@/Art/Pieter Bruegel the Elder—The Hunters in the Snow.jpg>)
+
+A: Pieter Bruegel the Elder
+
+---
+
+Q: Title?
+
+![](<@/Art/Pieter Bruegel the Elder—The Massacre of the Innocents.jpg>)
+
+A: The Massacre of the Innocents
+
+---
+
+Q: Artist?
+
+![](<@/Art/Pieter Bruegel the Elder—The Massacre of the Innocents.jpg>)
+
+A: Pieter Bruegel the Elder
+
+---
+
+Q: Title?
+
+![](<@/Art/Pieter Bruegel the Elder—The Peasant Wedding.jpg>)
+
+A: The Peasant Wedding
+
+---
+
+Q: Artist?
+
+![](<@/Art/Pieter Bruegel the Elder—The Peasant Wedding.jpg>)
+
+A: Pieter Bruegel the Elder
+
+---
+
+Q: Title?
+
+![](<@/Art/Pieter Bruegel the Elder—The Procession to Calvary.jpg>)
+
+A: The Procession to Calvary
+
+---
+
+Q: Artist?
+
+![](<@/Art/Pieter Bruegel the Elder—The Procession to Calvary.jpg>)
+
+A: Pieter Bruegel the Elder
+
+---
+
+Q: Title?
+
+![](<@/Art/Pieter Bruegel the Elder—The Tower of Babel.jpg>)
+
+A: The Tower of Babel
+
+---
+
+Q: Artist?
+
+![](<@/Art/Pieter Bruegel the Elder—The Tower of Babel.jpg>)
+
+A: Pieter Bruegel the Elder
+
+---
+
+Q: Title?
+
 ![](<@/Art/Rembrandt van Rijn—A Polish nobleman.jpg>)
 
 A: A Polish nobleman
