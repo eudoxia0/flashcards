@@ -467,3 +467,9 @@ A: Bratislava.
 
 Q: Bratislava is the capital of which country?
 A: Slovakia.
+
+---
+
+C: Term: [condottiero]
+
+Definition: [the commander of an Italian mercenary company in the early modern period.]
