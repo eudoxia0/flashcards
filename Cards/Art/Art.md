@@ -3608,6 +3608,22 @@ A: Jacques-Louis David
 
 Q: Title?
 
+![](<@/Art/Jacques-Émile Blanche—Portrait of Aubrey Beardsley.jpg>)
+
+A: Portrait of Aubrey Beardsley
+
+---
+
+Q: Artist?
+
+![](<@/Art/Jacques-Émile Blanche—Portrait of Aubrey Beardsley.jpg>)
+
+A: Jacques-Émile Blanche
+
+---
+
+Q: Title?
+
 ![](<@/Art/James McNeill Whistler—Arrangement in Grey and Black, No. 2 - Portrait of Thomas Carlyle.jpg>)
 
 A: Arrangement in Grey and Black, No. 2 - Portrait of Thomas Carlyle
