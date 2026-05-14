@@ -168,6 +168,182 @@ A: Arnold Böcklin
 
 Q: Title?
 
+![](<@/Art/Caravaggio—Christ at the Column.jpg>)
+
+A: Christ at the Column
+
+---
+
+Q: Artist?
+
+![](<@/Art/Caravaggio—Christ at the Column.jpg>)
+
+A: Caravaggio
+
+---
+
+Q: Title?
+
+![](<@/Art/Caravaggio—Ecce Homo.jpg>)
+
+A: Ecce Homo
+
+---
+
+Q: Artist?
+
+![](<@/Art/Caravaggio—Ecce Homo.jpg>)
+
+A: Caravaggio
+
+---
+
+Q: Title?
+
+![](<@/Art/Caravaggio—Judith Beheading Holofernes.jpg>)
+
+A: Judith Beheading Holofernes
+
+---
+
+Q: Artist?
+
+![](<@/Art/Caravaggio—Judith Beheading Holofernes.jpg>)
+
+A: Caravaggio
+
+---
+
+Q: Title?
+
+![](<@/Art/Caravaggio—Medusa.jpg>)
+
+A: Medusa
+
+---
+
+Q: Artist?
+
+![](<@/Art/Caravaggio—Medusa.jpg>)
+
+A: Caravaggio
+
+---
+
+Q: Title?
+
+![](<@/Art/Caravaggio—Narcissus.jpg>)
+
+A: Narcissus
+
+---
+
+Q: Artist?
+
+![](<@/Art/Caravaggio—Narcissus.jpg>)
+
+A: Caravaggio
+
+---
+
+Q: Title?
+
+![](<@/Art/Caravaggio—Salome with the Head of John the Baptist.jpg>)
+
+A: Salome with the Head of John the Baptist
+
+---
+
+Q: Artist?
+
+![](<@/Art/Caravaggio—Salome with the Head of John the Baptist.jpg>)
+
+A: Caravaggio
+
+---
+
+Q: Title?
+
+![](<@/Art/Caravaggio—The Beheading of Saint John the Baptist.jpg>)
+
+A: The Beheading of Saint John the Baptist
+
+---
+
+Q: Artist?
+
+![](<@/Art/Caravaggio—The Beheading of Saint John the Baptist.jpg>)
+
+A: Caravaggio
+
+---
+
+Q: Title?
+
+![](<@/Art/Caravaggio—The Crucifixion of Saint Peter.jpg>)
+
+A: The Crucifixion of Saint Peter
+
+---
+
+Q: Artist?
+
+![](<@/Art/Caravaggio—The Crucifixion of Saint Peter.jpg>)
+
+A: Caravaggio
+
+---
+
+Q: Title?
+
+![](<@/Art/Caravaggio—The Incredulity of Saint Thomas.jpg>)
+
+A: The Incredulity of Saint Thomas
+
+---
+
+Q: Artist?
+
+![](<@/Art/Caravaggio—The Incredulity of Saint Thomas.jpg>)
+
+A: Caravaggio
+
+---
+
+Q: Title?
+
+![](<@/Art/Caravaggio—The Sacrifice of Isaac.jpg>)
+
+A: The Sacrifice of Isaac
+
+---
+
+Q: Artist?
+
+![](<@/Art/Caravaggio—The Sacrifice of Isaac.jpg>)
+
+A: Caravaggio
+
+---
+
+Q: Title?
+
+![](<@/Art/Caravaggio—The Taking of Christ.jpg>)
+
+A: The Taking of Christ
+
+---
+
+Q: Artist?
+
+![](<@/Art/Caravaggio—The Taking of Christ.jpg>)
+
+A: Caravaggio
+
+---
+
+Q: Title?
+
 ![](<@/Art/Caspar David Friedrich—Chalk Cliffs on Rügen.jpg>)
 
 A: Chalk Cliffs on Rügen
@@ -227,6 +403,326 @@ Q: Artist?
 ![](<@/Art/Caspar David Friedrich—Wanderer above the Sea of Fog.jpg>)
 
 A: Caspar David Friedrich
+
+---
+
+Q: Title?
+
+![](<@/Art/Charles Demuth—I Saw the Figure 5 in Gold.jpg>)
+
+A: I Saw the Figure 5 in Gold
+
+---
+
+Q: Artist?
+
+![](<@/Art/Charles Demuth—I Saw the Figure 5 in Gold.jpg>)
+
+A: Charles Demuth
+
+---
+
+Q: Title?
+
+![](<@/Art/Charles Demuth—My Egypt.jpg>)
+
+A: My Egypt
+
+---
+
+Q: Artist?
+
+![](<@/Art/Charles Demuth—My Egypt.jpg>)
+
+A: Charles Demuth
+
+---
+
+Q: Title?
+
+![](<@/Art/Charles Demuth—Sail - In Two Movements.jpg>)
+
+A: Sail - In Two Movements
+
+---
+
+Q: Artist?
+
+![](<@/Art/Charles Demuth—Sail - In Two Movements.jpg>)
+
+A: Charles Demuth
+
+---
+
+Q: Title?
+
+![](<@/Art/Charles-François Daubigny—Twilight.jpg>)
+
+A: Twilight
+
+---
+
+Q: Artist?
+
+![](<@/Art/Charles-François Daubigny—Twilight.jpg>)
+
+A: Charles-François Daubigny
+
+---
+
+Q: Title?
+
+![](<@/Art/Claude Monet—Boulevard des Capucines.jpg>)
+
+A: Boulevard des Capucines
+
+---
+
+Q: Artist?
+
+![](<@/Art/Claude Monet—Boulevard des Capucines.jpg>)
+
+A: Claude Monet
+
+---
+
+Q: Title?
+
+![](<@/Art/Claude Monet—Houses of Parliament, Sunset.jpg>)
+
+A: Houses of Parliament, Sunset
+
+---
+
+Q: Artist?
+
+![](<@/Art/Claude Monet—Houses of Parliament, Sunset.jpg>)
+
+A: Claude Monet
+
+---
+
+Q: Title?
+
+![](<@/Art/Claude Monet—Impression, Sunrise.jpg>)
+
+A: Impression, Sunrise
+
+---
+
+Q: Artist?
+
+![](<@/Art/Claude Monet—Impression, Sunrise.jpg>)
+
+A: Claude Monet
+
+---
+
+Q: Title?
+
+![](<@/Art/Claude Monet—La Grenouillère.jpg>)
+
+A: La Grenouillère
+
+---
+
+Q: Artist?
+
+![](<@/Art/Claude Monet—La Grenouillère.jpg>)
+
+A: Claude Monet
+
+---
+
+Q: Title?
+
+![](<@/Art/Claude Monet—Low Tide at Pourville.jpg>)
+
+A: Low Tide at Pourville
+
+---
+
+Q: Artist?
+
+![](<@/Art/Claude Monet—Low Tide at Pourville.jpg>)
+
+A: Claude Monet
+
+---
+
+Q: Title?
+
+![](<@/Art/Claude Monet—Poplars on the Banks of the River Epte, Evening Effect.jpg>)
+
+A: Poplars on the Banks of the River Epte, Evening Effect
+
+---
+
+Q: Artist?
+
+![](<@/Art/Claude Monet—Poplars on the Banks of the River Epte, Evening Effect.jpg>)
+
+A: Claude Monet
+
+---
+
+Q: Title?
+
+![](<@/Art/Claude Monet—Portrait of Père Paul.jpg>)
+
+A: Portrait of Père Paul
+
+---
+
+Q: Artist?
+
+![](<@/Art/Claude Monet—Portrait of Père Paul.jpg>)
+
+A: Claude Monet
+
+---
+
+Q: Title?
+
+![](<@/Art/Claude Monet—Rouen Cathedral in the Fog.jpg>)
+
+A: Rouen Cathedral in the Fog
+
+---
+
+Q: Artist?
+
+![](<@/Art/Claude Monet—Rouen Cathedral in the Fog.jpg>)
+
+A: Claude Monet
+
+---
+
+Q: Title?
+
+![](<@/Art/Claude Monet—The Parc Monceau, Paris.jpg>)
+
+A: The Parc Monceau, Paris
+
+---
+
+Q: Artist?
+
+![](<@/Art/Claude Monet—The Parc Monceau, Paris.jpg>)
+
+A: Claude Monet
+
+---
+
+Q: Title?
+
+![](<@/Art/Claude Monet—The Poppy Field near Argenteuil.jpg>)
+
+A: The Poppy Field near Argenteuil
+
+---
+
+Q: Artist?
+
+![](<@/Art/Claude Monet—The Poppy Field near Argenteuil.jpg>)
+
+A: Claude Monet
+
+---
+
+Q: Title?
+
+![](<@/Art/Claude Monet—The Port of Le Havre, Night Effect.jpg>)
+
+A: The Port of Le Havre, Night Effect
+
+---
+
+Q: Artist?
+
+![](<@/Art/Claude Monet—The Port of Le Havre, Night Effect.jpg>)
+
+A: Claude Monet
+
+---
+
+Q: Title?
+
+![](<@/Art/Claude Monet—The Studio Boat (1874).jpg>)
+
+A: The Studio Boat (1874)
+
+---
+
+Q: Artist?
+
+![](<@/Art/Claude Monet—The Studio Boat (1874).jpg>)
+
+A: Claude Monet
+
+---
+
+Q: Title?
+
+![](<@/Art/Claude Monet—The Studio Boat (1876).jpg>)
+
+A: The Studio Boat (1876)
+
+---
+
+Q: Artist?
+
+![](<@/Art/Claude Monet—The Studio Boat (1876).jpg>)
+
+A: Claude Monet
+
+---
+
+Q: Title?
+
+![](<@/Art/Claude Monet—The Thames below Westminster.jpg>)
+
+A: The Thames below Westminster
+
+---
+
+Q: Artist?
+
+![](<@/Art/Claude Monet—The Thames below Westminster.jpg>)
+
+A: Claude Monet
+
+---
+
+Q: Title?
+
+![](<@/Art/Claude Monet—Villas in Bordighera.jpg>)
+
+A: Villas in Bordighera
+
+---
+
+Q: Artist?
+
+![](<@/Art/Claude Monet—Villas in Bordighera.jpg>)
+
+A: Claude Monet
+
+---
+
+Q: Title?
+
+![](<@/Art/Claude Monet—Woman with a Parasol - Madame Monet and Her Son.jpg>)
+
+A: Woman with a Parasol - Madame Monet and Her Son
+
+---
+
+Q: Artist?
+
+![](<@/Art/Claude Monet—Woman with a Parasol - Madame Monet and Her Son.jpg>)
+
+A: Claude Monet
 
 ---
 
@@ -531,6 +1027,38 @@ Q: Artist?
 ![](<@/Art/Diego Velázquez—View of the Garden of the Villa Medici.jpg>)
 
 A: Diego Velázquez
+
+---
+
+Q: Title?
+
+![](<@/Art/Eastman Johnson—A Ride for Liberty - The Fugitive Slaves.jpg>)
+
+A: A Ride for Liberty - The Fugitive Slaves
+
+---
+
+Q: Artist?
+
+![](<@/Art/Eastman Johnson—A Ride for Liberty - The Fugitive Slaves.jpg>)
+
+A: Eastman Johnson
+
+---
+
+Q: Title?
+
+![](<@/Art/Eastman Johnson—The Lord Is My Shepherd.jpg>)
+
+A: The Lord Is My Shepherd
+
+---
+
+Q: Artist?
+
+![](<@/Art/Eastman Johnson—The Lord Is My Shepherd.jpg>)
+
+A: Eastman Johnson
 
 ---
 
@@ -952,6 +1480,38 @@ A: Edward Poynter
 
 Q: Title?
 
+![](<@/Art/Edward Steichen—The Flatiron.jpg>)
+
+A: The Flatiron
+
+---
+
+Q: Artist?
+
+![](<@/Art/Edward Steichen—The Flatiron.jpg>)
+
+A: Edward Steichen
+
+---
+
+Q: Title?
+
+![](<@/Art/Edward Steichen—The Pond-Moonlight.jpg>)
+
+A: The Pond-Moonlight
+
+---
+
+Q: Artist?
+
+![](<@/Art/Edward Steichen—The Pond-Moonlight.jpg>)
+
+A: Edward Steichen
+
+---
+
+Q: Title?
+
 ![](<@/Art/Edwin Landseer—The Monarch of the Glen.png>)
 
 A: The Monarch of the Glen
@@ -963,6 +1523,86 @@ Q: Artist?
 ![](<@/Art/Edwin Landseer—The Monarch of the Glen.png>)
 
 A: Edwin Landseer
+
+---
+
+Q: Title?
+
+![](<@/Art/Eugène Boudin—Environs De Trouville, Allée Sous Bois.jpg>)
+
+A: Environs De Trouville, Allée Sous Bois
+
+---
+
+Q: Artist?
+
+![](<@/Art/Eugène Boudin—Environs De Trouville, Allée Sous Bois.jpg>)
+
+A: Eugène Boudin
+
+---
+
+Q: Title?
+
+![](<@/Art/Eugène Boudin—Étude de ciel.jpg>)
+
+A: Étude de ciel
+
+---
+
+Q: Artist?
+
+![](<@/Art/Eugène Boudin—Étude de ciel.jpg>)
+
+A: Eugène Boudin
+
+---
+
+Q: Title?
+
+![](<@/Art/Ford Madox Brown—Jesus washing Peter's feet.jpg>)
+
+A: Jesus washing Peter's feet
+
+---
+
+Q: Artist?
+
+![](<@/Art/Ford Madox Brown—Jesus washing Peter's feet.jpg>)
+
+A: Ford Madox Brown
+
+---
+
+Q: Title?
+
+![](<@/Art/Ford Madox Brown—The Last of England.jpg>)
+
+A: The Last of England
+
+---
+
+Q: Artist?
+
+![](<@/Art/Ford Madox Brown—The Last of England.jpg>)
+
+A: Ford Madox Brown
+
+---
+
+Q: Title?
+
+![](<@/Art/Ford Madox Brown—Work.jpg>)
+
+A: Work
+
+---
+
+Q: Artist?
+
+![](<@/Art/Ford Madox Brown—Work.jpg>)
+
+A: Ford Madox Brown
 
 ---
 
@@ -1224,6 +1864,22 @@ A: Francisco Goya
 
 Q: Title?
 
+![](<@/Art/Franz von Stuck—Salome.jpg>)
+
+A: Salome
+
+---
+
+Q: Artist?
+
+![](<@/Art/Franz von Stuck—Salome.jpg>)
+
+A: Franz von Stuck
+
+---
+
+Q: Title?
+
 ![](<@/Art/Frederic Edwin Church—Aurora Borealis.jpg>)
 
 A: Aurora Borealis
@@ -1459,6 +2115,166 @@ Q: Artist?
 ![](<@/Art/Giotto—Kiss of Judas.jpg>)
 
 A: Giotto
+
+---
+
+Q: Title?
+
+![](<@/Art/Giovanni Boldini—Portrait of Donna Franca Florio.jpg>)
+
+A: Portrait of Donna Franca Florio
+
+---
+
+Q: Artist?
+
+![](<@/Art/Giovanni Boldini—Portrait of Donna Franca Florio.jpg>)
+
+A: Giovanni Boldini
+
+---
+
+Q: Title?
+
+![](<@/Art/Giovanni Boldini—Portrait of Giuseppe Verdi.jpg>)
+
+A: Portrait of Giuseppe Verdi
+
+---
+
+Q: Artist?
+
+![](<@/Art/Giovanni Boldini—Portrait of Giuseppe Verdi.jpg>)
+
+A: Giovanni Boldini
+
+---
+
+Q: Title?
+
+![](<@/Art/Giovanni Boldini—Portrait of Lucie Gérard.jpg>)
+
+A: Portrait of Lucie Gérard
+
+---
+
+Q: Artist?
+
+![](<@/Art/Giovanni Boldini—Portrait of Lucie Gérard.jpg>)
+
+A: Giovanni Boldini
+
+---
+
+Q: Title?
+
+![](<@/Art/Giovanni Boldini—Portrait of Robert de Montesquiou.jpg>)
+
+A: Portrait of Robert de Montesquiou
+
+---
+
+Q: Artist?
+
+![](<@/Art/Giovanni Boldini—Portrait of Robert de Montesquiou.jpg>)
+
+A: Giovanni Boldini
+
+---
+
+Q: Title?
+
+![](<@/Art/Giovanni Boldini—Portrait of the actress Marthe de Florian.jpg>)
+
+A: Portrait of the actress Marthe de Florian
+
+---
+
+Q: Artist?
+
+![](<@/Art/Giovanni Boldini—Portrait of the actress Marthe de Florian.jpg>)
+
+A: Giovanni Boldini
+
+---
+
+Q: Title?
+
+![](<@/Art/Gustav Klimt—Danaë.jpg>)
+
+A: Danaë
+
+---
+
+Q: Artist?
+
+![](<@/Art/Gustav Klimt—Danaë.jpg>)
+
+A: Gustav Klimt
+
+---
+
+Q: Title?
+
+![](<@/Art/Gustav Klimt—Judith and the Head of Holofernes.jpg>)
+
+A: Judith and the Head of Holofernes
+
+---
+
+Q: Artist?
+
+![](<@/Art/Gustav Klimt—Judith and the Head of Holofernes.jpg>)
+
+A: Gustav Klimt
+
+---
+
+Q: Title?
+
+![](<@/Art/Gustav Klimt—Pallas Athena.jpg>)
+
+A: Pallas Athena
+
+---
+
+Q: Artist?
+
+![](<@/Art/Gustav Klimt—Pallas Athena.jpg>)
+
+A: Gustav Klimt
+
+---
+
+Q: Title?
+
+![](<@/Art/Gustav Klimt—Portrait of Adele Bloch-Bauer I.jpg>)
+
+A: Portrait of Adele Bloch-Bauer I
+
+---
+
+Q: Artist?
+
+![](<@/Art/Gustav Klimt—Portrait of Adele Bloch-Bauer I.jpg>)
+
+A: Gustav Klimt
+
+---
+
+Q: Title?
+
+![](<@/Art/Gustav Klimt—The Kiss.jpg>)
+
+A: The Kiss
+
+---
+
+Q: Artist?
+
+![](<@/Art/Gustav Klimt—The Kiss.jpg>)
+
+A: Gustav Klimt
 
 ---
 
@@ -2072,6 +2888,54 @@ A: Horace Vernet
 
 Q: Title?
 
+![](<@/Art/Ilya Chashnik—Red Circle on a Black Surface.jpg>)
+
+A: Red Circle on a Black Surface
+
+---
+
+Q: Artist?
+
+![](<@/Art/Ilya Chashnik—Red Circle on a Black Surface.jpg>)
+
+A: Ilya Chashnik
+
+---
+
+Q: Title?
+
+![](<@/Art/Ilya Chashnik—Suprematism.jpg>)
+
+A: Suprematism
+
+---
+
+Q: Artist?
+
+![](<@/Art/Ilya Chashnik—Suprematism.jpg>)
+
+A: Ilya Chashnik
+
+---
+
+Q: Title?
+
+![](<@/Art/Ilya Chashnik—Suprematist Composition.jpg>)
+
+A: Suprematist Composition
+
+---
+
+Q: Artist?
+
+![](<@/Art/Ilya Chashnik—Suprematist Composition.jpg>)
+
+A: Ilya Chashnik
+
+---
+
+Q: Title?
+
 ![](<@/Art/Ilya Repin—A Paris Cafe.jpg>)
 
 A: A Paris Cafe
@@ -2163,6 +3027,118 @@ Q: Artist?
 ![](<@/Art/Ilya Repin—Reply of the Zaporozhian Cossacks.jpg>)
 
 A: Ilya Repin
+
+---
+
+Q: Title?
+
+![](<@/Art/Ingres—Jupiter and Thetis.jpg>)
+
+A: Jupiter and Thetis
+
+---
+
+Q: Artist?
+
+![](<@/Art/Ingres—Jupiter and Thetis.jpg>)
+
+A: Ingres
+
+---
+
+Q: Title?
+
+![](<@/Art/Ingres—La Grande Odalisque.jpg>)
+
+A: La Grande Odalisque
+
+---
+
+Q: Artist?
+
+![](<@/Art/Ingres—La Grande Odalisque.jpg>)
+
+A: Ingres
+
+---
+
+Q: Title?
+
+![](<@/Art/Ingres—Napoleon on his Imperial Throne.jpg>)
+
+A: Napoleon on his Imperial Throne
+
+---
+
+Q: Artist?
+
+![](<@/Art/Ingres—Napoleon on his Imperial Throne.jpg>)
+
+A: Ingres
+
+---
+
+Q: Title?
+
+![](<@/Art/Ingres—Oedipus and the Sphinx.jpg>)
+
+A: Oedipus and the Sphinx
+
+---
+
+Q: Artist?
+
+![](<@/Art/Ingres—Oedipus and the Sphinx.jpg>)
+
+A: Ingres
+
+---
+
+Q: Title?
+
+![](<@/Art/Ingres—Portrait of Madame Duvaucey.jpg>)
+
+A: Portrait of Madame Duvaucey
+
+---
+
+Q: Artist?
+
+![](<@/Art/Ingres—Portrait of Madame Duvaucey.jpg>)
+
+A: Ingres
+
+---
+
+Q: Title?
+
+![](<@/Art/Ingres—Portrait of Madame Edmond Cavé.jpg>)
+
+A: Portrait of Madame Edmond Cavé
+
+---
+
+Q: Artist?
+
+![](<@/Art/Ingres—Portrait of Madame Edmond Cavé.jpg>)
+
+A: Ingres
+
+---
+
+Q: Title?
+
+![](<@/Art/Ingres—The Princesse de Broglie.jpg>)
+
+A: The Princesse de Broglie
+
+---
+
+Q: Artist?
+
+![](<@/Art/Ingres—The Princesse de Broglie.jpg>)
+
+A: Ingres
 
 ---
 
@@ -2792,6 +3768,54 @@ A: James McNeill Whistler
 
 Q: Title?
 
+![](<@/Art/James Tissot—Too Early.jpg>)
+
+A: Too Early
+
+---
+
+Q: Artist?
+
+![](<@/Art/James Tissot—Too Early.jpg>)
+
+A: James Tissot
+
+---
+
+Q: Title?
+
+![](<@/Art/James Tissot—Waiting for the Ferry at the Falcon Tavern.jpg>)
+
+A: Waiting for the Ferry at the Falcon Tavern
+
+---
+
+Q: Artist?
+
+![](<@/Art/James Tissot—Waiting for the Ferry at the Falcon Tavern.jpg>)
+
+A: James Tissot
+
+---
+
+Q: Title?
+
+![](<@/Art/James Tissot—What Our Lord Saw from the Cross.jpg>)
+
+A: What Our Lord Saw from the Cross
+
+---
+
+Q: Artist?
+
+![](<@/Art/James Tissot—What Our Lord Saw from the Cross.jpg>)
+
+A: James Tissot
+
+---
+
+Q: Title?
+
 ![](<@/Art/Jan Brueghel the Elder and Peter Paul Rubens—The Garden of Eden with the Fall of Man.jpg>)
 
 A: The Garden of Eden with the Fall of Man
@@ -3075,6 +4099,54 @@ Q: Artist?
 ![](<@/Art/Joan Miró—The Farm.jpg>)
 
 A: Joan Miró
+
+---
+
+Q: Title?
+
+![](<@/Art/Joaquín Sorolla—Mother.jpg>)
+
+A: Mother
+
+---
+
+Q: Artist?
+
+![](<@/Art/Joaquín Sorolla—Mother.jpg>)
+
+A: Joaquín Sorolla
+
+---
+
+Q: Title?
+
+![](<@/Art/Joaquín Sorolla—Portrait of William Howard Taft.jpg>)
+
+A: Portrait of William Howard Taft
+
+---
+
+Q: Artist?
+
+![](<@/Art/Joaquín Sorolla—Portrait of William Howard Taft.jpg>)
+
+A: Joaquín Sorolla
+
+---
+
+Q: Title?
+
+![](<@/Art/Joaquín Sorolla—Señora de Sorolla in Black.jpg>)
+
+A: Señora de Sorolla in Black
+
+---
+
+Q: Artist?
+
+![](<@/Art/Joaquín Sorolla—Señora de Sorolla in Black.jpg>)
+
+A: Joaquín Sorolla
 
 ---
 
@@ -3752,6 +4824,70 @@ A: Joseph Wright of Derby
 
 Q: Title?
 
+![](<@/Art/Joshua Reynolds—Doctor Samuel Johnson.jpg>)
+
+A: Doctor Samuel Johnson
+
+---
+
+Q: Artist?
+
+![](<@/Art/Joshua Reynolds—Doctor Samuel Johnson.jpg>)
+
+A: Joshua Reynolds
+
+---
+
+Q: Title?
+
+![](<@/Art/Joshua Reynolds—Dr Samuel Johnson.jpg>)
+
+A: Dr Samuel Johnson
+
+---
+
+Q: Artist?
+
+![](<@/Art/Joshua Reynolds—Dr Samuel Johnson.jpg>)
+
+A: Joshua Reynolds
+
+---
+
+Q: Title?
+
+![](<@/Art/Joshua Reynolds—Edmund Burke.jpg>)
+
+A: Edmund Burke
+
+---
+
+Q: Artist?
+
+![](<@/Art/Joshua Reynolds—Edmund Burke.jpg>)
+
+A: Joshua Reynolds
+
+---
+
+Q: Title?
+
+![](<@/Art/Joshua Reynolds—Portrait of James Boswell.jpg>)
+
+A: Portrait of James Boswell
+
+---
+
+Q: Artist?
+
+![](<@/Art/Joshua Reynolds—Portrait of James Boswell.jpg>)
+
+A: Joshua Reynolds
+
+---
+
+Q: Title?
+
 ![](<@/Art/Kazimir Malevich—The Knifegrinder.jpg>)
 
 A: The Knifegrinder
@@ -4216,6 +5352,22 @@ A: Merab Abramishvili
 
 Q: Title?
 
+![](<@/Art/Mikhail Larionov—Red Rayonism.jpg>)
+
+A: Red Rayonism
+
+---
+
+Q: Artist?
+
+![](<@/Art/Mikhail Larionov—Red Rayonism.jpg>)
+
+A: Mikhail Larionov
+
+---
+
+Q: Title?
+
 ![](<@/Art/Natalia Goncharova—Cyclist.jpg>)
 
 A: Cyclist
@@ -4243,6 +5395,38 @@ Q: Artist?
 ![](<@/Art/Natalia Goncharova—Rayonist Lilies.jpg>)
 
 A: Natalia Goncharova
+
+---
+
+Q: Title?
+
+![](<@/Art/Nicholas Roerich—Guests from Overseas.jpg>)
+
+A: Guests from Overseas
+
+---
+
+Q: Artist?
+
+![](<@/Art/Nicholas Roerich—Guests from Overseas.jpg>)
+
+A: Nicholas Roerich
+
+---
+
+Q: Title?
+
+![](<@/Art/Nicholas Roerich—Monhegan, Maine.jpg>)
+
+A: Monhegan, Maine
+
+---
+
+Q: Artist?
+
+![](<@/Art/Nicholas Roerich—Monhegan, Maine.jpg>)
+
+A: Nicholas Roerich
 
 ---
 
@@ -5000,6 +6184,38 @@ A: Pieter Bruegel the Elder
 
 Q: Title?
 
+![](<@/Art/Raphael—Portrait of Guidobaldo da Montefeltro.jpg>)
+
+A: Portrait of Guidobaldo da Montefeltro
+
+---
+
+Q: Artist?
+
+![](<@/Art/Raphael—Portrait of Guidobaldo da Montefeltro.jpg>)
+
+A: Raphael
+
+---
+
+Q: Title?
+
+![](<@/Art/Raphael—The School of Athens.jpg>)
+
+A: The School of Athens
+
+---
+
+Q: Artist?
+
+![](<@/Art/Raphael—The School of Athens.jpg>)
+
+A: Raphael
+
+---
+
+Q: Title?
+
 ![](<@/Art/Rembrandt van Rijn—A Polish nobleman.jpg>)
 
 A: A Polish nobleman
@@ -5171,6 +6387,294 @@ Q: Artist?
 ![](<@/Art/Rembrandt van Rijn—The Slaughtered Ox.jpg>)
 
 A: Rembrandt van Rijn
+
+---
+
+Q: Title?
+
+![](<@/Art/Sandro Botticelli—Annunciation.jpg>)
+
+A: Annunciation
+
+---
+
+Q: Artist?
+
+![](<@/Art/Sandro Botticelli—Annunciation.jpg>)
+
+A: Sandro Botticelli
+
+---
+
+Q: Title?
+
+![](<@/Art/Sandro Botticelli—Portrait of Dante.jpg>)
+
+A: Portrait of Dante
+
+---
+
+Q: Artist?
+
+![](<@/Art/Sandro Botticelli—Portrait of Dante.jpg>)
+
+A: Sandro Botticelli
+
+---
+
+Q: Title?
+
+![](<@/Art/Sandro Botticelli—Portrait of a Young Woman.jpg>)
+
+A: Portrait of a Young Woman
+
+---
+
+Q: Artist?
+
+![](<@/Art/Sandro Botticelli—Portrait of a Young Woman.jpg>)
+
+A: Sandro Botticelli
+
+---
+
+Q: Title?
+
+![](<@/Art/Sandro Botticelli—Primavera.jpg>)
+
+A: Primavera
+
+---
+
+Q: Artist?
+
+![](<@/Art/Sandro Botticelli—Primavera.jpg>)
+
+A: Sandro Botticelli
+
+---
+
+Q: Title?
+
+![](<@/Art/Sandro Botticelli—The Birth of Venus.jpg>)
+
+A: The Birth of Venus
+
+---
+
+Q: Artist?
+
+![](<@/Art/Sandro Botticelli—The Birth of Venus.jpg>)
+
+A: Sandro Botticelli
+
+---
+
+Q: Title?
+
+![](<@/Art/Sandro Botticelli—The Map of Hell.jpg>)
+
+A: The Map of Hell
+
+---
+
+Q: Artist?
+
+![](<@/Art/Sandro Botticelli—The Map of Hell.jpg>)
+
+A: Sandro Botticelli
+
+---
+
+Q: Title?
+
+![](<@/Art/Thomas Lawrence—Coronation Portrait of George IV.jpg>)
+
+A: Coronation Portrait of George IV
+
+---
+
+Q: Artist?
+
+![](<@/Art/Thomas Lawrence—Coronation Portrait of George IV.jpg>)
+
+A: Thomas Lawrence
+
+---
+
+Q: Title?
+
+![](<@/Art/Thomas Lawrence—Portrait of Antonio Canova.jpg>)
+
+A: Portrait of Antonio Canova
+
+---
+
+Q: Artist?
+
+![](<@/Art/Thomas Lawrence—Portrait of Antonio Canova.jpg>)
+
+A: Thomas Lawrence
+
+---
+
+Q: Title?
+
+![](<@/Art/Thomas Lawrence—Portrait of Mikhail Vorontsov.jpg>)
+
+A: Portrait of Mikhail Vorontsov
+
+---
+
+Q: Artist?
+
+![](<@/Art/Thomas Lawrence—Portrait of Mikhail Vorontsov.jpg>)
+
+A: Thomas Lawrence
+
+---
+
+Q: Title?
+
+![](<@/Art/Thomas Lawrence—Portrait of Pope Pius VII.jpg>)
+
+A: Portrait of Pope Pius VII
+
+---
+
+Q: Artist?
+
+![](<@/Art/Thomas Lawrence—Portrait of Pope Pius VII.jpg>)
+
+A: Thomas Lawrence
+
+---
+
+Q: Title?
+
+![](<@/Art/Thomas Lawrence—Portrait of Prince Leopold.jpg>)
+
+A: Portrait of Prince Leopold
+
+---
+
+Q: Artist?
+
+![](<@/Art/Thomas Lawrence—Portrait of Prince Leopold.jpg>)
+
+A: Thomas Lawrence
+
+---
+
+Q: Title?
+
+![](<@/Art/Thomas Lawrence—Portrait of Prince Metternich.jpg>)
+
+A: Portrait of Prince Metternich
+
+---
+
+Q: Artist?
+
+![](<@/Art/Thomas Lawrence—Portrait of Prince Metternich.jpg>)
+
+A: Thomas Lawrence
+
+---
+
+Q: Title?
+
+![](<@/Art/Thomas Lawrence—Portrait of William Pitt the Younger.jpg>)
+
+A: Portrait of William Pitt the Younger
+
+---
+
+Q: Artist?
+
+![](<@/Art/Thomas Lawrence—Portrait of William Pitt the Younger.jpg>)
+
+A: Thomas Lawrence
+
+---
+
+Q: Title?
+
+![](<@/Art/Thomas Lawrence—Portrait of the Duke of Wellington.jpg>)
+
+A: Portrait of the Duke of Wellington
+
+---
+
+Q: Artist?
+
+![](<@/Art/Thomas Lawrence—Portrait of the Duke of Wellington.jpg>)
+
+A: Thomas Lawrence
+
+---
+
+Q: Title?
+
+![](<@/Art/Tintoretto—Cain and Abel.jpg>)
+
+A: Cain and Abel
+
+---
+
+Q: Artist?
+
+![](<@/Art/Tintoretto—Cain and Abel.jpg>)
+
+A: Tintoretto
+
+---
+
+Q: Title?
+
+![](<@/Art/Tintoretto—Portrait of Doge Pietro Loredan.jpg>)
+
+A: Portrait of Doge Pietro Loredan
+
+---
+
+Q: Artist?
+
+![](<@/Art/Tintoretto—Portrait of Doge Pietro Loredan.jpg>)
+
+A: Tintoretto
+
+---
+
+Q: Title?
+
+![](<@/Art/Tintoretto—Saint Mark's Body Brought to Venice.jpg>)
+
+A: Saint Mark's Body Brought to Venice
+
+---
+
+Q: Artist?
+
+![](<@/Art/Tintoretto—Saint Mark's Body Brought to Venice.jpg>)
+
+A: Tintoretto
+
+---
+
+Q: Title?
+
+![](<@/Art/Tintoretto—The Crucifixion.jpg>)
+
+A: The Crucifixion
+
+---
+
+Q: Artist?
+
+![](<@/Art/Tintoretto—The Crucifixion.jpg>)
+
+A: Tintoretto
 
 ---
 
