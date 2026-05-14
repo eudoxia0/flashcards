@@ -473,3 +473,13 @@ A: Slovakia.
 C: Term: [condottiero]
 
 Definition: [the commander of an Italian mercenary company in the early modern period.]
+
+---
+
+Q: First commercially-available microprocessor?
+A: The Intel 4004.
+
+---
+
+Q: Intel 4004, release year.
+A: 1971
