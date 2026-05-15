@@ -168,6 +168,166 @@ A: Arnold Böcklin
 
 Q: Title?
 
+![](<@/Art/Aubrey Beardsley—Illustration for Edgar Allan Poe's The Black Cat.jpg>)
+
+A: Illustration for Edgar Allan Poe's The Black Cat
+
+---
+
+Q: Artist?
+
+![](<@/Art/Aubrey Beardsley—Illustration for Edgar Allan Poe's The Black Cat.jpg>)
+
+A: Aubrey Beardsley
+
+---
+
+Q: Title?
+
+![](<@/Art/Aubrey Beardsley—Illustration for Edgar Allan Poe's The Murders in the Rue Morgue.jpg>)
+
+A: Illustration for Edgar Allan Poe's The Murders in the Rue Morgue
+
+---
+
+Q: Artist?
+
+![](<@/Art/Aubrey Beardsley—Illustration for Edgar Allan Poe's The Murders in the Rue Morgue.jpg>)
+
+A: Aubrey Beardsley
+
+---
+
+Q: Title?
+
+![](<@/Art/Aubrey Beardsley—John the Baptist and Salome.jpg>)
+
+A: John the Baptist and Salome
+
+---
+
+Q: Artist?
+
+![](<@/Art/Aubrey Beardsley—John the Baptist and Salome.jpg>)
+
+A: Aubrey Beardsley
+
+---
+
+Q: Title?
+
+![](<@/Art/Aubrey Beardsley—Salome.jpg>)
+
+A: Salome
+
+---
+
+Q: Artist?
+
+![](<@/Art/Aubrey Beardsley—Salome.jpg>)
+
+A: Aubrey Beardsley
+
+---
+
+Q: Title?
+
+![](<@/Art/Aubrey Beardsley—The Peacock Skirt.jpg>)
+
+A: The Peacock Skirt
+
+---
+
+Q: Artist?
+
+![](<@/Art/Aubrey Beardsley—The Peacock Skirt.jpg>)
+
+A: Aubrey Beardsley
+
+---
+
+Q: Title?
+
+![](<@/Art/Bellotto—The Grand Canal in Venice.jpg>)
+
+A: The Grand Canal in Venice
+
+---
+
+Q: Artist?
+
+![](<@/Art/Bellotto—The Grand Canal in Venice.jpg>)
+
+A: Bellotto
+
+---
+
+Q: Title?
+
+![](<@/Art/Canaletto—Piazza San Marco, Venice.jpg>)
+
+A: Piazza San Marco, Venice
+
+---
+
+Q: Artist?
+
+![](<@/Art/Canaletto—Piazza San Marco, Venice.jpg>)
+
+A: Canaletto
+
+---
+
+Q: Title?
+
+![](<@/Art/Canaletto—St. Paul's Cathedral.jpg>)
+
+A: St. Paul's Cathedral
+
+---
+
+Q: Artist?
+
+![](<@/Art/Canaletto—St. Paul's Cathedral.jpg>)
+
+A: Canaletto
+
+---
+
+Q: Title?
+
+![](<@/Art/Canaletto—The Bucentaur Returns to the Pier at the Doge's Palace.jpg>)
+
+A: The Bucentaur Returns to the Pier at the Doge's Palace
+
+---
+
+Q: Artist?
+
+![](<@/Art/Canaletto—The Bucentaur Returns to the Pier at the Doge's Palace.jpg>)
+
+A: Canaletto
+
+---
+
+Q: Title?
+
+![](<@/Art/Canaletto—The Doge and Grand Council in Sala del Maggior Consiglio.jpg>)
+
+A: The Doge and Grand Council in Sala del Maggior Consiglio
+
+---
+
+Q: Artist?
+
+![](<@/Art/Canaletto—The Doge and Grand Council in Sala del Maggior Consiglio.jpg>)
+
+A: Canaletto
+
+---
+
+Q: Title?
+
 ![](<@/Art/Caravaggio—Christ at the Column.jpg>)
 
 A: Christ at the Column
@@ -1608,6 +1768,22 @@ A: Ford Madox Brown
 
 Q: Title?
 
+![](<@/Art/Francesco Melzi—Portrait of Leonardo.jpg>)
+
+A: Portrait of Leonardo
+
+---
+
+Q: Artist?
+
+![](<@/Art/Francesco Melzi—Portrait of Leonardo.jpg>)
+
+A: Francesco Melzi
+
+---
+
+Q: Title?
+
 ![](<@/Art/Francis Bacon—Figure with Meat.jpg>)
 
 A: Figure with Meat
@@ -2019,6 +2195,38 @@ Q: Artist?
 ![](<@/Art/Frederic Edwin Church—The Parthenon.jpg>)
 
 A: Frederic Edwin Church
+
+---
+
+Q: Title?
+
+![](<@/Art/Friedrich von Amerling—Portrait of Austrian Emperor Francis I.jpg>)
+
+A: Portrait of Austrian Emperor Francis I
+
+---
+
+Q: Artist?
+
+![](<@/Art/Friedrich von Amerling—Portrait of Austrian Emperor Francis I.jpg>)
+
+A: Friedrich von Amerling
+
+---
+
+Q: Title?
+
+![](<@/Art/Friedrich von Amerling—Reading girl.jpg>)
+
+A: Reading girl
+
+---
+
+Q: Artist?
+
+![](<@/Art/Friedrich von Amerling—Reading girl.jpg>)
+
+A: Friedrich von Amerling
 
 ---
 
@@ -5112,6 +5320,102 @@ A: Lawrence Alma-Tadema
 
 Q: Title?
 
+![](<@/Art/Leonardo da Vinci—Ginevra de' Benci.jpg>)
+
+A: Ginevra de' Benci
+
+---
+
+Q: Artist?
+
+![](<@/Art/Leonardo da Vinci—Ginevra de' Benci.jpg>)
+
+A: Leonardo da Vinci
+
+---
+
+Q: Title?
+
+![](<@/Art/Leonardo da Vinci—Lady with an Ermine.jpg>)
+
+A: Lady with an Ermine
+
+---
+
+Q: Artist?
+
+![](<@/Art/Leonardo da Vinci—Lady with an Ermine.jpg>)
+
+A: Leonardo da Vinci
+
+---
+
+Q: Title?
+
+![](<@/Art/Leonardo da Vinci—Portrait of a Man in Red Chalk.jpg>)
+
+A: Portrait of a Man in Red Chalk
+
+---
+
+Q: Artist?
+
+![](<@/Art/Leonardo da Vinci—Portrait of a Man in Red Chalk.jpg>)
+
+A: Leonardo da Vinci
+
+---
+
+Q: Title?
+
+![](<@/Art/Leonardo da Vinci—Saint John the Baptist.jpg>)
+
+A: Saint John the Baptist
+
+---
+
+Q: Artist?
+
+![](<@/Art/Leonardo da Vinci—Saint John the Baptist.jpg>)
+
+A: Leonardo da Vinci
+
+---
+
+Q: Title?
+
+![](<@/Art/Leonardo da Vinci—Salvator Mundi.jpg>)
+
+A: Salvator Mundi
+
+---
+
+Q: Artist?
+
+![](<@/Art/Leonardo da Vinci—Salvator Mundi.jpg>)
+
+A: Leonardo da Vinci
+
+---
+
+Q: Title?
+
+![](<@/Art/Leonardo da Vinci—The Vitruvian Man.jpg>)
+
+A: The Vitruvian Man
+
+---
+
+Q: Artist?
+
+![](<@/Art/Leonardo da Vinci—The Vitruvian Man.jpg>)
+
+A: Leonardo da Vinci
+
+---
+
+Q: Title?
+
 ![](<@/Art/Leonid Pasternak—Albert Einstein.jpg>)
 
 A: Albert Einstein
@@ -5187,6 +5491,54 @@ Q: Artist?
 ![](<@/Art/Leonid Pasternak—The Moscow Kremlin in the March Sun.jpg>)
 
 A: Leonid Pasternak
+
+---
+
+Q: Title?
+
+![](<@/Art/Luigi Bazzani—Fountain in Pompeii.jpg>)
+
+A: Fountain in Pompeii
+
+---
+
+Q: Artist?
+
+![](<@/Art/Luigi Bazzani—Fountain in Pompeii.jpg>)
+
+A: Luigi Bazzani
+
+---
+
+Q: Title?
+
+![](<@/Art/Luigi Bazzani—Picking flowers from the courtyard.jpg>)
+
+A: Picking flowers from the courtyard
+
+---
+
+Q: Artist?
+
+![](<@/Art/Luigi Bazzani—Picking flowers from the courtyard.jpg>)
+
+A: Luigi Bazzani
+
+---
+
+Q: Title?
+
+![](<@/Art/Luigi Bazzani—Set design for Tosca.jpg>)
+
+A: Set design for Tosca
+
+---
+
+Q: Artist?
+
+![](<@/Art/Luigi Bazzani—Set design for Tosca.jpg>)
+
+A: Luigi Bazzani
 
 ---
 
@@ -5443,6 +5795,118 @@ Q: Artist?
 ![](<@/Art/Nicholas Roerich—Monhegan, Maine.jpg>)
 
 A: Nicholas Roerich
+
+---
+
+Q: Title?
+
+![](<@/Art/Odilon Redon—Butterflies.jpg>)
+
+A: Butterflies
+
+---
+
+Q: Artist?
+
+![](<@/Art/Odilon Redon—Butterflies.jpg>)
+
+A: Odilon Redon
+
+---
+
+Q: Title?
+
+![](<@/Art/Odilon Redon—Flower Clouds.jpg>)
+
+A: Flower Clouds
+
+---
+
+Q: Artist?
+
+![](<@/Art/Odilon Redon—Flower Clouds.jpg>)
+
+A: Odilon Redon
+
+---
+
+Q: Title?
+
+![](<@/Art/Odilon Redon—Ophelia.jpg>)
+
+A: Ophelia
+
+---
+
+Q: Artist?
+
+![](<@/Art/Odilon Redon—Ophelia.jpg>)
+
+A: Odilon Redon
+
+---
+
+Q: Title?
+
+![](<@/Art/Odilon Redon—Pandora.jpg>)
+
+A: Pandora
+
+---
+
+Q: Artist?
+
+![](<@/Art/Odilon Redon—Pandora.jpg>)
+
+A: Odilon Redon
+
+---
+
+Q: Title?
+
+![](<@/Art/Odilon Redon—Sita.jpg>)
+
+A: Sita
+
+---
+
+Q: Artist?
+
+![](<@/Art/Odilon Redon—Sita.jpg>)
+
+A: Odilon Redon
+
+---
+
+Q: Title?
+
+![](<@/Art/Odilon Redon—The Buddha.jpg>)
+
+A: The Buddha
+
+---
+
+Q: Artist?
+
+![](<@/Art/Odilon Redon—The Buddha.jpg>)
+
+A: Odilon Redon
+
+---
+
+Q: Title?
+
+![](<@/Art/Odilon Redon—The Cyclops.jpg>)
+
+A: The Cyclops
+
+---
+
+Q: Artist?
+
+![](<@/Art/Odilon Redon—The Cyclops.jpg>)
+
+A: Odilon Redon
 
 ---
 
@@ -6819,6 +7283,38 @@ Q: Artist?
 ![](<@/Art/Umberto Boccioni—The Street Enters The House.jpg>)
 
 A: Umberto Boccioni
+
+---
+
+Q: Title?
+
+![](<@/Art/William Beechey—Portrait of George III.jpg>)
+
+A: Portrait of George III
+
+---
+
+Q: Artist?
+
+![](<@/Art/William Beechey—Portrait of George III.jpg>)
+
+A: William Beechey
+
+---
+
+Q: Title?
+
+![](<@/Art/William Beechey—Portrait of Horatio Nelson.jpg>)
+
+A: Portrait of Horatio Nelson
+
+---
+
+Q: Artist?
+
+![](<@/Art/William Beechey—Portrait of Horatio Nelson.jpg>)
+
+A: William Beechey
 
 ---
 
