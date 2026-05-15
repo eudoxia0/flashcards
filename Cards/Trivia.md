@@ -483,3 +483,8 @@ A: The Intel 4004.
 
 Q: Intel 4004, release year.
 A: 1971
+
+---
+
+Q: Nitrogen ($N_2$), boiling point.
+A: $-196 \celsius$
