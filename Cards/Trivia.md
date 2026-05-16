@@ -488,3 +488,8 @@ A: 1971
 
 Q: Nitrogen ($N_2$), boiling point.
 A: $-196 \celsius$
+
+---
+
+Q: What does IFV stand for?
+A: Infantry fighting vehicle.
