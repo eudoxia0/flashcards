@@ -72,6 +72,54 @@ A: Albrecht Dürer
 
 Q: Title?
 
+![](<@/Art/Allan Ramsay—Coronation portrait of George III.jpg>)
+
+A: Coronation portrait of George III
+
+---
+
+Q: Artist?
+
+![](<@/Art/Allan Ramsay—Coronation portrait of George III.jpg>)
+
+A: Allan Ramsay
+
+---
+
+Q: Title?
+
+![](<@/Art/Allan Ramsay—Portrait of David Hume (1754).jpg>)
+
+A: Portrait of David Hume (1754)
+
+---
+
+Q: Artist?
+
+![](<@/Art/Allan Ramsay—Portrait of David Hume (1754).jpg>)
+
+A: Allan Ramsay
+
+---
+
+Q: Title?
+
+![](<@/Art/Allan Ramsay—Portrait of David Hume (1766).jpg>)
+
+A: Portrait of David Hume (1766)
+
+---
+
+Q: Artist?
+
+![](<@/Art/Allan Ramsay—Portrait of David Hume (1766).jpg>)
+
+A: Allan Ramsay
+
+---
+
+Q: Title?
+
 ![](<@/Art/Antonio Canova—Mars and Venus.jpg>)
 
 A: Mars and Venus
@@ -1576,6 +1624,54 @@ A: Edward Burne-Jones
 
 Q: Title?
 
+![](<@/Art/Edward Hopper—Automat.jpg>)
+
+A: Automat
+
+---
+
+Q: Artist?
+
+![](<@/Art/Edward Hopper—Automat.jpg>)
+
+A: Edward Hopper
+
+---
+
+Q: Title?
+
+![](<@/Art/Edward Hopper—Morning Sun.jpg>)
+
+A: Morning Sun
+
+---
+
+Q: Artist?
+
+![](<@/Art/Edward Hopper—Morning Sun.jpg>)
+
+A: Edward Hopper
+
+---
+
+Q: Title?
+
+![](<@/Art/Edward Hopper—Nighthawks.jpg>)
+
+A: Nighthawks
+
+---
+
+Q: Artist?
+
+![](<@/Art/Edward Hopper—Nighthawks.jpg>)
+
+A: Edward Hopper
+
+---
+
+Q: Title?
+
 ![](<@/Art/Edward Poynter—Andromeda.jpg>)
 
 A: Andromeda
@@ -2040,6 +2136,134 @@ A: Francisco Goya
 
 Q: Title?
 
+![](<@/Art/Franz Xaver Winterhalter—Portrait of Alexandra of Denmark.jpg>)
+
+A: Portrait of Alexandra of Denmark
+
+---
+
+Q: Artist?
+
+![](<@/Art/Franz Xaver Winterhalter—Portrait of Alexandra of Denmark.jpg>)
+
+A: Franz Xaver Winterhalter
+
+---
+
+Q: Title?
+
+![](<@/Art/Franz Xaver Winterhalter—Portrait of Empress Elisabeth of Austria.jpg>)
+
+A: Portrait of Empress Elisabeth of Austria
+
+---
+
+Q: Artist?
+
+![](<@/Art/Franz Xaver Winterhalter—Portrait of Empress Elisabeth of Austria.jpg>)
+
+A: Franz Xaver Winterhalter
+
+---
+
+Q: Title?
+
+![](<@/Art/Franz Xaver Winterhalter—Portrait of Franz Joseph I.jpg>)
+
+A: Portrait of Franz Joseph I
+
+---
+
+Q: Artist?
+
+![](<@/Art/Franz Xaver Winterhalter—Portrait of Franz Joseph I.jpg>)
+
+A: Franz Xaver Winterhalter
+
+---
+
+Q: Title?
+
+![](<@/Art/Franz Xaver Winterhalter—Portrait of Louis Philippe I.jpg>)
+
+A: Portrait of Louis Philippe I
+
+---
+
+Q: Artist?
+
+![](<@/Art/Franz Xaver Winterhalter—Portrait of Louis Philippe I.jpg>)
+
+A: Franz Xaver Winterhalter
+
+---
+
+Q: Title?
+
+![](<@/Art/Franz Xaver Winterhalter—Portrait of Napoleon III.jpg>)
+
+A: Portrait of Napoleon III
+
+---
+
+Q: Artist?
+
+![](<@/Art/Franz Xaver Winterhalter—Portrait of Napoleon III.jpg>)
+
+A: Franz Xaver Winterhalter
+
+---
+
+Q: Title?
+
+![](<@/Art/Franz Xaver Winterhalter—Portrait of Prince Albert.jpg>)
+
+A: Portrait of Prince Albert
+
+---
+
+Q: Artist?
+
+![](<@/Art/Franz Xaver Winterhalter—Portrait of Prince Albert.jpg>)
+
+A: Franz Xaver Winterhalter
+
+---
+
+Q: Title?
+
+![](<@/Art/Franz Xaver Winterhalter—Portrait of Queen Victoria.jpg>)
+
+A: Portrait of Queen Victoria
+
+---
+
+Q: Artist?
+
+![](<@/Art/Franz Xaver Winterhalter—Portrait of Queen Victoria.jpg>)
+
+A: Franz Xaver Winterhalter
+
+---
+
+Q: Title?
+
+![](<@/Art/Franz Xaver Winterhalter—The Royal Family in 1846.jpg>)
+
+A: The Royal Family in 1846
+
+---
+
+Q: Artist?
+
+![](<@/Art/Franz Xaver Winterhalter—The Royal Family in 1846.jpg>)
+
+A: Franz Xaver Winterhalter
+
+---
+
+Q: Title?
+
 ![](<@/Art/Franz von Stuck—Salome.jpg>)
 
 A: Salome
@@ -2049,6 +2273,38 @@ A: Salome
 Q: Artist?
 
 ![](<@/Art/Franz von Stuck—Salome.jpg>)
+
+A: Franz von Stuck
+
+---
+
+Q: Title?
+
+![](<@/Art/Franz von Stuck—Sisyphus.jpg>)
+
+A: Sisyphus
+
+---
+
+Q: Artist?
+
+![](<@/Art/Franz von Stuck—Sisyphus.jpg>)
+
+A: Franz von Stuck
+
+---
+
+Q: Title?
+
+![](<@/Art/Franz von Stuck—The Sin.jpg>)
+
+A: The Sin
+
+---
+
+Q: Artist?
+
+![](<@/Art/Franz von Stuck—The Sin.jpg>)
 
 A: Franz von Stuck
 
@@ -7283,6 +7539,134 @@ Q: Artist?
 ![](<@/Art/Umberto Boccioni—The Street Enters The House.jpg>)
 
 A: Umberto Boccioni
+
+---
+
+Q: Title?
+
+![](<@/Art/Vincent van Gogh—Almond Blossoms.jpg>)
+
+A: Almond Blossoms
+
+---
+
+Q: Artist?
+
+![](<@/Art/Vincent van Gogh—Almond Blossoms.jpg>)
+
+A: Vincent van Gogh
+
+---
+
+Q: Title?
+
+![](<@/Art/Vincent van Gogh—At Eternity's Gate.jpg>)
+
+A: At Eternity's Gate
+
+---
+
+Q: Artist?
+
+![](<@/Art/Vincent van Gogh—At Eternity's Gate.jpg>)
+
+A: Vincent van Gogh
+
+---
+
+Q: Title?
+
+![](<@/Art/Vincent van Gogh—Bedroom in Arles.jpg>)
+
+A: Bedroom in Arles
+
+---
+
+Q: Artist?
+
+![](<@/Art/Vincent van Gogh—Bedroom in Arles.jpg>)
+
+A: Vincent van Gogh
+
+---
+
+Q: Title?
+
+![](<@/Art/Vincent van Gogh—Café Terrace at Night.jpg>)
+
+A: Café Terrace at Night
+
+---
+
+Q: Artist?
+
+![](<@/Art/Vincent van Gogh—Café Terrace at Night.jpg>)
+
+A: Vincent van Gogh
+
+---
+
+Q: Title?
+
+![](<@/Art/Vincent van Gogh—Road with Cypress and Star.jpg>)
+
+A: Road with Cypress and Star
+
+---
+
+Q: Artist?
+
+![](<@/Art/Vincent van Gogh—Road with Cypress and Star.jpg>)
+
+A: Vincent van Gogh
+
+---
+
+Q: Title?
+
+![](<@/Art/Vincent van Gogh—Self-Portrait.jpg>)
+
+A: Self-Portrait
+
+---
+
+Q: Artist?
+
+![](<@/Art/Vincent van Gogh—Self-Portrait.jpg>)
+
+A: Vincent van Gogh
+
+---
+
+Q: Title?
+
+![](<@/Art/Vincent van Gogh—Skull of a Skeleton with Burning Cigarette.jpg>)
+
+A: Skull of a Skeleton with Burning Cigarette
+
+---
+
+Q: Artist?
+
+![](<@/Art/Vincent van Gogh—Skull of a Skeleton with Burning Cigarette.jpg>)
+
+A: Vincent van Gogh
+
+---
+
+Q: Title?
+
+![](<@/Art/Vincent van Gogh—The Potato Eaters.jpg>)
+
+A: The Potato Eaters
+
+---
+
+Q: Artist?
+
+![](<@/Art/Vincent van Gogh—The Potato Eaters.jpg>)
+
+A: Vincent van Gogh
 
 ---
 
