@@ -72,6 +72,38 @@ A: Albrecht Dürer
 
 Q: Title?
 
+![](<@/Art/Alfred Stevens—In the Studio.jpg>)
+
+A: In the Studio
+
+---
+
+Q: Artist?
+
+![](<@/Art/Alfred Stevens—In the Studio.jpg>)
+
+A: Alfred Stevens
+
+---
+
+Q: Title?
+
+![](<@/Art/Alfred Stevens—La parisienne japonaise.jpg>)
+
+A: La parisienne japonaise
+
+---
+
+Q: Artist?
+
+![](<@/Art/Alfred Stevens—La parisienne japonaise.jpg>)
+
+A: Alfred Stevens
+
+---
+
+Q: Title?
+
 ![](<@/Art/Allan Ramsay—Coronation portrait of George III.jpg>)
 
 A: Coronation portrait of George III
@@ -1368,6 +1400,70 @@ A: Edgar Degas
 
 Q: Title?
 
+![](<@/Art/Edvard Munch—Anxiety.jpg>)
+
+A: Anxiety
+
+---
+
+Q: Artist?
+
+![](<@/Art/Edvard Munch—Anxiety.jpg>)
+
+A: Edvard Munch
+
+---
+
+Q: Title?
+
+![](<@/Art/Edvard Munch—Portrait of Friedrich Nietzsche.jpg>)
+
+A: Portrait of Friedrich Nietzsche
+
+---
+
+Q: Artist?
+
+![](<@/Art/Edvard Munch—Portrait of Friedrich Nietzsche.jpg>)
+
+A: Edvard Munch
+
+---
+
+Q: Title?
+
+![](<@/Art/Edvard Munch—The Scream.jpg>)
+
+A: The Scream
+
+---
+
+Q: Artist?
+
+![](<@/Art/Edvard Munch—The Scream.jpg>)
+
+A: Edvard Munch
+
+---
+
+Q: Title?
+
+![](<@/Art/Edvard Munch—The Sun.jpg>)
+
+A: The Sun
+
+---
+
+Q: Artist?
+
+![](<@/Art/Edvard Munch—The Sun.jpg>)
+
+A: Edvard Munch
+
+---
+
+Q: Title?
+
 ![](<@/Art/Edward Burne-Jones—Hope.jpg>)
 
 A: Hope
@@ -2307,6 +2403,54 @@ Q: Artist?
 ![](<@/Art/Franz von Stuck—The Sin.jpg>)
 
 A: Franz von Stuck
+
+---
+
+Q: Title?
+
+![](<@/Art/François Gérard—Marshal Michel Ney.jpg>)
+
+A: Marshal Michel Ney
+
+---
+
+Q: Artist?
+
+![](<@/Art/François Gérard—Marshal Michel Ney.jpg>)
+
+A: François Gérard
+
+---
+
+Q: Title?
+
+![](<@/Art/François Gérard—Napoleon Bonaparte as First Consul.jpg>)
+
+A: Napoleon Bonaparte as First Consul
+
+---
+
+Q: Artist?
+
+![](<@/Art/François Gérard—Napoleon Bonaparte as First Consul.jpg>)
+
+A: François Gérard
+
+---
+
+Q: Title?
+
+![](<@/Art/François Gérard—Portrait of Talleyrand.jpg>)
+
+A: Portrait of Talleyrand
+
+---
+
+Q: Artist?
+
+![](<@/Art/François Gérard—Portrait of Talleyrand.jpg>)
+
+A: François Gérard
 
 ---
 
@@ -3784,6 +3928,54 @@ A: Ivan Aivazovsky
 
 Q: Title?
 
+![](<@/Art/Ivan Kramskoi—Christ in the Desert.jpg>)
+
+A: Christ in the Desert
+
+---
+
+Q: Artist?
+
+![](<@/Art/Ivan Kramskoi—Christ in the Desert.jpg>)
+
+A: Ivan Kramskoi
+
+---
+
+Q: Title?
+
+![](<@/Art/Ivan Kramskoi—Portrait of Leo Tolstoy.jpg>)
+
+A: Portrait of Leo Tolstoy
+
+---
+
+Q: Artist?
+
+![](<@/Art/Ivan Kramskoi—Portrait of Leo Tolstoy.jpg>)
+
+A: Ivan Kramskoi
+
+---
+
+Q: Title?
+
+![](<@/Art/Ivan Kramskoi—Portrait of the Painter Ivan Shishkin.jpg>)
+
+A: Portrait of the Painter Ivan Shishkin
+
+---
+
+Q: Artist?
+
+![](<@/Art/Ivan Kramskoi—Portrait of the Painter Ivan Shishkin.jpg>)
+
+A: Ivan Kramskoi
+
+---
+
+Q: Title?
+
 ![](<@/Art/Ivan Shishkin—Morning in a Pine Forest.jpg>)
 
 A: Morning in a Pine Forest
@@ -4835,6 +5027,102 @@ Q: Artist?
 ![](<@/Art/John Atkinson Grimshaw—Shipping on the Clyde.jpg>)
 
 A: John Atkinson Grimshaw
+
+---
+
+Q: Title?
+
+![](<@/Art/John Everett Millais—John Ruskin.jpg>)
+
+A: John Ruskin
+
+---
+
+Q: Artist?
+
+![](<@/Art/John Everett Millais—John Ruskin.jpg>)
+
+A: John Everett Millais
+
+---
+
+Q: Title?
+
+![](<@/Art/John Everett Millais—Mariana.jpg>)
+
+A: Mariana
+
+---
+
+Q: Artist?
+
+![](<@/Art/John Everett Millais—Mariana.jpg>)
+
+A: John Everett Millais
+
+---
+
+Q: Title?
+
+![](<@/Art/John Everett Millais—Ophelia.jpg>)
+
+A: Ophelia
+
+---
+
+Q: Artist?
+
+![](<@/Art/John Everett Millais—Ophelia.jpg>)
+
+A: John Everett Millais
+
+---
+
+Q: Title?
+
+![](<@/Art/John Everett Millais—Portrait of Benjamin Disraeli.jpg>)
+
+A: Portrait of Benjamin Disraeli
+
+---
+
+Q: Artist?
+
+![](<@/Art/John Everett Millais—Portrait of Benjamin Disraeli.jpg>)
+
+A: John Everett Millais
+
+---
+
+Q: Title?
+
+![](<@/Art/John Everett Millais—The Black Brunswicker.jpg>)
+
+A: The Black Brunswicker
+
+---
+
+Q: Artist?
+
+![](<@/Art/John Everett Millais—The Black Brunswicker.jpg>)
+
+A: John Everett Millais
+
+---
+
+Q: Title?
+
+![](<@/Art/John Everett Millais—The Princes in the Tower.jpg>)
+
+A: The Princes in the Tower
+
+---
+
+Q: Artist?
+
+![](<@/Art/John Everett Millais—The Princes in the Tower.jpg>)
+
+A: John Everett Millais
 
 ---
 
@@ -6195,6 +6483,22 @@ Q: Artist?
 ![](<@/Art/Oskar Kokoschka—Veronica's Veil.jpg>)
 
 A: Oskar Kokoschka
+
+---
+
+Q: Title?
+
+![](<@/Art/Pablo Picasso—Portrait of Gertrude Stein.jpg>)
+
+A: Portrait of Gertrude Stein
+
+---
+
+Q: Artist?
+
+![](<@/Art/Pablo Picasso—Portrait of Gertrude Stein.jpg>)
+
+A: Pablo Picasso
 
 ---
 
