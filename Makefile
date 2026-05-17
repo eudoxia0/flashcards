@@ -69,5 +69,8 @@ drill:
 stats:
 	hashcards stats Cards --format=json
 
+due:
+	hashcards due Cards
+
 clean:
 	rm -f $(TARGETS)
