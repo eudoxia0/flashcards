@@ -493,3 +493,8 @@ A: $-196 \celsius$
 
 Q: What does IFV stand for?
 A: Infantry fighting vehicle.
+
+---
+
+Q: What does LANL stand for?
+A: Los Alamos National Laboratory.
