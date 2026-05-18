@@ -498,3 +498,9 @@ A: Infantry fighting vehicle.
 
 Q: What does LANL stand for?
 A: Los Alamos National Laboratory.
+
+---
+
+C: Term: [Bulverism]
+
+Definition: [the logical fallacy of explaining why the opponent holds their view, instead of showing the view is false.]
