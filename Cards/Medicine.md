@@ -405,3 +405,19 @@ C: Normal humans are colonized with around [40 trillion] bacteria.
 ---
 
 C: The adult human body has around [40 trillion] cells.
+
+---
+
+C: Rectal temperature is [$0.4$] $\celsius$ higher than [oral] temperature.
+
+---
+
+C: Rectal temperature is [$0.8$] $\celsius$ higher than [axillary] temperature.
+
+---
+
+C: For every $1 \celsius$ increase in temperature, heart rate rises by around [10] beats per minute.
+
+---
+
+C: Fever means a core temperature greater than or equal to [$38.3 \celsius$].
