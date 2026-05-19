@@ -425,3 +425,8 @@ C: Fever means a core temperature greater than or equal to [$38.3 \celsius$].
 ---
 
 C: The human body has around [600] lymph nodes.
+
+---
+
+Q: What does WBC stand for?
+A: White blood cell.
