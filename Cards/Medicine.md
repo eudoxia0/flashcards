@@ -430,3 +430,8 @@ C: The human body has around [600] lymph nodes.
 
 Q: What does WBC stand for?
 A: White blood cell.
+
+---
+
+Q: What does CRP stand for?
+A: C-reactive protein.
