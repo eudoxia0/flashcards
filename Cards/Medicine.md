@@ -421,3 +421,7 @@ C: For every $1 \celsius$ increase in temperature, heart rate rises by around [1
 ---
 
 C: Fever means a core temperature greater than or equal to [$38.3 \celsius$].
+
+---
+
+C: The human body has around [600] lymph nodes.
