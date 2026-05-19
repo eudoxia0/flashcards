@@ -397,3 +397,11 @@ A: _Treponema pallidum_.
 
 Q: _Treponema pallidum_ is the bacterium that causes which disease?
 A: Syphilis.
+
+---
+
+C: Normal humans are colonized with around [40 trillion] bacteria.
+
+---
+
+C: The adult human body has around [40 trillion] cells.
