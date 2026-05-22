@@ -510,3 +510,8 @@ Definition: [the logical fallacy of explaining why the opponent holds their view
 C: Term: [Blinn's Law]
 
 Definition: [the observation that as computers get faster, rendering time stays constant.]
+
+---
+
+Q: What is a nephelometer?
+A: A device that measures the concentration of particles suspended in a fluid by detecting how they scatter light.
