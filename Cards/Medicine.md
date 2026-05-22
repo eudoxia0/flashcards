@@ -435,3 +435,9 @@ A: White blood cell.
 
 Q: What does CRP stand for?
 A: C-reactive protein.
+
+---
+
+C: Term: [monotropism]
+
+Definition: [a tendency to focus attention on few or one interests at any time, while neglectic others.]
