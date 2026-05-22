@@ -441,3 +441,7 @@ A: C-reactive protein.
 C: Term: [monotropism]
 
 Definition: [a tendency to focus attention on few or one interests at any time, while neglectic others.]
+
+---
+
+C: Monotropism is a cognitive feature of [autism].
