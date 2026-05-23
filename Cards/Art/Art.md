@@ -7544,6 +7544,22 @@ A: Sandro Botticelli
 
 Q: Title?
 
+![](<@/Art/Sergey Prokudin-Gorsky—Portrait of Muhammad Alim Khan.jpg>)
+
+A: Portrait of Muhammad Alim Khan
+
+---
+
+Q: Artist?
+
+![](<@/Art/Sergey Prokudin-Gorsky—Portrait of Muhammad Alim Khan.jpg>)
+
+A: Sergey Prokudin-Gorsky
+
+---
+
+Q: Title?
+
 ![](<@/Art/Thomas Lawrence—Coronation Portrait of George IV.jpg>)
 
 A: Coronation Portrait of George IV
