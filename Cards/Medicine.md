@@ -457,3 +457,7 @@ Definition: [the directed movement of an organism in response to chemical gradie
 C: Term: [thermotaxis]
 
 Definition: [the directed movement of an organism in response to temperature gradients in their environment.]
+
+---
+
+C: Action potentials were discovered by [Edgar Adrian], who published his results in the [1928] paper [_The Basis of Sensation_].
