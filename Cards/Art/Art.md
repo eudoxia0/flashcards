@@ -5720,6 +5720,22 @@ A: Konstantin Somov
 
 Q: Title?
 
+![](<@/Art/Kristoffer Zetterstrand—de_dust2.jpg>)
+
+A: de_dust2
+
+---
+
+Q: Artist?
+
+![](<@/Art/Kristoffer Zetterstrand—de_dust2.jpg>)
+
+A: Kristoffer Zetterstrand
+
+---
+
+Q: Title?
+
 ![](<@/Art/Lawrence Alma-Tadema—A Favourite Custom.jpg>)
 
 A: A Favourite Custom
