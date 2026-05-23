@@ -515,3 +515,8 @@ A: A device that measures the concentration of particles suspended in a fluid by
 
 Q: _C. elegans_, length?
 A: $1 \millimeter$
+
+---
+
+Q: _C. elegans_, number of neurons?
+A: 302
