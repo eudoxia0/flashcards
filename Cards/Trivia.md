@@ -519,4 +519,4 @@ A: $1 \millimeter$
 ---
 
 Q: _C. elegans_, number of neurons?
-A: 302
+A: 300
