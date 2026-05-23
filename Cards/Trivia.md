@@ -510,3 +510,8 @@ Definition: [the observation that as computers get faster, rendering time stays 
 
 Q: What is a nephelometer?
 A: A device that measures the concentration of particles suspended in a fluid by detecting how they scatter light.
+
+---
+
+Q: _C. elegans_, length?
+A: $1 \millimeter$
