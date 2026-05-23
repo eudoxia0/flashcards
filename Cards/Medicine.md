@@ -451,3 +451,9 @@ C: Monotropism is a cognitive feature of [autism].
 C: Term: [chemotaxis]
 
 Definition: [the directed movement of an organism in response to chemical gradients in their environment.]
+
+---
+
+C: Term: [thermotaxis]
+
+Definition: [the directed movement of an organism in response to temperature gradients in their environment.]
