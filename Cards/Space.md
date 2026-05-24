@@ -50,4 +50,4 @@ C: A day on Venus lasts [116] Earth days.
 
 ---
 
-C: Venus' orbitral period is [224] days.
+C: Venus' orbital period is [224] days.
