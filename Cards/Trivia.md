@@ -520,3 +520,18 @@ A: $1 \millimeter$
 
 Q: _C. elegans_, number of neurons?
 A: 300
+
+---
+
+Q: Who came up with the soletta/lunetta concepts?
+A: Krafft Ehricke.
+
+---
+
+Q: What's a soletta?
+A: An orbiting mirror meant to enhance solar irradiance in daytime.
+
+---
+
+Q: What's a lunetta?
+A: An orbiting mirror meant to enhance nighttime illumination.
