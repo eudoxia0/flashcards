@@ -308,6 +308,11 @@ A: Having the smell of something, suggestive
 
 ---
 
+Q: reproach
+A: To rebuke someone, e.g. 'do not reproach this to me'.
+
+---
+
 Q: sangfroid
 A: composure/coolness
 
