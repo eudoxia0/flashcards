@@ -15,3 +15,7 @@ C: The most dangerous wavelengths of UV light, termed [UVC], are screened by the
 ---
 
 C: Visible light has a wavelength between [400] and [700] nanometers.
+
+---
+
+C: Infrared light has a wavelength between [780] nanometers to [1,000] microns.
