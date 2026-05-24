@@ -128,6 +128,11 @@ A: A quotation at the beginning of a book.
 
 ---
 
+Q: expository
+A: Of a work of literature: intended to explain or inform.
+
+---
+
 Q: facile
 A: superficial
 
