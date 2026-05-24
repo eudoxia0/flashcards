@@ -461,3 +461,9 @@ Definition: [the directed movement of an organism in response to temperature gra
 ---
 
 C: Action potentials were discovered by [Edgar Adrian], who published his results in the [1928] paper [_The Basis of Sensation_].
+
+---
+
+C: Term: [ligase]
+
+Definition: [an enzyme that catalyzes the joining of two molecules by forming a new chemical bond.]
