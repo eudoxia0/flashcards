@@ -8,22 +8,6 @@ A: Uffington White Horse
 
 Q: Title?
 
-![](<@/Art/Adam de Coster—A Man Singing by Candlelight.jpg>)
-
-A: A Man Singing by Candlelight
-
----
-
-Q: Artist?
-
-![](<@/Art/Adam de Coster—A Man Singing by Candlelight.jpg>)
-
-A: Adam de Coster
-
----
-
-Q: Title?
-
 ![](<@/Art/Albrecht Dürer—Portrait of Maximilian I.jpg>)
 
 A: Portrait of Maximilian I
@@ -881,70 +865,6 @@ A: The Port of Le Havre, Night Effect
 Q: Artist?
 
 ![](<@/Art/Claude Monet—The Port of Le Havre, Night Effect.jpg>)
-
-A: Claude Monet
-
----
-
-Q: Title?
-
-![](<@/Art/Claude Monet—The Studio Boat (1874).jpg>)
-
-A: The Studio Boat (1874)
-
----
-
-Q: Artist?
-
-![](<@/Art/Claude Monet—The Studio Boat (1874).jpg>)
-
-A: Claude Monet
-
----
-
-Q: Title?
-
-![](<@/Art/Claude Monet—The Studio Boat (1876).jpg>)
-
-A: The Studio Boat (1876)
-
----
-
-Q: Artist?
-
-![](<@/Art/Claude Monet—The Studio Boat (1876).jpg>)
-
-A: Claude Monet
-
----
-
-Q: Title?
-
-![](<@/Art/Claude Monet—The Thames below Westminster.jpg>)
-
-A: The Thames below Westminster
-
----
-
-Q: Artist?
-
-![](<@/Art/Claude Monet—The Thames below Westminster.jpg>)
-
-A: Claude Monet
-
----
-
-Q: Title?
-
-![](<@/Art/Claude Monet—Villas in Bordighera.jpg>)
-
-A: Villas in Bordighera
-
----
-
-Q: Artist?
-
-![](<@/Art/Claude Monet—Villas in Bordighera.jpg>)
 
 A: Claude Monet
 
