@@ -471,3 +471,13 @@ Definition: [an enzyme that catalyzes the joining of two molecules by forming a 
 ---
 
 C: Proteins that are to be destroyed get tagged with a protein called [ubiquitin].
+
+---
+
+Q: What is the protein that marks a target protein for destruction by the proteasome?
+A: Ubiquitin.
+
+---
+
+Q: What is the role of ubiquitin in the cell?
+A: It's a regulatory protein that tags other proteins and flags them for destruction.
