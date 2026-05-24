@@ -19,3 +19,7 @@ C: Visible light has a wavelength between [400] and [700] nanometers.
 ---
 
 C: Infrared light has a wavelength between [780] nanometers to [1,000] microns.
+
+---
+
+C: X-rays have a wavelength between [10] picometers and [10] nanometers.
