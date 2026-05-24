@@ -680,6 +680,22 @@ A: Charles Demuth
 
 Q: Title?
 
+![](<@/Art/Charles Sheeler—American Landscape.jpg>)
+
+A: American Landscape
+
+---
+
+Q: Artist?
+
+![](<@/Art/Charles Sheeler—American Landscape.jpg>)
+
+A: Charles Sheeler
+
+---
+
+Q: Title?
+
 ![](<@/Art/Charles-François Daubigny—Twilight.jpg>)
 
 A: Twilight
