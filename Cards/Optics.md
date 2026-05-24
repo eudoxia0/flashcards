@@ -49,3 +49,8 @@ A: First, the strand can unwind from the ends. Second, DNA polymerase has troubl
 
 Q: How do bacteria deal with the problem of the ends of a DNA double strand being fragile?
 A: By closing the DNA end-to-end into a big circle.
+
+---
+
+Q: How do eukaryotes deal with the problem of the ends of a DNA double strand being fragile?
+A: Using telomeres.
