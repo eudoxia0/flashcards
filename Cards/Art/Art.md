@@ -344,22 +344,6 @@ A: Canaletto
 
 Q: Title?
 
-![](<@/Art/Canaletto—St. Paul's Cathedral.jpg>)
-
-A: St. Paul's Cathedral
-
----
-
-Q: Artist?
-
-![](<@/Art/Canaletto—St. Paul's Cathedral.jpg>)
-
-A: Canaletto
-
----
-
-Q: Title?
-
 ![](<@/Art/Canaletto—The Bucentaur Returns to the Pier at the Doge's Palace.jpg>)
 
 A: The Bucentaur Returns to the Pier at the Doge's Palace
