@@ -467,7 +467,3 @@ C: Action potentials were discovered by [Edgar Adrian], who published his result
 C: Term: [ligase]
 
 Definition: [an enzyme that catalyzes the joining of two molecules by forming a new chemical bond.]
-
----
-
-C: The most dangerous wavelengths of UV light, termed [UVC], are screened by the [ozone] in the upper atmosphere.
