@@ -467,3 +467,7 @@ C: Action potentials were discovered by [Edgar Adrian], who published his result
 C: Term: [ligase]
 
 Definition: [an enzyme that catalyzes the joining of two molecules by forming a new chemical bond.]
+
+---
+
+C: Proteins that are to be destroyed get tagged with a protein called [ubiquitin].
