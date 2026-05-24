@@ -23,3 +23,7 @@ C: Infrared light has a wavelength between [780] nanometers to [1,000] microns.
 ---
 
 C: X-rays have a wavelength between [10] picometers and [10] nanometers.
+
+---
+
+C: Gamma rays have a wavelength below [10] picometers.
