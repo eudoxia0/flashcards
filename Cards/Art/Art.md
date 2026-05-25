@@ -5976,6 +5976,22 @@ A: Leonid Pasternak
 
 Q: Title?
 
+![](<@/Art/Louis-Marie Baader—Hero and Leander.jpg>)
+
+A: Hero and Leander
+
+---
+
+Q: Artist?
+
+![](<@/Art/Louis-Marie Baader—Hero and Leander.jpg>)
+
+A: Louis-Marie Baader
+
+---
+
+Q: Title?
+
 ![](<@/Art/Luigi Bazzani—Fountain in Pompeii.jpg>)
 
 A: Fountain in Pompeii
