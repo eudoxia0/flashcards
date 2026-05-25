@@ -5640,6 +5640,22 @@ A: Konstantin Somov
 
 Q: Title?
 
+![](<@/Art/Kristoffer Zetterstrand—LowMist.jpg>)
+
+A: LowMist
+
+---
+
+Q: Artist?
+
+![](<@/Art/Kristoffer Zetterstrand—LowMist.jpg>)
+
+A: Kristoffer Zetterstrand
+
+---
+
+Q: Title?
+
 ![](<@/Art/Kristoffer Zetterstrand—de_dust2.jpg>)
 
 A: de_dust2
