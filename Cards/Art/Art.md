@@ -7704,6 +7704,54 @@ A: Tintoretto
 
 Q: Title?
 
+![](<@/Art/Tullio Crali—Before the Parachute Opens.jpg>)
+
+A: Before the Parachute Opens
+
+---
+
+Q: Artist?
+
+![](<@/Art/Tullio Crali—Before the Parachute Opens.jpg>)
+
+A: Tullio Crali
+
+---
+
+Q: Title?
+
+![](<@/Art/Tullio Crali—Painting 1.jpg>)
+
+A: Painting 1
+
+---
+
+Q: Artist?
+
+![](<@/Art/Tullio Crali—Painting 1.jpg>)
+
+A: Tullio Crali
+
+---
+
+Q: Title?
+
+![](<@/Art/Tullio Crali—Painting 2.jpg>)
+
+A: Painting 2
+
+---
+
+Q: Artist?
+
+![](<@/Art/Tullio Crali—Painting 2.jpg>)
+
+A: Tullio Crali
+
+---
+
+Q: Title?
+
 ![](<@/Art/Umberto Boccioni—Charge of the Lancers.jpg>)
 
 A: Charge of the Lancers
