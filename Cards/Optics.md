@@ -1,3 +1,11 @@
+C: Name: [ultraviolet]
+
+Wavelength, smallest: [100 nanometers]
+
+Wavelength, largest: [400 nanometers]
+
+---
+
 C: Ultraviolet light has a wavelength between [100] and [400] nanometers.
 
 ---
