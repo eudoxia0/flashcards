@@ -6,7 +6,7 @@ Wavelength, largest: [400 nanometers]
 
 ---
 
-C: Ultraviolet light has a wavelength between [100] and [400] nanometers.
+C: Ultraviolet light has a wavelength from [100 nanometers] to [400 nanometers].
 
 ---
 
