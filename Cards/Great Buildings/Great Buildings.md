@@ -896,6 +896,22 @@ A: Renzo Piano
 
 Q: Name?
 
+![](<@/Great Buildings/Richard Rogers—Lloyd's Building.jpg>)
+
+A: Lloyd's Building
+
+---
+
+Q: Architect?
+
+![](<@/Great Buildings/Richard Rogers—Lloyd's Building.jpg>)
+
+A: Richard Rogers
+
+---
+
+Q: Name?
+
 ![](<@/Great Buildings/SHoP—Brooklyn Tower.jpg>)
 
 A: Brooklyn Tower
