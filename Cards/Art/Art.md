@@ -696,22 +696,6 @@ A: Charles-François Daubigny
 
 Q: Title?
 
-![](<@/Art/Claude Monet—Boulevard des Capucines.jpg>)
-
-A: Boulevard des Capucines
-
----
-
-Q: Artist?
-
-![](<@/Art/Claude Monet—Boulevard des Capucines.jpg>)
-
-A: Claude Monet
-
----
-
-Q: Title?
-
 ![](<@/Art/Claude Monet—Houses of Parliament, Sunset.jpg>)
 
 A: Houses of Parliament, Sunset
