@@ -5576,22 +5576,6 @@ A: Konstantin Somov
 
 Q: Title?
 
-![](<@/Art/Konstantin Somov—The Rainbow.jpg>)
-
-A: The Rainbow
-
----
-
-Q: Artist?
-
-![](<@/Art/Konstantin Somov—The Rainbow.jpg>)
-
-A: Konstantin Somov
-
----
-
-Q: Title?
-
 ![](<@/Art/Kristoffer Zetterstrand—LowMist.jpg>)
 
 A: LowMist
