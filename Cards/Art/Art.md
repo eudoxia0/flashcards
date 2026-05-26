@@ -8088,22 +8088,6 @@ A: Winslow Homer
 
 Q: Title?
 
-![](<@/Art/Winslow Homer—Mink Pond.jpg>)
-
-A: Mink Pond
-
----
-
-Q: Artist?
-
-![](<@/Art/Winslow Homer—Mink Pond.jpg>)
-
-A: Winslow Homer
-
----
-
-Q: Title?
-
 ![](<@/Art/Winslow Homer—Northeaster.jpg>)
 
 A: Northeaster
