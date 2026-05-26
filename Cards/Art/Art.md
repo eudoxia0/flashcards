@@ -1784,22 +1784,6 @@ A: Edwin Landseer
 
 Q: Title?
 
-![](<@/Art/Eugène Boudin—Environs De Trouville, Allée Sous Bois.jpg>)
-
-A: Environs De Trouville, Allée Sous Bois
-
----
-
-Q: Artist?
-
-![](<@/Art/Eugène Boudin—Environs De Trouville, Allée Sous Bois.jpg>)
-
-A: Eugène Boudin
-
----
-
-Q: Title?
-
 ![](<@/Art/Eugène Boudin—Étude de ciel.jpg>)
 
 A: Étude de ciel
