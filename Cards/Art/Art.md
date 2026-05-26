@@ -5960,38 +5960,6 @@ A: Louis-Marie Baader
 
 Q: Title?
 
-![](<@/Art/Luigi Bazzani—Fountain in Pompeii.jpg>)
-
-A: Fountain in Pompeii
-
----
-
-Q: Artist?
-
-![](<@/Art/Luigi Bazzani—Fountain in Pompeii.jpg>)
-
-A: Luigi Bazzani
-
----
-
-Q: Title?
-
-![](<@/Art/Luigi Bazzani—Picking flowers from the courtyard.jpg>)
-
-A: Picking flowers from the courtyard
-
----
-
-Q: Artist?
-
-![](<@/Art/Luigi Bazzani—Picking flowers from the courtyard.jpg>)
-
-A: Luigi Bazzani
-
----
-
-Q: Title?
-
 ![](<@/Art/Luigi Bazzani—Set design for Tosca.jpg>)
 
 A: Set design for Tosca
