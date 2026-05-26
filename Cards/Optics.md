@@ -35,22 +35,3 @@ C: Microwave light has wavelengths between [1] millimeters and [1] meter.
 ---
 
 C: Radio light has a wavelength above [1] meters.
-
----
-
-C: Telomere comes from the Greek _telos_, which means ["end"]; and _meros_, which means ["part"].
-
----
-
-Q: The ends of a DNA double strand are particularly susceptible to degradation. Why?
-A: First, the strand can unwind from the ends. Second, DNA polymerase has trouble copying the strand all the way to the end, so each replication cycle gets shorter.
-
----
-
-Q: How do bacteria deal with the problem of the ends of a DNA double strand being fragile?
-A: By closing the DNA end-to-end into a big circle.
-
----
-
-Q: How do eukaryotes deal with the problem of the ends of a DNA double strand being fragile?
-A: Using telomeres.
