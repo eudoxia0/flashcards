@@ -500,3 +500,9 @@ A: By closing the DNA end-to-end into a big circle.
 
 Q: How do eukaryotes deal with the problem of the ends of a DNA double strand being fragile?
 A: Using telomeres.
+
+---
+
+C: Term: [lytic cycle]
+
+Definition: [the cycle of viral reproduction that results in the destruction of the infected cell.]
