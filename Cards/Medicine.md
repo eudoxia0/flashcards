@@ -512,3 +512,9 @@ Definition: [the cycle of viral reproduction that results in the destruction of 
 C: Term: [virulent phage]
 
 Definition: [a bacteriophage that can only reproduce through the lytic cycle.]
+
+---
+
+C: Term: [lysogenic cycle]
+
+Definition: [the cycle of viral reproduction where the viral genome is integrated into the bacteria genome.]
