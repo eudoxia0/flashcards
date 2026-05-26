@@ -3800,22 +3800,6 @@ A: Isaac Levitan
 
 Q: Title?
 
-![](<@/Art/Isaac Levitan—Spring in Italy.jpg>)
-
-A: Spring in Italy
-
----
-
-Q: Artist?
-
-![](<@/Art/Isaac Levitan—Spring in Italy.jpg>)
-
-A: Isaac Levitan
-
----
-
-Q: Title?
-
 ![](<@/Art/Isaac Levitan—Vladimirka.jpg>)
 
 A: Vladimirka
