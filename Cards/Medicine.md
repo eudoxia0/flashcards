@@ -518,3 +518,9 @@ Definition: [a bacteriophage that can only reproduce through the lytic cycle.]
 C: Term: [lysogenic cycle]
 
 Definition: [the cycle of viral reproduction where the viral genome is integrated into the bacteria genome.]
+
+---
+
+C: Term: [temperate phage]
+
+Definition: [a bacteriophage that can reproduce through the lysogenic cycle.]
