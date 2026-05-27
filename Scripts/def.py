@@ -1,3 +1,7 @@
+"""
+Create term/definition (forward only) flashcards from a CSV.
+"""
+
 import csv
 import sys
 
