@@ -128,7 +128,6 @@ Definition: [The value of the membrane potential at which an action potential is
 
 Q: What is a typical value of a neuron's threshold potential?
 A: $-55mV$
-}
 C: In neurons, [depolarization] is the opposite of [:hyperpolarization].
 
 Q: What are the four main ions in neurons?
