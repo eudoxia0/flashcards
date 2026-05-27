@@ -67,6 +67,3 @@ Tooth: [second molars]
 C: Tooth Code: [8]
 
 Tooth: [third molars]
-
----
-

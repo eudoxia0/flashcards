@@ -7,8 +7,6 @@ BUILD_SRC      := Cards/Great\ Buildings/*.jpg
 DEF_PY         := Scripts/def.py
 ENG            := Cards/English\ Vocabulary.md
 ENG_SRC        := Sources/english_vocab.csv
-FDI            := Cards/FDI\ Dental\ Notation.md
-FDI_PY         := Scripts/fdi.py
 PERSIAN        := Cards/Persian\ Alphabet.md
 PERSIAN_PY     := Scripts/persian.py
 POW            := Cards/Powers\ of\ Two.md
@@ -18,7 +16,7 @@ TEX_OUT        := Cards/TeX.md
 TEX_PY         := Scripts/tex.py
 TEX_SRC        := Sources/expr.tex
 
-TARGETS        := $(ART) $(ENG) $(PERSIAN) $(POW) $(TEX_OUT) $(FDI) $(BUILD)
+TARGETS        := $(ART) $(ENG) $(PERSIAN) $(POW) $(TEX_OUT) $(BUILD)
 
 .PHONY: all check drill clean
 
@@ -32,9 +30,6 @@ $(BUILD): $(BUILD_PY) $(BUILD_SRC)
 
 $(ENG): $(ENG_SRC) $(DEF_PY)
 	$(PY) $(DEF_PY) $(ENG_SRC) > $(ENG)
-
-$(FDI): $(FDI_PY)
-	$(PY) $(FDI_PY) > $(FDI)
 
 $(PERSIAN): $(PERSIAN_PY)
 	$(PY) $(PERSIAN_PY) > $(PERSIAN)
