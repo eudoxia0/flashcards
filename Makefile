@@ -9,8 +9,6 @@ ENG            := Cards/English\ Vocabulary.md
 ENG_SRC        := Sources/english_vocab.csv
 FDI            := Cards/FDI\ Dental\ Notation.md
 FDI_PY         := Scripts/fdi.py
-NATO           := Cards/NATO\ Phonetic\ Alphabet.md
-NATO_SRC       := Sources/nato.csv
 PERSIAN        := Cards/Persian\ Alphabet.md
 PERSIAN_PY     := Scripts/persian.py
 POW            := Cards/Powers\ of\ Two.md
@@ -22,7 +20,7 @@ TEX_PY         := Scripts/tex.py
 TEX_SRC        := Sources/expr.tex
 VOCAB_PY       := Scripts/vocab.py
 
-TARGETS        := $(ART) $(ENG) $(NATO) $(PERSIAN) $(POW) $(STATS) $(TEX_OUT) $(FDI) $(BUILD)
+TARGETS        := $(ART) $(ENG) $(PERSIAN) $(POW) $(STATS) $(TEX_OUT) $(FDI) $(BUILD)
 
 .PHONY: all check drill stats clean
 
@@ -39,9 +37,6 @@ $(ENG): $(ENG_SRC) $(DEF_PY)
 
 $(FDI): $(FDI_PY)
 	$(PY) $(FDI_PY) > $(FDI)
-
-$(NATO): $(NATO_SRC) $(DEF_PY)
-	$(PY) $(DEF_PY) $(NATO_SRC) > $(NATO)
 
 $(PERSIAN): $(PERSIAN_PY)
 	$(PY) $(PERSIAN_PY) > $(PERSIAN)
