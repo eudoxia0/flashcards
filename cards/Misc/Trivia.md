@@ -294,7 +294,7 @@ A: A pneumatic gripping device that uses airflow to lift objects without physica
 
 Q: What is this hat-like thing called?
 
-![](Images/fascinator.jpg)
+![](images/fascinator.jpg)
 
 A: A fascinator.
 
