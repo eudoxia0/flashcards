@@ -1,8 +1,6 @@
 ART            := Cards/Art/_Art.md
 ART_DIR        := Cards/Art
 ART_PY         := Scripts/art.py
-AWS            := Cards/AWS\ Regions.md
-AWS_SRC        := Sources/aws.csv
 BUILD          := Cards/Great\ Buildings/_Great\ Buildings.md
 BUILD_PY       := Scripts/build.py
 BUILD_SRC      := Cards/Great\ Buildings/*.jpg
@@ -24,7 +22,7 @@ TEX_PY         := Scripts/tex.py
 TEX_SRC        := Sources/expr.tex
 VOCAB_PY       := Scripts/vocab.py
 
-TARGETS        := $(ART) $(AWS) $(ENG) $(NATO) $(PERSIAN) $(POW) $(STATS) $(TEX_OUT) $(FDI) $(BUILD)
+TARGETS        := $(ART) $(ENG) $(NATO) $(PERSIAN) $(POW) $(STATS) $(TEX_OUT) $(FDI) $(BUILD)
 
 .PHONY: all check drill stats clean
 
@@ -32,9 +30,6 @@ all: $(TARGETS)
 
 $(ART): $(ART_PY) $(ART_DIR)
 	$(PY) $(ART_PY) > $(ART)
-
-$(AWS): $(AWS_SRC) $(VOCAB_PY)
-	$(PY) $(VOCAB_PY) $(AWS_SRC) > $(AWS)
 
 $(BUILD): $(BUILD_PY) $(BUILD_SRC)
 	$(PY) $(BUILD_PY) > $(BUILD)
