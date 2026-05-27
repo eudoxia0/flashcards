@@ -4,7 +4,7 @@ Generate flashcards for the great works.
 
 from pathlib import Path
 
-ART_DIR = Path("cards/Art")
+ART_DIR = Path("cards/art/images")
 IMAGE_EXTS = {".jpg", ".jpeg", ".png", ".gif", ".webp"}
 
 
@@ -34,7 +34,7 @@ def parse_filename(filename: str) -> tuple[str | None, str]:
 def main():
     # Parse.
     images: list[tuple[Path, str | None, str]] = []
-    for p in Path("cards/art").iterdir():
+    for p in ART_DIR.iterdir():
         if p.suffix.lower() in IMAGE_EXTS:
             artist, name = parse_filename(p.name)
             filepath: Path = Path("/".join(p.parts[1:]))
