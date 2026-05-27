@@ -23,3 +23,18 @@ C: A pound is [0.45] kilograms.
 ---
 
 C: A kilogram is [2.2] pounds.
+
+---
+
+Q: Points are a unit of what?
+A: Length.
+
+---
+
+Q: What field uses points as a unit of measure?
+A: Typography.
+
+---
+
+Q: What is the standard definition of $1 \text{pt}$?
+A: $\frac{1}{72}$ of an inch.

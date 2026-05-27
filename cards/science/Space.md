@@ -51,3 +51,48 @@ C: A day on Venus lasts [116] Earth days.
 ---
 
 C: Venus' orbital period is [224] days.
+
+---
+
+Q: ISS, year when the first module was launched.
+A: 1998
+
+---
+
+Q: ISS, mass.
+A: 450t
+
+---
+
+Q: Space Shuttle, year of first launch.
+A: 1981
+
+---
+
+Q: Space Shuttle, year of final launch.
+A: 2011
+
+---
+
+Q: Space Shuttle, name of first vehicle to reach space.
+A: _Columbia_
+
+---
+
+Q: Soyuz spacecraft, year of first crewed launch.
+A: 1967
+
+---
+
+Q: What does OKB-1 stand for?
+A: "Experimental Design Bureau-1"
+
+---
+
+Q: Solar irradiance at 1AU.
+A: $1361 ~\text{W}/\text{m}^2$
+
+---
+
+Q: Solar irradiance at the Earth's surface.
+A: $1000 ~\text{W}/\text{m}^2$
