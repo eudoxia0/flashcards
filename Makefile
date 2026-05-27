@@ -1,9 +1,9 @@
 ART            := cards/art/_Art.md
 ART_DIR        := cards/art
 ART_PY         := scripts/art.py
-BUILD          := cards/architecture/_Great\ Buildings.md
+BUILD          := cards/architecture/Great\ Buildings.md
 BUILD_PY       := scripts/build.py
-BUILD_SRC      := cards/architecture/*.jpg
+BUILD_SRC      := cards/architecture/images/*.jpg
 DEF_PY         := scripts/def.py
 ENG            := cards/language/english/English\ Vocabulary.md
 ENG_SRC        := sources/english_vocab.csv

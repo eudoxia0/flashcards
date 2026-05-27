@@ -4,7 +4,7 @@ Generate flashcards for the great buildings.
 
 from pathlib import Path
 
-DIR: Path = Path("cards/architecture")
+DIR: Path = Path("cards/architecture/images")
 IMAGE_EXTS = {".jpg", ".jpeg", ".png", ".gif", ".webp"}
 
 
