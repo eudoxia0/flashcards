@@ -5,14 +5,14 @@ BUILD          := cards/Great\ Buildings/_Great\ Buildings.md
 BUILD_PY       := scripts/build.py
 BUILD_SRC      := cards/Great\ Buildings/*.jpg
 DEF_PY         := scripts/def.py
-ENG            := cards/Language/English/English\ Vocabulary.md
+ENG            := cards/language/english/English\ Vocabulary.md
 ENG_SRC        := sources/english_vocab.csv
-PERSIAN        := cards/Language/Persian/Persian\ Alphabet.md
+PERSIAN        := cards/language/persian/Persian\ Alphabet.md
 PERSIAN_PY     := scripts/persian.py
 POW            := cards/Mathematics/Powers\ of\ Two.md
 POW_PY         := scripts/pow2.py
 PY             := python3
-TEX_OUT        := cards/Tech/TeX.md
+TEX_OUT        := cards/tech/TeX.md
 TEX_PY         := scripts/tex.py
 TEX_SRC        := sources/expr.tex
 
