@@ -1,5 +1,5 @@
-ART            := cards/Art/_Art.md
-ART_DIR        := cards/Art
+ART            := cards/art/_Art.md
+ART_DIR        := cards/art
 ART_PY         := scripts/art.py
 BUILD          := cards/Great\ Buildings/_Great\ Buildings.md
 BUILD_PY       := scripts/build.py

@@ -34,7 +34,7 @@ def parse_filename(filename: str) -> tuple[str | None, str]:
 def main():
     # Parse.
     images: list[tuple[Path, str | None, str]] = []
-    for p in Path("cards/Art").iterdir():
+    for p in Path("cards/art").iterdir():
         if p.suffix.lower() in IMAGE_EXTS:
             artist, name = parse_filename(p.name)
             filepath: Path = Path("/".join(p.parts[1:]))
