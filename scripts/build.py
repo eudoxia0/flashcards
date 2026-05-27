@@ -4,7 +4,7 @@ Generate flashcards for the great buildings.
 
 from pathlib import Path
 
-DIR: Path = Path("cards/Great Buildings")
+DIR: Path = Path("cards/architecture")
 IMAGE_EXTS = {".jpg", ".jpeg", ".png", ".gif", ".webp"}
 
 
@@ -34,7 +34,7 @@ def parse_filename(filename: str) -> tuple[str | None, str]:
 def main():
     # Parse.
     images: list[tuple[Path, str | None, str]] = []
-    for p in Path("cards/Great Buildings").iterdir():
+    for p in DIR.iterdir():
         if p.suffix.lower() in IMAGE_EXTS:
             architect, name = parse_filename(p.name)
             filepath: Path = Path("/".join(p.parts[1:]))
