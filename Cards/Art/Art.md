@@ -7000,22 +7000,6 @@ A: Pieter Bruegel the Elder
 
 Q: Title?
 
-![](<@/Art/Pieter Bruegel the Elder—The Fall of the Rebel Angels.jpg>)
-
-A: The Fall of the Rebel Angels
-
----
-
-Q: Artist?
-
-![](<@/Art/Pieter Bruegel the Elder—The Fall of the Rebel Angels.jpg>)
-
-A: Pieter Bruegel the Elder
-
----
-
-Q: Title?
-
 ![](<@/Art/Pieter Bruegel the Elder—The Hunters in the Snow.jpg>)
 
 A: The Hunters in the Snow
