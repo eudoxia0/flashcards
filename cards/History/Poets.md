@@ -13,24 +13,6 @@ A: "Book of Kings".
 
 ---
 
-Q: Ferdowsi, year of birth.
-A: 940 AD.
-
----
-
-Q: Ferdowsi, year of death.
-A: Sometime between 1019 AD and 1025 AD.
-
----
-
-C: Ferdowsi died sometime between [1019 AD] and [1025] AD.
-
----
-
-C: Ferdowsi was born in [940] AD and died sometime between [1019] AD and [1025] AD.
-
----
-
 Q: The most famous work of Attar.
 A: _The Conference of the Birds_.
 
@@ -41,18 +23,8 @@ A: Attar.
 
 ---
 
-Q: Attar, year of birth.
-A: c. 1145 AD.
-
----
-
 Q: Attar, city of birth.
 A: Nishapur.
-
----
-
-Q: Attar, year of death.
-A: 1221 AD.
 
 ---
 
