@@ -1,16 +1,16 @@
 """
-Generate flashcards for the great buildings.
+Generate flashcards for the great works.
 """
 
 from pathlib import Path
 
-DIR: Path = Path("Cards/Great Buildings")
+ART_DIR = Path("cards/Art")
 IMAGE_EXTS = {".jpg", ".jpeg", ".png", ".gif", ".webp"}
 
 
 def parse_filename(filename: str) -> tuple[str | None, str]:
     """
-    Parse 'Architect—Name' from filename.
+    Parse 'Artist—Name' from filename.
     """
     stem: str = Path(filename).stem
     if "—" not in stem:
@@ -21,35 +21,35 @@ def parse_filename(filename: str) -> tuple[str | None, str]:
     if len(parts) != 2:
         raise ValueError(f"Invalid filename format: '{filename}'")
 
-    architect: str
+    artist: str
     title: str
-    architect, title = parts
+    artist, title = parts
     title = title.strip()
-    if architect == "nil":
+    if artist == "nil":
         return (None, title)
     else:
-        return (architect, title)
+        return (artist, title)
 
 
 def main():
     # Parse.
     images: list[tuple[Path, str | None, str]] = []
-    for p in Path("Cards/Great Buildings").iterdir():
+    for p in Path("cards/Art").iterdir():
         if p.suffix.lower() in IMAGE_EXTS:
-            architect, name = parse_filename(p.name)
+            artist, name = parse_filename(p.name)
             filepath: Path = Path("/".join(p.parts[1:]))
-            images.append((filepath, architect, name))
+            images.append((filepath, artist, name))
 
-    # Sort by architect, then name.
+    # Sort by artist, then name.
     images.sort(key=lambda x: (x[1] or "", x[2]))
 
     print("---")
-    print('title = "Great Buildings"')
+    print('title = "Art"')
     print("---\n")
 
     # Print deck.
     first = True
-    for path, architect, name in images:
+    for path, artist, title in images:
         if first:
             first = False
         else:
@@ -57,20 +57,20 @@ def main():
             print("---")
             print()
 
-        print("Q: Name?")
+        print("Q: Title?")
         print()
         print(f"![](<@/{path}>)")
         print()
-        print(f"A: {name}")
-        if architect:
+        print(f"A: {title}")
+        if artist is not None:
             print()
             print("---")
             print()
-            print("Q: Architect?")
+            print("Q: Artist?")
             print()
             print(f"![](<@/{path}>)")
             print()
-            print(f"A: {architect}")
+            print(f"A: {artist}")
 
 
 if __name__ == "__main__":

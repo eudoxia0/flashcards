@@ -4,10 +4,10 @@ My collection of flashcards, using [hashcards].
 
 ## Structure
 
-- `Cards`: the actual flashcards.
-- `Inbox`: decks that are not ready to be learned yet, WIP.
-- `Scripts`: scripts to generate flashcards from data sources.
-- `Sources`: data sources to generate flashcards.
+- `cards`: the actual flashcards.
+- `inbox`: decks that are not ready to be learned yet, WIP.
+- `scripts`: scripts to generate flashcards from data sources.
+- `sources`: data sources to generate flashcards.
 
 ## License
 
