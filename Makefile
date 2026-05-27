@@ -12,7 +12,7 @@ PERSIAN_PY     := scripts/persian.py
 POW            := cards/Powers\ of\ Two.md
 POW_PY         := scripts/pow2.py
 PY             := python3
-TEX_OUT        := cards/TeX.md
+TEX_OUT        := cards/Tech/TeX.md
 TEX_PY         := scripts/tex.py
 TEX_SRC        := sources/expr.tex
 
