@@ -848,22 +848,6 @@ A: Raymond Hood
 
 Q: Name?
 
-![](<@/Great Buildings/Renzo Piano—Centre Pompidou.jpg>)
-
-A: Centre Pompidou
-
----
-
-Q: Architect?
-
-![](<@/Great Buildings/Renzo Piano—Centre Pompidou.jpg>)
-
-A: Renzo Piano
-
----
-
-Q: Name?
-
 ![](<@/Great Buildings/Renzo Piano—Maison Hermès.jpg>)
 
 A: Maison Hermès
@@ -891,6 +875,22 @@ Q: Architect?
 ![](<@/Great Buildings/Renzo Piano—The Shard.jpg>)
 
 A: Renzo Piano
+
+---
+
+Q: Name?
+
+![](<@/Great Buildings/Renzo Piano and Richard Rogers—Centre Pompidou.jpg>)
+
+A: Centre Pompidou
+
+---
+
+Q: Architect?
+
+![](<@/Great Buildings/Renzo Piano and Richard Rogers—Centre Pompidou.jpg>)
+
+A: Renzo Piano and Richard Rogers
 
 ---
 
