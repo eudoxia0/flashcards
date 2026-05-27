@@ -43,6 +43,10 @@ def main():
     # Sort by architect, then name.
     images.sort(key=lambda x: (x[1] or "", x[2]))
 
+    print("---")
+    print('title = "Great Buildings"')
+    print("---\n")
+
     # Print deck.
     first = True
     for path, architect, name in images:

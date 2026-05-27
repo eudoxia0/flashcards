@@ -1,3 +1,7 @@
+---
+title = "Great Buildings"
+---
+
 Q: Name?
 
 ![](<@/Great Buildings/nil—181 Fremont.jpg>)
