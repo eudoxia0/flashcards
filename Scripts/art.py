@@ -43,6 +43,10 @@ def main():
     # Sort by artist, then name.
     images.sort(key=lambda x: (x[1] or "", x[2]))
 
+    print("---")
+    print('title = "Art"')
+    print("---\n")
+
     # Print deck.
     first = True
     for path, artist, title in images:

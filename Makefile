@@ -1,4 +1,4 @@
-ART            := Cards/Art/Art.md
+ART            := Cards/Art/_Art.md
 ART_DIR        := Cards/Art
 ART_PY         := Scripts/art.py
 AWS            := Cards/AWS\ Regions.md

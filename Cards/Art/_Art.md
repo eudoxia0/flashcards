@@ -1,3 +1,7 @@
+---
+title = "Art"
+---
+
 Q: Title?
 
 ![](<@/Art/nil—Uffington White Horse.jpg>)
