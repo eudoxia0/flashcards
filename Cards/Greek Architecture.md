@@ -5,7 +5,7 @@ A: The capital.
 
 Q: What kind of capital is this?
 
-![](doric.jpg)
+![](@/Images/doric.jpg)
 
 A: Doric.
 
@@ -13,7 +13,7 @@ A: Doric.
 
 Q: What kind of capital is this?
 
-![](ionic.jpg)
+![](@/Images/ionic.jpg)
 
 A: Ionic.
 
@@ -21,6 +21,6 @@ A: Ionic.
 
 Q: What kind of capital is this?
 
-![](corinthian.jpg)
+![](@/Images/corinthian.jpg)
 
 A: Corinthian.
