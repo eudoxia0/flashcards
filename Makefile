@@ -17,7 +17,6 @@ PY             := python3
 TEX_OUT        := Cards/TeX.md
 TEX_PY         := Scripts/tex.py
 TEX_SRC        := Sources/expr.tex
-VOCAB_PY       := Scripts/vocab.py
 
 TARGETS        := $(ART) $(ENG) $(PERSIAN) $(POW) $(TEX_OUT) $(FDI) $(BUILD)
 
