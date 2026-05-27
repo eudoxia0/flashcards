@@ -14,15 +14,14 @@ PERSIAN_PY     := Scripts/persian.py
 POW            := Cards/Powers\ of\ Two.md
 POW_PY         := Scripts/pow2.py
 PY             := python3
-STATS          := stats.json
 TEX_OUT        := Cards/TeX.md
 TEX_PY         := Scripts/tex.py
 TEX_SRC        := Sources/expr.tex
 VOCAB_PY       := Scripts/vocab.py
 
-TARGETS        := $(ART) $(ENG) $(PERSIAN) $(POW) $(STATS) $(TEX_OUT) $(FDI) $(BUILD)
+TARGETS        := $(ART) $(ENG) $(PERSIAN) $(POW) $(TEX_OUT) $(FDI) $(BUILD)
 
-.PHONY: all check drill stats clean
+.PHONY: all check drill clean
 
 all: $(TARGETS)
 
@@ -43,9 +42,6 @@ $(PERSIAN): $(PERSIAN_PY)
 
 $(POW): $(POW_PY)
 	$(PY) $(POW_PY) > $(POW)
-
-$(STATS): Cards/**.md
-	hashcards stats Cards --format=json > $(STATS)
 
 $(TEX_OUT): $(TEX_PY) $(TEX_SRC)
 	$(PY) $(TEX_PY) $(TEX_SRC) $(TEX_OUT)
