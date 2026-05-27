@@ -43,3 +43,11 @@ C: Microwave light has wavelengths between [1] millimeters and [1] meter.
 ---
 
 C: Radio light has a wavelength above [1] meters.
+
+---
+
+C: The largest wavelength is visible light is [780] nanometers.
+
+---
+
+C: The smallest wavelength of visible light is [400] nanometers.
