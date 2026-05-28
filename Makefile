@@ -44,7 +44,7 @@ check:
 	hashcards check cards
 
 drill:
-	hashcards drill cards --new-card-limit=5
+	hashcards drill cards --new-card-limit=0
 
 stats:
 	hashcards stats cards --format=json
