@@ -1,5 +1,5 @@
 ---
-title = "Art"
+name = "Art"
 ---
 
 Q: How do you pronounce Edvard Munch's name?
