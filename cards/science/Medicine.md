@@ -524,3 +524,15 @@ Definition: [the cycle of viral reproduction where the viral genome is integrate
 C: Term: [temperate phage]
 
 Definition: [a bacteriophage that can reproduce through the lysogenic cycle.]
+
+---
+
+C: Term: [afferent nerves]
+
+Definition: [the nerves that carry signals from the body to the CNS.]
+
+---
+
+C: Term: [efferent nerves]
+
+Definition: [the nerves that carry signals from the CNS to the muscles.]
