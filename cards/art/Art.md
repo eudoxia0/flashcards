@@ -76,22 +76,6 @@ A: Alfred Stevens
 
 Q: Title?
 
-![](<@/art/images/Alfred Stevens—La parisienne japonaise.jpg>)
-
-A: La parisienne japonaise
-
----
-
-Q: Artist?
-
-![](<@/art/images/Alfred Stevens—La parisienne japonaise.jpg>)
-
-A: Alfred Stevens
-
----
-
-Q: Title?
-
 ![](<@/art/images/Allan Ramsay—Coronation portrait of George III.jpg>)
 
 A: Coronation portrait of George III
@@ -908,22 +892,6 @@ A: Diego Rivera
 
 Q: Title?
 
-![](<@/art/images/Diego Rivera—Mural of Tenochtitlan.jpg>)
-
-A: Mural of Tenochtitlan
-
----
-
-Q: Artist?
-
-![](<@/art/images/Diego Rivera—Mural of Tenochtitlan.jpg>)
-
-A: Diego Rivera
-
----
-
-Q: Title?
-
 ![](<@/art/images/Diego Velázquez—Christ Crucified.jpg>)
 
 A: Christ Crucified
@@ -933,22 +901,6 @@ A: Christ Crucified
 Q: Artist?
 
 ![](<@/art/images/Diego Velázquez—Christ Crucified.jpg>)
-
-A: Diego Velázquez
-
----
-
-Q: Title?
-
-![](<@/art/images/Diego Velázquez—Felipe IV.jpg>)
-
-A: Felipe IV
-
----
-
-Q: Artist?
-
-![](<@/art/images/Diego Velázquez—Felipe IV.jpg>)
 
 A: Diego Velázquez
 
@@ -1020,6 +972,22 @@ A: Diego Velázquez
 
 Q: Title?
 
+![](<@/art/images/Diego Velázquez—Portrait of Felipe IV.jpg>)
+
+A: Portrait of Felipe IV
+
+---
+
+Q: Artist?
+
+![](<@/art/images/Diego Velázquez—Portrait of Felipe IV.jpg>)
+
+A: Diego Velázquez
+
+---
+
+Q: Title?
+
 ![](<@/art/images/Diego Velázquez—Portrait of Innocent X.jpg>)
 
 A: Portrait of Innocent X
@@ -1061,22 +1029,6 @@ A: Portrait of Sebastián de Morra
 Q: Artist?
 
 ![](<@/art/images/Diego Velázquez—Portrait of Sebastián de Morra.jpg>)
-
-A: Diego Velázquez
-
----
-
-Q: Title?
-
-![](<@/art/images/Diego Velázquez—Portrait of the Infanta Maria Theresa.jpg>)
-
-A: Portrait of the Infanta Maria Theresa
-
----
-
-Q: Artist?
-
-![](<@/art/images/Diego Velázquez—Portrait of the Infanta Maria Theresa.jpg>)
 
 A: Diego Velázquez
 
@@ -1388,22 +1340,6 @@ A: Edward Burne-Jones
 
 Q: Title?
 
-![](<@/art/images/Edward Burne-Jones—King Cophetua and the Beggar Maid.jpg>)
-
-A: King Cophetua and the Beggar Maid
-
----
-
-Q: Artist?
-
-![](<@/art/images/Edward Burne-Jones—King Cophetua and the Beggar Maid.jpg>)
-
-A: Edward Burne-Jones
-
----
-
-Q: Title?
-
 ![](<@/art/images/Edward Burne-Jones— Love Among the Ruins.jpg>)
 
 A: Love Among the Ruins
@@ -1445,22 +1381,6 @@ A: Portrait of Maria Zambaco
 Q: Artist?
 
 ![](<@/art/images/Edward Burne-Jones—Portrait of Maria Zambaco.jpg>)
-
-A: Edward Burne-Jones
-
----
-
-Q: Title?
-
-![](<@/art/images/Edward Burne-Jones—Saint Cecilia.jpg>)
-
-A: Saint Cecilia
-
----
-
-Q: Artist?
-
-![](<@/art/images/Edward Burne-Jones—Saint Cecilia.jpg>)
 
 A: Edward Burne-Jones
 
@@ -1884,22 +1804,6 @@ A: Francis Bacon
 
 Q: Title?
 
-![](<@/art/images/Francis Bacon—Head I.jpg>)
-
-A: Head I
-
----
-
-Q: Artist?
-
-![](<@/art/images/Francis Bacon—Head I.jpg>)
-
-A: Francis Bacon
-
----
-
-Q: Title?
-
 ![](<@/art/images/Francis Bacon—Study after Velázquez's Portrait of Pope Innocent X.jpg>)
 
 A: Study after Velázquez's Portrait of Pope Innocent X
@@ -1909,22 +1813,6 @@ A: Study after Velázquez's Portrait of Pope Innocent X
 Q: Artist?
 
 ![](<@/art/images/Francis Bacon—Study after Velázquez's Portrait of Pope Innocent X.jpg>)
-
-A: Francis Bacon
-
----
-
-Q: Title?
-
-![](<@/art/images/Francis Bacon—Study for Portrait II.jpg>)
-
-A: Study for Portrait II
-
----
-
-Q: Artist?
-
-![](<@/art/images/Francis Bacon—Study for Portrait II.jpg>)
 
 A: Francis Bacon
 
@@ -3973,22 +3861,6 @@ A: Oath of the Horatii
 Q: Artist?
 
 ![](<@/art/images/Jacques-Louis David—Oath of the Horatii.jpg>)
-
-A: Jacques-Louis David
-
----
-
-Q: Title?
-
-![](<@/art/images/Jacques-Louis David—Paris and Helen.jpg>)
-
-A: Paris and Helen
-
----
-
-Q: Artist?
-
-![](<@/art/images/Jacques-Louis David—Paris and Helen.jpg>)
 
 A: Jacques-Louis David
 
