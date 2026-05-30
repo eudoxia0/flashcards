@@ -3612,22 +3612,6 @@ A: Isaac Levitan
 
 Q: Title?
 
-![](<@/art/images/Isaac Levitan—Over Eternal Peace.jpg>)
-
-A: Over Eternal Peace
-
----
-
-Q: Artist?
-
-![](<@/art/images/Isaac Levitan—Over Eternal Peace.jpg>)
-
-A: Isaac Levitan
-
----
-
-Q: Title?
-
 ![](<@/art/images/Isaac Levitan—Portrait of Sofia Kuvshinnikova.jpg>)
 
 A: Portrait of Sofia Kuvshinnikova
