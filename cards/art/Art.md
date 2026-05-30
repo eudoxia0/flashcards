@@ -732,22 +732,6 @@ A: Claude Monet
 
 Q: Title?
 
-![](<@/art/images/Claude Monet—Low Tide at Pourville.jpg>)
-
-A: Low Tide at Pourville
-
----
-
-Q: Artist?
-
-![](<@/art/images/Claude Monet—Low Tide at Pourville.jpg>)
-
-A: Claude Monet
-
----
-
-Q: Title?
-
 ![](<@/art/images/Claude Monet—Poplars on the Banks of the River Epte, Evening Effect.jpg>)
 
 A: Poplars on the Banks of the River Epte, Evening Effect
