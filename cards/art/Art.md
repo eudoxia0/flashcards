@@ -4556,54 +4556,6 @@ A: Joaquín Sorolla
 
 Q: Title?
 
-![](<@/art/images/Johan Christian Dahl—Copenhagen Harbour by Moonlight.jpg>)
-
-A: Copenhagen Harbour by Moonlight
-
----
-
-Q: Artist?
-
-![](<@/art/images/Johan Christian Dahl—Copenhagen Harbour by Moonlight.jpg>)
-
-A: Johan Christian Dahl
-
----
-
-Q: Title?
-
-![](<@/art/images/Johan Christian Dahl—Eruption of the Volcano Vesuvius.jpg>)
-
-A: Eruption of the Volcano Vesuvius
-
----
-
-Q: Artist?
-
-![](<@/art/images/Johan Christian Dahl—Eruption of the Volcano Vesuvius.jpg>)
-
-A: Johan Christian Dahl
-
----
-
-Q: Title?
-
-![](<@/art/images/Johan Christian Dahl—The Castle Ruin at Tharandt.jpg>)
-
-A: The Castle Ruin at Tharandt
-
----
-
-Q: Artist?
-
-![](<@/art/images/Johan Christian Dahl—The Castle Ruin at Tharandt.jpg>)
-
-A: Johan Christian Dahl
-
----
-
-Q: Title?
-
 ![](<@/art/images/Johan Christian Dahl—View of Dresden by Moonlight.jpg>)
 
 A: View of Dresden by Moonlight
