@@ -5804,15 +5804,15 @@ A: Luigi Russolo
 
 Q: Title?
 
-![](<@/art/images/Léon Bakst—Portrait of Rachel Strong, future Countess Henri de Boisgelin.jpg>)
+![](<@/art/images/Léon Bakst—Portrait of Rachel Strong.jpg>)
 
-A: Portrait of Rachel Strong, future Countess Henri de Boisgelin
+A: Portrait of Rachel Strong
 
 ---
 
 Q: Artist?
 
-![](<@/art/images/Léon Bakst—Portrait of Rachel Strong, future Countess Henri de Boisgelin.jpg>)
+![](<@/art/images/Léon Bakst—Portrait of Rachel Strong.jpg>)
 
 A: Léon Bakst
 
