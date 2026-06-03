@@ -429,3 +429,12 @@ A: An orbiting mirror meant to enhance solar irradiance in daytime.
 
 Q: What's a lunetta?
 A: An orbiting mirror meant to enhance nighttime illumination.
+
+---
+
+Q: Explain Grice's maxims.
+A: Communication should be as informative as required (but no more), true, relevant, and clear.
+
+---
+
+C: Grice's maxims are named after [Paul Grice].
