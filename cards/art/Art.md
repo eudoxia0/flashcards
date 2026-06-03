@@ -5948,6 +5948,22 @@ A: Mikhail Larionov
 
 Q: Title?
 
+![](<@/art/images/Mikhail Vrubel—The Demon Seated.jpg>)
+
+A: The Demon Seated
+
+---
+
+Q: Artist?
+
+![](<@/art/images/Mikhail Vrubel—The Demon Seated.jpg>)
+
+A: Mikhail Vrubel
+
+---
+
+Q: Title?
+
 ![](<@/art/images/Natalia Goncharova—Cyclist.jpg>)
 
 A: Cyclist
