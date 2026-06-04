@@ -438,3 +438,9 @@ A: Communication should be as informative as required (but no more), true, relev
 ---
 
 C: Grice's maxims are named after [Paul Grice].
+
+---
+
+C: Term: [gijinka]
+
+Definition: [the practice of creating an anthropomorphic character to represent an abstract concept or thing.]
