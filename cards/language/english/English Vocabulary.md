@@ -23,6 +23,11 @@ A: Perfunctorily, for the sake of procedure or politeness.
 
 ---
 
+Q: _pro tempore_
+A: Used to describe a person temporarily filling a role.
+
+---
+
 Q: _sotto voce_
 A: quietly
 
