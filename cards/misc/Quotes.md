@@ -264,3 +264,9 @@ C: Lenin was more severe.
 C: The clock, moreover, is a piece of power-machinery whose "product" is seconds and minutes: by its essential nature it dissociated time from human events and helped create the belief in an independent world of mathematically measurable sequences: the special world of science. There is relatively little foundation for this belief in common human experience: throughout the year the days are of uneven duration, and not merely does the relation between day and night steadily change, but a slight journey from East to West alters astronomical time by a certain number of minutes.
 
 — [Lewis Mumford], [_Technics and Civilization_]
+
+---
+
+C: You can see the computer age everywhere but in the productivity statistics.
+
+— [Robert Solow]
