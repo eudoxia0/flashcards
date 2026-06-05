@@ -3,7 +3,7 @@ A: Poet.
 
 ---
 
-Q: Hesiod was active circa [700] BCE.
+C: Hesiod was active circa [700] BCE.
 
 ---
 
