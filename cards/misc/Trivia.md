@@ -450,3 +450,13 @@ Definition: [the practice of creating an anthropomorphic character to represent 
 C: Term: [komorebi]
 
 Definition: [Japanese term for the play of sunlight filtering through trees.]
+
+---
+
+Q: State Parkinson's law.
+A: "Work expands to fill the available time."
+
+---
+
+Q: What is the term for the observation that work expands to fill the available time?
+A: Parkinson's law.
