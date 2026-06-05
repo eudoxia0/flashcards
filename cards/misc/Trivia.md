@@ -444,3 +444,9 @@ C: Grice's maxims are named after [Paul Grice].
 C: Term: [gijinka]
 
 Definition: [the practice of creating an anthropomorphic character to represent an abstract concept or thing.]
+
+---
+
+C: Term: [komorebi]
+
+Definition: [Japanese term for the play of sunlight filtering through trees.]
