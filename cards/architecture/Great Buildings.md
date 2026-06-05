@@ -180,6 +180,22 @@ A: César Pelli
 
 Q: Name?
 
+![](<@/architecture/images/Daniel Burnham—Carbide & Carbon Building.jpg>)
+
+A: Carbide & Carbon Building
+
+---
+
+Q: Architect?
+
+![](<@/architecture/images/Daniel Burnham—Carbide & Carbon Building.jpg>)
+
+A: Daniel Burnham
+
+---
+
+Q: Name?
+
 ![](<@/architecture/images/Frank Lloyd Wright—Ennis House.jpg>)
 
 A: Ennis House
@@ -221,6 +237,22 @@ A: Price Tower
 Q: Architect?
 
 ![](<@/architecture/images/Frank Lloyd Wright—Price Tower.jpg>)
+
+A: Frank Lloyd Wright
+
+---
+
+Q: Name?
+
+![](<@/architecture/images/Frank Lloyd Wright—Samuel-Novarro House.jpg>)
+
+A: Samuel-Novarro House
+
+---
+
+Q: Architect?
+
+![](<@/architecture/images/Frank Lloyd Wright—Samuel-Novarro House.jpg>)
 
 A: Frank Lloyd Wright
 

@@ -3516,6 +3516,22 @@ A: Ingres
 
 Q: Title?
 
+![](<@/art/images/Ippolito Caffi—Eclipse of the Sun in Venice.jpg>)
+
+A: Eclipse of the Sun in Venice
+
+---
+
+Q: Artist?
+
+![](<@/art/images/Ippolito Caffi—Eclipse of the Sun in Venice.jpg>)
+
+A: Ippolito Caffi
+
+---
+
+Q: Title?
+
 ![](<@/art/images/Isaac Levitan—A Quiet Monastery.jpg>)
 
 A: A Quiet Monastery
