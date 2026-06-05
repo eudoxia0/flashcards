@@ -25,3 +25,7 @@ A: The complex conjugate of $z$.
 
 Q: Let $z = a+bi$. Define the complex conjugate $\overline{z}$.
 A: $\overline{z} = a - bi$
+
+---
+
+C: $i$ is defined as the square root of $-1$.
