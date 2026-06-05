@@ -38,3 +38,13 @@ A: Typography.
 
 Q: What is the standard definition of $1 \text{pt}$?
 A: $\frac{1}{72}$ of an inch.
+
+---
+
+Q: Mach 1 in km/h.
+A: $1,200$ km/h.
+
+---
+
+Q: Mach 1 in m/s.
+A: $340$ m/s.
