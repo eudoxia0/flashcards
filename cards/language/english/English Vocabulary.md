@@ -123,6 +123,11 @@ A: Unfashionably dressed.
 
 ---
 
+Q: ecdysis
+A: The process of a reptile or insect shedding off old skin.
+
+---
+
 Q: epigram
 A: A short, witty saying.
 
