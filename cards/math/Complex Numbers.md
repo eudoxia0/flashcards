@@ -28,4 +28,4 @@ A: $\overline{z} = a - bi$
 
 ---
 
-C: $i$ is defined as the square root of $-1$.
+C: $i$ is defined as the square root of [$-1$].
