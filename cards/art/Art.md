@@ -28,15 +28,15 @@ A: Albrecht Dürer
 
 Q: Title?
 
-![](<@/art/images/Albrecht Dürer—Self-Portrait with Fur-Trimmed Robe.jpg>)
+![](<@/art/images/Albrecht Dürer—Self-Portrait.jpg>)
 
-A: Self-Portrait with Fur-Trimmed Robe
+A: Self-Portrait
 
 ---
 
 Q: Artist?
 
-![](<@/art/images/Albrecht Dürer—Self-Portrait with Fur-Trimmed Robe.jpg>)
+![](<@/art/images/Albrecht Dürer—Self-Portrait.jpg>)
 
 A: Albrecht Dürer
 
@@ -76,22 +76,6 @@ A: Alfred Stevens
 
 Q: Title?
 
-![](<@/art/images/Allan Ramsay—Coronation portrait of George III.jpg>)
-
-A: Coronation portrait of George III
-
----
-
-Q: Artist?
-
-![](<@/art/images/Allan Ramsay—Coronation portrait of George III.jpg>)
-
-A: Allan Ramsay
-
----
-
-Q: Title?
-
 ![](<@/art/images/Allan Ramsay—Portrait of David Hume (1754).jpg>)
 
 A: Portrait of David Hume (1754)
@@ -117,6 +101,22 @@ A: Portrait of David Hume (1766)
 Q: Artist?
 
 ![](<@/art/images/Allan Ramsay—Portrait of David Hume (1766).jpg>)
+
+A: Allan Ramsay
+
+---
+
+Q: Title?
+
+![](<@/art/images/Allan Ramsay—Portrait of George III.jpg>)
+
+A: Portrait of George III
+
+---
+
+Q: Artist?
+
+![](<@/art/images/Allan Ramsay—Portrait of George III.jpg>)
 
 A: Allan Ramsay
 
@@ -295,22 +295,6 @@ Q: Artist?
 ![](<@/art/images/Aubrey Beardsley—The Peacock Skirt.jpg>)
 
 A: Aubrey Beardsley
-
----
-
-Q: Title?
-
-![](<@/art/images/Bellotto—The Grand Canal in Venice.jpg>)
-
-A: The Grand Canal in Venice
-
----
-
-Q: Artist?
-
-![](<@/art/images/Bellotto—The Grand Canal in Venice.jpg>)
-
-A: Bellotto
 
 ---
 
@@ -618,17 +602,9 @@ A: Charles Demuth
 
 ---
 
-Q: Title?
-
-![](<@/art/images/Charles Demuth—My Egypt.jpg>)
-
-A: My Egypt
-
----
-
 Q: Artist?
 
-![](<@/art/images/Charles Demuth—My Egypt.jpg>)
+![](<@/art/images/Charles Demuth—My Egypt (skip).jpg>)
 
 A: Charles Demuth
 
@@ -682,33 +658,17 @@ A: Charles-François Daubigny
 
 ---
 
-Q: Title?
-
-![](<@/art/images/Claude Monet—Houses of Parliament, Sunset.jpg>)
-
-A: Houses of Parliament, Sunset
-
----
-
 Q: Artist?
 
-![](<@/art/images/Claude Monet—Houses of Parliament, Sunset.jpg>)
+![](<@/art/images/Claude Monet—Houses of Parliament, Sunset (skip).jpg>)
 
 A: Claude Monet
 
 ---
 
-Q: Title?
-
-![](<@/art/images/Claude Monet—Impression, Sunrise.jpg>)
-
-A: Impression, Sunrise
-
----
-
 Q: Artist?
 
-![](<@/art/images/Claude Monet—Impression, Sunrise.jpg>)
+![](<@/art/images/Claude Monet—Impression, Sunrise (skip).jpg>)
 
 A: Claude Monet
 
@@ -730,33 +690,9 @@ A: Claude Monet
 
 ---
 
-Q: Title?
-
-![](<@/art/images/Claude Monet—Poplars on the Banks of the River Epte, Evening Effect.jpg>)
-
-A: Poplars on the Banks of the River Epte, Evening Effect
-
----
-
 Q: Artist?
 
-![](<@/art/images/Claude Monet—Poplars on the Banks of the River Epte, Evening Effect.jpg>)
-
-A: Claude Monet
-
----
-
-Q: Title?
-
-![](<@/art/images/Claude Monet—Portrait of Père Paul.jpg>)
-
-A: Portrait of Père Paul
-
----
-
-Q: Artist?
-
-![](<@/art/images/Claude Monet—Portrait of Père Paul.jpg>)
+![](<@/art/images/Claude Monet—Poplars on the Banks of the River Epte, Evening Effect (skip).jpg>)
 
 A: Claude Monet
 
@@ -778,17 +714,9 @@ A: Claude Monet
 
 ---
 
-Q: Title?
-
-![](<@/art/images/Claude Monet—The Parc Monceau, Paris.jpg>)
-
-A: The Parc Monceau, Paris
-
----
-
 Q: Artist?
 
-![](<@/art/images/Claude Monet—The Parc Monceau, Paris.jpg>)
+![](<@/art/images/Claude Monet—The Parc Monceau, Paris (skip).jpg>)
 
 A: Claude Monet
 
@@ -810,17 +738,9 @@ A: Claude Monet
 
 ---
 
-Q: Title?
-
-![](<@/art/images/Claude Monet—The Port of Le Havre, Night Effect.jpg>)
-
-A: The Port of Le Havre, Night Effect
-
----
-
 Q: Artist?
 
-![](<@/art/images/Claude Monet—The Port of Le Havre, Night Effect.jpg>)
+![](<@/art/images/Claude Monet—The Port of Le Havre, Night Effect (skip).jpg>)
 
 A: Claude Monet
 
@@ -1066,49 +986,17 @@ A: Diego Velázquez
 
 ---
 
-Q: Title?
-
-![](<@/art/images/Diego Velázquez—The Triumph of Bacchus.jpg>)
-
-A: The Triumph of Bacchus
-
----
-
 Q: Artist?
 
-![](<@/art/images/Diego Velázquez—The Triumph of Bacchus.jpg>)
+![](<@/art/images/Diego Velázquez—The Triumph of Bacchus (skip).jpg>)
 
 A: Diego Velázquez
 
 ---
 
-Q: Title?
-
-![](<@/art/images/Diego Velázquez—The Waterseller of Seville.jpg>)
-
-A: The Waterseller of Seville
-
----
-
 Q: Artist?
 
-![](<@/art/images/Diego Velázquez—The Waterseller of Seville.jpg>)
-
-A: Diego Velázquez
-
----
-
-Q: Title?
-
-![](<@/art/images/Diego Velázquez—View of the Garden of the Villa Medici.jpg>)
-
-A: View of the Garden of the Villa Medici
-
----
-
-Q: Artist?
-
-![](<@/art/images/Diego Velázquez—View of the Garden of the Villa Medici.jpg>)
+![](<@/art/images/Diego Velázquez—The Waterseller of Seville (skip).jpg>)
 
 A: Diego Velázquez
 
@@ -1146,33 +1034,17 @@ A: Eastman Johnson
 
 ---
 
-Q: Title?
-
-![](<@/art/images/Edgar Degas—At the Races in the Countryside.jpg>)
-
-A: At the Races in the Countryside
-
----
-
 Q: Artist?
 
-![](<@/art/images/Edgar Degas—At the Races in the Countryside.jpg>)
+![](<@/art/images/Edgar Degas—At the Races in the Countryside (skip).jpg>)
 
 A: Edgar Degas
 
 ---
 
-Q: Title?
-
-![](<@/art/images/Edgar Degas—Male Nude.jpg>)
-
-A: Male Nude
-
----
-
 Q: Artist?
 
-![](<@/art/images/Edgar Degas—Male Nude.jpg>)
+![](<@/art/images/Edgar Degas—Male Nude (skip).jpg>)
 
 A: Edgar Degas
 
@@ -1226,17 +1098,9 @@ A: Edgar Degas
 
 ---
 
-Q: Title?
-
-![](<@/art/images/Edgar Degas—Woman Seated beside a Vase of Flowers.jpg>)
-
-A: Woman Seated beside a Vase of Flowers
-
----
-
 Q: Artist?
 
-![](<@/art/images/Edgar Degas—Woman Seated beside a Vase of Flowers.jpg>)
+![](<@/art/images/Edgar Degas—Woman Seated beside a Vase of Flowers (skip).jpg>)
 
 A: Edgar Degas
 
@@ -1306,17 +1170,9 @@ A: Edvard Munch
 
 ---
 
-Q: Title?
-
-![](<@/art/images/Edward Burne-Jones—Hope.jpg>)
-
-A: Hope
-
----
-
 Q: Artist?
 
-![](<@/art/images/Edward Burne-Jones—Hope.jpg>)
+![](<@/art/images/Edward Burne-Jones—Hope (skip).jpg>)
 
 A: Edward Burne-Jones
 
@@ -1354,33 +1210,9 @@ A: Edward Burne-Jones
 
 ---
 
-Q: Title?
-
-![](<@/art/images/Edward Burne-Jones—Portrait of Maria Zambaco.jpg>)
-
-A: Portrait of Maria Zambaco
-
----
-
 Q: Artist?
 
-![](<@/art/images/Edward Burne-Jones—Portrait of Maria Zambaco.jpg>)
-
-A: Edward Burne-Jones
-
----
-
-Q: Title?
-
-![](<@/art/images/Edward Burne-Jones—Sidonia von Bork.jpg>)
-
-A: Sidonia von Bork
-
----
-
-Q: Artist?
-
-![](<@/art/images/Edward Burne-Jones—Sidonia von Bork.jpg>)
+![](<@/art/images/Edward Burne-Jones—Portrait of Maria Zambaco (skip).jpg>)
 
 A: Edward Burne-Jones
 
@@ -1397,22 +1229,6 @@ A: St George Slaying the Dragon
 Q: Artist?
 
 ![](<@/art/images/Edward Burne-Jones—St George Slaying the Dragon.jpg>)
-
-A: Edward Burne-Jones
-
----
-
-Q: Title?
-
-![](<@/art/images/Edward Burne-Jones— The Arming and Departure of the Knights.jpg>)
-
-A: The Arming and Departure of the Knights
-
----
-
-Q: Artist?
-
-![](<@/art/images/Edward Burne-Jones— The Arming and Departure of the Knights.jpg>)
 
 A: Edward Burne-Jones
 
@@ -1477,54 +1293,6 @@ A: The Garden of Pan
 Q: Artist?
 
 ![](<@/art/images/Edward Burne-Jones—The Garden of Pan.jpg>)
-
-A: Edward Burne-Jones
-
----
-
-Q: Title?
-
-![](<@/art/images/Edward Burne-Jones—The Golden Stairs.jpg>)
-
-A: The Golden Stairs
-
----
-
-Q: Artist?
-
-![](<@/art/images/Edward Burne-Jones—The Golden Stairs.jpg>)
-
-A: Edward Burne-Jones
-
----
-
-Q: Title?
-
-![](<@/art/images/Edward Burne-Jones—The Merciful Knight.jpg>)
-
-A: The Merciful Knight
-
----
-
-Q: Artist?
-
-![](<@/art/images/Edward Burne-Jones—The Merciful Knight.jpg>)
-
-A: Edward Burne-Jones
-
----
-
-Q: Title?
-
-![](<@/art/images/Edward Burne-Jones—The Star of Bethlehem.jpg>)
-
-A: The Star of Bethlehem
-
----
-
-Q: Artist?
-
-![](<@/art/images/Edward Burne-Jones—The Star of Bethlehem.jpg>)
 
 A: Edward Burne-Jones
 
@@ -1628,22 +1396,6 @@ A: Edward Poynter
 
 Q: Title?
 
-![](<@/art/images/Edward Poynter—The Visit of the Queen of Sheba to King Solomon.jpg>)
-
-A: The Visit of the Queen of Sheba to King Solomon
-
----
-
-Q: Artist?
-
-![](<@/art/images/Edward Poynter—The Visit of the Queen of Sheba to King Solomon.jpg>)
-
-A: Edward Poynter
-
----
-
-Q: Title?
-
 ![](<@/art/images/Edward Steichen—The Flatiron.jpg>)
 
 A: The Flatiron
@@ -1690,17 +1442,9 @@ A: Edwin Landseer
 
 ---
 
-Q: Title?
-
-![](<@/art/images/Eugène Boudin—Étude de ciel.jpg>)
-
-A: Étude de ciel
-
----
-
 Q: Artist?
 
-![](<@/art/images/Eugène Boudin—Étude de ciel.jpg>)
+![](<@/art/images/Eugène Boudin—Étude de ciel (skip).jpg>)
 
 A: Eugène Boudin
 
@@ -1850,33 +1594,17 @@ A: Francisco Goya
 
 ---
 
-Q: Title?
-
-![](<@/art/images/Francisco Goya—Courtyard with Lunatics.jpg>)
-
-A: Courtyard with Lunatics
-
----
-
 Q: Artist?
 
-![](<@/art/images/Francisco Goya—Courtyard with Lunatics.jpg>)
+![](<@/art/images/Francisco Goya—Courtyard with Lunatics (skip).jpg>)
 
 A: Francisco Goya
 
 ---
 
-Q: Title?
-
-![](<@/art/images/Francisco Goya—Man Mocked by Two Women.jpg>)
-
-A: Man Mocked by Two Women
-
----
-
 Q: Artist?
 
-![](<@/art/images/Francisco Goya—Man Mocked by Two Women.jpg>)
+![](<@/art/images/Francisco Goya—Man Mocked by Two Women (skip).jpg>)
 
 A: Francisco Goya
 
@@ -1914,17 +1642,9 @@ A: Francisco Goya
 
 ---
 
-Q: Title?
-
-![](<@/art/images/Francisco Goya—The Great He-Goat.jpg>)
-
-A: The Great He-Goat
-
----
-
 Q: Artist?
 
-![](<@/art/images/Francisco Goya—The Great He-Goat.jpg>)
+![](<@/art/images/Francisco Goya—The Great He-Goat (skip).jpg>)
 
 A: Francisco Goya
 
@@ -1978,17 +1698,9 @@ A: Francisco Goya
 
 ---
 
-Q: Title?
-
-![](<@/art/images/Francisco Goya—Witches' Sabbath.jpg>)
-
-A: Witches' Sabbath
-
----
-
 Q: Artist?
 
-![](<@/art/images/Francisco Goya—Witches' Sabbath.jpg>)
+![](<@/art/images/Francisco Goya—Witches' Sabbath (skip).jpg>)
 
 A: Francisco Goya
 
@@ -2167,54 +1879,6 @@ Q: Artist?
 ![](<@/art/images/Franz von Stuck—The Sin.jpg>)
 
 A: Franz von Stuck
-
----
-
-Q: Title?
-
-![](<@/art/images/François Gérard—Marshal Michel Ney.jpg>)
-
-A: Marshal Michel Ney
-
----
-
-Q: Artist?
-
-![](<@/art/images/François Gérard—Marshal Michel Ney.jpg>)
-
-A: François Gérard
-
----
-
-Q: Title?
-
-![](<@/art/images/François Gérard—Napoleon Bonaparte as First Consul.jpg>)
-
-A: Napoleon Bonaparte as First Consul
-
----
-
-Q: Artist?
-
-![](<@/art/images/François Gérard—Napoleon Bonaparte as First Consul.jpg>)
-
-A: François Gérard
-
----
-
-Q: Title?
-
-![](<@/art/images/François Gérard—Portrait of Talleyrand.jpg>)
-
-A: Portrait of Talleyrand
-
----
-
-Q: Artist?
-
-![](<@/art/images/François Gérard—Portrait of Talleyrand.jpg>)
-
-A: François Gérard
 
 ---
 
@@ -2442,17 +2106,9 @@ A: Georges de La Tour
 
 ---
 
-Q: Title?
-
-![](<@/art/images/Giacomo Balla—Abstract Speed + Sound.jpg>)
-
-A: Abstract Speed + Sound
-
----
-
 Q: Artist?
 
-![](<@/art/images/Giacomo Balla—Abstract Speed + Sound.jpg>)
+![](<@/art/images/Giacomo Balla—Abstract Speed + Sound (skip).jpg>)
 
 A: Giacomo Balla
 
@@ -2490,17 +2146,9 @@ A: Giotto
 
 ---
 
-Q: Title?
-
-![](<@/art/images/Giovanni Boldini—Portrait of Donna Franca Florio.jpg>)
-
-A: Portrait of Donna Franca Florio
-
----
-
 Q: Artist?
 
-![](<@/art/images/Giovanni Boldini—Portrait of Donna Franca Florio.jpg>)
+![](<@/art/images/Giovanni Boldini—Portrait of Donna Franca Florio (skip).jpg>)
 
 A: Giovanni Boldini
 
@@ -2522,17 +2170,9 @@ A: Giovanni Boldini
 
 ---
 
-Q: Title?
-
-![](<@/art/images/Giovanni Boldini—Portrait of Lucie Gérard.jpg>)
-
-A: Portrait of Lucie Gérard
-
----
-
 Q: Artist?
 
-![](<@/art/images/Giovanni Boldini—Portrait of Lucie Gérard.jpg>)
+![](<@/art/images/Giovanni Boldini—Portrait of Lucie Gérard (skip).jpg>)
 
 A: Giovanni Boldini
 
@@ -2554,35 +2194,11 @@ A: Giovanni Boldini
 
 ---
 
-Q: Title?
-
-![](<@/art/images/Giovanni Boldini—Portrait of the actress Marthe de Florian.jpg>)
-
-A: Portrait of the actress Marthe de Florian
-
----
-
 Q: Artist?
 
-![](<@/art/images/Giovanni Boldini—Portrait of the actress Marthe de Florian.jpg>)
+![](<@/art/images/Giovanni Boldini—Portrait of the actress Marthe de Florian (skip).jpg>)
 
 A: Giovanni Boldini
-
----
-
-Q: Title?
-
-![](<@/art/images/Gustav Klimt—Danaë.jpg>)
-
-A: Danaë
-
----
-
-Q: Artist?
-
-![](<@/art/images/Gustav Klimt—Danaë.jpg>)
-
-A: Gustav Klimt
 
 ---
 
@@ -2732,38 +2348,6 @@ A: Gustave Doré
 
 Q: Title?
 
-![](<@/art/images/Gustave Doré—Paolo and Francesca da Rimini.jpg>)
-
-A: Paolo and Francesca da Rimini
-
----
-
-Q: Artist?
-
-![](<@/art/images/Gustave Doré—Paolo and Francesca da Rimini.jpg>)
-
-A: Gustave Doré
-
----
-
-Q: Title?
-
-![](<@/art/images/Gustave Doré—The Beggars of Burgos.jpg>)
-
-A: The Beggars of Burgos
-
----
-
-Q: Artist?
-
-![](<@/art/images/Gustave Doré—The Beggars of Burgos.jpg>)
-
-A: Gustave Doré
-
----
-
-Q: Title?
-
 ![](<@/art/images/Gustave Doré—The Enigma.jpg>)
 
 A: The Enigma
@@ -2789,22 +2373,6 @@ A: The Tower of Babel
 Q: Artist?
 
 ![](<@/art/images/Gustave Doré—The Tower of Babel.jpg>)
-
-A: Gustave Doré
-
----
-
-Q: Title?
-
-![](<@/art/images/Gustave Doré—The Valley of Tears.jpg>)
-
-A: The Valley of Tears
-
----
-
-Q: Artist?
-
-![](<@/art/images/Gustave Doré—The Valley of Tears.jpg>)
 
 A: Gustave Doré
 
@@ -3082,17 +2650,9 @@ A: Henri-Paul Motte
 
 ---
 
-Q: Title?
-
-![](<@/art/images/Henri-Paul Motte—The Fiancée of Belus.jpg>)
-
-A: The Fiancée of Belus
-
----
-
 Q: Artist?
 
-![](<@/art/images/Henri-Paul Motte—The Fiancée of Belus.jpg>)
+![](<@/art/images/Henri-Paul Motte—The Fiancée of Belus (skip).jpg>)
 
 A: Henri-Paul Motte
 
@@ -3191,22 +2751,6 @@ Q: Artist?
 ![](<@/art/images/Hieronymus Bosch—The Garden of Earthly Delights.jpg>)
 
 A: Hieronymus Bosch
-
----
-
-Q: Title?
-
-![](<@/art/images/Horace Vernet—Italian Brigands Surprised by Papal Troops.jpg>)
-
-A: Italian Brigands Surprised by Papal Troops
-
----
-
-Q: Artist?
-
-![](<@/art/images/Horace Vernet—Italian Brigands Surprised by Papal Troops.jpg>)
-
-A: Horace Vernet
 
 ---
 
@@ -3434,17 +2978,9 @@ A: Ingres
 
 ---
 
-Q: Title?
-
-![](<@/art/images/Ingres—Napoleon on his Imperial Throne.jpg>)
-
-A: Napoleon on his Imperial Throne
-
----
-
 Q: Artist?
 
-![](<@/art/images/Ingres—Napoleon on his Imperial Throne.jpg>)
+![](<@/art/images/Ingres—Napoleon on his Imperial Throne (skip).jpg>)
 
 A: Ingres
 
@@ -3482,17 +3018,9 @@ A: Ingres
 
 ---
 
-Q: Title?
-
-![](<@/art/images/Ingres—Portrait of Madame Edmond Cavé.jpg>)
-
-A: Portrait of Madame Edmond Cavé
-
----
-
 Q: Artist?
 
-![](<@/art/images/Ingres—Portrait of Madame Edmond Cavé.jpg>)
+![](<@/art/images/Ingres—Portrait of Madame Edmond Cavé (skip).jpg>)
 
 A: Ingres
 
@@ -4138,17 +3666,9 @@ A: James McNeill Whistler
 
 ---
 
-Q: Title?
-
-![](<@/art/images/James McNeill Whistler—Symphony in White, No. 1 - The White Girl.jpg>)
-
-A: Symphony in White, No. 1 - The White Girl
-
----
-
 Q: Artist?
 
-![](<@/art/images/James McNeill Whistler—Symphony in White, No. 1 - The White Girl.jpg>)
+![](<@/art/images/James McNeill Whistler—Symphony in White, No. 1 - The White Girl (skip).jpg>)
 
 A: James McNeill Whistler
 
@@ -4170,17 +3690,9 @@ A: James McNeill Whistler
 
 ---
 
-Q: Title?
-
-![](<@/art/images/James Tissot—Too Early.jpg>)
-
-A: Too Early
-
----
-
 Q: Artist?
 
-![](<@/art/images/James Tissot—Too Early.jpg>)
+![](<@/art/images/James Tissot—Too Early (skip).jpg>)
 
 A: James Tissot
 
@@ -4263,22 +3775,6 @@ Q: Artist?
 ![](<@/art/images/Jan van Eyck—Arnolfini Portrait.jpg>)
 
 A: Jan van Eyck
-
----
-
-Q: Title?
-
-![](<@/art/images/Jean-Léon Gérôme—Bashi-Bazouk.jpg>)
-
-A: Bashi-Bazouk
-
----
-
-Q: Artist?
-
-![](<@/art/images/Jean-Léon Gérôme—Bashi-Bazouk.jpg>)
-
-A: Jean-Léon Gérôme
 
 ---
 
@@ -5034,65 +4530,33 @@ A: John William Waterhouse
 
 ---
 
-Q: Title?
-
-![](<@/art/images/Joseph Stella—Battle of Lights, Coney Island, Mardi Gras.jpg>)
-
-A: Battle of Lights, Coney Island, Mardi Gras
-
----
-
 Q: Artist?
 
-![](<@/art/images/Joseph Stella—Battle of Lights, Coney Island, Mardi Gras.jpg>)
+![](<@/art/images/Joseph Stella—Battle of Lights, Coney Island, Mardi Gras (skip).jpg>)
 
 A: Joseph Stella
 
 ---
 
-Q: Title?
-
-![](<@/art/images/Joseph Stella—Brooklyn Bridge.jpg>)
-
-A: Brooklyn Bridge
-
----
-
 Q: Artist?
 
-![](<@/art/images/Joseph Stella—Brooklyn Bridge.jpg>)
+![](<@/art/images/Joseph Stella—Brooklyn Bridge (skip).jpg>)
 
 A: Joseph Stella
 
 ---
 
-Q: Title?
-
-![](<@/art/images/Joseph Stella—Flowers, Italy.jpg>)
-
-A: Flowers, Italy
-
----
-
 Q: Artist?
 
-![](<@/art/images/Joseph Stella—Flowers, Italy.jpg>)
+![](<@/art/images/Joseph Stella—Flowers, Italy (skip).jpg>)
 
 A: Joseph Stella
 
 ---
 
-Q: Title?
-
-![](<@/art/images/Joseph Stella—Men and women around the world united around Jesus.jpg>)
-
-A: Men and women around the world united around Jesus
-
----
-
 Q: Artist?
 
-![](<@/art/images/Joseph Stella—Men and women around the world united around Jesus.jpg>)
+![](<@/art/images/Joseph Stella—Men and women around the world united around Jesus (skip).jpg>)
 
 A: Joseph Stella
 
@@ -5114,33 +4578,17 @@ A: Joseph Stella
 
 ---
 
-Q: Title?
-
-![](<@/art/images/Joseph Stella—Serenade, A Christmas Fantasy.jpg>)
-
-A: Serenade, A Christmas Fantasy
-
----
-
 Q: Artist?
 
-![](<@/art/images/Joseph Stella—Serenade, A Christmas Fantasy.jpg>)
+![](<@/art/images/Joseph Stella—Serenade, A Christmas Fantasy (skip).jpg>)
 
 A: Joseph Stella
 
 ---
 
-Q: Title?
-
-![](<@/art/images/Joseph Stella—Spring (The Procession).jpg>)
-
-A: Spring (The Procession)
-
----
-
 Q: Artist?
 
-![](<@/art/images/Joseph Stella—Spring (The Procession).jpg>)
+![](<@/art/images/Joseph Stella—Spring (The Procession) (skip).jpg>)
 
 A: Joseph Stella
 
@@ -6394,81 +5842,41 @@ A: Paul Gauguin
 
 ---
 
-Q: Title?
-
-![](<@/art/images/Peder Severin Krøyer—A luncheon.jpg>)
-
-A: A luncheon
-
----
-
 Q: Artist?
 
-![](<@/art/images/Peder Severin Krøyer—A luncheon.jpg>)
+![](<@/art/images/Peder Severin Krøyer—A luncheon (skip).jpg>)
 
 A: Peder Severin Krøyer
 
 ---
 
-Q: Title?
-
-![](<@/art/images/Peder Severin Krøyer—Midsummer Eve Bonfire on Skagen Beach.jpg>)
-
-A: Midsummer Eve Bonfire on Skagen Beach
-
----
-
 Q: Artist?
 
-![](<@/art/images/Peder Severin Krøyer—Midsummer Eve Bonfire on Skagen Beach.jpg>)
+![](<@/art/images/Peder Severin Krøyer—Midsummer Eve Bonfire on Skagen Beach (skip).jpg>)
 
 A: Peder Severin Krøyer
 
 ---
 
-Q: Title?
-
-![](<@/art/images/Peder Severin Krøyer—Roses.jpg>)
-
-A: Roses
-
----
-
 Q: Artist?
 
-![](<@/art/images/Peder Severin Krøyer—Roses.jpg>)
+![](<@/art/images/Peder Severin Krøyer—Roses (skip).jpg>)
 
 A: Peder Severin Krøyer
 
 ---
 
-Q: Title?
-
-![](<@/art/images/Peder Severin Krøyer—Summer Evening at Skagen.jpg>)
-
-A: Summer Evening at Skagen
-
----
-
 Q: Artist?
 
-![](<@/art/images/Peder Severin Krøyer—Summer Evening at Skagen.jpg>)
+![](<@/art/images/Peder Severin Krøyer—Summer Evening at Skagen (skip).jpg>)
 
 A: Peder Severin Krøyer
 
 ---
 
-Q: Title?
-
-![](<@/art/images/Peder Severin Krøyer—Summer Evening at Skagen Beach.jpg>)
-
-A: Summer Evening at Skagen Beach
-
----
-
 Q: Artist?
 
-![](<@/art/images/Peder Severin Krøyer—Summer Evening at Skagen Beach.jpg>)
+![](<@/art/images/Peder Severin Krøyer—Summer Evening at Skagen Beach (skip).jpg>)
 
 A: Peder Severin Krøyer
 
@@ -6618,65 +6026,33 @@ A: Pierre-Auguste Renoir
 
 ---
 
-Q: Title?
-
-![](<@/art/images/Pierre-Auguste Renoir—The Grands Boulevards.jpg>)
-
-A: The Grands Boulevards
-
----
-
 Q: Artist?
 
-![](<@/art/images/Pierre-Auguste Renoir—The Grands Boulevards.jpg>)
+![](<@/art/images/Pierre-Auguste Renoir—The Grands Boulevards (skip).jpg>)
 
 A: Pierre-Auguste Renoir
 
 ---
 
-Q: Title?
-
-![](<@/art/images/Pierre-Auguste Renoir—Two Sisters.jpg>)
-
-A: Two Sisters
-
----
-
 Q: Artist?
 
-![](<@/art/images/Pierre-Auguste Renoir—Two Sisters.jpg>)
+![](<@/art/images/Pierre-Auguste Renoir—Two Sisters (skip).jpg>)
 
 A: Pierre-Auguste Renoir
 
 ---
 
-Q: Title?
-
-![](<@/art/images/Pierre-Auguste Renoir—Woman with a Parasol in a Garden.jpg>)
-
-A: Woman with a Parasol in a Garden
-
----
-
 Q: Artist?
 
-![](<@/art/images/Pierre-Auguste Renoir—Woman with a Parasol in a Garden.jpg>)
+![](<@/art/images/Pierre-Auguste Renoir—Woman with a Parasol in a Garden (skip).jpg>)
 
 A: Pierre-Auguste Renoir
 
 ---
 
-Q: Title?
-
-![](<@/art/images/Pierre-Auguste Renoir—Young Girl with Red Hair.jpg>)
-
-A: Young Girl with Red Hair
-
----
-
 Q: Artist?
 
-![](<@/art/images/Pierre-Auguste Renoir—Young Girl with Red Hair.jpg>)
+![](<@/art/images/Pierre-Auguste Renoir—Young Girl with Red Hair (skip).jpg>)
 
 A: Pierre-Auguste Renoir
 
@@ -7228,22 +6604,6 @@ A: Sergey Prokudin-Gorsky
 
 Q: Title?
 
-![](<@/art/images/Thomas Lawrence—Coronation Portrait of George IV.jpg>)
-
-A: Coronation Portrait of George IV
-
----
-
-Q: Artist?
-
-![](<@/art/images/Thomas Lawrence—Coronation Portrait of George IV.jpg>)
-
-A: Thomas Lawrence
-
----
-
-Q: Title?
-
 ![](<@/art/images/Thomas Lawrence—Portrait of Antonio Canova.jpg>)
 
 A: Portrait of Antonio Canova
@@ -7253,6 +6613,22 @@ A: Portrait of Antonio Canova
 Q: Artist?
 
 ![](<@/art/images/Thomas Lawrence—Portrait of Antonio Canova.jpg>)
+
+A: Thomas Lawrence
+
+---
+
+Q: Title?
+
+![](<@/art/images/Thomas Lawrence—Portrait of George IV.jpg>)
+
+A: Portrait of George IV
+
+---
+
+Q: Artist?
+
+![](<@/art/images/Thomas Lawrence—Portrait of George IV.jpg>)
 
 A: Thomas Lawrence
 
@@ -7498,97 +6874,49 @@ A: Umberto Boccioni
 
 ---
 
-Q: Title?
-
-![](<@/art/images/Umberto Boccioni—Dynamism of a Man's Head.jpg>)
-
-A: Dynamism of a Man's Head
-
----
-
 Q: Artist?
 
-![](<@/art/images/Umberto Boccioni—Dynamism of a Man's Head.jpg>)
+![](<@/art/images/Umberto Boccioni—Dynamism of a Man's Head (skip).jpg>)
 
 A: Umberto Boccioni
 
 ---
 
-Q: Title?
-
-![](<@/art/images/Umberto Boccioni—Dynamism of a Soccer Player.jpg>)
-
-A: Dynamism of a Soccer Player
-
----
-
 Q: Artist?
 
-![](<@/art/images/Umberto Boccioni—Dynamism of a Soccer Player.jpg>)
+![](<@/art/images/Umberto Boccioni—Dynamism of a Soccer Player (skip).jpg>)
 
 A: Umberto Boccioni
 
 ---
 
-Q: Title?
-
-![](<@/art/images/Umberto Boccioni—States of Mind I, The Farewells.jpg>)
-
-A: States of Mind I, The Farewells
-
----
-
 Q: Artist?
 
-![](<@/art/images/Umberto Boccioni—States of Mind I, The Farewells.jpg>)
+![](<@/art/images/Umberto Boccioni—States of Mind I, The Farewells (skip).jpg>)
 
 A: Umberto Boccioni
 
 ---
 
-Q: Title?
-
-![](<@/art/images/Umberto Boccioni—The City Rises.jpg>)
-
-A: The City Rises
-
----
-
 Q: Artist?
 
-![](<@/art/images/Umberto Boccioni—The City Rises.jpg>)
+![](<@/art/images/Umberto Boccioni—The City Rises (skip).jpg>)
 
 A: Umberto Boccioni
 
 ---
 
-Q: Title?
-
-![](<@/art/images/Umberto Boccioni—The Laugh.jpg>)
-
-A: The Laugh
-
----
-
 Q: Artist?
 
-![](<@/art/images/Umberto Boccioni—The Laugh.jpg>)
+![](<@/art/images/Umberto Boccioni—The Laugh (skip).jpg>)
 
 A: Umberto Boccioni
 
 ---
 
-Q: Title?
-
-![](<@/art/images/Umberto Boccioni—The Street Enters The House.jpg>)
-
-A: The Street Enters The House
-
----
-
 Q: Artist?
 
-![](<@/art/images/Umberto Boccioni—The Street Enters The House.jpg>)
+![](<@/art/images/Umberto Boccioni—The Street Enters The House (skip).jpg>)
 
 A: Umberto Boccioni
 
@@ -7690,33 +7018,17 @@ A: Vincent van Gogh
 
 ---
 
-Q: Title?
-
-![](<@/art/images/Vincent van Gogh—Skull of a Skeleton with Burning Cigarette.jpg>)
-
-A: Skull of a Skeleton with Burning Cigarette
-
----
-
 Q: Artist?
 
-![](<@/art/images/Vincent van Gogh—Skull of a Skeleton with Burning Cigarette.jpg>)
+![](<@/art/images/Vincent van Gogh—Skull of a Skeleton with Burning Cigarette (skip).jpg>)
 
 A: Vincent van Gogh
 
 ---
 
-Q: Title?
-
-![](<@/art/images/Vincent van Gogh—The Potato Eaters.jpg>)
-
-A: The Potato Eaters
-
----
-
 Q: Artist?
 
-![](<@/art/images/Vincent van Gogh—The Potato Eaters.jpg>)
+![](<@/art/images/Vincent van Gogh—The Potato Eaters (skip).jpg>)
 
 A: Vincent van Gogh
 
@@ -7962,33 +7274,17 @@ A: Édouard Manet
 
 ---
 
-Q: Title?
-
-![](<@/art/images/Édouard Manet—Banks of the Seine at Argenteuil.jpg>)
-
-A: Banks of the Seine at Argenteuil
-
----
-
 Q: Artist?
 
-![](<@/art/images/Édouard Manet—Banks of the Seine at Argenteuil.jpg>)
+![](<@/art/images/Édouard Manet—Banks of the Seine at Argenteuil (skip).jpg>)
 
 A: Édouard Manet
 
 ---
 
-Q: Title?
-
-![](<@/art/images/Édouard Manet—Masked Ball at the Opera House.jpg>)
-
-A: Masked Ball at the Opera House
-
----
-
 Q: Artist?
 
-![](<@/art/images/Édouard Manet—Masked Ball at the Opera House.jpg>)
+![](<@/art/images/Édouard Manet—Masked Ball at the Opera House (skip).jpg>)
 
 A: Édouard Manet
 
@@ -8042,16 +7338,3 @@ A: Édouard Manet
 
 ---
 
-Q: Title?
-
-![](<@/art/images/Édouard Manet—The Execution of Emperor Maximilian (Boston).jpg>)
-
-A: The Execution of Emperor Maximilian (Boston)
-
----
-
-Q: Artist?
-
-![](<@/art/images/Édouard Manet—The Execution of Emperor Maximilian (Boston).jpg>)
-
-A: Édouard Manet

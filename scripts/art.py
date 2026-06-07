@@ -48,29 +48,25 @@ def main():
     print("---\n")
 
     # Print deck.
-    first = True
     for path, artist, title in images:
-        if first:
-            first = False
-        else:
+        if " (skip)" not in title:
+            print("Q: Title?")
+            print()
+            print(f"![](<@/{path}>)")
+            print()
+            print(f"A: {title}")
             print()
             print("---")
             print()
-
-        print("Q: Title?")
-        print()
-        print(f"![](<@/{path}>)")
-        print()
-        print(f"A: {title}")
         if artist is not None:
-            print()
-            print("---")
-            print()
             print("Q: Artist?")
             print()
             print(f"![](<@/{path}>)")
             print()
             print(f"A: {artist}")
+            print()
+            print("---")
+            print()
 
 
 if __name__ == "__main__":
