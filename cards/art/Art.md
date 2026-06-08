@@ -6882,41 +6882,17 @@ A: Umberto Boccioni
 
 ---
 
-Q: Artist?
+Q: Title?
 
-![](<@/art/images/Umberto Boccioni—Dynamism of a Soccer Player (skip).jpg>)
+![](<@/art/images/Umberto Boccioni—The City Rises.jpg>)
 
-A: Umberto Boccioni
-
----
-
-Q: Artist?
-
-![](<@/art/images/Umberto Boccioni—States of Mind I, The Farewells (skip).jpg>)
-
-A: Umberto Boccioni
+A: The City Rises
 
 ---
 
 Q: Artist?
 
-![](<@/art/images/Umberto Boccioni—The City Rises (skip).jpg>)
-
-A: Umberto Boccioni
-
----
-
-Q: Artist?
-
-![](<@/art/images/Umberto Boccioni—The Laugh (skip).jpg>)
-
-A: Umberto Boccioni
-
----
-
-Q: Artist?
-
-![](<@/art/images/Umberto Boccioni—The Street Enters The House (skip).jpg>)
+![](<@/art/images/Umberto Boccioni—The City Rises.jpg>)
 
 A: Umberto Boccioni
 
