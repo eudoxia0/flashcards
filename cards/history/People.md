@@ -19,3 +19,13 @@ A: Hesiod.
 
 Q: Who wrote _Works and Days_?
 A: Hesiod.
+
+---
+
+Q: Who was Phryne?
+A: An ancient Greek hetaira, famous for her trial for impiety.
+
+---
+
+Q: What was the Areopagus?
+A: A court in ancient Athens.
