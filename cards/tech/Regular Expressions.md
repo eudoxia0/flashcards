@@ -35,3 +35,11 @@ A: The start of a line.
 
 Q: What is the regex for matching the start of a line?
 A: `^`
+
+---
+
+C: The regex [`^`] matches the [start] of a line.
+
+---
+
+C: The regex [`$`] matches the [end] of a line.
