@@ -163,6 +163,11 @@ A: A swamp or mire.
 
 ---
 
+Q: fiberop
+A: Optical fibre.
+
+---
+
 Q: flense
 A: To strip the blubber or skin from an animal.
 
