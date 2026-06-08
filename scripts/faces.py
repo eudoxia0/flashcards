@@ -9,10 +9,11 @@ DIR: Path = Path("cards/history/faces/images")
 
 def main():
     # Parse.
-    images: list[tuple[Path, str]] = []
+    images: list[tuple[str, str]] = []
     for path in DIR.iterdir():
-        name: str = str(path.stem).split(".")[0]
-        images.append((path, name))
+        filename: str = path.name
+        name: str = filename.split(".")[0]
+        images.append((filename, name))
 
     # Sort by name.
     images.sort(key=lambda x: x[1])
@@ -23,7 +24,7 @@ def main():
     print("---\n")
 
     first = True
-    for path, name in images:
+    for filename, name in images:
         if first:
             first = False
         else:
@@ -33,7 +34,7 @@ def main():
 
         print("Q: Name?")
         print()
-        print(f"![](<{path}>)")
+        print(f"![](<images/{filename}>)")
         print()
         print(f"A: {name}")
 

@@ -4,7 +4,7 @@ title = "Great Buildings"
 
 Q: Name?
 
-![](<cards/history/faces/images/Alonzo Church.jpg>)
+![](<images/Alonzo Church.jpg>)
 
 A: Alonzo Church
 
@@ -12,7 +12,7 @@ A: Alonzo Church
 
 Q: Name?
 
-![](<cards/history/faces/images/David Hilbert.old.jpg>)
+![](<images/David Hilbert.old.jpg>)
 
 A: David Hilbert
 
@@ -20,7 +20,7 @@ A: David Hilbert
 
 Q: Name?
 
-![](<cards/history/faces/images/David Hilbert.young.jpg>)
+![](<images/David Hilbert.young.jpg>)
 
 A: David Hilbert
 
@@ -28,7 +28,7 @@ A: David Hilbert
 
 Q: Name?
 
-![](<cards/history/faces/images/Emmy Noether.jpg>)
+![](<images/Emmy Noether.jpg>)
 
 A: Emmy Noether
 
@@ -36,7 +36,7 @@ A: Emmy Noether
 
 Q: Name?
 
-![](<cards/history/faces/images/Gaston Julia.jpg>)
+![](<images/Gaston Julia.jpg>)
 
 A: Gaston Julia
 
@@ -44,7 +44,7 @@ A: Gaston Julia
 
 Q: Name?
 
-![](<cards/history/faces/images/Henri Poincaré.young.jpg>)
+![](<images/Henri Poincaré.young.jpg>)
 
 A: Henri Poincaré
 
@@ -52,7 +52,7 @@ A: Henri Poincaré
 
 Q: Name?
 
-![](<cards/history/faces/images/Henri Poincaré.old.png>)
+![](<images/Henri Poincaré.old.png>)
 
 A: Henri Poincaré
 
@@ -60,7 +60,7 @@ A: Henri Poincaré
 
 Q: Name?
 
-![](<cards/history/faces/images/L. E. J. Brouwer.jpg>)
+![](<images/L. E. J. Brouwer.jpg>)
 
 A: L
 
@@ -68,7 +68,7 @@ A: L
 
 Q: Name?
 
-![](<cards/history/faces/images/Sophus Lie.jpg>)
+![](<images/Sophus Lie.jpg>)
 
 A: Sophus Lie
 
@@ -76,6 +76,6 @@ A: Sophus Lie
 
 Q: Name?
 
-![](<cards/history/faces/images/Élie Cartan.jpg>)
+![](<images/Élie Cartan.jpg>)
 
 A: Élie Cartan
