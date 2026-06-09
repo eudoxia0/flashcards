@@ -6010,33 +6010,17 @@ A: Pierre-Auguste Renoir
 
 ---
 
-Q: Title?
-
-![](<@/art/images/Piet Mondrian—Evening; Red Tree.jpg>)
-
-A: Evening; Red Tree
-
----
-
 Q: Artist?
 
-![](<@/art/images/Piet Mondrian—Evening; Red Tree.jpg>)
+![](<@/art/images/Piet Mondrian—Evening; Red Tree (skip).jpg>)
 
 A: Piet Mondrian
 
 ---
 
-Q: Title?
-
-![](<@/art/images/Piet Mondrian—Gray Tree.jpg>)
-
-A: Gray Tree
-
----
-
 Q: Artist?
 
-![](<@/art/images/Piet Mondrian—Gray Tree.jpg>)
+![](<@/art/images/Piet Mondrian—Gray Tree (skip).jpg>)
 
 A: Piet Mondrian
 
@@ -6522,17 +6506,9 @@ A: Sandro Botticelli
 
 ---
 
-Q: Title?
-
-![](<@/art/images/Sandro Botticelli—The Map of Hell.jpg>)
-
-A: The Map of Hell
-
----
-
 Q: Artist?
 
-![](<@/art/images/Sandro Botticelli—The Map of Hell.jpg>)
+![](<@/art/images/Sandro Botticelli—The Map of Hell (skip).jpg>)
 
 A: Sandro Botticelli
 
