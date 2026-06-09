@@ -3412,38 +3412,6 @@ A: Jacques-Louis David
 
 Q: Title?
 
-![](<@/art/images/Jacques-Louis David—Portrait of Madame de Verninac.jpg>)
-
-A: Portrait of Madame de Verninac
-
----
-
-Q: Artist?
-
-![](<@/art/images/Jacques-Louis David—Portrait of Madame de Verninac.jpg>)
-
-A: Jacques-Louis David
-
----
-
-Q: Title?
-
-![](<@/art/images/Jacques-Louis David—Portrait of Pierre Sériziat.jpg>)
-
-A: Portrait of Pierre Sériziat
-
----
-
-Q: Artist?
-
-![](<@/art/images/Jacques-Louis David—Portrait of Pierre Sériziat.jpg>)
-
-A: Jacques-Louis David
-
----
-
-Q: Title?
-
 ![](<@/art/images/Jacques-Louis David—Portrait of Pope Pius VII.jpg>)
 
 A: Portrait of Pope Pius VII
@@ -3519,22 +3487,6 @@ Q: Artist?
 ![](<@/art/images/Jacques-Louis David—The Intervention of the Sabine Women.jpg>)
 
 A: Jacques-Louis David
-
----
-
-Q: Title?
-
-![](<@/art/images/Jacques-Émile Blanche—Portrait of Aubrey Beardsley.jpg>)
-
-A: Portrait of Aubrey Beardsley
-
----
-
-Q: Artist?
-
-![](<@/art/images/Jacques-Émile Blanche—Portrait of Aubrey Beardsley.jpg>)
-
-A: Jacques-Émile Blanche
 
 ---
 
