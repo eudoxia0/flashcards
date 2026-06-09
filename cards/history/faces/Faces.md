@@ -12,7 +12,7 @@ A: Alonzo Church
 
 Q: Name?
 
-![](<images/David Hilbert.old.jpg>)
+![](<images/David Hilbert—old.jpg>)
 
 A: David Hilbert
 
@@ -20,7 +20,7 @@ A: David Hilbert
 
 Q: Name?
 
-![](<images/David Hilbert.young.jpg>)
+![](<images/David Hilbert—young.jpg>)
 
 A: David Hilbert
 
@@ -44,7 +44,7 @@ A: Gaston Julia
 
 Q: Name?
 
-![](<images/Henri Poincaré.young.jpg>)
+![](<images/Henri Poincaré—old.png>)
 
 A: Henri Poincaré
 
@@ -52,7 +52,7 @@ A: Henri Poincaré
 
 Q: Name?
 
-![](<images/Henri Poincaré.old.png>)
+![](<images/Henri Poincaré—young.jpg>)
 
 A: Henri Poincaré
 
@@ -62,7 +62,7 @@ Q: Name?
 
 ![](<images/L. E. J. Brouwer.jpg>)
 
-A: L
+A: L. E. J. Brouwer
 
 ---
 
