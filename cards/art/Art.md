@@ -2946,33 +2946,9 @@ A: Ilya Repin
 
 ---
 
-Q: Title?
-
-![](<@/art/images/Ingres—Jupiter and Thetis.jpg>)
-
-A: Jupiter and Thetis
-
----
-
 Q: Artist?
 
-![](<@/art/images/Ingres—Jupiter and Thetis.jpg>)
-
-A: Ingres
-
----
-
-Q: Title?
-
-![](<@/art/images/Ingres—La Grande Odalisque.jpg>)
-
-A: La Grande Odalisque
-
----
-
-Q: Artist?
-
-![](<@/art/images/Ingres—La Grande Odalisque.jpg>)
+![](<@/art/images/Ingres—La Grande Odalisque (skip).jpg>)
 
 A: Ingres
 
@@ -3013,14 +2989,6 @@ A: Portrait of Madame Duvaucey
 Q: Artist?
 
 ![](<@/art/images/Ingres—Portrait of Madame Duvaucey.jpg>)
-
-A: Ingres
-
----
-
-Q: Artist?
-
-![](<@/art/images/Ingres—Portrait of Madame Edmond Cavé (skip).jpg>)
 
 A: Ingres
 
@@ -3138,17 +3106,9 @@ A: Isaac Levitan
 
 ---
 
-Q: Title?
-
-![](<@/art/images/Isaac Levitan—Portrait of Sofia Kuvshinnikova.jpg>)
-
-A: Portrait of Sofia Kuvshinnikova
-
----
-
 Q: Artist?
 
-![](<@/art/images/Isaac Levitan—Portrait of Sofia Kuvshinnikova.jpg>)
+![](<@/art/images/Isaac Levitan—Portrait of Sofia Kuvshinnikova (skip).jpg>)
 
 A: Isaac Levitan
 
