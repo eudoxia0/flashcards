@@ -48,3 +48,7 @@ A: $1,200$ km/h.
 
 Q: Mach 1 in m/s.
 A: $340$ m/s.
+
+---
+
+C: A [knot] equals one [nautical mile] per [hour].
