@@ -68,6 +68,14 @@ A: L. E. J. Brouwer
 
 Q: Name?
 
+![](<images/Paul Dirac.jpg>)
+
+A: Paul Dirac
+
+---
+
+Q: Name?
+
 ![](<images/Sophus Lie.jpg>)
 
 A: Sophus Lie

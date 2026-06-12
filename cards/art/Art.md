@@ -2770,17 +2770,9 @@ A: Horace Vernet
 
 ---
 
-Q: Title?
-
-![](<@/art/images/Horace Vernet—Portrait of Louise Vernet.jpg>)
-
-A: Portrait of Louise Vernet
-
----
-
 Q: Artist?
 
-![](<@/art/images/Horace Vernet—Portrait of Louise Vernet.jpg>)
+![](<@/art/images/Horace Vernet—Portrait of Louise Vernet (skip).jpg>)
 
 A: Horace Vernet
 
@@ -2946,22 +2938,6 @@ A: Ilya Repin
 
 ---
 
-Q: Artist?
-
-![](<@/art/images/Ingres—La Grande Odalisque (skip).jpg>)
-
-A: Ingres
-
----
-
-Q: Artist?
-
-![](<@/art/images/Ingres—Napoleon on his Imperial Throne (skip).jpg>)
-
-A: Ingres
-
----
-
 Q: Title?
 
 ![](<@/art/images/Ingres—Oedipus and the Sphinx.jpg>)
@@ -2994,17 +2970,9 @@ A: Ingres
 
 ---
 
-Q: Title?
-
-![](<@/art/images/Ingres—The Princesse de Broglie.jpg>)
-
-A: The Princesse de Broglie
-
----
-
 Q: Artist?
 
-![](<@/art/images/Ingres—The Princesse de Broglie.jpg>)
+![](<@/art/images/Ingres—The Princesse de Broglie (skip).jpg>)
 
 A: Ingres
 
@@ -3026,81 +2994,41 @@ A: Ippolito Caffi
 
 ---
 
-Q: Title?
-
-![](<@/art/images/Isaac Levitan—A Quiet Monastery.jpg>)
-
-A: A Quiet Monastery
-
----
-
 Q: Artist?
 
-![](<@/art/images/Isaac Levitan—A Quiet Monastery.jpg>)
+![](<@/art/images/Isaac Levitan—A Quiet Monastery (skip).jpg>)
 
 A: Isaac Levitan
 
 ---
 
-Q: Title?
-
-![](<@/art/images/Isaac Levitan—By the Pool.jpg>)
-
-A: By the Pool
-
----
-
 Q: Artist?
 
-![](<@/art/images/Isaac Levitan—By the Pool.jpg>)
+![](<@/art/images/Isaac Levitan—By the Pool (skip).jpg>)
 
 A: Isaac Levitan
 
 ---
 
-Q: Title?
-
-![](<@/art/images/Isaac Levitan—Golden Autumn.jpg>)
-
-A: Golden Autumn
-
----
-
 Q: Artist?
 
-![](<@/art/images/Isaac Levitan—Golden Autumn.jpg>)
+![](<@/art/images/Isaac Levitan—Golden Autumn (skip).jpg>)
 
 A: Isaac Levitan
 
 ---
 
-Q: Title?
-
-![](<@/art/images/Isaac Levitan—Lake. Russia.jpg>)
-
-A: Lake. Russia
-
----
-
 Q: Artist?
 
-![](<@/art/images/Isaac Levitan—Lake. Russia.jpg>)
+![](<@/art/images/Isaac Levitan—Lake. Russia (skip).jpg>)
 
 A: Isaac Levitan
 
 ---
 
-Q: Title?
-
-![](<@/art/images/Isaac Levitan—March.jpg>)
-
-A: March
-
----
-
 Q: Artist?
 
-![](<@/art/images/Isaac Levitan—March.jpg>)
+![](<@/art/images/Isaac Levitan—March (skip).jpg>)
 
 A: Isaac Levitan
 
@@ -4778,33 +4706,9 @@ A: Kristoffer Zetterstrand
 
 ---
 
-Q: Title?
-
-![](<@/art/images/Lawrence Alma-Tadema—A Favourite Custom.jpg>)
-
-A: A Favourite Custom
-
----
-
 Q: Artist?
 
-![](<@/art/images/Lawrence Alma-Tadema—A Favourite Custom.jpg>)
-
-A: Lawrence Alma-Tadema
-
----
-
-Q: Title?
-
-![](<@/art/images/Lawrence Alma-Tadema—A Roman Flower Market.jpg>)
-
-A: A Roman Flower Market
-
----
-
-Q: Artist?
-
-![](<@/art/images/Lawrence Alma-Tadema—A Roman Flower Market.jpg>)
+![](<@/art/images/Lawrence Alma-Tadema—A Favourite Custom (skip).jpg>)
 
 A: Lawrence Alma-Tadema
 
@@ -4826,17 +4730,9 @@ A: Lawrence Alma-Tadema
 
 ---
 
-Q: Title?
-
-![](<@/art/images/Lawrence Alma-Tadema—Spring.jpg>)
-
-A: Spring
-
----
-
 Q: Artist?
 
-![](<@/art/images/Lawrence Alma-Tadema—Spring.jpg>)
+![](<@/art/images/Lawrence Alma-Tadema—Spring (skip).jpg>)
 
 A: Lawrence Alma-Tadema
 
@@ -4885,38 +4781,6 @@ A: The Roses of Heliogabalus
 Q: Artist?
 
 ![](<@/art/images/Lawrence Alma-Tadema—The Roses of Heliogabalus.jpg>)
-
-A: Lawrence Alma-Tadema
-
----
-
-Q: Title?
-
-![](<@/art/images/Lawrence Alma-Tadema—The Tepidarium.jpg>)
-
-A: The Tepidarium
-
----
-
-Q: Artist?
-
-![](<@/art/images/Lawrence Alma-Tadema—The Tepidarium.jpg>)
-
-A: Lawrence Alma-Tadema
-
----
-
-Q: Title?
-
-![](<@/art/images/Lawrence Alma-Tadema—The Women of Amphissa.jpg>)
-
-A: The Women of Amphissa
-
----
-
-Q: Artist?
-
-![](<@/art/images/Lawrence Alma-Tadema—The Women of Amphissa.jpg>)
 
 A: Lawrence Alma-Tadema
 
@@ -5810,17 +5674,9 @@ A: Peter Paul Rubens
 
 ---
 
-Q: Title?
-
-![](<@/art/images/Peter Paul Rubens—Equestrian Portrait of the Duke of Lerma.jpg>)
-
-A: Equestrian Portrait of the Duke of Lerma
-
----
-
 Q: Artist?
 
-![](<@/art/images/Peter Paul Rubens—Equestrian Portrait of the Duke of Lerma.jpg>)
+![](<@/art/images/Peter Paul Rubens—Equestrian Portrait of the Duke of Lerma (skip).jpg>)
 
 A: Peter Paul Rubens
 
@@ -5842,33 +5698,17 @@ A: Peter Paul Rubens
 
 ---
 
-Q: Title?
-
-![](<@/art/images/Pierre-Auguste Renoir—Dance at Bougival.jpg>)
-
-A: Dance at Bougival
-
----
-
 Q: Artist?
 
-![](<@/art/images/Pierre-Auguste Renoir—Dance at Bougival.jpg>)
+![](<@/art/images/Pierre-Auguste Renoir—Dance at Bougival (skip).jpg>)
 
 A: Pierre-Auguste Renoir
 
 ---
 
-Q: Title?
-
-![](<@/art/images/Pierre-Auguste Renoir—Dance at Le Moulin de la Galette.jpg>)
-
-A: Dance at Le Moulin de la Galette
-
----
-
 Q: Artist?
 
-![](<@/art/images/Pierre-Auguste Renoir—Dance at Le Moulin de la Galette.jpg>)
+![](<@/art/images/Pierre-Auguste Renoir—Dance at Le Moulin de la Galette (skip).jpg>)
 
 A: Pierre-Auguste Renoir
 
@@ -5890,49 +5730,25 @@ A: Pierre-Auguste Renoir
 
 ---
 
-Q: Title?
-
-![](<@/art/images/Pierre-Auguste Renoir—La Promenade.jpg>)
-
-A: La Promenade
-
----
-
 Q: Artist?
 
-![](<@/art/images/Pierre-Auguste Renoir—La Promenade.jpg>)
+![](<@/art/images/Pierre-Auguste Renoir—La Promenade (skip).jpg>)
 
 A: Pierre-Auguste Renoir
 
 ---
 
-Q: Title?
-
-![](<@/art/images/Pierre-Auguste Renoir—Luncheon of the Boating Party.jpg>)
-
-A: Luncheon of the Boating Party
-
----
-
 Q: Artist?
 
-![](<@/art/images/Pierre-Auguste Renoir—Luncheon of the Boating Party.jpg>)
+![](<@/art/images/Pierre-Auguste Renoir—Luncheon of the Boating Party (skip).jpg>)
 
 A: Pierre-Auguste Renoir
 
 ---
 
-Q: Title?
-
-![](<@/art/images/Pierre-Auguste Renoir—Portrait of Jeanne Samary.jpg>)
-
-A: Portrait of Jeanne Samary
-
----
-
 Q: Artist?
 
-![](<@/art/images/Pierre-Auguste Renoir—Portrait of Jeanne Samary.jpg>)
+![](<@/art/images/Pierre-Auguste Renoir—Portrait of Jeanne Samary (skip).jpg>)
 
 A: Pierre-Auguste Renoir
 
