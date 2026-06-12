@@ -34,7 +34,7 @@ A: 1995
 ---
 
 Q: Venus surface temperature?
-A: 460C.
+A: $460 \celsius$.
 
 ---
 
