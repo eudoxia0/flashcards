@@ -3716,22 +3716,6 @@ A: Jean-Léon Gérôme
 
 Q: Title?
 
-![](<@/art/images/Jean-Léon Gérôme—The Death of Caesar.jpg>)
-
-A: The Death of Caesar
-
----
-
-Q: Artist?
-
-![](<@/art/images/Jean-Léon Gérôme—The Death of Caesar.jpg>)
-
-A: Jean-Léon Gérôme
-
----
-
-Q: Title?
-
 ![](<@/art/images/Jean-Léon Gérôme—The Duel After the Masquerade.jpg>)
 
 A: The Duel After the Masquerade
@@ -5234,33 +5218,17 @@ A: Natalia Goncharova
 
 ---
 
-Q: Title?
-
-![](<@/art/images/Nicholas Roerich—Guests from Overseas.jpg>)
-
-A: Guests from Overseas
-
----
-
 Q: Artist?
 
-![](<@/art/images/Nicholas Roerich—Guests from Overseas.jpg>)
+![](<@/art/images/Nicholas Roerich—Guests from Overseas (skip).jpg>)
 
 A: Nicholas Roerich
 
 ---
 
-Q: Title?
-
-![](<@/art/images/Nicholas Roerich—Monhegan, Maine.jpg>)
-
-A: Monhegan, Maine
-
----
-
 Q: Artist?
 
-![](<@/art/images/Nicholas Roerich—Monhegan, Maine.jpg>)
+![](<@/art/images/Nicholas Roerich—Monhegan, Maine (skip).jpg>)
 
 A: Nicholas Roerich
 
