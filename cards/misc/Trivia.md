@@ -460,3 +460,8 @@ A: "Work expands to fill the available time."
 
 Q: What is the term for the observation that work expands to fill the available time?
 A: Parkinson's law.
+
+---
+
+Q: What does the idiom "long in the tooth" mean?
+A: Old, aging, outdated.
