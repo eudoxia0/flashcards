@@ -5250,17 +5250,9 @@ A: Odilon Redon
 
 ---
 
-Q: Title?
-
-![](<@/art/images/Odilon Redon—Flower Clouds.jpg>)
-
-A: Flower Clouds
-
----
-
 Q: Artist?
 
-![](<@/art/images/Odilon Redon—Flower Clouds.jpg>)
+![](<@/art/images/Odilon Redon—Flower Clouds (skip).jpg>)
 
 A: Odilon Redon
 
@@ -5298,17 +5290,9 @@ A: Odilon Redon
 
 ---
 
-Q: Title?
-
-![](<@/art/images/Odilon Redon—Sita.jpg>)
-
-A: Sita
-
----
-
 Q: Artist?
 
-![](<@/art/images/Odilon Redon—Sita.jpg>)
+![](<@/art/images/Odilon Redon—Sita (skip).jpg>)
 
 A: Odilon Redon
 
