@@ -42,33 +42,17 @@ A: Albrecht Dürer
 
 ---
 
-Q: Title?
-
-![](<@/art/images/Albrecht Dürer—Wing of a European Roller.jpg>)
-
-A: Wing of a European Roller
-
----
-
 Q: Artist?
 
-![](<@/art/images/Albrecht Dürer—Wing of a European Roller.jpg>)
+![](<@/art/images/Albrecht Dürer—Wing of a European Roller (skip).jpg>)
 
 A: Albrecht Dürer
 
 ---
 
-Q: Title?
-
-![](<@/art/images/Alfred Stevens—In the Studio.jpg>)
-
-A: In the Studio
-
----
-
 Q: Artist?
 
-![](<@/art/images/Alfred Stevens—In the Studio.jpg>)
+![](<@/art/images/Alfred Stevens—In the Studio (skip).jpg>)
 
 A: Alfred Stevens
 
@@ -1122,17 +1106,9 @@ A: Edvard Munch
 
 ---
 
-Q: Title?
-
-![](<@/art/images/Edvard Munch—Portrait of Friedrich Nietzsche.jpg>)
-
-A: Portrait of Friedrich Nietzsche
-
----
-
 Q: Artist?
 
-![](<@/art/images/Edvard Munch—Portrait of Friedrich Nietzsche.jpg>)
+![](<@/art/images/Edvard Munch—Portrait of Friedrich Nietzsche (skip).jpg>)
 
 A: Edvard Munch
 
@@ -4866,49 +4842,25 @@ A: Leonardo da Vinci
 
 ---
 
-Q: Title?
-
-![](<@/art/images/Leonid Pasternak—Albert Einstein.jpg>)
-
-A: Albert Einstein
-
----
-
 Q: Artist?
 
-![](<@/art/images/Leonid Pasternak—Albert Einstein.jpg>)
+![](<@/art/images/Leonid Pasternak—Albert Einstein (skip).jpg>)
 
 A: Leonid Pasternak
 
 ---
 
-Q: Title?
-
-![](<@/art/images/Leonid Pasternak—At the Window. Autumn.jpg>)
-
-A: At the Window. Autumn
-
----
-
 Q: Artist?
 
-![](<@/art/images/Leonid Pasternak—At the Window. Autumn.jpg>)
+![](<@/art/images/Leonid Pasternak—At the Window. Autumn (skip).jpg>)
 
 A: Leonid Pasternak
 
 ---
 
-Q: Title?
-
-![](<@/art/images/Leonid Pasternak—Boris Beside the Sea.jpg>)
-
-A: Boris Beside the Sea
-
----
-
 Q: Artist?
 
-![](<@/art/images/Leonid Pasternak—Boris Beside the Sea.jpg>)
+![](<@/art/images/Leonid Pasternak—Boris Beside the Sea (skip).jpg>)
 
 A: Leonid Pasternak
 
@@ -4930,17 +4882,9 @@ A: Leonid Pasternak
 
 ---
 
-Q: Title?
-
-![](<@/art/images/Leonid Pasternak—The Moscow Kremlin in the March Sun.jpg>)
-
-A: The Moscow Kremlin in the March Sun
-
----
-
 Q: Artist?
 
-![](<@/art/images/Leonid Pasternak—The Moscow Kremlin in the March Sun.jpg>)
+![](<@/art/images/Leonid Pasternak—The Moscow Kremlin in the March Sun (skip).jpg>)
 
 A: Leonid Pasternak
 
@@ -5042,17 +4986,9 @@ A: Léon Bakst
 
 ---
 
-Q: Title?
-
-![](<@/art/images/Léon Bakst—Poster for Afternoon of a Faun.jpg>)
-
-A: Poster for Afternoon of a Faun
-
----
-
 Q: Artist?
 
-![](<@/art/images/Léon Bakst—Poster for Afternoon of a Faun.jpg>)
+![](<@/art/images/Léon Bakst—Poster for Afternoon of a Faun (skip).jpg>)
 
 A: Léon Bakst
 
@@ -6404,22 +6340,6 @@ A: Tintoretto
 
 Q: Title?
 
-![](<@/art/images/Tintoretto—Portrait of Doge Pietro Loredan.jpg>)
-
-A: Portrait of Doge Pietro Loredan
-
----
-
-Q: Artist?
-
-![](<@/art/images/Tintoretto—Portrait of Doge Pietro Loredan.jpg>)
-
-A: Tintoretto
-
----
-
-Q: Title?
-
 ![](<@/art/images/Tintoretto—Saint Mark's Body Brought to Venice.jpg>)
 
 A: Saint Mark's Body Brought to Venice
@@ -6762,17 +6682,9 @@ A: William Powell Frith
 
 ---
 
-Q: Title?
-
-![](<@/art/images/Winslow Homer—Early Evening.jpg>)
-
-A: Early Evening
-
----
-
 Q: Artist?
 
-![](<@/art/images/Winslow Homer—Early Evening.jpg>)
+![](<@/art/images/Winslow Homer—Early Evening (skip).jpg>)
 
 A: Winslow Homer
 
@@ -6826,17 +6738,9 @@ A: Winslow Homer
 
 ---
 
-Q: Title?
-
-![](<@/art/images/Winslow Homer—The Fountains at Night, World's Columbian Exposition.jpg>)
-
-A: The Fountains at Night, World's Columbian Exposition
-
----
-
 Q: Artist?
 
-![](<@/art/images/Winslow Homer—The Fountains at Night, World's Columbian Exposition.jpg>)
+![](<@/art/images/Winslow Homer—The Fountains at Night, World's Columbian Exposition (skip).jpg>)
 
 A: Winslow Homer
 
