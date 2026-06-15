@@ -188,22 +188,6 @@ A: Arnold Böcklin
 
 Q: Title?
 
-![](<@/art/images/Arnold Böcklin—The Elysian Fields.jpg>)
-
-A: The Elysian Fields
-
----
-
-Q: Artist?
-
-![](<@/art/images/Arnold Böcklin—The Elysian Fields.jpg>)
-
-A: Arnold Böcklin
-
----
-
-Q: Title?
-
 ![](<@/art/images/Aubrey Beardsley—Illustration for Edgar Allan Poe's The Black Cat.jpg>)
 
 A: Illustration for Edgar Allan Poe's The Black Cat
@@ -373,22 +357,6 @@ A: Judith Beheading Holofernes
 Q: Artist?
 
 ![](<@/art/images/Caravaggio—Judith Beheading Holofernes.jpg>)
-
-A: Caravaggio
-
----
-
-Q: Title?
-
-![](<@/art/images/Caravaggio—Medusa.jpg>)
-
-A: Medusa
-
----
-
-Q: Artist?
-
-![](<@/art/images/Caravaggio—Medusa.jpg>)
 
 A: Caravaggio
 
@@ -778,33 +746,17 @@ A: Diego Rivera
 
 ---
 
-Q: Title?
-
-![](<@/art/images/Diego Velázquez—Christ Crucified.jpg>)
-
-A: Christ Crucified
-
----
-
 Q: Artist?
 
-![](<@/art/images/Diego Velázquez—Christ Crucified.jpg>)
+![](<@/art/images/Diego Velázquez—Christ Crucified (skip).jpg>)
 
 A: Diego Velázquez
 
 ---
 
-Q: Title?
-
-![](<@/art/images/Diego Velázquez—Head of a Stag.jpg>)
-
-A: Head of a Stag
-
----
-
 Q: Artist?
 
-![](<@/art/images/Diego Velázquez—Head of a Stag.jpg>)
+![](<@/art/images/Diego Velázquez—Head of a Stag (skip).jpg>)
 
 A: Diego Velázquez
 
@@ -828,22 +780,6 @@ A: Diego Velázquez
 
 Q: Title?
 
-![](<@/art/images/Diego Velázquez—Philip IV in Brown and Silver.jpg>)
-
-A: Philip IV in Brown and Silver
-
----
-
-Q: Artist?
-
-![](<@/art/images/Diego Velázquez—Philip IV in Brown and Silver.jpg>)
-
-A: Diego Velázquez
-
----
-
-Q: Title?
-
 ![](<@/art/images/Diego Velázquez—Portrait of Don Luis de Góngora.jpg>)
 
 A: Portrait of Don Luis de Góngora
@@ -853,22 +789,6 @@ A: Portrait of Don Luis de Góngora
 Q: Artist?
 
 ![](<@/art/images/Diego Velázquez—Portrait of Don Luis de Góngora.jpg>)
-
-A: Diego Velázquez
-
----
-
-Q: Title?
-
-![](<@/art/images/Diego Velázquez—Portrait of Felipe IV.jpg>)
-
-A: Portrait of Felipe IV
-
----
-
-Q: Artist?
-
-![](<@/art/images/Diego Velázquez—Portrait of Felipe IV.jpg>)
 
 A: Diego Velázquez
 
@@ -917,70 +837,6 @@ A: Portrait of Sebastián de Morra
 Q: Artist?
 
 ![](<@/art/images/Diego Velázquez—Portrait of Sebastián de Morra.jpg>)
-
-A: Diego Velázquez
-
----
-
-Q: Title?
-
-![](<@/art/images/Diego Velázquez—Saint Paul.jpg>)
-
-A: Saint Paul
-
----
-
-Q: Artist?
-
-![](<@/art/images/Diego Velázquez—Saint Paul.jpg>)
-
-A: Diego Velázquez
-
----
-
-Q: Title?
-
-![](<@/art/images/Diego Velázquez—Self-portrait.jpg>)
-
-A: Self-portrait
-
----
-
-Q: Artist?
-
-![](<@/art/images/Diego Velázquez—Self-portrait.jpg>)
-
-A: Diego Velázquez
-
----
-
-Q: Title?
-
-![](<@/art/images/Diego Velázquez—The Supper at Emmaus.jpg>)
-
-A: The Supper at Emmaus
-
----
-
-Q: Artist?
-
-![](<@/art/images/Diego Velázquez—The Supper at Emmaus.jpg>)
-
-A: Diego Velázquez
-
----
-
-Q: Artist?
-
-![](<@/art/images/Diego Velázquez—The Triumph of Bacchus (skip).jpg>)
-
-A: Diego Velázquez
-
----
-
-Q: Artist?
-
-![](<@/art/images/Diego Velázquez—The Waterseller of Seville (skip).jpg>)
 
 A: Diego Velázquez
 
@@ -2351,22 +2207,6 @@ Q: Artist?
 ![](<@/art/images/Gustave Doré—The Tower of Babel.jpg>)
 
 A: Gustave Doré
-
----
-
-Q: Title?
-
-![](<@/art/images/Gustave Moreau—Hercules and the Hydra of Lerna.jpg>)
-
-A: Hercules and the Hydra of Lerna
-
----
-
-Q: Artist?
-
-![](<@/art/images/Gustave Moreau—Hercules and the Hydra of Lerna.jpg>)
-
-A: Gustave Moreau
 
 ---
 
@@ -4426,17 +4266,9 @@ A: Joseph Wright of Derby
 
 ---
 
-Q: Title?
-
-![](<@/art/images/Joseph Wright of Derby—Moonlight, Coast of Tuscany.jpg>)
-
-A: Moonlight, Coast of Tuscany
-
----
-
 Q: Artist?
 
-![](<@/art/images/Joseph Wright of Derby—Moonlight, Coast of Tuscany.jpg>)
+![](<@/art/images/Joseph Wright of Derby—Moonlight, Coast of Tuscany (skip).jpg>)
 
 A: Joseph Wright of Derby
 
@@ -6437,22 +6269,6 @@ A: Road with Cypress and Star
 Q: Artist?
 
 ![](<@/art/images/Vincent van Gogh—Road with Cypress and Star.jpg>)
-
-A: Vincent van Gogh
-
----
-
-Q: Title?
-
-![](<@/art/images/Vincent van Gogh—Self-Portrait.jpg>)
-
-A: Self-Portrait
-
----
-
-Q: Artist?
-
-![](<@/art/images/Vincent van Gogh—Self-Portrait.jpg>)
 
 A: Vincent van Gogh
 
