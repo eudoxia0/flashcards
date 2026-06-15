@@ -3820,38 +3820,6 @@ A: Joaquín Sorolla
 
 Q: Title?
 
-![](<@/art/images/Joaquín Sorolla—Portrait of William Howard Taft.jpg>)
-
-A: Portrait of William Howard Taft
-
----
-
-Q: Artist?
-
-![](<@/art/images/Joaquín Sorolla—Portrait of William Howard Taft.jpg>)
-
-A: Joaquín Sorolla
-
----
-
-Q: Title?
-
-![](<@/art/images/Joaquín Sorolla—Señora de Sorolla in Black.jpg>)
-
-A: Señora de Sorolla in Black
-
----
-
-Q: Artist?
-
-![](<@/art/images/Joaquín Sorolla—Señora de Sorolla in Black.jpg>)
-
-A: Joaquín Sorolla
-
----
-
-Q: Title?
-
 ![](<@/art/images/Johan Christian Dahl—View of Dresden by Moonlight.jpg>)
 
 A: View of Dresden by Moonlight
