@@ -5316,22 +5316,6 @@ A: Pablo Picasso
 
 Q: Title?
 
-![](<@/art/images/Paul Cézanne—Bread and Eggs.jpg>)
-
-A: Bread and Eggs
-
----
-
-Q: Artist?
-
-![](<@/art/images/Paul Cézanne—Bread and Eggs.jpg>)
-
-A: Paul Cézanne
-
----
-
-Q: Title?
-
 ![](<@/art/images/Paul Cézanne—Bread and Leg of Lamb.jpg>)
 
 A: Bread and Leg of Lamb
@@ -5932,22 +5916,6 @@ A: Rembrandt van Rijn
 
 Q: Title?
 
-![](<@/art/images/Rembrandt van Rijn—Aristotle with a Bust of Homer.jpg>)
-
-A: Aristotle with a Bust of Homer
-
----
-
-Q: Artist?
-
-![](<@/art/images/Rembrandt van Rijn—Aristotle with a Bust of Homer.jpg>)
-
-A: Rembrandt van Rijn
-
----
-
-Q: Title?
-
 ![](<@/art/images/Rembrandt van Rijn—Man in Armour.jpg>)
 
 A: Man in Armour
@@ -5957,22 +5925,6 @@ A: Man in Armour
 Q: Artist?
 
 ![](<@/art/images/Rembrandt van Rijn—Man in Armour.jpg>)
-
-A: Rembrandt van Rijn
-
----
-
-Q: Title?
-
-![](<@/art/images/Rembrandt van Rijn—Pallas Athene.jpg>)
-
-A: Pallas Athene
-
----
-
-Q: Artist?
-
-![](<@/art/images/Rembrandt van Rijn—Pallas Athene.jpg>)
 
 A: Rembrandt van Rijn
 
@@ -6021,22 +5973,6 @@ A: The Night Watch
 Q: Artist?
 
 ![](<@/art/images/Rembrandt van Rijn—The Night Watch.jpg>)
-
-A: Rembrandt van Rijn
-
----
-
-Q: Title?
-
-![](<@/art/images/Rembrandt van Rijn—The Polish Rider.jpg>)
-
-A: The Polish Rider
-
----
-
-Q: Artist?
-
-![](<@/art/images/Rembrandt van Rijn—The Polish Rider.jpg>)
 
 A: Rembrandt van Rijn
 
