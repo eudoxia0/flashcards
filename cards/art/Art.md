@@ -3084,22 +3084,6 @@ A: Ivan Kramskoi
 
 Q: Title?
 
-![](<@/art/images/Ivan Kramskoi—Portrait of Leo Tolstoy.jpg>)
-
-A: Portrait of Leo Tolstoy
-
----
-
-Q: Artist?
-
-![](<@/art/images/Ivan Kramskoi—Portrait of Leo Tolstoy.jpg>)
-
-A: Ivan Kramskoi
-
----
-
-Q: Title?
-
 ![](<@/art/images/Ivan Kramskoi—Portrait of the Painter Ivan Shishkin.jpg>)
 
 A: Portrait of the Painter Ivan Shishkin
