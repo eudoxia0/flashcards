@@ -2194,17 +2194,9 @@ A: Gustave Doré
 
 ---
 
-Q: Title?
-
-![](<@/art/images/Gustave Doré—The Tower of Babel.jpg>)
-
-A: The Tower of Babel
-
----
-
 Q: Artist?
 
-![](<@/art/images/Gustave Doré—The Tower of Babel.jpg>)
+![](<@/art/images/Gustave Doré—The Tower of Babel (skip).jpg>)
 
 A: Gustave Doré
 
