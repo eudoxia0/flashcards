@@ -474,3 +474,17 @@ C: The word _stiction_ is a portmanteau of [_static_] and [_friction_].
 
 Q: What does "stiction" refer to?
 A: The force required to enable the motion of two objects initially in contact.
+
+---
+
+Q: Who founded general semantics?
+A: Alfred Korzybski.
+
+---
+
+C: Alfred Korzybski founded a school of thought called [general semantics].
+
+---
+
+Q: Who coined the phrase "the map is not the territory"?
+A: Alfred Korzybski.
