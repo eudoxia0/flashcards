@@ -1,6 +1,12 @@
 C: Term: [exon]
 
-Definition: [a part of a gene that forms a part of the final RNA, after introns have been removed.]
+Definition: [the parts of a gene that end up coding for RNA.]
+
+---
+
+C: Term: [RNA splicing]
+
+Definition: [the process that removes introns and stitches together exons from a strand of pre-mRNA.]
 
 ---
 
