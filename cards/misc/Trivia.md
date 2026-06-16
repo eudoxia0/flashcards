@@ -465,3 +465,12 @@ A: Parkinson's law.
 
 Q: What does the idiom "long in the tooth" mean?
 A: Old, aging, outdated.
+
+---
+
+C: The word _stiction_ is a portmanteau of [_static_] and [_friction_].
+
+---
+
+Q: What does "stiction" refer to?
+A: The force required to enable the motion of two objects initially in contact.
