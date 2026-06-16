@@ -12,3 +12,9 @@ Definition: [the process that removes introns and stitches together exons from a
 
 Q: What is _exon_ short for?
 A: Expressed region.
+
+---
+
+Q: Eukaryotic cells can produce multiple proteins from a single gene. Explain how.
+
+A: Transcription can choose which exons to keep and how to join them.
