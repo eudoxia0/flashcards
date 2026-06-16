@@ -55,3 +55,42 @@ A: Macroglia and microglia.
 
 Q: What are microglia?
 A: Macrophages that provide immune defense in the CNS.
+
+---
+
+C:
+Term: [gray matter]
+
+Definition: [brain tissue made up of aggregates of neuron bodies.]
+
+---
+
+C:
+Term: [white matter]
+
+Definition: [brain tissue made up of aggregates of axons.]
+
+---
+
+C:
+Term: [membrane potential]
+
+Definition: [the voltage between the interior and exterior of the neuron.]
+
+---
+
+Q: What is membrane potential measured in?
+A: Millivolts.
+
+---
+
+Q: What is the membrane potential of a resting neuron?
+A: $-70 ~\text{mV}$
+
+---
+
+C: In its resting state, [positive] charges in the extracellular environment are drawn [in to] the neuron.
+
+---
+
+C: In its resting state, [negative] charges in the extracellular environment are drawn [away from] the neuron.
