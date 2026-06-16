@@ -56,4 +56,4 @@ C: A [knot] equals one [nautical mile] per [hour].
 ---
 
 Q: One nautical mile in meters.
-A: $1852 \meter$
+A: $1,852 \meter$
