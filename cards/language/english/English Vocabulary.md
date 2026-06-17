@@ -8,6 +8,11 @@ A: gone to his fathers, died
 
 ---
 
+Q: _mos maiorum_
+A: Ancestral customs.
+
+---
+
 Q: _obiter dicta_
 A: Things said in passing.
 
