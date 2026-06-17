@@ -288,3 +288,9 @@ We fail not because of our dreams but because we do not dream forcefully enough.
 It is miraculous that the motion of the atom's nucleus spins in every stone, every crumb, and every scrap of paper. All matter is alive, and even when we think things are inert, we simply aren't comprehending their true state. We see only shadows of the absolute, of the undivided light.
 
 — [Ernst Jünger]
+
+---
+
+There must be a close kinship between the chased and the chaser. The hunting masters have totem heads; the _grand louvetier_ the master of the wolf hunt, has a wolf's face. One can guess who hunts the lion, the buffalo, the boar. Not to mention the movements and the stature. I do not wish to generalize, however, for aside from correspondences, there are also complements.
+
+— [Ernst Jünger]
