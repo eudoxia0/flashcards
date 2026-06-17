@@ -276,3 +276,9 @@ C: You can see the computer age everywhere but in the productivity statistics.
 C: Mathematics, rightly viewed, possesses not only truth, but supreme beauty—a beauty cold and austere, like that of sculpture, without appeal to any part of our weaker nature, without the gorgeous trappings of painting or music, yet sublimely pure, and capable of a stern perfection such as only the greatest art can show.
 
 — [Bertrand Russell]
+
+---
+
+We fail not because of our dreams but because we do not dream forcefully enough.
+
+— [Ernst Jünger]
