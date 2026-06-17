@@ -282,3 +282,9 @@ C: Mathematics, rightly viewed, possesses not only truth, but supreme beauty—a
 We fail not because of our dreams but because we do not dream forcefully enough.
 
 — [Ernst Jünger]
+
+---
+
+It is miraculous that the motion of the atom's nucleus spins in every stone, every crumb, and every scrap of paper. All matter is alive, and even when we think things are inert, we simply aren't comprehending their true state. We see only shadows of the absolute, of the undivided light.
+
+— [Ernst Jünger]
