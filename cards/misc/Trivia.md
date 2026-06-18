@@ -493,3 +493,8 @@ A: Alfred Korzybski.
 
 Q: What's a blown flap?
 A: A type of flap where air is blown over the flap's upper surface to delay airflow separation and improve lift.
+
+---
+
+Q: What does RATO stand for?
+A: Rocket-assisted take-off.
