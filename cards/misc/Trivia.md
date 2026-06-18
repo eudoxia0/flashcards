@@ -513,3 +513,11 @@ A: Proving the existence of the electromagnetic waves implied by Maxwell's equat
 
 Q: Who proved the existence of invisible electromagnetic waves?
 A: Heinrich Hertz.
+
+---
+
+C: The first experimental spark-gap transmitter was built by [Heinrich Hertz] in the year [1887].
+
+---
+
+C: The first practical spark-gap transmitter was invented by [Guglielmo Marconi] in the year [1896].
