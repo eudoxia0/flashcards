@@ -546,3 +546,13 @@ A: Lexapro.
 
 Q: INN of Lexapro?
 A: Escitalopram.
+
+---
+
+Q: Trade name of citalopram?
+A: Celexa.
+
+---
+
+Q: INN of Celexa?
+A: Citalopram.
