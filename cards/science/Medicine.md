@@ -556,3 +556,13 @@ A: Celexa.
 
 Q: INN of Celexa?
 A: Citalopram.
+
+---
+
+Q: Trade name of paroxetine?
+A: Paxil.
+
+---
+
+Q: INN of Paxil?
+A: Paroxetine.
