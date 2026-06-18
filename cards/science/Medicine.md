@@ -536,3 +536,13 @@ Definition: [the nerves that carry signals from the body to the CNS.]
 C: Term: [efferent nerves]
 
 Definition: [the nerves that carry signals from the CNS to the muscles.]
+
+---
+
+Q: Trade name of escitalopram?
+A: Lexapro.
+
+---
+
+Q: INN of Lexapro?
+A: Escitalopram.
