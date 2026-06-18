@@ -488,3 +488,8 @@ C: Alfred Korzybski founded a school of thought called [general semantics].
 
 Q: Who coined the phrase "the map is not the territory"?
 A: Alfred Korzybski.
+
+---
+
+Q: What's a blown flap?
+A: A type of flap where air is blown over the flap's upper surface to delay airflow separation and improve lift.
