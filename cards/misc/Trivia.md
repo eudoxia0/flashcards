@@ -498,3 +498,8 @@ A: A type of flap where air is blown over the flap's upper surface to delay airf
 
 Q: What does RATO stand for?
 A: Rocket-assisted take-off.
+
+---
+
+Q: What does RADAR stand for?
+A: **Ra**dio **d**etection **a**nd **r**anging
