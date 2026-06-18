@@ -503,3 +503,13 @@ A: Rocket-assisted take-off.
 
 Q: What does RADAR stand for?
 A: **Ra**dio **d**etection **a**nd **r**anging.
+
+---
+
+Q: What is Heinrich Hertz famous for?
+A: Proving the existence of the electromagnetic waves implied by Maxwell's equations.
+
+---
+
+Q: Who proved the existence of invisible electromagnetic waves?
+A: Heinrich Hertz.
