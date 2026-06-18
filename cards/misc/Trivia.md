@@ -502,4 +502,4 @@ A: Rocket-assisted take-off.
 ---
 
 Q: What does RADAR stand for?
-A: **Ra**dio **d**etection **a**nd **r**anging
+A: **Ra**dio **d**etection **a**nd **r**anging.
