@@ -2930,17 +2930,9 @@ A: Ivan Kramskoi
 
 ---
 
-Q: Title?
-
-![](<@/art/images/Ivan Shishkin—Morning in a Pine Forest.jpg>)
-
-A: Morning in a Pine Forest
-
----
-
 Q: Artist?
 
-![](<@/art/images/Ivan Shishkin—Morning in a Pine Forest.jpg>)
+![](<@/art/images/Ivan Shishkin—Morning in a Pine Forest (skip).jpg>)
 
 A: Ivan Shishkin
 
@@ -3012,22 +3004,6 @@ A: Jacques-Louis David
 
 Q: Title?
 
-![](<@/art/images/Jacques-Louis David—Mars Being Disarmed by Venus.jpg>)
-
-A: Mars Being Disarmed by Venus
-
----
-
-Q: Artist?
-
-![](<@/art/images/Jacques-Louis David—Mars Being Disarmed by Venus.jpg>)
-
-A: Jacques-Louis David
-
----
-
-Q: Title?
-
 ![](<@/art/images/Jacques-Louis David—Napoleon Crossing the Alps.jpg>)
 
 A: Napoleon Crossing the Alps
@@ -3076,54 +3052,6 @@ A: Jacques-Louis David
 
 Q: Title?
 
-![](<@/art/images/Jacques-Louis David—Portrait of Antoine and Marie-Anne Lavoisier.jpg>)
-
-A: Portrait of Antoine and Marie-Anne Lavoisier
-
----
-
-Q: Artist?
-
-![](<@/art/images/Jacques-Louis David—Portrait of Antoine and Marie-Anne Lavoisier.jpg>)
-
-A: Jacques-Louis David
-
----
-
-Q: Title?
-
-![](<@/art/images/Jacques-Louis David—Portrait of Pope Pius VII.jpg>)
-
-A: Portrait of Pope Pius VII
-
----
-
-Q: Artist?
-
-![](<@/art/images/Jacques-Louis David—Portrait of Pope Pius VII.jpg>)
-
-A: Jacques-Louis David
-
----
-
-Q: Title?
-
-![](<@/art/images/Jacques-Louis David—The Coronation of Napoleon.jpg>)
-
-A: The Coronation of Napoleon
-
----
-
-Q: Artist?
-
-![](<@/art/images/Jacques-Louis David—The Coronation of Napoleon.jpg>)
-
-A: Jacques-Louis David
-
----
-
-Q: Title?
-
 ![](<@/art/images/Jacques-Louis David—The Death of Marat.jpg>)
 
 A: The Death of Marat
@@ -3154,49 +3082,9 @@ A: Jacques-Louis David
 
 ---
 
-Q: Title?
-
-![](<@/art/images/Jacques-Louis David—The Intervention of the Sabine Women.jpg>)
-
-A: The Intervention of the Sabine Women
-
----
-
 Q: Artist?
 
-![](<@/art/images/Jacques-Louis David—The Intervention of the Sabine Women.jpg>)
-
-A: Jacques-Louis David
-
----
-
-Q: Title?
-
-![](<@/art/images/James McNeill Whistler—Arrangement in Grey and Black, No. 2 - Portrait of Thomas Carlyle.jpg>)
-
-A: Arrangement in Grey and Black, No. 2 - Portrait of Thomas Carlyle
-
----
-
-Q: Artist?
-
-![](<@/art/images/James McNeill Whistler—Arrangement in Grey and Black, No. 2 - Portrait of Thomas Carlyle.jpg>)
-
-A: James McNeill Whistler
-
----
-
-Q: Title?
-
-![](<@/art/images/James McNeill Whistler—At the Piano.jpg>)
-
-A: At the Piano
-
----
-
-Q: Artist?
-
-![](<@/art/images/James McNeill Whistler—At the Piano.jpg>)
+![](<@/art/images/James McNeill Whistler—At the Piano (skip).jpg>)
 
 A: James McNeill Whistler
 
@@ -3298,6 +3186,22 @@ A: James McNeill Whistler
 
 ---
 
+Q: Title?
+
+![](<@/art/images/James McNeill Whistler—Portrait of Thomas Carlyle.jpg>)
+
+A: Portrait of Thomas Carlyle
+
+---
+
+Q: Artist?
+
+![](<@/art/images/James McNeill Whistler—Portrait of Thomas Carlyle.jpg>)
+
+A: James McNeill Whistler
+
+---
+
 Q: Artist?
 
 ![](<@/art/images/James McNeill Whistler—Symphony in White, No. 1 - The White Girl (skip).jpg>)
@@ -3330,17 +3234,9 @@ A: James Tissot
 
 ---
 
-Q: Title?
-
-![](<@/art/images/James Tissot—Waiting for the Ferry at the Falcon Tavern.jpg>)
-
-A: Waiting for the Ferry at the Falcon Tavern
-
----
-
 Q: Artist?
 
-![](<@/art/images/James Tissot—Waiting for the Ferry at the Falcon Tavern.jpg>)
+![](<@/art/images/James Tissot—Waiting for the Ferry at the Falcon Tavern (skip).jpg>)
 
 A: James Tissot
 
@@ -3549,22 +3445,6 @@ A: The Wailing Wall
 Q: Artist?
 
 ![](<@/art/images/Jean-Léon Gérôme—The Wailing Wall.jpg>)
-
-A: Jean-Léon Gérôme
-
----
-
-Q: Title?
-
-![](<@/art/images/Jean-Léon Gérôme—Tiger on the Watch.jpg>)
-
-A: Tiger on the Watch
-
----
-
-Q: Artist?
-
-![](<@/art/images/Jean-Léon Gérôme—Tiger on the Watch.jpg>)
 
 A: Jean-Léon Gérôme
 
