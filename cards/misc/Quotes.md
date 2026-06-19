@@ -300,3 +300,9 @@ C: There must be a close kinship between the chased and the chaser. The hunting 
 C: Unfortunately robots capable of manufacturing robots do not exist. That would be the philosopher's stone, the squaring of the circle.
 
 — [Ernst Jünger], [_The Glass Bees_]
+
+---
+
+C: The most stubborn facts are those of the spirit, not those of the physical world.
+
+— [Jean Gottmann]
