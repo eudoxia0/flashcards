@@ -521,3 +521,8 @@ C: The first experimental spark-gap transmitter was built by [Heinrich Hertz] in
 ---
 
 C: The first practical spark-gap transmitter was invented by [Guglielmo Marconi] in the year [1896].
+
+---
+
+Q: What does the "Spanish Main" refer to?
+A: The Spanish posessions in the New World with coastlines in the Caribbean or Gulf of Mexico.
