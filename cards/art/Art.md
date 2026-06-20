@@ -1682,33 +1682,17 @@ A: Franz von Stuck
 
 ---
 
-Q: Title?
-
-![](<@/art/images/Frederic Edwin Church—Aurora Borealis.jpg>)
-
-A: Aurora Borealis
-
----
-
 Q: Artist?
 
-![](<@/art/images/Frederic Edwin Church—Aurora Borealis.jpg>)
+![](<@/art/images/Frederic Edwin Church—Aurora Borealis (skip).jpg>)
 
 A: Frederic Edwin Church
 
 ---
 
-Q: Title?
-
-![](<@/art/images/Frederic Edwin Church—Cotopaxi.jpg>)
-
-A: Cotopaxi
-
----
-
 Q: Artist?
 
-![](<@/art/images/Frederic Edwin Church—Cotopaxi.jpg>)
+![](<@/art/images/Frederic Edwin Church—Cotopaxi (skip).jpg>)
 
 A: Frederic Edwin Church
 
@@ -1730,97 +1714,49 @@ A: Frederic Edwin Church
 
 ---
 
-Q: Title?
-
-![](<@/art/images/Frederic Edwin Church—Niagara.jpg>)
-
-A: Niagara
-
----
-
 Q: Artist?
 
-![](<@/art/images/Frederic Edwin Church—Niagara.jpg>)
+![](<@/art/images/Frederic Edwin Church—Niagara (skip).jpg>)
 
 A: Frederic Edwin Church
 
 ---
 
-Q: Title?
-
-![](<@/art/images/Frederic Edwin Church—Our Banner in the Sky.jpg>)
-
-A: Our Banner in the Sky
-
----
-
 Q: Artist?
 
-![](<@/art/images/Frederic Edwin Church—Our Banner in the Sky.jpg>)
+![](<@/art/images/Frederic Edwin Church—Our Banner in the Sky (skip).jpg>)
 
 A: Frederic Edwin Church
 
 ---
 
-Q: Title?
-
-![](<@/art/images/Frederic Edwin Church—Rainy Season in the Tropics.jpg>)
-
-A: Rainy Season in the Tropics
-
----
-
 Q: Artist?
 
-![](<@/art/images/Frederic Edwin Church—Rainy Season in the Tropics.jpg>)
+![](<@/art/images/Frederic Edwin Church—Rainy Season in the Tropics (skip).jpg>)
 
 A: Frederic Edwin Church
 
 ---
 
-Q: Title?
-
-![](<@/art/images/Frederic Edwin Church—The Heart of the Andes.jpg>)
-
-A: The Heart of the Andes
-
----
-
 Q: Artist?
 
-![](<@/art/images/Frederic Edwin Church—The Heart of the Andes.jpg>)
+![](<@/art/images/Frederic Edwin Church—The Heart of the Andes (skip).jpg>)
 
 A: Frederic Edwin Church
 
 ---
 
-Q: Title?
-
-![](<@/art/images/Frederic Edwin Church—The Icebergs.jpg>)
-
-A: The Icebergs
-
----
-
 Q: Artist?
 
-![](<@/art/images/Frederic Edwin Church—The Icebergs.jpg>)
+![](<@/art/images/Frederic Edwin Church—The Icebergs (skip).jpg>)
 
 A: Frederic Edwin Church
 
 ---
 
-Q: Title?
-
-![](<@/art/images/Frederic Edwin Church—The Parthenon.jpg>)
-
-A: The Parthenon
-
----
-
 Q: Artist?
 
-![](<@/art/images/Frederic Edwin Church—The Parthenon.jpg>)
+![](<@/art/images/Frederic Edwin Church—The Parthenon (skip).jpg>)
 
 A: Frederic Edwin Church
 
