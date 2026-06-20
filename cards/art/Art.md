@@ -58,49 +58,17 @@ A: Alfred Stevens
 
 ---
 
-Q: Title?
-
-![](<@/art/images/Allan Ramsay—Portrait of David Hume (1754).jpg>)
-
-A: Portrait of David Hume (1754)
-
----
-
 Q: Artist?
 
-![](<@/art/images/Allan Ramsay—Portrait of David Hume (1754).jpg>)
+![](<@/art/images/Allan Ramsay—Portrait of David Hume (1754) (skip).jpg>)
 
 A: Allan Ramsay
 
 ---
 
-Q: Title?
-
-![](<@/art/images/Allan Ramsay—Portrait of David Hume (1766).jpg>)
-
-A: Portrait of David Hume (1766)
-
----
-
 Q: Artist?
 
-![](<@/art/images/Allan Ramsay—Portrait of David Hume (1766).jpg>)
-
-A: Allan Ramsay
-
----
-
-Q: Title?
-
-![](<@/art/images/Allan Ramsay—Portrait of George III.jpg>)
-
-A: Portrait of George III
-
----
-
-Q: Artist?
-
-![](<@/art/images/Allan Ramsay—Portrait of George III.jpg>)
+![](<@/art/images/Allan Ramsay—Portrait of David Hume (1766) (skip).jpg>)
 
 A: Allan Ramsay
 
@@ -2837,14 +2805,6 @@ A: Isaac Levitan
 Q: Artist?
 
 ![](<@/art/images/Isaac Levitan—March (skip).jpg>)
-
-A: Isaac Levitan
-
----
-
-Q: Artist?
-
-![](<@/art/images/Isaac Levitan—Portrait of Sofia Kuvshinnikova (skip).jpg>)
 
 A: Isaac Levitan
 
@@ -6429,22 +6389,6 @@ A: The Dead Matador
 Q: Artist?
 
 ![](<@/art/images/Édouard Manet—The Dead Matador.jpg>)
-
-A: Édouard Manet
-
----
-
-Q: Title?
-
-![](<@/art/images/Édouard Manet—The Execution of Emperor Maximilian.jpg>)
-
-A: The Execution of Emperor Maximilian
-
----
-
-Q: Artist?
-
-![](<@/art/images/Édouard Manet—The Execution of Emperor Maximilian.jpg>)
 
 A: Édouard Manet
 
