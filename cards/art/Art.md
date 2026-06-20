@@ -2722,33 +2722,17 @@ A: Isaac Levitan
 
 ---
 
-Q: Title?
-
-![](<@/art/images/Isaac Levitan—Silence.jpg>)
-
-A: Silence
-
----
-
 Q: Artist?
 
-![](<@/art/images/Isaac Levitan—Silence.jpg>)
+![](<@/art/images/Isaac Levitan—Silence (skip).jpg>)
 
 A: Isaac Levitan
 
 ---
 
-Q: Title?
-
-![](<@/art/images/Isaac Levitan—Vladimirka.jpg>)
-
-A: Vladimirka
-
----
-
 Q: Artist?
 
-![](<@/art/images/Isaac Levitan—Vladimirka.jpg>)
+![](<@/art/images/Isaac Levitan—Vladimirka (skip).jpg>)
 
 A: Isaac Levitan
 
