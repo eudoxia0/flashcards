@@ -76,6 +76,14 @@ A: Paul Dirac
 
 Q: Name?
 
+![](<images/Pierre Laval.jpg>)
+
+A: Pierre Laval
+
+---
+
+Q: Name?
+
 ![](<images/Sophus Lie.jpg>)
 
 A: Sophus Lie
