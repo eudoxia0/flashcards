@@ -106,33 +106,17 @@ A: Arnold Böcklin
 
 ---
 
-Q: Title?
-
-![](<@/art/images/Arnold Böcklin—Moonlit Landscape.jpg>)
-
-A: Moonlit Landscape
-
----
-
 Q: Artist?
 
-![](<@/art/images/Arnold Böcklin—Moonlit Landscape.jpg>)
+![](<@/art/images/Arnold Böcklin—Moonlit Landscape (skip).jpg>)
 
 A: Arnold Böcklin
 
 ---
 
-Q: Title?
-
-![](<@/art/images/Arnold Böcklin—Mourning under the Cross.jpg>)
-
-A: Mourning under the Cross
-
----
-
 Q: Artist?
 
-![](<@/art/images/Arnold Böcklin—Mourning under the Cross.jpg>)
+![](<@/art/images/Arnold Böcklin—Mourning under the Cross (skip).jpg>)
 
 A: Arnold Böcklin
 
@@ -282,17 +266,9 @@ A: Canaletto
 
 ---
 
-Q: Title?
-
-![](<@/art/images/Caravaggio—Christ at the Column.jpg>)
-
-A: Christ at the Column
-
----
-
 Q: Artist?
 
-![](<@/art/images/Caravaggio—Christ at the Column.jpg>)
+![](<@/art/images/Caravaggio—Christ at the Column (skip).jpg>)
 
 A: Caravaggio
 
@@ -5402,17 +5378,9 @@ A: Pieter Bruegel the Elder
 
 ---
 
-Q: Title?
-
-![](<@/art/images/Pieter Bruegel the Elder—The Tower of Babel.jpg>)
-
-A: The Tower of Babel
-
----
-
 Q: Artist?
 
-![](<@/art/images/Pieter Bruegel the Elder—The Tower of Babel.jpg>)
+![](<@/art/images/Pieter Bruegel the Elder—The Tower of Babel (skip).jpg>)
 
 A: Pieter Bruegel the Elder
 
@@ -5842,17 +5810,9 @@ A: Tintoretto
 
 ---
 
-Q: Title?
-
-![](<@/art/images/Tintoretto—The Crucifixion.jpg>)
-
-A: The Crucifixion
-
----
-
 Q: Artist?
 
-![](<@/art/images/Tintoretto—The Crucifixion.jpg>)
+![](<@/art/images/Tintoretto—The Crucifixion (skip).jpg>)
 
 A: Tintoretto
 
@@ -6055,38 +6015,6 @@ Q: Artist?
 ![](<@/art/images/Vincent van Gogh—The Potato Eaters (skip).jpg>)
 
 A: Vincent van Gogh
-
----
-
-Q: Title?
-
-![](<@/art/images/William Beechey—Portrait of George III.jpg>)
-
-A: Portrait of George III
-
----
-
-Q: Artist?
-
-![](<@/art/images/William Beechey—Portrait of George III.jpg>)
-
-A: William Beechey
-
----
-
-Q: Title?
-
-![](<@/art/images/William Beechey—Portrait of Horatio Nelson.jpg>)
-
-A: Portrait of Horatio Nelson
-
----
-
-Q: Artist?
-
-![](<@/art/images/William Beechey—Portrait of Horatio Nelson.jpg>)
-
-A: William Beechey
 
 ---
 
