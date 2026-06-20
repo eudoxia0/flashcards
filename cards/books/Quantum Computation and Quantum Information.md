@@ -148,13 +148,6 @@ A: Elementwise.
 
 ---
 
-C:
-Notation: [$\braket{a|A|b}$]
-
-Definition: [inner product of $A^\dagger \ket{a}$ and $\ket{b}$.]
-
----
-
 Q: Let $A$ be a matrix. Define the conjugate transpose $A^\dagger$ in symbols.
 A: $$A^\dagger = (\overline{A})^T$$
 
