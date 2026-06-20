@@ -526,3 +526,8 @@ C: The first practical spark-gap transmitter was invented by [Guglielmo Marconi]
 
 Q: What does the "Spanish Main" refer to?
 A: The Spanish posessions in the New World with coastlines in the Caribbean or Gulf of Mexico.
+
+---
+
+Q: Who wrote _The Oil Wars Myth_?
+A: Emily Meierding.
