@@ -32,3 +32,8 @@ A: The man who was compelled by the Roman soldiers to carry the cross of Jesus.
 
 Q: How do you pronounce “Simon of Cyrene” in Greek.
 A: Simon Kyrenaios.
+
+---
+
+Q: The Chaco War was fought between which states?
+A: Bolivia and Paraguay.
