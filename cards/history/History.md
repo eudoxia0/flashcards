@@ -37,3 +37,7 @@ A: Simon Kyrenaios.
 
 Q: The Chaco War was fought between which states?
 A: Bolivia and Paraguay.
+
+---
+
+C: The Chaco War lasted from [1932] to [1935].
