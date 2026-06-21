@@ -49,3 +49,12 @@ C: The Iran-Iraq War started in [September] of [1980].
 ---
 
 C: The Iran-Iraq War ended in the year [1988].
+
+---
+
+C: The Nine-Power Treaty was signed in the year [1922].
+
+---
+
+Q: What did the signatories to the Nine-Power treaty agree to?
+A: Preserving the territorial integrity of Qing China, and allowing all nations equal access to trade and ports.
