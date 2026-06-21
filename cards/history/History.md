@@ -62,3 +62,7 @@ A: Preserving the territorial integrity of Qing China, and allowing all nations 
 ---
 
 C: The First Sino-Japanese War lasted from [1894] to [1895].
+
+---
+
+C: The Second Sino-Japanese War lasted from [1937] to [1945].
