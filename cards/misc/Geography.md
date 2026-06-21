@@ -42,3 +42,13 @@ A: The Lena.
 C: Country: [Uzbekistan]
 
 Capital City: [Tashkent]
+
+---
+
+Q: Capital of Kazakhstan?
+A: Astana.
+
+---
+
+Q: Astana is the capital of?
+A: Kazakhstan.
