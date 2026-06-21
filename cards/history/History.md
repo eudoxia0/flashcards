@@ -41,3 +41,11 @@ A: Bolivia and Paraguay.
 ---
 
 C: The Chaco War lasted from [1932] to [1935].
+
+---
+
+C: The Iran-Iraq War started in [September] of [1980].
+
+---
+
+C: The Iran-Iraq War ended in the year [1988].
