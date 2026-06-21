@@ -58,3 +58,7 @@ C: The Nine-Power Treaty was signed in the year [1922].
 
 Q: What did the signatories to the Nine-Power treaty agree to?
 A: Preserving the territorial integrity of Qing China, and allowing all nations equal access to trade and ports.
+
+---
+
+C: The First Sino-Japanese War lasted from [1894] to [1895].
