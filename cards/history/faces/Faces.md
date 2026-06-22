@@ -100,6 +100,14 @@ A: Pierre Laval
 
 Q: Name?
 
+![](<images/Richard Dedekind.jpg>)
+
+A: Richard Dedekind
+
+---
+
+Q: Name?
+
 ![](<images/Sophus Lie.jpg>)
 
 A: Sophus Lie
