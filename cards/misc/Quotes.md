@@ -291,7 +291,7 @@ C: It is miraculous that the motion of the atom's nucleus spins in every stone, 
 
 ---
 
-C: There must be a close kinship between the chased and the chaser. The hunting masters have totem heads; the _grand louvetier_ the master of the wolf hunt, has a wolf's face. One can guess who hunts the lion, the buffalo, the boar. Not to mention the movements and the stature. I do not wish to generalize, however, for aside from correspondences, there are also complements.
+C: There must be a close kinship between the chased and the chaser. The hunting masters have totem heads; the _grand louvetier_, the master of the wolf hunt, has a wolf's face. One can guess who hunts the lion, the buffalo, the boar. Not to mention the movements and the stature. I do not wish to generalize, however, for aside from correspondences, there are also complements.
 
 — [Ernst Jünger]
 
