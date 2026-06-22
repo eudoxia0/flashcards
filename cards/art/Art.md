@@ -434,17 +434,9 @@ A: Caspar David Friedrich
 
 ---
 
-Q: Title?
-
-![](<@/art/images/Caspar David Friedrich—The Abbey in the Oakwood.jpg>)
-
-A: The Abbey in the Oakwood
-
----
-
 Q: Artist?
 
-![](<@/art/images/Caspar David Friedrich—The Abbey in the Oakwood.jpg>)
+![](<@/art/images/Caspar David Friedrich—The Abbey in the Oakwood (skip).jpg>)
 
 A: Caspar David Friedrich
 
@@ -506,17 +498,9 @@ A: Charles Demuth
 
 ---
 
-Q: Title?
-
-![](<@/art/images/Charles Demuth—Sail - In Two Movements.jpg>)
-
-A: Sail - In Two Movements
-
----
-
 Q: Artist?
 
-![](<@/art/images/Charles Demuth—Sail - In Two Movements.jpg>)
+![](<@/art/images/Charles Demuth—Sail - In Two Movements (skip).jpg>)
 
 A: Charles Demuth
 
@@ -538,17 +522,9 @@ A: Charles Sheeler
 
 ---
 
-Q: Title?
-
-![](<@/art/images/Charles-François Daubigny—Twilight.jpg>)
-
-A: Twilight
-
----
-
 Q: Artist?
 
-![](<@/art/images/Charles-François Daubigny—Twilight.jpg>)
+![](<@/art/images/Charles-François Daubigny—Twilight (skip).jpg>)
 
 A: Charles-François Daubigny
 
@@ -994,65 +970,33 @@ A: Edward Burne-Jones
 
 ---
 
-Q: Title?
-
-![](<@/art/images/Edward Burne-Jones—St George Slaying the Dragon.jpg>)
-
-A: St George Slaying the Dragon
-
----
-
 Q: Artist?
 
-![](<@/art/images/Edward Burne-Jones—St George Slaying the Dragon.jpg>)
+![](<@/art/images/Edward Burne-Jones—St George Slaying the Dragon (skip).jpg>)
 
 A: Edward Burne-Jones
 
 ---
 
-Q: Title?
-
-![](<@/art/images/Edward Burne-Jones—The Baleful Head.jpg>)
-
-A: The Baleful Head
-
----
-
 Q: Artist?
 
-![](<@/art/images/Edward Burne-Jones—The Baleful Head.jpg>)
+![](<@/art/images/Edward Burne-Jones—The Baleful Head (skip).jpg>)
 
 A: Edward Burne-Jones
 
 ---
 
-Q: Title?
-
-![](<@/art/images/Edward Burne-Jones—The Beguiling of Merlin.jpg>)
-
-A: The Beguiling of Merlin
-
----
-
 Q: Artist?
 
-![](<@/art/images/Edward Burne-Jones—The Beguiling of Merlin.jpg>)
+![](<@/art/images/Edward Burne-Jones—The Beguiling of Merlin (skip).jpg>)
 
 A: Edward Burne-Jones
 
 ---
 
-Q: Title?
-
-![](<@/art/images/Edward Burne-Jones—The Doom Fulfilled.jpg>)
-
-A: The Doom Fulfilled
-
----
-
 Q: Artist?
 
-![](<@/art/images/Edward Burne-Jones—The Doom Fulfilled.jpg>)
+![](<@/art/images/Edward Burne-Jones—The Doom Fulfilled (skip).jpg>)
 
 A: Edward Burne-Jones
 
@@ -1074,17 +1018,9 @@ A: Edward Burne-Jones
 
 ---
 
-Q: Title?
-
-![](<@/art/images/Edward Hopper—Automat.jpg>)
-
-A: Automat
-
----
-
 Q: Artist?
 
-![](<@/art/images/Edward Hopper—Automat.jpg>)
+![](<@/art/images/Edward Hopper—Automat (skip).jpg>)
 
 A: Edward Hopper
 
@@ -1154,17 +1090,9 @@ A: Edward Poynter
 
 ---
 
-Q: Title?
-
-![](<@/art/images/Edward Poynter—The Siren.jpg>)
-
-A: The Siren
-
----
-
 Q: Artist?
 
-![](<@/art/images/Edward Poynter—The Siren.jpg>)
+![](<@/art/images/Edward Poynter—The Siren (skip).jpg>)
 
 A: Edward Poynter
 
@@ -3946,17 +3874,9 @@ A: Joseph Wright of Derby
 
 ---
 
-Q: Title?
-
-![](<@/art/images/Joseph Wright of Derby—Academy by Lamplight.jpg>)
-
-A: Academy by Lamplight
-
----
-
 Q: Artist?
 
-![](<@/art/images/Joseph Wright of Derby—Academy by Lamplight.jpg>)
+![](<@/art/images/Joseph Wright of Derby—Academy by Lamplight (skip).jpg>)
 
 A: Joseph Wright of Derby
 
