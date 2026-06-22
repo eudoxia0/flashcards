@@ -200,8 +200,7 @@ Thy rope of sands
 
 ---
 
-C: It is unworthy of excellent men to lose hours like slaves in the labour of calculations
-which could safely be relegated to anyone else if machines were used.
+C: It is unworthy of excellent men to lose hours like slaves in the labour of calculations which could safely be relegated to anyone else if machines were used.
 
 — [Leibniz]
 
