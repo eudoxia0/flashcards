@@ -60,6 +60,14 @@ A: Henri Poincaré
 
 Q: Name?
 
+![](<images/Jacques Herbrand.jpg>)
+
+A: Jacques Herbrand
+
+---
+
+Q: Name?
+
 ![](<images/L. E. J. Brouwer.jpg>)
 
 A: L. E. J. Brouwer
