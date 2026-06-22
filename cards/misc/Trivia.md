@@ -539,3 +539,8 @@ Q: What is this thing called?
 ![](@/images/hedgehog.jpg)
 
 A: A Czech hedgehog.
+
+---
+
+Q: Who was the most prominent French logician working at the same time as Gödel?
+A: Jacques Herbrand.
