@@ -94,3 +94,8 @@ C: In its resting state, [positive] charges in the extracellular environment are
 ---
 
 C: In its resting state, [negative] charges in the extracellular environment are drawn [away from] the neuron.
+
+---
+
+Q: What does 5-HT stand for?
+A: 5-hydroxytryptamine.
