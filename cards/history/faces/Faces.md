@@ -44,6 +44,14 @@ A: Gaston Julia
 
 Q: Name?
 
+![](<images/Georg Cantor.jpg>)
+
+A: Georg Cantor
+
+---
+
+Q: Name?
+
 ![](<images/Henri Poincaré—old.png>)
 
 A: Henri Poincaré
