@@ -531,3 +531,11 @@ A: The Spanish posessions in the New World with coastlines in the Caribbean or G
 
 Q: Who wrote _The Oil Wars Myth_?
 A: Emily Meierding.
+
+---
+
+Q: What is this thing called?
+
+![](@/images/hedgehog.jpg)
+
+A: A Czech hedgehog.
