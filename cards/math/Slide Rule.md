@@ -8,7 +8,7 @@ A:
 
 Q: Compute $3.2 \times 4.6$.
 A:
-1. Slide `C(10)` over `D(3.2).
+1. Slide `C(10)` over `D(3.2)`.
 2. Slide the cursor over `C(4.6)`.
 3. Read `D` under the cursor: `1.47`.
 4. Multiply by ten: `14.7`
