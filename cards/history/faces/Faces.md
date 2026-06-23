@@ -12,6 +12,14 @@ A: Alonzo Church
 
 Q: Name?
 
+![](<images/Andrey Kolmogorov.jpg>)
+
+A: Andrey Kolmogorov
+
+---
+
+Q: Name?
+
 ![](<images/David Hilbert—old.jpg>)
 
 A: David Hilbert
@@ -23,6 +31,22 @@ Q: Name?
 ![](<images/David Hilbert—young.jpg>)
 
 A: David Hilbert
+
+---
+
+Q: Name?
+
+![](<images/Edward Teller.jpg>)
+
+A: Edward Teller
+
+---
+
+Q: Name?
+
+![](<images/Edward Teller—alt.jpg>)
+
+A: Edward Teller
 
 ---
 
@@ -111,6 +135,14 @@ Q: Name?
 ![](<images/Sophus Lie.jpg>)
 
 A: Sophus Lie
+
+---
+
+Q: Name?
+
+![](<images/Stanisław Ulam.jpg>)
+
+A: Stanisław Ulam
 
 ---
 
