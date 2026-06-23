@@ -858,14 +858,6 @@ A: Edgar Degas
 
 ---
 
-Q: Artist?
-
-![](<@/art/images/Edgar Degas—Woman Seated beside a Vase of Flowers (skip).jpg>)
-
-A: Edgar Degas
-
----
-
 Q: Title?
 
 ![](<@/art/images/Edvard Munch—Anxiety.jpg>)
