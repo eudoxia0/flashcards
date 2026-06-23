@@ -5604,22 +5604,6 @@ A: Thomas Lawrence
 
 Q: Title?
 
-![](<@/art/images/Thomas Lawrence—Portrait of Pope Pius VII.jpg>)
-
-A: Portrait of Pope Pius VII
-
----
-
-Q: Artist?
-
-![](<@/art/images/Thomas Lawrence—Portrait of Pope Pius VII.jpg>)
-
-A: Thomas Lawrence
-
----
-
-Q: Title?
-
 ![](<@/art/images/Thomas Lawrence—Portrait of Prince Leopold.jpg>)
 
 A: Portrait of Prince Leopold
