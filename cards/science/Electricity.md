@@ -108,11 +108,6 @@ A: An intrinsic property of a material that determines how much it resists elect
 
 ---
 
-Q: What is the symbol for resistivity?
-A: $$\rho$$
-
----
-
 Q: What is the unit of resistivity?
 A: $$\Omega \times m$$
 
