@@ -5714,33 +5714,17 @@ A: Tullio Crali
 
 ---
 
-Q: Title?
-
-![](<@/art/images/Tullio Crali—Painting 1.jpg>)
-
-A: Painting 1
-
----
-
 Q: Artist?
 
-![](<@/art/images/Tullio Crali—Painting 1.jpg>)
+![](<@/art/images/Tullio Crali—Painting 1 (skip).jpg>)
 
 A: Tullio Crali
 
 ---
 
-Q: Title?
-
-![](<@/art/images/Tullio Crali—Painting 2.jpg>)
-
-A: Painting 2
-
----
-
 Q: Artist?
 
-![](<@/art/images/Tullio Crali—Painting 2.jpg>)
+![](<@/art/images/Tullio Crali—Painting 2 (skip).jpg>)
 
 A: Tullio Crali
 
