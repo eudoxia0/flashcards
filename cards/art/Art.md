@@ -250,17 +250,9 @@ A: Canaletto
 
 ---
 
-Q: Title?
-
-![](<@/art/images/Canaletto—The Doge and Grand Council in Sala del Maggior Consiglio.jpg>)
-
-A: The Doge and Grand Council in Sala del Maggior Consiglio
-
----
-
 Q: Artist?
 
-![](<@/art/images/Canaletto—The Doge and Grand Council in Sala del Maggior Consiglio.jpg>)
+![](<@/art/images/Canaletto—The Doge and Grand Council in Sala del Maggior Consiglio (skip).jpg>)
 
 A: Canaletto
 
