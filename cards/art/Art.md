@@ -4732,22 +4732,6 @@ A: Pablo Picasso
 
 Q: Title?
 
-![](<@/art/images/Paul Cézanne—Bread and Leg of Lamb.jpg>)
-
-A: Bread and Leg of Lamb
-
----
-
-Q: Artist?
-
-![](<@/art/images/Paul Cézanne—Bread and Leg of Lamb.jpg>)
-
-A: Paul Cézanne
-
----
-
-Q: Title?
-
 ![](<@/art/images/Paul Cézanne—The Abduction.jpg>)
 
 A: The Abduction
