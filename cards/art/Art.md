@@ -5452,22 +5452,6 @@ A: Sandro Botticelli
 
 Q: Title?
 
-![](<@/art/images/Sandro Botticelli—Portrait of Dante.jpg>)
-
-A: Portrait of Dante
-
----
-
-Q: Artist?
-
-![](<@/art/images/Sandro Botticelli—Portrait of Dante.jpg>)
-
-A: Sandro Botticelli
-
----
-
-Q: Title?
-
 ![](<@/art/images/Sandro Botticelli—Portrait of a Young Woman.jpg>)
 
 A: Portrait of a Young Woman
