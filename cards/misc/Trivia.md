@@ -558,3 +558,9 @@ Publication Year: [1976]
 C: Term: [Norman door]
 
 Definition: [a door that's confusing or difficult to use, e.g. you don't know whether to push or pull.]
+
+---
+
+C: Term: [anacoluthon]
+
+Definition: [an unexpected break or shift in a sentence's structure.]
