@@ -564,3 +564,9 @@ Definition: [a door that's confusing or difficult to use, e.g. you don't know wh
 C: Term: [anacoluthon]
 
 Definition: [an unexpected break or shift in a sentence's structure.]
+
+---
+
+C: Term: [ariadnology]
+
+Definition: [Stanisław Lem's term for the theory of search engines.]
