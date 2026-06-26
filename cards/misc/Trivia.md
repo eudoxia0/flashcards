@@ -552,3 +552,9 @@ C: Title: [_Computer Power and Human Reason_]
 Author: [Joseph Weizenbaum]
 
 Publication Year: [1976]
+
+---
+
+C: Term: [Norman door]
+
+Definition: [a door that's confusing or difficult to use, e.g. you don't know whether to push or pull.]
