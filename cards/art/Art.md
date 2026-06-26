@@ -1116,6 +1116,22 @@ A: Edward Steichen
 
 Q: Title?
 
+![](<@/art/images/Edwin Landseer—Man Proposes, God Disposes.jpg>)
+
+A: Man Proposes, God Disposes
+
+---
+
+Q: Artist?
+
+![](<@/art/images/Edwin Landseer—Man Proposes, God Disposes.jpg>)
+
+A: Edwin Landseer
+
+---
+
+Q: Title?
+
 ![](<@/art/images/Edwin Landseer—The Monarch of the Glen.png>)
 
 A: The Monarch of the Glen
