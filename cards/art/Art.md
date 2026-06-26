@@ -6020,6 +6020,22 @@ A: Winslow Homer
 
 Q: Title?
 
+![](<@/art/images/Winslow Homer—The Veteran in a New Field.jpg>)
+
+A: The Veteran in a New Field
+
+---
+
+Q: Artist?
+
+![](<@/art/images/Winslow Homer—The Veteran in a New Field.jpg>)
+
+A: Winslow Homer
+
+---
+
+Q: Title?
+
 ![](<@/art/images/Winslow Homer—Watching the Breakers.jpg>)
 
 A: Watching the Breakers
