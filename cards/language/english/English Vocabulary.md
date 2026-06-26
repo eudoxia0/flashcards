@@ -8,6 +8,11 @@ A: gone to his fathers, died
 
 ---
 
+Q: _ex ante_
+A: Before the event.
+
+---
+
 Q: _mos maiorum_
 A: Ancestral customs.
 
