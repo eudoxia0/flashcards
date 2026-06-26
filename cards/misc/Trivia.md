@@ -544,3 +544,11 @@ A: A Czech hedgehog.
 
 Q: Who was the most prominent French logician working at the same time as Gödel?
 A: Jacques Herbrand.
+
+---
+
+C: Title: [_Computer Power and Human Reason_]
+
+Author: [Joseph Weizenbaum]
+
+Publication Year: [1976]
