@@ -3,6 +3,11 @@ A: The smallest administrative division of the Philippines.
 
 ---
 
+Q: _a priori_
+A: From first principles.
+
+---
+
 Q: _ad patres_
 A: gone to his fathers, died
 
