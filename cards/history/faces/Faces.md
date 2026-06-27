@@ -100,6 +100,14 @@ A: Jacques Herbrand
 
 Q: Name?
 
+![](<images/John Ruskin.jpg>)
+
+A: John Ruskin
+
+---
+
+Q: Name?
+
 ![](<images/L. E. J. Brouwer.jpg>)
 
 A: L. E. J. Brouwer
@@ -143,6 +151,14 @@ Q: Name?
 ![](<images/Stanisław Ulam.jpg>)
 
 A: Stanisław Ulam
+
+---
+
+Q: Name?
+
+![](<images/Thomas Carlyle.jpg>)
+
+A: Thomas Carlyle
 
 ---
 
