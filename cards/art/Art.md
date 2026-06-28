@@ -4180,6 +4180,22 @@ A: Lawrence Alma-Tadema
 
 Q: Title?
 
+![](<@/art/images/Leonardo da Vinci—A Copse of Trees.jpg>)
+
+A: A Copse of Trees
+
+---
+
+Q: Artist?
+
+![](<@/art/images/Leonardo da Vinci—A Copse of Trees.jpg>)
+
+A: Leonardo da Vinci
+
+---
+
+Q: Title?
+
 ![](<@/art/images/Leonardo da Vinci—Ginevra de' Benci.jpg>)
 
 A: Ginevra de' Benci
