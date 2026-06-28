@@ -4,6 +4,14 @@ title = "Great Buildings"
 
 Q: Name?
 
+![](<images/Adolph Menzel—The Iron Rolling Mill.jpg>)
+
+A: Adolph Menzel
+
+---
+
+Q: Name?
+
 ![](<images/Alonzo Church.jpg>)
 
 A: Alonzo Church
