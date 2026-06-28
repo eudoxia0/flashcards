@@ -108,6 +108,14 @@ A: Jacques Herbrand
 
 Q: Name?
 
+![](<images/John Ferguson Weir—Forging the Shaft.jpg>)
+
+A: John Ferguson Weir
+
+---
+
+Q: Name?
+
 ![](<images/John Ruskin.jpg>)
 
 A: John Ruskin
