@@ -1156,6 +1156,22 @@ A: Eugène Boudin
 
 Q: Title?
 
+![](<@/art/images/Evgeny Sedukhin—Symphony of the Sixth Blast Furnace.jpg>)
+
+A: Symphony of the Sixth Blast Furnace
+
+---
+
+Q: Artist?
+
+![](<@/art/images/Evgeny Sedukhin—Symphony of the Sixth Blast Furnace.jpg>)
+
+A: Evgeny Sedukhin
+
+---
+
+Q: Title?
+
 ![](<@/art/images/Ford Madox Brown—Jesus washing Peter's feet.jpg>)
 
 A: Jesus washing Peter's feet
