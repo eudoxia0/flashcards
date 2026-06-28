@@ -5876,15 +5876,15 @@ A: William Blake
 
 Q: Title?
 
-![](<@/art/images/William Blake—The Great Red Dragon and the Woman Clothed In Sun.jpg>)
+![](<@/art/images/William Blake—The Great Red Dragon and the Woman Clothed with the Sun.jpg>)
 
-A: The Great Red Dragon and the Woman Clothed In Sun
+A: The Great Red Dragon and the Woman Clothed with the Sun
 
 ---
 
 Q: Artist?
 
-![](<@/art/images/William Blake—The Great Red Dragon and the Woman Clothed In Sun.jpg>)
+![](<@/art/images/William Blake—The Great Red Dragon and the Woman Clothed with the Sun.jpg>)
 
 A: William Blake
 
