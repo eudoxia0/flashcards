@@ -81,3 +81,7 @@ A: ~100 trillion
 C: Term: [orphan receptor]
 
 Definition: [a receptor for which no endogenous ligand is known.]
+
+---
+
+C: Synaptic vesicles are around [40] nanometers in diameter.
