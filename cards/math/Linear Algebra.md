@@ -40,29 +40,6 @@ A: Because zero is the only number that satisfies $a=-a$.
 
 ---
 
-Q: Define symplectic matrix.
-A: A symplectic matrix $A$ is a $2n \times 2n$ matrix that satisfies:
-
-$$
-A^T \Omega A = \Omega
-$$
-
-where $\Omega$ is a fixed $2n \times 2n$ invertible skew-symmetric matrix.
-
----
-
-Q: Let $A$ be a $2n \times 2n$ matrix that satisfies:
-
-$$
-A^T \Omega A = \Omega
-$$
-
-where $\Omega$ is a fixed $2n \times 2n$ invertible skew-symmetric matrix. What is the term for $A$?
-
-A: Symplectic.
-
----
-
 Q: Let $\mathcal{P}_n$ be the Pauli group for $n$ qubits. How many operators in $\mathcal{P}_n$?
 A: $4^{n+1}$
 
