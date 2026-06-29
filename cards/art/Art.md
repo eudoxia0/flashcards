@@ -12,6 +12,22 @@ A: Uffington White Horse
 
 Q: Title?
 
+![](<@/art/images/Adolph Menzel—The Iron Rolling Mill.jpg>)
+
+A: The Iron Rolling Mill
+
+---
+
+Q: Artist?
+
+![](<@/art/images/Adolph Menzel—The Iron Rolling Mill.jpg>)
+
+A: Adolph Menzel
+
+---
+
+Q: Title?
+
 ![](<@/art/images/Albrecht Dürer—Portrait of Maximilian I.jpg>)
 
 A: Portrait of Maximilian I
@@ -3567,6 +3583,22 @@ Q: Artist?
 ![](<@/art/images/John Everett Millais—The Princes in the Tower.jpg>)
 
 A: John Everett Millais
+
+---
+
+Q: Title?
+
+![](<@/art/images/John Ferguson Weir—Forging the Shaft.jpg>)
+
+A: Forging the Shaft
+
+---
+
+Q: Artist?
+
+![](<@/art/images/John Ferguson Weir—Forging the Shaft.jpg>)
+
+A: John Ferguson Weir
 
 ---
 
