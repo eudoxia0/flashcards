@@ -56,7 +56,7 @@ Definition: [the drug concentration at which half of the available binding sites
 ---
 
 Q: What's the notation for the dissociation constant?
-A: $$K_d$$
+A: $K_d$
 
 ---
 
