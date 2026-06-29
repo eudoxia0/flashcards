@@ -75,3 +75,9 @@ A: 20 to 40 nanometers.
 
 Q: How many synapses are there in a human brain?
 A: ~100 trillion
+
+---
+
+C: Term: [orphan receptor]
+
+Definition: [a receptor for which no endogenous ligand is known.]
