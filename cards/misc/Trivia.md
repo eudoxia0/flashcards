@@ -570,3 +570,13 @@ Definition: [an unexpected break or shift in a sentence's structure.]
 C: Term: [ariadnology]
 
 Definition: [Stanisław Lem's term for the theory of search engines.]
+
+---
+
+Q: What is an `.opf` file?
+A: An XML file that stores metadata mostly for EPUB books.
+
+---
+
+Q: What does OPF (as in an `.opf` file) stand for?
+A: Open Packaging Format.
