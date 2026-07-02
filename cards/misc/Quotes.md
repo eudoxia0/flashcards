@@ -218,7 +218,7 @@ C: God made the integers, all the rest is the work of man.
 
 ---
 
-C: When it is useful to them, men can believe a theory of which they know nothing more than its name. 
+C: When it is useful to them, men can believe a theory of which they know nothing more than its name.
 
 — [Vilfredo Pareto]
 
@@ -305,3 +305,9 @@ C: Unfortunately robots capable of manufacturing robots do not exist. That would
 C: The most stubborn facts are those of the spirit, not those of the physical world.
 
 — [Jean Gottmann]
+
+---
+
+C: Any fool can know. The point is to understand.
+
+--- attributed to [Albert Einstein]
