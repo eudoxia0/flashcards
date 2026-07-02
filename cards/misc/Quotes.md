@@ -310,4 +310,10 @@ C: The most stubborn facts are those of the spirit, not those of the physical wo
 
 C: Any fool can know. The point is to understand.
 
---- attributed to [Albert Einstein]
+— attributed to [Albert Einstein]
+
+---
+
+We are not trying to meet some abstract production quota of definitions, theorems and proofs. The measure of our success is whether what we do enables _people_ to understand and think more clearly and effectively about mathematics.
+
+— [William Thurston], [_On proof and progress in mathematics_]
