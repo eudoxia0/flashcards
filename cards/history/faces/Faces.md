@@ -188,6 +188,14 @@ A: Max Weber
 
 Q: Name?
 
+![](<images/Paul Delaroche.jpg>)
+
+A: Paul Delaroche
+
+---
+
+Q: Name?
+
 ![](<images/Paul Dirac.jpg>)
 
 A: Paul Dirac
