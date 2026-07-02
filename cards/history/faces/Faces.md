@@ -84,6 +84,14 @@ A: Georg Cantor
 
 Q: Name?
 
+![](<images/Gottlob Frege.jpg>)
+
+A: Gottlob Frege
+
+---
+
+Q: Name?
+
 ![](<images/Henri Poincaré—old.png>)
 
 A: Henri Poincaré
