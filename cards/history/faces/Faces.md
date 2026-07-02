@@ -28,6 +28,14 @@ A: Andrey Kolmogorov
 
 Q: Name?
 
+![](<images/Claude Shannon.jpg>)
+
+A: Claude Shannon
+
+---
+
+Q: Name?
+
 ![](<images/David Hilbert—old.jpg>)
 
 A: David Hilbert
