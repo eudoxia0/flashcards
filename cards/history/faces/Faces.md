@@ -180,6 +180,14 @@ A: John William Waterhouse
 
 Q: Name?
 
+![](<images/John William Waterhouse—big.jpg>)
+
+A: John William Waterhouse
+
+---
+
+Q: Name?
+
 ![](<images/L. E. J. Brouwer.jpg>)
 
 A: L. E. J. Brouwer
