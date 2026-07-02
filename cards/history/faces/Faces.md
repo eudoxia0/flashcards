@@ -36,6 +36,14 @@ A: David Hilbert
 
 Q: Name?
 
+![](<images/Edmund Husserl.jpg>)
+
+A: Edmund Husserl
+
+---
+
+Q: Name?
+
 ![](<images/Edward Teller—alt.jpg>)
 
 A: Edward Teller
