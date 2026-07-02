@@ -53,3 +53,15 @@ Action: [previous search result]
 C: Key: [q]
 
 Action: [quit]
+
+---
+
+C: Key: [r]
+
+Action: [rotate]
+
+---
+
+C: Key: [control+r]
+
+Action: [invert colors]
