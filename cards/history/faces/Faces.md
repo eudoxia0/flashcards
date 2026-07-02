@@ -228,6 +228,14 @@ A: Stanisław Ulam
 
 Q: Name?
 
+![](<images/Stephen Cole Kleene.jpg>)
+
+A: Stephen Cole Kleene
+
+---
+
+Q: Name?
+
 ![](<images/Thomas Carlyle.jpg>)
 
 A: Thomas Carlyle
