@@ -172,6 +172,14 @@ A: John Ruskin
 
 Q: Name?
 
+![](<images/John Singer Sargent.jpg>)
+
+A: John Singer Sargent
+
+---
+
+Q: Name?
+
 ![](<images/John William Waterhouse.jpg>)
 
 A: John William Waterhouse
