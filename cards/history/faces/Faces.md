@@ -172,6 +172,14 @@ A: John Ruskin
 
 Q: Name?
 
+![](<images/John William Waterhouse.jpg>)
+
+A: John William Waterhouse
+
+---
+
+Q: Name?
+
 ![](<images/L. E. J. Brouwer.jpg>)
 
 A: L. E. J. Brouwer
