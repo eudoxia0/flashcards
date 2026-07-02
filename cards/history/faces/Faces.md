@@ -156,6 +156,14 @@ A: Jacques Herbrand
 
 Q: Name?
 
+![](<images/Jean-Léon Gérôme.jpg>)
+
+A: Jean-Léon Gérôme
+
+---
+
+Q: Name?
+
 ![](<images/John Ruskin.jpg>)
 
 A: John Ruskin
