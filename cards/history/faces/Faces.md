@@ -108,6 +108,14 @@ A: Henri Poincaré
 
 Q: Name?
 
+![](<images/Herbert Simon.jpg>)
+
+A: Herbert Simon
+
+---
+
+Q: Name?
+
 ![](<images/Hermann Weyl.jpg>)
 
 A: Hermann Weyl
