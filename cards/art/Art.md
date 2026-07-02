@@ -4506,17 +4506,9 @@ A: Léon Bakst
 
 ---
 
-Q: Title?
-
-![](<@/art/images/Léon Bakst—Set design for Daphnis et Chloé.jpg>)
-
-A: Set design for Daphnis et Chloé
-
----
-
 Q: Artist?
 
-![](<@/art/images/Léon Bakst—Set design for Daphnis et Chloé.jpg>)
+![](<@/art/images/Léon Bakst—Set design for Daphnis et Chloé (skip).jpg>)
 
 A: Léon Bakst
 
