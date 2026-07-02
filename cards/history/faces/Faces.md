@@ -148,6 +148,14 @@ A: Leopold Kronecker
 
 Q: Name?
 
+![](<images/Max Weber.jpg>)
+
+A: Max Weber
+
+---
+
+Q: Name?
+
 ![](<images/Paul Dirac.jpg>)
 
 A: Paul Dirac
