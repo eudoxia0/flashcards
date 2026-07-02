@@ -180,6 +180,14 @@ A: Richard Dedekind
 
 Q: Name?
 
+![](<images/Rudolf Carnap.jpg>)
+
+A: Rudolf Carnap
+
+---
+
+Q: Name?
+
 ![](<images/Saunders Mac Lane.jpg>)
 
 A: Saunders Mac Lane
