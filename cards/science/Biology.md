@@ -18,3 +18,9 @@ A: Expressed region.
 Q: Eukaryotic cells can produce multiple proteins from a single gene. Explain how.
 
 A: Transcription can choose which exons to keep and how to join them.
+
+---
+
+C: Term: [ontogeny]
+
+Definition: [the developmental history of an organism within its own lifetime.]
