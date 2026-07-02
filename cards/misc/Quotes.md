@@ -317,3 +317,9 @@ C: Any fool can know. The point is to understand.
 We are not trying to meet some abstract production quota of definitions, theorems and proofs. The measure of our success is whether what we do enables _people_ to understand and think more clearly and effectively about mathematics.
 
 — [William Thurston], [_On proof and progress in mathematics_]
+
+---
+
+The object of mathematics is the honor of the human spirit.
+
+— [Carl Jacobi]
