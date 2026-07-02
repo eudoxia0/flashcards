@@ -164,6 +164,14 @@ A: Richard Dedekind
 
 Q: Name?
 
+![](<images/Saunders Mac Lane.jpg>)
+
+A: Saunders Mac Lane
+
+---
+
+Q: Name?
+
 ![](<images/Sophus Lie.jpg>)
 
 A: Sophus Lie
