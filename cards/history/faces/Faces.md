@@ -36,7 +36,7 @@ A: David Hilbert
 
 Q: Name?
 
-![](<images/Edward Teller.jpg>)
+![](<images/Edward Teller—alt.jpg>)
 
 A: Edward Teller
 
@@ -44,7 +44,7 @@ A: Edward Teller
 
 Q: Name?
 
-![](<images/Edward Teller—alt.jpg>)
+![](<images/Edward Teller.jpg>)
 
 A: Edward Teller
 
@@ -111,6 +111,14 @@ Q: Name?
 ![](<images/L. E. J. Brouwer.jpg>)
 
 A: L. E. J. Brouwer
+
+---
+
+Q: Name?
+
+![](<images/Leopold Kronecker.jpg>)
+
+A: Leopold Kronecker
 
 ---
 
