@@ -92,6 +92,14 @@ A: Henri Poincaré
 
 Q: Name?
 
+![](<images/Hermann Weyl.jpg>)
+
+A: Hermann Weyl
+
+---
+
+Q: Name?
+
 ![](<images/Jacques Herbrand.jpg>)
 
 A: Jacques Herbrand
