@@ -220,6 +220,14 @@ A: Thomas Carlyle
 
 Q: Name?
 
+![](<images/Vilfredo Pareto.jpg>)
+
+A: Vilfredo Pareto
+
+---
+
+Q: Name?
+
 ![](<images/Élie Cartan.jpg>)
 
 A: Élie Cartan
