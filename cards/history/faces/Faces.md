@@ -28,6 +28,14 @@ A: Andrey Kolmogorov
 
 Q: Name?
 
+![](<images/Charles Sanders Peirce.png>)
+
+A: Charles Sanders Peirce
+
+---
+
+Q: Name?
+
 ![](<images/Claude Shannon.jpg>)
 
 A: Claude Shannon
