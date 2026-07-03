@@ -99,3 +99,13 @@ C: In its resting state, [negative] charges in the extracellular environment are
 
 Q: What does 5-HT stand for?
 A: 5-hydroxytryptamine.
+
+---
+
+Q: List the three divisions of the brainstem, from top to bottom.
+A: Midbrain, pons, medulla oblongata.
+
+---
+
+Q: List the three divisions of the brainstem, from bottom to top.
+A: Medulla oblongata, pons, midbrain.
