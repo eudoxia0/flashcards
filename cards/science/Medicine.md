@@ -581,3 +581,55 @@ A: Serotonin antagonist.
 
 Q: What drug is used to counter excess serotonin activity in serotonin syndrome?
 A: Cyproheptadine.
+
+---
+
+C: Term: [scotopic vision]
+
+Definition: [vision in low light conditions.]
+
+---
+
+C: Term: [photopic vision]
+
+Definition: [vision in bright light conditions.]
+
+---
+
+Q: What type of cell in the eye is responsible for scotopic vision?
+A: Rod cells.
+
+---
+
+Q: What type of cell in the eye is responsible for photopic vision?
+A: Cone cells.
+
+---
+
+Q: What type of cell in the eye is responsible for luminance?
+A: Rod cells.
+
+---
+
+Q: What type of cell in the eye is responsible for chrominance?
+A: Cone cells.
+
+---
+
+Q: Do rod cells see chrominance or luminance?
+A: Luminance.
+
+---
+
+Q: Do cone cells see chrominance or luminance?
+A: Chrominance.
+
+---
+
+Q: How many rod cells in the human eye?
+A: 120 million
+
+---
+
+Q: How many cone cells in the human eye?
+A: 6 million.
