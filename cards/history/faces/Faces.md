@@ -172,6 +172,14 @@ A: Gottlob Frege
 
 Q: Name?
 
+![](<images/Grigory Zinoviev.jpg>)
+
+A: Grigory Zinoviev
+
+---
+
+Q: Name?
+
 ![](<images/Henri Poincaré—old.png>)
 
 A: Henri Poincaré
