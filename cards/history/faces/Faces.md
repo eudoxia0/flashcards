@@ -332,6 +332,14 @@ A: Pierre Laval
 
 Q: Name?
 
+![](<images/Pierre-Joseph Proudhon.jpg>)
+
+A: Pierre-Joseph Proudhon
+
+---
+
+Q: Name?
+
 ![](<images/Richard Dedekind.jpg>)
 
 A: Richard Dedekind
