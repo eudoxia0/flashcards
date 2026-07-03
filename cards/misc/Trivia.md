@@ -588,3 +588,18 @@ Q: What is the name of this thing?
 ![](@/images/cheburashka.jpg)
 
 A: Cheburashka.
+
+---
+
+Q: Which Greek figure is remembered for the saying "all that is mine I carry with me"?
+A: Bias of Priene.
+
+---
+
+Q: When Bias of Priene said, "all that is mine I carry with me", what did he mean?
+A: Virtue, not material things, are the only true possesions.
+
+---
+
+Q: Who attributed the saying "all that is mine I carry with me" to Bias of Priene?
+A: Cicero.
