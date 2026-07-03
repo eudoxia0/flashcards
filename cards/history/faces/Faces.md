@@ -20,6 +20,14 @@ A: Alonzo Church
 
 Q: Name?
 
+![](<images/Anastas Mikoyan.jpg>)
+
+A: Anastas Mikoyan
+
+---
+
+Q: Name?
+
 ![](<images/Andrey Kolmogorov.jpg>)
 
 A: Andrey Kolmogorov
