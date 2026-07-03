@@ -276,6 +276,14 @@ A: Leopold Kronecker
 
 Q: Name?
 
+![](<images/Lev Kamenev.jpg>)
+
+A: Lev Kamenev
+
+---
+
+Q: Name?
+
 ![](<images/Ludwig Mies van der Rohe.jpg>)
 
 A: Ludwig Mies van der Rohe
