@@ -436,6 +436,14 @@ A: Vilfredo Pareto
 
 Q: Name?
 
+![](<images/Vyacheslav Molotov.jpg>)
+
+A: Vyacheslav Molotov
+
+---
+
+Q: Name?
+
 ![](<images/Élie Cartan.jpg>)
 
 A: Élie Cartan
