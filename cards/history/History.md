@@ -70,3 +70,9 @@ C: The First Sino-Japanese War ended with the signing of the Treaty of [Shimonos
 ---
 
 C: The Second Sino-Japanese War lasted from [1937] to [1945].
+
+---
+
+C: Operation: [Case Blue]
+
+Description: [Nazi Germany's plan for an offensive in southern Russia in the summer of 1942.]
