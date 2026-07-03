@@ -92,6 +92,14 @@ A: Emmy Noether
 
 Q: Name?
 
+![](<images/Francisco Goya.jpg>)
+
+A: Francisco Goya
+
+---
+
+Q: Name?
+
 ![](<images/Frank Lloyd Wright.jpg>)
 
 A: Frank Lloyd Wright
