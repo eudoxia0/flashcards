@@ -332,6 +332,14 @@ A: Oscar Niemeyer
 
 Q: Name?
 
+![](<images/Osip Mandelstam.jpg>)
+
+A: Osip Mandelstam
+
+---
+
+Q: Name?
+
 ![](<images/Paul Delaroche.jpg>)
 
 A: Paul Delaroche
