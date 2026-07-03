@@ -571,3 +571,13 @@ A: Paroxetine.
 
 Q: What does AAV stand for?
 A: Adeno-associated virus.
+
+---
+
+Q: Cyproheptadine, drug class.
+A: Serotonin antagonist.
+
+---
+
+Q: What drug is used to counter excess serotonin activity in serotonin syndrome?
+A: Cyproheptadine.
