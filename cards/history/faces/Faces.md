@@ -468,6 +468,14 @@ A: Vilfredo Pareto
 
 Q: Name?
 
+![](<images/Vladimir Solovyov.jpg>)
+
+A: Vladimir Solovyov
+
+---
+
+Q: Name?
+
 ![](<images/Vyacheslav Molotov.jpg>)
 
 A: Vyacheslav Molotov
