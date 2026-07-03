@@ -244,6 +244,14 @@ A: Odilon Redon
 
 Q: Name?
 
+![](<images/Oscar Niemeyer.jpg>)
+
+A: Oscar Niemeyer
+
+---
+
+Q: Name?
+
 ![](<images/Paul Delaroche.jpg>)
 
 A: Paul Delaroche
