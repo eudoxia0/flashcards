@@ -156,6 +156,14 @@ A: Georgi Plekhanov
 
 Q: Name?
 
+![](<images/Georgy Malenkov.jpg>)
+
+A: Georgy Malenkov
+
+---
+
+Q: Name?
+
 ![](<images/Gottlob Frege.jpg>)
 
 A: Gottlob Frege
