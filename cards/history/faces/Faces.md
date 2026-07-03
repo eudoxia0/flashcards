@@ -268,6 +268,14 @@ A: Minoru Yamasaki
 
 Q: Name?
 
+![](<images/Nikolay Chernyshevsky.jpg>)
+
+A: Nikolay Chernyshevsky
+
+---
+
+Q: Name?
+
 ![](<images/Odilon Redon.jpg>)
 
 A: Odilon Redon
