@@ -244,6 +244,14 @@ A: Jean-Léon Gérôme
 
 Q: Name?
 
+![](<images/John Dalberg-Acton, 1st Baron Acton.jpg>)
+
+A: John Dalberg-Acton, 1st Baron Acton
+
+---
+
+Q: Name?
+
 ![](<images/John Ruskin.jpg>)
 
 A: John Ruskin
