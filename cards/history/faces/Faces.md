@@ -244,6 +244,14 @@ A: Max Weber
 
 Q: Name?
 
+![](<images/Minoru Yamasaki.jpg>)
+
+A: Minoru Yamasaki
+
+---
+
+Q: Name?
+
 ![](<images/Odilon Redon.jpg>)
 
 A: Odilon Redon
