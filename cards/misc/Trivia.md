@@ -580,3 +580,11 @@ A: An XML file that stores metadata mostly for EPUB books.
 
 Q: What does OPF (as in an `.opf` file) stand for?
 A: Open Packaging Format.
+
+---
+
+Q: What is the name of this thing?
+
+![](@/images/cheburashka.jpg)
+
+A: Cheburashka.
