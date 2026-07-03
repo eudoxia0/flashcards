@@ -398,6 +398,11 @@ A: To soil something.
 
 ---
 
+Q: thole
+A: To endure something.
+
+---
+
 Q: threadbare
 A: (of clothing) worn out
 
