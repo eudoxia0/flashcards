@@ -228,6 +228,14 @@ A: Leopold Kronecker
 
 Q: Name?
 
+![](<images/Ludwig Mies van der Rohe.jpg>)
+
+A: Ludwig Mies van der Rohe
+
+---
+
+Q: Name?
+
 ![](<images/Max Weber.jpg>)
 
 A: Max Weber
