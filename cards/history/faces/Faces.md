@@ -116,6 +116,14 @@ A: Frank Lloyd Wright
 
 Q: Name?
 
+![](<images/Friedrich Hölderlin.jpg>)
+
+A: Friedrich Hölderlin
+
+---
+
+Q: Name?
+
 ![](<images/G. W. F. Hegel.jpg>)
 
 A: G. W. F. Hegel
