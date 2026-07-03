@@ -476,6 +476,14 @@ A: Vladimir Solovyov
 
 Q: Name?
 
+![](<images/Vladimir Vernadsky.jpg>)
+
+A: Vladimir Vernadsky
+
+---
+
+Q: Name?
+
 ![](<images/Vyacheslav Molotov.jpg>)
 
 A: Vyacheslav Molotov
