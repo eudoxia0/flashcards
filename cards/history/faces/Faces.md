@@ -268,6 +268,14 @@ A: John William Waterhouse
 
 Q: Name?
 
+![](<images/Konstantin Tsiolkovsky.jpg>)
+
+A: Konstantin Tsiolkovsky
+
+---
+
+Q: Name?
+
 ![](<images/L. E. J. Brouwer.jpg>)
 
 A: L. E. J. Brouwer
