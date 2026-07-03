@@ -268,6 +268,14 @@ A: Max Weber
 
 Q: Name?
 
+![](<images/Mikhail Bakunin.jpg>)
+
+A: Mikhail Bakunin
+
+---
+
+Q: Name?
+
 ![](<images/Minoru Yamasaki.jpg>)
 
 A: Minoru Yamasaki
