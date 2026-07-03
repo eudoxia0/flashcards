@@ -92,6 +92,22 @@ A: Emmy Noether
 
 Q: Name?
 
+![](<images/Frank Lloyd Wright.jpg>)
+
+A: Frank Lloyd Wright
+
+---
+
+Q: Name?
+
+![](<images/Frank Lloyd Wright—alt.jpg>)
+
+A: Frank Lloyd Wright
+
+---
+
+Q: Name?
+
 ![](<images/Gaston Julia.jpg>)
 
 A: Gaston Julia
