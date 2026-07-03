@@ -292,6 +292,14 @@ A: Max Weber
 
 Q: Name?
 
+![](<images/Maxim Litvinov.jpg>)
+
+A: Maxim Litvinov
+
+---
+
+Q: Name?
+
 ![](<images/Mikhail Bakunin.jpg>)
 
 A: Mikhail Bakunin
