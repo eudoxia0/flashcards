@@ -633,3 +633,15 @@ A: 120 million
 
 Q: How many cone cells in the human eye?
 A: 6 million.
+
+---
+
+C: Term: [retrograde amnesia]
+
+Definition: [the inability to rememeber information acquired before a certain date.]
+
+---
+
+C: Term: [anterograde amnesia]
+
+Definition: [the inability to rememeber information acquired after a certain date.]
