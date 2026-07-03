@@ -132,6 +132,14 @@ A: Georg Cantor
 
 Q: Name?
 
+![](<images/Georgi Plekhanov.jpg>)
+
+A: Georgi Plekhanov
+
+---
+
+Q: Name?
+
 ![](<images/Gottlob Frege.jpg>)
 
 A: Gottlob Frege
