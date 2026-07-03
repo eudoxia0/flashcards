@@ -340,6 +340,14 @@ A: Minoru Yamasaki
 
 Q: Name?
 
+![](<images/Nikolai Berdyaev.jpg>)
+
+A: Nikolai Berdyaev
+
+---
+
+Q: Name?
+
 ![](<images/Nikolay Chernyshevsky.jpg>)
 
 A: Nikolay Chernyshevsky
