@@ -404,6 +404,14 @@ A: Saunders Mac Lane
 
 Q: Name?
 
+![](<images/Sergei Kirov.jpg>)
+
+A: Sergei Kirov
+
+---
+
+Q: Name?
+
 ![](<images/Sophus Lie.jpg>)
 
 A: Sophus Lie
