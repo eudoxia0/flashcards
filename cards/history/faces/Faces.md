@@ -596,6 +596,14 @@ A: Vyacheslav Molotov
 
 Q: Name?
 
+![](<images/Werner Heisenberg.jpg>)
+
+A: Werner Heisenberg
+
+---
+
+Q: Name?
+
 ![](<images/Wolfgang Pauli.jpg>)
 
 A: Wolfgang Pauli
