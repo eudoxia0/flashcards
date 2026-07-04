@@ -239,6 +239,11 @@ A: to treat something abstract as concrete
 
 ---
 
+Q: ijbol
+A: I just burst out laughing.
+
+---
+
 Q: imbricate
 A: to overlap
 
