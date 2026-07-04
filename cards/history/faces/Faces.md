@@ -300,6 +300,14 @@ A: John William Waterhouse
 
 Q: Name?
 
+![](<images/Karl Schwarzschild.jpg>)
+
+A: Karl Schwarzschild
+
+---
+
+Q: Name?
+
 ![](<images/Konstantin Tsiolkovsky.jpg>)
 
 A: Konstantin Tsiolkovsky
