@@ -38,12 +38,20 @@ A: Between 1 and 32.
 
 ---
 
-C: Term: [PTX]
-
-Definition: [the CUDA ISA, "Parallel Thread Execution".]
+Q: What does PTX stand for?
+A: Parallel Thread Execution.
 
 ---
 
-C: Term: [SASS]
+Q: What is the name of the CUDA ISA?
+A: PTX.
 
-Definition: [the NVIDIA GPU ISA, "Streaming ASSembler".]
+---
+
+Q: What does SASS stand for?
+A: Streaming ASSembler.
+
+---
+
+Q: What is the name of the internal NVIDIA GPU ISA?
+A: SASS.
