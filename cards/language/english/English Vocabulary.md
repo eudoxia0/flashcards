@@ -69,6 +69,11 @@ A: going in opposite directions
 
 ---
 
+Q: atp
+A: At this point.
+
+---
+
 Q: badelaire
 A: A short sword with a heavy, curved blade; and S-shaped quillons.
 
