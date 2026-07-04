@@ -148,6 +148,14 @@ A: Erwin Schrödinger
 
 Q: Name?
 
+![](<images/Eugene Wigner.jpg>)
+
+A: Eugene Wigner
+
+---
+
+Q: Name?
+
 ![](<images/Francisco Goya.jpg>)
 
 A: Francisco Goya
