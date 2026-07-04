@@ -188,6 +188,14 @@ A: Grigory Zinoviev
 
 Q: Name?
 
+![](<images/Guglielmo Marconi.jpg>)
+
+A: Guglielmo Marconi
+
+---
+
+Q: Name?
+
 ![](<images/Heinrich Hertz.jpg>)
 
 A: Heinrich Hertz
