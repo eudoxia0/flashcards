@@ -388,6 +388,14 @@ A: Max Born
 
 Q: Name?
 
+![](<images/Max Planck.jpg>)
+
+A: Max Planck
+
+---
+
+Q: Name?
+
 ![](<images/Max Weber.jpg>)
 
 A: Max Weber
