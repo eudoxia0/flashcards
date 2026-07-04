@@ -645,3 +645,13 @@ Definition: [the inability to remember information acquired before a certain dat
 C: Term: [anterograde amnesia]
 
 Definition: [the inability to remember information acquired after a certain date.]
+
+---
+
+Q: Pervitin was a trade name of which drug?
+A: Methamphetamine.
+
+---
+
+Q: Trade name of methamphetamine in Nazi Germany.
+A: Pervitin.
