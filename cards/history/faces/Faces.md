@@ -500,6 +500,14 @@ A: Stephen Cole Kleene
 
 Q: Name?
 
+![](<images/Subrahmanyan Chandrasekhar.jpg>)
+
+A: Subrahmanyan Chandrasekhar
+
+---
+
+Q: Name?
+
 ![](<images/Thomas Carlyle.jpg>)
 
 A: Thomas Carlyle
