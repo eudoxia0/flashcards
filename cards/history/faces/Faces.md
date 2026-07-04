@@ -260,6 +260,14 @@ A: Jacques Herbrand
 
 Q: Name?
 
+![](<images/James Clerk Maxwell.jpg>)
+
+A: James Clerk Maxwell
+
+---
+
+Q: Name?
+
 ![](<images/Jean-Léon Gérôme.jpg>)
 
 A: Jean-Léon Gérôme
