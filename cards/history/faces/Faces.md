@@ -596,6 +596,14 @@ A: Vyacheslav Molotov
 
 Q: Name?
 
+![](<images/Wolfgang Pauli.jpg>)
+
+A: Wolfgang Pauli
+
+---
+
+Q: Name?
+
 ![](<images/Élie Cartan.jpg>)
 
 A: Élie Cartan
