@@ -36,6 +36,14 @@ A: Andrey Kolmogorov
 
 Q: Name?
 
+![](<images/Archibald Primrose, the Earl of Rosebery.jpg>)
+
+A: Archibald Primrose, the Earl of Rosebery
+
+---
+
+Q: Name?
+
 ![](<images/Auguste Piccard.jpg>)
 
 A: Auguste Piccard
