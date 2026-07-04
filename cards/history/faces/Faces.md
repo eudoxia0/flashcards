@@ -188,6 +188,14 @@ A: Grigory Zinoviev
 
 Q: Name?
 
+![](<images/Heinrich Hertz.jpg>)
+
+A: Heinrich Hertz
+
+---
+
+Q: Name?
+
 ![](<images/Henri Poincaré—old.png>)
 
 A: Henri Poincaré
