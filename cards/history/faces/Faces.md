@@ -52,6 +52,14 @@ A: Auguste Piccard
 
 Q: Name?
 
+![](<images/Benjamin Disraeli, the Earl of Beaconsfield.jpg>)
+
+A: Benjamin Disraeli, the Earl of Beaconsfield
+
+---
+
+Q: Name?
+
 ![](<images/Charles Sanders Peirce.png>)
 
 A: Charles Sanders Peirce
