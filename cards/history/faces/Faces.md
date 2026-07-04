@@ -132,6 +132,14 @@ A: Friedrich Hölderlin
 
 Q: Name?
 
+![](<images/Fritz Haber.jpg>)
+
+A: Fritz Haber
+
+---
+
+Q: Name?
+
 ![](<images/G. W. F. Hegel.jpg>)
 
 A: G. W. F. Hegel
