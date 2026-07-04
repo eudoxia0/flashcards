@@ -292,6 +292,14 @@ A: Hermann Weyl
 
 Q: Name?
 
+![](<images/Hugh Everett.jpg>)
+
+A: Hugh Everett
+
+---
+
+Q: Name?
+
 ![](<images/Ilya Repin.jpg>)
 
 A: Ilya Repin
