@@ -332,6 +332,14 @@ A: Jean-Léon Gérôme
 
 Q: Name?
 
+![](<images/John Archibald Wheeler.jpg>)
+
+A: John Archibald Wheeler
+
+---
+
+Q: Name?
+
 ![](<images/John Dalberg-Acton, 1st Baron Acton.jpg>)
 
 A: John Dalberg-Acton, 1st Baron Acton
