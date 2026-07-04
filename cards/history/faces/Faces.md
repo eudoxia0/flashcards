@@ -228,6 +228,14 @@ A: Heinrich Hertz
 
 Q: Name?
 
+![](<images/Hendrik Lorentz.jpg>)
+
+A: Hendrik Lorentz
+
+---
+
+Q: Name?
+
 ![](<images/Henri Poincaré—old.png>)
 
 A: Henri Poincaré
