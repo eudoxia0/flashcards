@@ -36,6 +36,14 @@ A: Andrey Kolmogorov
 
 Q: Name?
 
+![](<images/Auguste Piccard.jpg>)
+
+A: Auguste Piccard
+
+---
+
+Q: Name?
+
 ![](<images/Charles Sanders Peirce.png>)
 
 A: Charles Sanders Peirce
