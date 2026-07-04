@@ -108,6 +108,14 @@ A: Emmy Noether
 
 Q: Name?
 
+![](<images/Ernest Rutherford.jpg>)
+
+A: Ernest Rutherford
+
+---
+
+Q: Name?
+
 ![](<images/Erwin Schrödinger.jpg>)
 
 A: Erwin Schrödinger
