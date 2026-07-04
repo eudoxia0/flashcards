@@ -60,6 +60,14 @@ A: Benjamin Disraeli, the Earl of Beaconsfield
 
 Q: Name?
 
+![](<images/Bryce DeWitt.jpg>)
+
+A: Bryce DeWitt
+
+---
+
+Q: Name?
+
 ![](<images/Charles Sanders Peirce.png>)
 
 A: Charles Sanders Peirce
