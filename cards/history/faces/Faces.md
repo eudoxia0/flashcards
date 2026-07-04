@@ -420,6 +420,14 @@ A: Minoru Yamasaki
 
 Q: Name?
 
+![](<images/Niels Bohr.jpg>)
+
+A: Niels Bohr
+
+---
+
+Q: Name?
+
 ![](<images/Nikolai Berdyaev.jpg>)
 
 A: Nikolai Berdyaev
