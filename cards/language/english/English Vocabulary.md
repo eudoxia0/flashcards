@@ -18,8 +18,9 @@ A: Before the event.
 
 ---
 
-Q: _mos maiorum_
-A: Ancestral customs.
+Q: _menhera_
+A: Japanese slang, from 'mental health', describes a fictional character with a mental disorder.'
+_mos maiorum_, Ancestral customs."
 
 ---
 
