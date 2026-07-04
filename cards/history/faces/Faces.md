@@ -380,6 +380,14 @@ A: Ludwig Mies van der Rohe
 
 Q: Name?
 
+![](<images/Marie Curie.jpg>)
+
+A: Marie Curie
+
+---
+
+Q: Name?
+
 ![](<images/Max Born.jpg>)
 
 A: Max Born
