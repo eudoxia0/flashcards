@@ -638,10 +638,10 @@ A: 6 million.
 
 C: Term: [retrograde amnesia]
 
-Definition: [the inability to rememeber information acquired before a certain date.]
+Definition: [the inability to remember information acquired before a certain date.]
 
 ---
 
 C: Term: [anterograde amnesia]
 
-Definition: [the inability to rememeber information acquired after a certain date.]
+Definition: [the inability to remember information acquired after a certain date.]
