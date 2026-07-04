@@ -460,6 +460,14 @@ A: Paul Dirac
 
 Q: Name?
 
+![](<images/Paul Ehrenfest.jpg>)
+
+A: Paul Ehrenfest
+
+---
+
+Q: Name?
+
 ![](<images/Pierre Laval.jpg>)
 
 A: Pierre Laval
