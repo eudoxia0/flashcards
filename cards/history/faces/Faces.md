@@ -108,6 +108,14 @@ A: Emmy Noether
 
 Q: Name?
 
+![](<images/Erwin Schrödinger.jpg>)
+
+A: Erwin Schrödinger
+
+---
+
+Q: Name?
+
 ![](<images/Francisco Goya.jpg>)
 
 A: Francisco Goya
