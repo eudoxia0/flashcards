@@ -689,3 +689,19 @@ A: Emergency medical technician.
 
 Q: What does ENT stand for?
 A: Ear-nose-throat.
+
+---
+
+C: Term: [otoscope]
+
+Definition: [a medical device used to look inside the ear.]
+
+---
+
+Q: What is an otoscope?
+A: An instrument used to look inside the ear.
+
+---
+
+Q: What do you call a medical instrument to look inside the ear canal?
+A: An otoscope.
