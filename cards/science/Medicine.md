@@ -727,3 +727,16 @@ C: The US trade name of [paracetamol] is [Tylenol].
 ---
 
 C: The Australian trade name of [paracetamol] is [Panadol].
+
+---
+
+C: The trade name of [diclofenac] is [Voltaren].
+
+---
+
+C: The INN of [Voltaren] is [diclofenac].
+
+---
+
+Q: Diclofenac, drug class.
+A: NSAID.
