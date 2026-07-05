@@ -47,4 +47,4 @@ A: Gottfried Wilhelm Leibniz.
 ---
 
 Q: Leibniz, alma mater.
-A: The University of Leipzig.
+A: The University of Leipzig and the University of Altdorf.
