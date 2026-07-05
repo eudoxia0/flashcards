@@ -608,3 +608,8 @@ A: Cicero.
 
 Q: What does FMCG stand for?
 A: Fast-moving consumer goods.
+
+---
+
+Q: What does EFTPOS stand for?
+A: Electronic Funds Transfer at Point of Sale.
