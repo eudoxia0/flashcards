@@ -740,3 +740,8 @@ C: The INN of [Voltaren] is [diclofenac].
 
 Q: Diclofenac, drug class.
 A: NSAID.
+
+---
+
+Q: Ibuprofen, drug class.
+A: NSAID.
