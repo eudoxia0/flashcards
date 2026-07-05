@@ -10,3 +10,8 @@ A: `nix develop`.
 
 Q: Command to search for Nix packages matching the regex `$RE`.
 A: `nix search nixpkgs $RE`
+
+---
+
+Q: Command to build and a switch to a new NixOS config described in `config.nix`, without flakes.
+A: `sudo nixos-rebuild switch -I nixos-config=config.nix`
