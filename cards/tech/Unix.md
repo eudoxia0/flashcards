@@ -152,3 +152,8 @@ A: `readlink -f p`
 
 Q: What is the Wayland equivalent of Redshift?
 A: `wlsunset`
+
+---
+
+Q: If you want to find the `/dev/...` path of a USB device, what command should you use?
+A: `lsblk`
