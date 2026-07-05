@@ -753,7 +753,7 @@ A: Cytochrome 3A4.
 
 ---
 
-Q: What is the active ingredient in grapefruit that inhibit CYP3A4?
+Q: What is the active ingredient in grapefruit that inhibits CYP3A4?
 A: The furanocoumarins.
 
 ---
