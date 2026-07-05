@@ -708,7 +708,7 @@ A: An otoscope.
 
 ---
 
-C: Term: [nasal endscope]
+C: Term: [nasal endoscope]
 
 Definition: [a medical device used to look inside the nose.]
 
