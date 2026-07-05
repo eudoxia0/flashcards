@@ -711,3 +711,11 @@ A: An otoscope.
 C: Term: [nasal endscope]
 
 Definition: [a medical device used to look inside the nose.]
+
+---
+
+C: In the US, paracetamol is known as [acetaminophen].
+
+---
+
+C: In most of the world, acetaminophen is known as [paracetamol].
