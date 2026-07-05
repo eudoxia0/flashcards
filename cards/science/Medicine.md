@@ -763,7 +763,7 @@ A: The furanocoumarins in grapefruit irreversibly deactivate cytochrome 3A4, so 
 
 ---
 
-C: Co-aleva is a combination of [esbastine] and [betamethasone].
+C: Co-aleva is a combination of [ebastine] and [betamethasone].
 
 ---
 
