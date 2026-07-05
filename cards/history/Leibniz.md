@@ -38,3 +38,8 @@ C: In modern terms, Leibniz's [_characteristica universalis_] corresponds to the
 ---
 
 C: In modern terms, Leibniz's [_calculus ratiocinator_] corresponds to the modern notion of a [proof system].
+
+---
+
+Q: Leibniz's full name.
+A: Gottfried Wilhelm Leibniz.
