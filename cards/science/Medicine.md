@@ -663,3 +663,19 @@ A: Methamphetamine.
 
 Q: Trade name of methamphetamine in Nazi Germany.
 A: Pervitin.
+
+---
+
+C: Term: [sphygmomanometer]
+
+Definition: [a medical device used to measure blood pressure.]
+
+---
+
+Q: What is a sphygmomanometer?
+A: An instrument used to measure blood pressure.
+
+---
+
+Q: What do you call a device to measure blood pressure?
+A: A sphygmomanometer.
