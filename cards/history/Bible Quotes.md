@@ -195,3 +195,14 @@ I returned, and saw under the sun, that the race is not to the swift, nor the ba
 
 Q: Ecclesiastes 9:11
 A: I returned, and saw under the sun, that the race is not to the swift, nor the battle to the strong, neither yet bread to the wise, nor yet riches to men of understanding, nor yet favour to men of skill; but time and chance happeneth to them all.
+
+---
+
+C: Let them alone: they be blind leaders of the blind. And if the blind lead the blind, both shall fall into the ditch.
+
+— [Matthew] [15]:[14]
+
+---
+
+Q: Matthew 15:14
+A: Let them alone: they be blind leaders of the blind. And if the blind lead the blind, both shall fall into the ditch.
