@@ -444,6 +444,14 @@ A: Lev Kamenev
 
 Q: Name?
 
+![](<images/Ludwig Boltzmann.jpg>)
+
+A: Ludwig Boltzmann
+
+---
+
+Q: Name?
+
 ![](<images/Ludwig Mies van der Rohe.jpg>)
 
 A: Ludwig Mies van der Rohe
