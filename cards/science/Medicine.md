@@ -719,3 +719,11 @@ C: In the US, paracetamol is known as [acetaminophen].
 ---
 
 C: In most of the world, acetaminophen is known as [paracetamol].
+
+---
+
+C: The US trade name of [paracetamol] is [Tylenol].
+
+---
+
+C: The Australian trade name of [paracetamol] is [Panadol].
