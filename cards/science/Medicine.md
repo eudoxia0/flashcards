@@ -760,3 +760,17 @@ A: The furanocoumarins.
 
 Q: Why does the grapefruit-drug interaction last so long?
 A: The furanocoumarins in grapefruit irreversibly deactivate cytochrome 3A4, so new enzymes have to be synthesized.
+
+---
+
+C: Coaleva is a combination of [esbastine] and [betamethasone].
+
+---
+
+Q: Ebastine, drug class.
+A: Antihistamine.
+
+---
+
+Q: Betamethasone, drug class.
+A: Corticosteroid.
