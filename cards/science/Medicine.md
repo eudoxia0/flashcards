@@ -745,3 +745,18 @@ A: NSAID.
 
 Q: Ibuprofen, drug class.
 A: NSAID.
+
+---
+
+Q: What enzyme does grapefruit inhibit?
+A: Cytochrome 3A4.
+
+---
+
+Q: What is the active ingredient in grapefruit that inhibit CYP3A4?
+A: The furanocoumarins.
+
+---
+
+Q: Why does the grapefruit-drug interaction last so long?
+A: The furanocoumarins in grapefruit irreversibly deactivate cytochrome 3A4, so new enzymes have to be synthesized.
