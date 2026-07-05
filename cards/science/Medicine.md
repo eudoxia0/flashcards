@@ -679,3 +679,8 @@ A: An instrument used to measure blood pressure.
 
 Q: What do you call a device to measure blood pressure?
 A: A sphygmomanometer.
+
+---
+
+Q: What does EMT stand for?
+A: Emergency medical technician.
