@@ -140,6 +140,14 @@ A: Ernest Rutherford
 
 Q: Name?
 
+![](<images/Ernst Mach.jpg>)
+
+A: Ernst Mach
+
+---
+
+Q: Name?
+
 ![](<images/Erwin Schrödinger.jpg>)
 
 A: Erwin Schrödinger
