@@ -370,6 +370,14 @@ A: Fluoxetine.
 
 ---
 
+C: The INN of Prozac is [fluoxetine].
+
+---
+
+C: The trade name of fluoxetine is [Prozac].
+
+---
+
 Q: What is the trade name of sertraline?
 A: Zoloft.
 
