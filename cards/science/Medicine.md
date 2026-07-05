@@ -774,3 +774,7 @@ A: Antihistamine.
 
 Q: Betamethasone, drug class.
 A: Corticosteroid.
+
+---
+
+C: Co-amoxiclav is a combination of [amoxicillin] and [clavulanic acid].
