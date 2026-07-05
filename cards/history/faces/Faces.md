@@ -236,6 +236,14 @@ A: Georgy Malenkov
 
 Q: Name?
 
+![](<images/Gottfried Wilhelm Leibniz.jpg>)
+
+A: Gottfried Wilhelm Leibniz
+
+---
+
+Q: Name?
+
 ![](<images/Gottlob Frege.jpg>)
 
 A: Gottlob Frege
