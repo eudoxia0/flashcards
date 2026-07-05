@@ -603,3 +603,8 @@ A: Virtue, not material things, are the only true possesions.
 
 Q: Who attributed the saying "all that is mine I carry with me" to Bias of Priene?
 A: Cicero.
+
+---
+
+Q: What does FMCG stand for?
+A: Fast-moving consumer goods.
