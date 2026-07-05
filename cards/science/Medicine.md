@@ -684,3 +684,8 @@ A: A sphygmomanometer.
 
 Q: What does EMT stand for?
 A: Emergency medical technician.
+
+---
+
+Q: What does ENT stand for?
+A: Ear-nose-throat.
