@@ -660,6 +660,14 @@ A: Richard Dedekind
 
 Q: Name?
 
+![](<images/Richard Wagner.jpg>)
+
+A: Richard Wagner
+
+---
+
+Q: Name?
+
 ![](<images/Rudolf Carnap.jpg>)
 
 A: Rudolf Carnap
