@@ -82,6 +82,22 @@ A: Alexander Rothaug
 
 ---
 
+Q: Title?
+
+![](<@/art/images/Alexander Rothaug—The Fruits of the Sea.jpg>)
+
+A: The Fruits of the Sea
+
+---
+
+Q: Artist?
+
+![](<@/art/images/Alexander Rothaug—The Fruits of the Sea.jpg>)
+
+A: Alexander Rothaug
+
+---
+
 Q: Artist?
 
 ![](<@/art/images/Alfred Stevens—In the Studio (skip).jpg>)
