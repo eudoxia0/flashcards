@@ -460,6 +460,14 @@ A: Lev Kamenev
 
 Q: Name?
 
+![](<images/Lev Landau.jpg>)
+
+A: Lev Landau
+
+---
+
+Q: Name?
+
 ![](<images/Ludwig Boltzmann.jpg>)
 
 A: Ludwig Boltzmann
