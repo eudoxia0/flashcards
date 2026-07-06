@@ -5010,6 +5010,22 @@ A: Paul Gauguin
 
 ---
 
+Q: Title?
+
+![](<@/art/images/Paul Klee—Fish Magic.jpg>)
+
+A: Fish Magic
+
+---
+
+Q: Artist?
+
+![](<@/art/images/Paul Klee—Fish Magic.jpg>)
+
+A: Paul Klee
+
+---
+
 Q: Artist?
 
 ![](<@/art/images/Peder Severin Krøyer—A luncheon (skip).jpg>)
