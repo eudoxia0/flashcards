@@ -140,6 +140,14 @@ A: Edward Teller
 
 Q: Name?
 
+![](<images/Emanuel Swedenborg.png>)
+
+A: Emanuel Swedenborg
+
+---
+
+Q: Name?
+
 ![](<images/Emmy Noether.jpg>)
 
 A: Emmy Noether
