@@ -613,3 +613,8 @@ A: Fast-moving consumer goods.
 
 Q: What does EFTPOS stand for?
 A: Electronic Funds Transfer at Point of Sale.
+
+---
+
+Q: How do you pronounce Pauli? (as in Wolfgang Pauli)
+A: /pauli/
