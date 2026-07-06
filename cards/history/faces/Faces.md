@@ -100,6 +100,14 @@ A: David Hilbert
 
 Q: Name?
 
+![](<images/Dmitri Mendeleyev.jpg>)
+
+A: Dmitri Mendeleyev
+
+---
+
+Q: Name?
+
 ![](<images/Edmund Husserl.jpg>)
 
 A: Edmund Husserl
