@@ -252,6 +252,14 @@ A: Georgy Malenkov
 
 Q: Name?
 
+![](<images/Giuseppe Verdi.jpg>)
+
+A: Giuseppe Verdi
+
+---
+
+Q: Name?
+
 ![](<images/Gottfried Wilhelm Leibniz.jpg>)
 
 A: Gottfried Wilhelm Leibniz
