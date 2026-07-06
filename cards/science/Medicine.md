@@ -795,3 +795,6 @@ Q: What does ARVC stand for?
 A: Arrhythmogenic right ventricular cardiomyopathy.
 
 ---
+
+Q: What does ARVD stand for?
+A: Arrhythmogenic right ventricular dysplasia.
