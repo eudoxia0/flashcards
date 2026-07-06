@@ -66,6 +66,22 @@ A: Albrecht Dürer
 
 ---
 
+Q: Title?
+
+![](<@/art/images/Alexander Rothaug—Get Over!.jpg>)
+
+A: Get Over!
+
+---
+
+Q: Artist?
+
+![](<@/art/images/Alexander Rothaug—Get Over!.jpg>)
+
+A: Alexander Rothaug
+
+---
+
 Q: Artist?
 
 ![](<@/art/images/Alfred Stevens—In the Studio (skip).jpg>)
