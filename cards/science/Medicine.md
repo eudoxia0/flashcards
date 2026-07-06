@@ -798,3 +798,9 @@ A: Arrhythmogenic right ventricular cardiomyopathy.
 
 Q: What does ARVD stand for?
 A: Arrhythmogenic right ventricular dysplasia.
+
+---
+
+C: Term: [preponent response]
+
+Definition: [an automatic, strong conditioned response to a stimulus.]
