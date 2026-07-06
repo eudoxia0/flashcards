@@ -204,6 +204,14 @@ A: Friedrich Hölderlin
 
 Q: Name?
 
+![](<images/Friedrich Nietzsche.jpg>)
+
+A: Friedrich Nietzsche
+
+---
+
+Q: Name?
+
 ![](<images/Fritz Haber.jpg>)
 
 A: Fritz Haber
