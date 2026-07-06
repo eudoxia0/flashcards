@@ -236,6 +236,14 @@ A: Georg Cantor
 
 Q: Name?
 
+![](<images/Georges Bizet.jpg>)
+
+A: Georges Bizet
+
+---
+
+Q: Name?
+
 ![](<images/Georgi Plekhanov.jpg>)
 
 A: Georgi Plekhanov
