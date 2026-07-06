@@ -724,6 +724,14 @@ A: Werner Heisenberg
 
 Q: Name?
 
+![](<images/William James.jpg>)
+
+A: William James
+
+---
+
+Q: Name?
+
 ![](<images/Wolfgang Pauli.jpg>)
 
 A: Wolfgang Pauli
