@@ -803,4 +803,4 @@ A: Arrhythmogenic right ventricular dysplasia.
 
 C: Term: [preponent response]
 
-Definition: [an automatic, strong conditioned response to a stimulus.]
+Definition: [a natural, habitual, or dominant behavioral response to a stimulus.]
