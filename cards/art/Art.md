@@ -1732,6 +1732,22 @@ A: Frederic Edwin Church
 
 Q: Title?
 
+![](<@/art/images/Frederic Leighton—Flaming June.jpg>)
+
+A: Flaming June
+
+---
+
+Q: Artist?
+
+![](<@/art/images/Frederic Leighton—Flaming June.jpg>)
+
+A: Frederic Leighton
+
+---
+
+Q: Title?
+
 ![](<@/art/images/Friedrich von Amerling—Portrait of Austrian Emperor Francis I.jpg>)
 
 A: Portrait of Austrian Emperor Francis I
