@@ -308,6 +308,14 @@ A: Henri Poincaré
 
 Q: Name?
 
+![](<images/Henry James.jpg>)
+
+A: Henry James
+
+---
+
+Q: Name?
+
 ![](<images/Herbert Simon.jpg>)
 
 A: Herbert Simon
