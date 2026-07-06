@@ -44,6 +44,14 @@ A: Archibald Primrose, the Earl of Rosebery
 
 Q: Name?
 
+![](<images/Arthur Schopenhauer.jpg>)
+
+A: Arthur Schopenhauer
+
+---
+
+Q: Name?
+
 ![](<images/Auguste Piccard.jpg>)
 
 A: Auguste Piccard
