@@ -788,3 +788,10 @@ A: Co-amoxiclav.
 
 Q: What does HCM stand for?
 A: Hypertrophic cardiomyopathy.
+
+---
+
+Q: What does ARVC stand for?
+A: Arrhythmogenic right ventricular cardiomyopathy.
+
+---
