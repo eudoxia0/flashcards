@@ -444,6 +444,14 @@ A: L. E. J. Brouwer
 
 Q: Name?
 
+![](<images/Leonhard Euler.jpg>)
+
+A: Leonhard Euler
+
+---
+
+Q: Name?
+
 ![](<images/Leopold Kronecker.jpg>)
 
 A: Leopold Kronecker
