@@ -783,3 +783,8 @@ C: [Co-amoxiclav] is a combination of [amoxicillin] and [clavulanic acid].
 
 Q: Name for the combination of amoxicillin and clavulanic acid.
 A: Co-amoxiclav.
+
+---
+
+Q: What does HCM stand for?
+A: Hypertrophic cardiomyopathy.
