@@ -4,6 +4,14 @@ title = "Great Buildings"
 
 Q: Name?
 
+![](<images/Alexander Grothendieck.jpg>)
+
+A: Alexander Grothendieck
+
+---
+
+Q: Name?
+
 ![](<images/Allen Newell.jpg>)
 
 A: Allen Newell
