@@ -116,6 +116,14 @@ A: Dmitri Mendeleyev
 
 Q: Name?
 
+![](<images/E. O. Wilson.jpg>)
+
+A: E. O. Wilson
+
+---
+
+Q: Name?
+
 ![](<images/Edmund Husserl.jpg>)
 
 A: Edmund Husserl
