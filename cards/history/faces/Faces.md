@@ -396,6 +396,14 @@ A: Ilya Repin
 
 Q: Name?
 
+![](<images/J. B. S. Haldane.jpg>)
+
+A: J. B. S. Haldane
+
+---
+
+Q: Name?
+
 ![](<images/Jacques Herbrand.jpg>)
 
 A: Jacques Herbrand
