@@ -323,3 +323,9 @@ We are not trying to meet some abstract production quota of definitions, theorem
 The object of mathematics is the honor of the human spirit.
 
 — [Carl Jacobi]
+
+---
+
+C: Mathematics translates concepts into formalisms and applies those formalisms to derive insights that are usually not amenable to a less formal analysis.
+
+— [Jürgen Jost], [_Mathematical Concepts_]
