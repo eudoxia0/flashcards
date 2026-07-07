@@ -30,3 +30,8 @@ C:
 Term: [lexicalization]
 
 Definition: [The addition of a new word to a language.]
+
+---
+
+Q: What does SSM stand for?
+A: Self-segregating morphology.
