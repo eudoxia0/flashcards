@@ -443,6 +443,11 @@ A: Of or relating to the Vehm, a medieval German secret court.
 
 ---
 
+Q: vignette
+A: A short, plotless slice-of-life story.
+
+---
+
 Q: vitiate
 A: To reduce the effectiveness of something.
 
