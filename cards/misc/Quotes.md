@@ -320,7 +320,7 @@ We are not trying to meet some abstract production quota of definitions, theorem
 
 ---
 
-The object of mathematics is the honor of the human spirit.
+C: The object of mathematics is the honor of the human spirit.
 
 — [Carl Jacobi]
 
