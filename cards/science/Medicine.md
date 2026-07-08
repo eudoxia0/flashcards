@@ -812,3 +812,11 @@ C: Vitamin [B1] is also known as [thiamine].
 ---
 
 C: [Thiamine] is also known as [vitamin B1].
+
+---
+
+C: Vitamin [B2] is also known as [riboflavin].
+
+---
+
+C: [Riboflavin] is also known as [vitamin B2].
