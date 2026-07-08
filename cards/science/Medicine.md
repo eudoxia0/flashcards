@@ -852,3 +852,11 @@ C: [Thiamine deficiency] is also known as [beriberi].
 ---
 
 C: [Beriberi] is another name for [thiamine deficiency].
+
+---
+
+C: [Vitamin B3 deficiency] is also known as [pellagra].
+
+---
+
+C: [Pellagra] is another name for [vitamin B3 deficiency].
