@@ -836,3 +836,11 @@ C: Vitamin [B5] is also known as [pantothenic acid].
 ---
 
 C: [Panthotenic acid] is also known as [vitamin B4].
+
+---
+
+C: Vitamin [B7] is also known as [biotin].
+
+---
+
+C: [Biotin] is also known as [vitamin B7].
