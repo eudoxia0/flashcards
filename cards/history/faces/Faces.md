@@ -820,6 +820,14 @@ A: Thomas Carlyle
 
 Q: Name?
 
+![](<images/Victor Hugo.jpg>)
+
+A: Victor Hugo
+
+---
+
+Q: Name?
+
 ![](<images/Vilfredo Pareto.jpg>)
 
 A: Vilfredo Pareto
