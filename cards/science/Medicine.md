@@ -804,3 +804,11 @@ A: Arrhythmogenic right ventricular dysplasia.
 C: Term: [preponent response]
 
 Definition: [a natural, habitual, or dominant behavioral response to a stimulus.]
+
+---
+
+C: Vitamin [B1] is also known as [thiamine].
+
+---
+
+C: [Thiamine] is also known as [vitamin B1].
