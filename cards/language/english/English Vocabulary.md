@@ -313,6 +313,11 @@ A: A moral role model.
 
 ---
 
+Q: mucilaginous
+A: A sticky or gelatinous substance.
+
+---
+
 Q: nicodemite
 A: Someone suspected of misrepresenting their religious beliefs.
 
