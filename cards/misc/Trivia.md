@@ -638,3 +638,8 @@ A: Videocassette Recorder.
 
 Q: What does DVD stand for?
 A: Digital Video Disc.
+
+---
+
+Q: What does LTO stand for?
+A: Linear Tape-Open.
