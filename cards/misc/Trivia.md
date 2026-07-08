@@ -633,3 +633,8 @@ A: Video Home System.
 
 Q: What does VCR stand for?
 A: Videocassette Recorder.
+
+---
+
+Q: What does DVD stand for?
+A: Digital Video Disc.
