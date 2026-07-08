@@ -652,6 +652,14 @@ A: Nikolai Berdyaev
 
 Q: Name?
 
+![](<images/Nikolai Lobachevsky.jpg>)
+
+A: Nikolai Lobachevsky
+
+---
+
+Q: Name?
+
 ![](<images/Nikolay Chernyshevsky.jpg>)
 
 A: Nikolay Chernyshevsky
