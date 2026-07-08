@@ -55,10 +55,19 @@ A: Kazakhstan.
 
 ---
 
-Q: The Golden Triangle Special Economic Zone is located in which country?
+Q: What does GTSEZ stand for?
+A: Golden Triangle Special Economic Zone.
+
+---
+
+Q: The GTSEZ is located in which country?
 A: Laos.
 
 ---
 
-Q: The Golden Triangle Special Economic Zone is located along which river?
+Q: The GTSEZ is located along which river?
 A: The Mekong.
+
+---
+
+C: The GTSEZ was created in the year [2007].
