@@ -623,3 +623,8 @@ A: /pauli/
 
 Q: What does HDMI stand for?
 A: High-Definition Multimedia Interface.
+
+---
+
+Q: What does VHS stand for?
+A: Video Home System.
