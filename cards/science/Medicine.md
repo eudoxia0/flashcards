@@ -820,3 +820,11 @@ C: Vitamin [B2] is also known as [riboflavin].
 ---
 
 C: [Riboflavin] is also known as [vitamin B2].
+
+---
+
+C: Vitamin [B3] is also known as [niacin].
+
+---
+
+C: [Niacin] is also known as [vitamin B3].
