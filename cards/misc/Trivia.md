@@ -643,3 +643,8 @@ A: Digital Video Disc.
 
 Q: What does LTO stand for?
 A: Linear Tape-Open.
+
+---
+
+Q: What does USB stand for?
+A: Universal Serial Bus.
