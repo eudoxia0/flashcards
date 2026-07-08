@@ -618,3 +618,8 @@ A: Electronic Funds Transfer at Point of Sale.
 
 Q: How do you pronounce Pauli? (as in Wolfgang Pauli)
 A: /pauli/
+
+---
+
+Q: What does HDMI stand for?
+A: High-Definition Multimedia Interface.
