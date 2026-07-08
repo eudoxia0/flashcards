@@ -508,6 +508,14 @@ A: John William Waterhouse
 
 Q: Name?
 
+![](<images/Joseph de Maistre.jpg>)
+
+A: Joseph de Maistre
+
+---
+
+Q: Name?
+
 ![](<images/Karl Schwarzschild.jpg>)
 
 A: Karl Schwarzschild
