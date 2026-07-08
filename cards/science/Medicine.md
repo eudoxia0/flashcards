@@ -828,3 +828,11 @@ C: Vitamin [B3] is also known as [niacin].
 ---
 
 C: [Niacin] is also known as [vitamin B3].
+
+---
+
+C: Vitamin [B5] is also known as [pantothenic acid].
+
+---
+
+C: [Panthotenic acid] is also known as [vitamin B4].
