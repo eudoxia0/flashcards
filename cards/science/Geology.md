@@ -71,11 +71,3 @@ A: Iron and nickel.
 
 Q: What is the temperature of the Earth's core?
 A: 6000 C.
-
----
-
-C: The Tropic of [Cancer] is at latitude [$23~\degree$ north.]
-
----
-
-C: The Tropic of [Capricorn] is at latitude [$23~\degree$ south.]

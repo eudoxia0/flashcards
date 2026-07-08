@@ -71,3 +71,11 @@ A: The Mekong.
 ---
 
 C: The GTSEZ was created in the year [2007].
+
+---
+
+C: The Tropic of [Cancer] is at latitude [$23\degree$ north.]
+
+---
+
+C: The Tropic of [Capricorn] is at latitude [$23\degree$ south.]
