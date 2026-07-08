@@ -844,3 +844,11 @@ C: Vitamin [B7] is also known as [biotin].
 ---
 
 C: [Biotin] is also known as [vitamin B7].
+
+---
+
+C: [Thiamine deficiency] is also known as [beriberi].
+
+---
+
+C: [Beriberi] is another name for [thiamine deficiency].
