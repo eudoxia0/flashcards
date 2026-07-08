@@ -29,3 +29,8 @@ A: Hermann Weyl.
 
 Q: What is the etymologycal meaning of "symplectic"?
 A: "Intertwined" or "woven together".
+
+---
+
+Q: What is Lobachevsky known for?
+A: Hyperbolic geometry.
