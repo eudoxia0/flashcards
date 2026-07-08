@@ -628,3 +628,8 @@ A: High-Definition Multimedia Interface.
 
 Q: What does VHS stand for?
 A: Video Home System.
+
+---
+
+Q: What does VCR stand for?
+A: Videocassette Recorder.
