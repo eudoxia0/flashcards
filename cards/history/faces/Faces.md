@@ -772,6 +772,14 @@ A: Sophus Lie
 
 Q: Name?
 
+![](<images/Srinivasa Ramanujan.jpg>)
+
+A: Srinivasa Ramanujan
+
+---
+
+Q: Name?
+
 ![](<images/Stanisław Ulam.jpg>)
 
 A: Stanisław Ulam
