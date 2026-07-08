@@ -52,3 +52,13 @@ A: Astana.
 
 Q: Astana is the capital of?
 A: Kazakhstan.
+
+---
+
+Q: The Golden Triangle Special Economic Zone is located in which country?
+A: Laos.
+
+---
+
+Q: The Golden Triangle Special Economic Zone is located along which river?
+A: The Mekong.
