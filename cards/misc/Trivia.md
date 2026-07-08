@@ -653,3 +653,8 @@ A: Universal Serial Bus.
 
 Q: What does SCSI stand for?
 A: Small Computer System Interface.
+
+---
+
+Q: What does ATA stand for?
+A: Advanced Technology Attachment.
