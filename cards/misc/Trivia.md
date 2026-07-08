@@ -648,3 +648,8 @@ A: Linear Tape-Open.
 
 Q: What does USB stand for?
 A: Universal Serial Bus.
+
+---
+
+Q: What does SCSI stand for?
+A: Small Computer System Interface.
