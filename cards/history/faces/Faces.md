@@ -172,6 +172,14 @@ A: Emmy Noether
 
 Q: Name?
 
+![](<images/Enrico Fermi.jpg>)
+
+A: Enrico Fermi
+
+---
+
+Q: Name?
+
 ![](<images/Ernest Rutherford.jpg>)
 
 A: Ernest Rutherford
