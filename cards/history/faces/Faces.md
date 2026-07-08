@@ -204,6 +204,14 @@ A: Erwin Schrödinger
 
 Q: Name?
 
+![](<images/Ettore Majorana.jpg>)
+
+A: Ettore Majorana
+
+---
+
+Q: Name?
+
 ![](<images/Eugene Wigner.jpg>)
 
 A: Eugene Wigner
