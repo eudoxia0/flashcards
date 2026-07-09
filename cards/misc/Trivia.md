@@ -658,3 +658,8 @@ A: Small Computer System Interface.
 
 Q: What does ATA stand for?
 A: Advanced Technology Attachment.
+
+---
+
+Q: What does CJK stand for?
+A: China-Japan-Korea.
