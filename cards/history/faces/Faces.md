@@ -308,6 +308,14 @@ A: Georges Bizet
 
 Q: Name?
 
+![](<images/Georges Cuvier.png>)
+
+A: Georges Cuvier
+
+---
+
+Q: Name?
+
 ![](<images/Georgi Plekhanov.jpg>)
 
 A: Georgi Plekhanov
