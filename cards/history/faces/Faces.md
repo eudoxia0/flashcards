@@ -892,6 +892,14 @@ A: Werner Heisenberg
 
 Q: Name?
 
+![](<images/William Beebe.png>)
+
+A: William Beebe
+
+---
+
+Q: Name?
+
 ![](<images/William James.jpg>)
 
 A: William James
