@@ -452,6 +452,14 @@ A: J. B. S. Haldane
 
 Q: Name?
 
+![](<images/Jacques Cousteau.jpg>)
+
+A: Jacques Cousteau
+
+---
+
+Q: Name?
+
 ![](<images/Jacques Herbrand.jpg>)
 
 A: Jacques Herbrand
