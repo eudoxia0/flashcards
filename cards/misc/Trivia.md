@@ -669,3 +669,13 @@ A: China-Japan-Korea.
 C: Term: [gish gallop]
 
 Definition: [the debate tactic of overwhelming the opponent with lots of weak or fallacious arguments.]
+
+---
+
+Q: Who coined the term "the specious present"?
+A: William James.
+
+---
+
+Q: Explain the concept of "the specious present".
+A: The idea that our perception of the present is as a short duration, rather than a discrete instant.
