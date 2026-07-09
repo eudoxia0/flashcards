@@ -4,4 +4,4 @@ A: Three.
 ---
 
 Q: What is the "holy trinity" in Cajun cooking?
-A: Onions, bell pepper, celery.
+A: Onions, bell pepper, and celery.
