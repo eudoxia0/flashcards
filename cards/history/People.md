@@ -29,3 +29,19 @@ A: An ancient Greek hetaira, famous for her trial for impiety.
 
 Q: What was the Areopagus?
 A: A court in ancient Athens.
+
+---
+
+C: Ernst Jünger was born in the year [1895].
+
+---
+
+C: Ernst Jünger was born in the city of [Heidelberg].
+
+---
+
+C: Ernst Jünger died in the year [1998].
+
+---
+
+C: Ernst Jünger died in town of [Riedlingen].
