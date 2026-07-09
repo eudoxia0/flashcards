@@ -163,6 +163,11 @@ A: A quotation at the beginning of a book.
 
 ---
 
+Q: eroge
+A: A Japanese genre of erotic video games.
+
+---
+
 Q: explanandum
 A: A sentence describing a phenomenon to be explained.
 
