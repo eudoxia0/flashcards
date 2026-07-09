@@ -663,3 +663,9 @@ A: Advanced Technology Attachment.
 
 Q: What does CJK stand for?
 A: China-Japan-Korea.
+
+---
+
+C: Term: [gish gallop]
+
+Definition: [the debate tactic of overwhelming the opponent with lots of weak or fallacious arguments.]
