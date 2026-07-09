@@ -860,3 +860,9 @@ C: [Vitamin B3 deficiency] is also known as [pellagra].
 ---
 
 C: [Pellagra] is another name for [vitamin B3 deficiency].
+
+---
+
+C: Term: [limbal ring]
+
+Definition: [the dark circle that separates the iris from the sclera.]
