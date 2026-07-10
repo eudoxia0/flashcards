@@ -13,6 +13,11 @@ A: gone to his fathers, died
 
 ---
 
+Q: _amour propre_
+A: Self-respect.
+
+---
+
 Q: _ex ante_
 A: Before the event.
 
