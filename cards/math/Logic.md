@@ -94,7 +94,7 @@ A: Impredicative.
 
 ---
 
-Q: What is a predicative definitiion?
+Q: What is a predicative definition?
 A: A definition that quantifies only over entities that have already been defined.
 
 ---
