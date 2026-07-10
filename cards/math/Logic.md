@@ -94,6 +94,21 @@ A: Impredicative.
 
 ---
 
+Q: What is a predicative definitiion?
+A: A definition that quantifies only over entities that have already been defined.
+
+---
+
+Q: Term for a definition that quantifies over objects that have already been defined.
+A: Predicative.
+
+---
+
+Q: Explain the difference between a predicative and impredicative definition.
+A: Predicative definitions start from objects already defined, an impredicative definition quantifies over a collection that contains the object being defined.
+
+---
+
 C: In the Aristotelian syllogism:
 
 1. All men are mortal.
