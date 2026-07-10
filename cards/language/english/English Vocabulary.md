@@ -213,6 +213,11 @@ A: To strip the blubber or skin from an animal.
 
 ---
 
+Q: fubar
+A: Fucked up beyond all repair.
+
+---
+
 Q: fudanshi
 A: A male fan of yaoi.
 
