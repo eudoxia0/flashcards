@@ -679,3 +679,8 @@ A: William James.
 
 Q: Explain the concept of "the specious present".
 A: The idea that our perception of the present is as a short duration, rather than a discrete instant.
+
+---
+
+Q: Who wrote _Mathematics: Its Content, Methods and Meaning_?
+A: Aleksandr Aleksandrov, Andrey Kolmogorov, Mikhail Lavrentyev.
