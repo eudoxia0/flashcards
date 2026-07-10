@@ -49,12 +49,12 @@ C: Ernst Jünger died in town of [Riedlingen].
 ---
 
 Q: David Hilbert, year of birth.
-A: 1862.
+A: 1862
 
 ---
 
 Q: David Hilbert, year of death.
-A: 1943.
+A: 1943
 
 ---
 
