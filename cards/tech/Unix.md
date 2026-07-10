@@ -3,11 +3,6 @@ A: `command &> /dev/null`
 
 ---
 
-Q: `tzdata` code for the UTC timezone.
-A: `Etc/UTC`
-
----
-
 Q: Given a file `package.deb`, how do you install it?
 A: `dpkg -i package.deb`
 
