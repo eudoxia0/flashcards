@@ -684,3 +684,13 @@ A: The idea that our perception of the present is as a short duration, rather th
 
 Q: Who wrote _Mathematics: Its Content, Methods and Meaning_?
 A: Aleksandr Aleksandrov, Andrey Kolmogorov, Mikhail Lavrentyev.
+
+---
+
+Q: What is a goniometer?
+A: An instrument used to measure angles
+
+---
+
+Q: Etymology of goniometer.
+A: From Greek _gonia_, "angle"; and Greek _metron_, "measure".
