@@ -55,3 +55,13 @@ A: 1862.
 
 Q: David Hilbert, year of death.
 A: 1943.
+
+---
+
+Q: David Hilbert, city of birth.
+A: Königsberg.
+
+---
+
+Q: David Hilbert, city of death.
+A: Göttingen.
