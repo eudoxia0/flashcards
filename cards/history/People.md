@@ -65,3 +65,8 @@ A: Königsberg.
 
 Q: David Hilbert, city of death.
 A: Göttingen.
+
+---
+
+Q: David Hilbert was most associated with which university?
+A: The University of Göttingen.
