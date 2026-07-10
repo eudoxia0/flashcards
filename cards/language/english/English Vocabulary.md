@@ -418,6 +418,11 @@ A: An untidy, unkempt person.
 
 ---
 
+Q: snafu
+A: Situation normal, all fucked up.
+
+---
+
 Q: spavined
 A: Lame, old, worn-out.
 
