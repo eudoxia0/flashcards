@@ -70,3 +70,13 @@ A: Göttingen.
 
 Q: David Hilbert was most associated with which university?
 A: The University of Göttingen.
+
+---
+
+Q: Who said: "wir müssen wissen, wir werden wissen"?
+A: David Hilbert.
+
+---
+
+Q: Translate: "wir müssen wissen, wir werden wissen".
+A: "We must know. We shall know."
