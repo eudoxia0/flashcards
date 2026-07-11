@@ -704,3 +704,8 @@ A: Ukay-ukay.
 
 Q: What does ZFC stand for?
 A: Zermelo-Fraenkel set theory plus the Axiom of Choice.
+
+---
+
+Q: Who are the Z and F in ZFC?
+A: Ernst Zermelo and Abraham Fraenkel.
