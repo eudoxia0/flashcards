@@ -268,6 +268,14 @@ A: Eugene Wigner
 
 Q: Name?
 
+![](<images/Felix Klein.jpg>)
+
+A: Felix Klein
+
+---
+
+Q: Name?
+
 ![](<images/Francisco Goya.jpg>)
 
 A: Francisco Goya
