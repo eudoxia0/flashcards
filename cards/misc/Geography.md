@@ -79,3 +79,11 @@ C: The Tropic of [Cancer] is at latitude [$23\degree$ north.]
 ---
 
 C: The Tropic of [Capricorn] is at latitude [$23\degree$ south.]
+
+---
+
+C: The Tropic of [Cancer] is in the [northern] hemisphere.
+
+---
+
+C: The Tropic of [Cancer] is in the [southern] hemisphere.
