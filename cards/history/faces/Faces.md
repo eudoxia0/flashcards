@@ -60,6 +60,14 @@ A: Archibald Primrose, the Earl of Rosebery
 
 Q: Name?
 
+![](<images/Arend Heyting.jpg>)
+
+A: Arend Heyting
+
+---
+
+Q: Name?
+
 ![](<images/Arthur Schopenhauer.jpg>)
 
 A: Arthur Schopenhauer
