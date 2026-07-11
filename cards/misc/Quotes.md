@@ -232,7 +232,7 @@ C: Asia begins at the Landstrasse.
 
 C: Belief in this transcendental world (of mathematical ideals, of propositions of infinite length, and of a continuum of numbers) taxes the strength of our faith hardly less than the doctrines of the early Fathers of the Church or of the scholastic philosophers of the Middle Ages.
 
-— [Hermann Weyl], [_Mathematics and Logic_]
+— [Hermann Weyl], [_Mathematics and Logic_], [1946]
 
 ---
 
