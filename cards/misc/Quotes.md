@@ -326,12 +326,6 @@ C: The object of mathematics is the honor of the human spirit.
 
 ---
 
-C: Mathematics translates concepts into formalisms and applies those formalisms to derive insights that are usually not amenable to a less formal analysis.
-
-— [Jürgen Jost], [_Mathematical Concepts_]
-
----
-
 C: Every time I fire a linguist, the performance of the speech recognizer goes up.
 
 — [Frederick Jelinek]
