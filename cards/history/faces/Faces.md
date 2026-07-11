@@ -20,6 +20,14 @@ A: Alexander Grothendieck
 
 Q: Name?
 
+![](<images/Alfred Tarski.jpg>)
+
+A: Alfred Tarski
+
+---
+
+Q: Name?
+
 ![](<images/Allen Newell.jpg>)
 
 A: Allen Newell
