@@ -196,6 +196,14 @@ A: Ernst Mach
 
 Q: Name?
 
+![](<images/Ernst Zermelo.jpg>)
+
+A: Ernst Zermelo
+
+---
+
+Q: Name?
+
 ![](<images/Erwin Schrödinger.jpg>)
 
 A: Erwin Schrödinger
