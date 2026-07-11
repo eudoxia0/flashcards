@@ -628,6 +628,14 @@ A: Karl Schwarzschild
 
 Q: Name?
 
+![](<images/Klemens von Metternich.jpg>)
+
+A: Klemens von Metternich
+
+---
+
+Q: Name?
+
 ![](<images/Konstantin Tsiolkovsky.jpg>)
 
 A: Konstantin Tsiolkovsky
