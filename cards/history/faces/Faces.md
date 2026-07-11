@@ -532,6 +532,14 @@ A: John Archibald Wheeler
 
 Q: Name?
 
+![](<images/John Backus.jpg>)
+
+A: John Backus
+
+---
+
+Q: Name?
+
 ![](<images/John Dalberg-Acton, 1st Baron Acton.jpg>)
 
 A: John Dalberg-Acton, 1st Baron Acton
