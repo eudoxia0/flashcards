@@ -108,6 +108,14 @@ A: Charles Babbage
 
 Q: Name?
 
+![](<images/Charles Babbage—photo.jpg>)
+
+A: Charles Babbage
+
+---
+
+Q: Name?
+
 ![](<images/Charles Sanders Peirce.png>)
 
 A: Charles Sanders Peirce
