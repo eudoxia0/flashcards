@@ -338,7 +338,7 @@ C: Religions can have a great power over believers; but not all persons are beli
 
 ---
 
-Mr. Russell will tell me no doubt that it is not a question of psychology, but of logic and epistemology; and I shall be led to answer that there is no logic and epistemology independent of psychology; and this profession of faith will probably close the discussion because it will make evident an irremediable divergence of views.
+C: Mr. Russell will tell me no doubt that it is not a question of psychology, but of logic and epistemology; and I shall be led to answer that there is no logic and epistemology independent of psychology; and this profession of faith will probably close the discussion because it will make evident an irremediable divergence of views.
 
 — [Henri Poincaré], [_Mathematics and Science: Last Essays_]
 
