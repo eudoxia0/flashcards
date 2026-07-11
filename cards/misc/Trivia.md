@@ -694,3 +694,8 @@ A: An instrument used to measure angles
 
 Q: Etymology of goniometer.
 A: From Greek _gonia_, "angle"; and Greek _metron_, "measure".
+
+---
+
+Q: What is the Tagalog word for thrift shop?
+A: Ukay-ukay.
