@@ -540,6 +540,14 @@ A: Jean-Léon Gérôme
 
 Q: Name?
 
+![](<images/Johannes Kepler.jpg>)
+
+A: Johannes Kepler
+
+---
+
+Q: Name?
+
 ![](<images/John Archibald Wheeler.jpg>)
 
 A: John Archibald Wheeler
