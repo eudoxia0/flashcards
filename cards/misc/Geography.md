@@ -86,4 +86,4 @@ C: The Tropic of [Cancer] is in the [northern] hemisphere.
 
 ---
 
-C: The Tropic of [Cancer] is in the [southern] hemisphere.
+C: The Tropic of [Capricorn] is in the [southern] hemisphere.
