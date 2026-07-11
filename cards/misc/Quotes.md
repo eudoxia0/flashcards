@@ -329,3 +329,9 @@ C: The object of mathematics is the honor of the human spirit.
 C: Every time I fire a linguist, the performance of the speech recognizer goes up.
 
 — [Frederick Jelinek]
+
+---
+
+Religions can have a great power over believers; but not all persons are believers. Faith can be imposed on only a few; reason would impress itself upon all. We must address ourselves to reason; and I do not mean to that of the metaphysicist whose constructs are brilliant but ephemeral like soap bubbles which amuse us for an instant, then burst. Science alone builds firmly; it has constructed astronomy and physics; today it is constructing biology; by the same processes tomorrow it shall construct ethics. Its ordinances shall reign uncontested; no one shall be able to oppose them, and we shall no more think of rebelling against the moral law than we think today of rebelling against the theorem of the three perpendiculars or the law of gravitation.
+
+— [Henri Poincaré], [_Ethics and Science_]
