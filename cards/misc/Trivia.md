@@ -714,3 +714,8 @@ A: Ernst Zermelo and Abraham Fraenkel.
 
 Q: What is oikophobia?
 A: The dislike of one's own culture and compatriots.
+
+---
+
+Q: Etymology of oikophobia.
+A: From Greek _oikos_, "home"; and _phobia_, "fear".
