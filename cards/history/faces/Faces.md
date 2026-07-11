@@ -884,6 +884,14 @@ A: Stanisław Ulam
 
 Q: Name?
 
+![](<images/Stefan Banach.jpg>)
+
+A: Stefan Banach
+
+---
+
+Q: Name?
+
 ![](<images/Stephen Cole Kleene.jpg>)
 
 A: Stephen Cole Kleene
