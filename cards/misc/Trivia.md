@@ -719,3 +719,8 @@ A: The dislike of one's own culture and compatriots.
 
 Q: Etymology of oikophobia.
 A: From Greek _oikos_, "home"; and _phobia_, "fear".
+
+---
+
+Q: Who coined the term oikophobia?
+A: Roger Scruton.
