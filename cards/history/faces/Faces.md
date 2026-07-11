@@ -908,6 +908,14 @@ A: Vyacheslav Molotov
 
 Q: Name?
 
+![](<images/W. V. O. Quine.jpg>)
+
+A: W. V. O. Quine
+
+---
+
+Q: Name?
+
 ![](<images/Werner Heisenberg.jpg>)
 
 A: Werner Heisenberg
