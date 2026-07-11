@@ -341,3 +341,11 @@ Religions can have a great power over believers; but not all persons are believe
 Mr. Russell will tell me no doubt that it is not a question of psychology, but of logic and epistemology; and I shall be led to answer that there is no logic and epistemology independent of psychology; and this profession of faith will probably close the discussion because it will make evident an irremediable divergence of views.
 
 — [Henri Poincaré], [_Mathematics and Science: Last Essays_]
+
+---
+
+There cannot be a scientific morality; but neither can there be immoral science. And the reason for this is simple; it is a purely grammatical reason.
+
+If the premises of a syllogism are both in the indicative, the conclusion will also be in the indicative. For the conclusion to have been stated in the imperative, at least one of the premises must itself have been in the imperative. But scientific principles and geometric postulates are and can be only in the indicative. Experimental truths are again in that same mood, and at the basis of the sciences, there is and there can be nothing else. That being given, the most subtle dialectician can juggle these principles as he may wish, combine them, and pile them up on one another. All that he will derive from this will be in the indicative. He will never obtain a proposition which will state: do this, or, do not do that; that is, a proposition which affirms or which contradicts morality.
+
+— [Henri Poincaré], [_Mathematics and Science: Last Essays_]
