@@ -100,6 +100,14 @@ A: Bryce DeWitt
 
 Q: Name?
 
+![](<images/Charles Babbage.jpg>)
+
+A: Charles Babbage
+
+---
+
+Q: Name?
+
 ![](<images/Charles Sanders Peirce.png>)
 
 A: Charles Sanders Peirce
