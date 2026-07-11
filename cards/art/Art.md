@@ -1796,6 +1796,22 @@ A: Fyodor Bronnikov
 
 Q: Title?
 
+![](<@/art/images/Félix Resurrección Hidalgo—The Boat of Charon.png>)
+
+A: The Boat of Charon
+
+---
+
+Q: Artist?
+
+![](<@/art/images/Félix Resurrección Hidalgo—The Boat of Charon.png>)
+
+A: Félix Resurrección Hidalgo
+
+---
+
+Q: Title?
+
 ![](<@/art/images/Georges Seurat—A Sunday Afternoon on the Island of La Grande Jatte.jpg>)
 
 A: A Sunday Afternoon on the Island of La Grande Jatte
