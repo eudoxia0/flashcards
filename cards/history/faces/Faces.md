@@ -332,6 +332,14 @@ A: G. W. F. Hegel
 
 Q: Name?
 
+![](<images/Galileo Galilei.jpg>)
+
+A: Galileo Galilei
+
+---
+
+Q: Name?
+
 ![](<images/Gaston Julia.jpg>)
 
 A: Gaston Julia
