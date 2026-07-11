@@ -484,6 +484,14 @@ A: Herbert Simon
 
 Q: Name?
 
+![](<images/Hermann Minkowski.jpg>)
+
+A: Hermann Minkowski
+
+---
+
+Q: Name?
+
 ![](<images/Hermann Weyl.jpg>)
 
 A: Hermann Weyl
