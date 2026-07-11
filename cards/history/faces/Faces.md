@@ -492,6 +492,14 @@ A: Ilya Repin
 
 Q: Name?
 
+![](<images/Ivan Vinogradov.jpg>)
+
+A: Ivan Vinogradov
+
+---
+
+Q: Name?
+
 ![](<images/J. B. S. Haldane.jpg>)
 
 A: J. B. S. Haldane
