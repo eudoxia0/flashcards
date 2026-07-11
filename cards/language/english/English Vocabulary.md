@@ -33,6 +33,11 @@ A: Ancestral customs.
 
 ---
 
+Q: _ne varietur_
+A: An assertion that something, usually a document, must not be altered.
+
+---
+
 Q: _obiter dicta_
 A: Things said in passing.
 
