@@ -18,8 +18,9 @@ PY             := python3
 TEX_OUT        := cards/tech/TeX.md
 TEX_PY         := scripts/tex.py
 TEX_SRC        := sources/expr.tex
+ELEMENTS       := cards/science/periodic-table.md
 
-TARGETS        := $(ART) $(ENG) $(FACES) $(PERSIAN) $(POW) $(TEX_OUT) $(BUILD)
+TARGETS        := $(ART) $(ENG) $(FACES) $(PERSIAN) $(POW) $(TEX_OUT) $(BUILD) $(ELEMENTS)
 
 .PHONY: all check drill clean
 
@@ -45,6 +46,9 @@ $(POW): $(POW_PY)
 
 $(TEX_OUT): $(TEX_PY) $(TEX_SRC)
 	$(PY) $(TEX_PY) $(TEX_SRC) $(TEX_OUT)
+
+$(ELEMENTS): scripts/tmpl.py sources/elements.csv sources/elements.tmpl
+	python scripts/tmpl.py --csv=sources/elements.csv --template=sources/elements.tmpl --title="Periodic Table" --output=$@
 
 check:
 	hashcards check cards
