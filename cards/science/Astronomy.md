@@ -18,6 +18,16 @@ A: $\approx 42 ~\text{km}/\text{s}$
 
 ---
 
+Q: Astronomical symbol for the Sun.
+A: ☉
+
+---
+
+Q: Object denoted by this symbol: ☉
+A: The Sun.
+
+---
+
 C: Planet: [Mercury]
 
 Symbol: [☿]
