@@ -8,6 +8,11 @@ A: $$\langle \cdot, \cdot \rangle : V \times V \to \mathbb{F}$$
 
 ---
 
+Q: Notation for the norm of a vector $v$.
+A: $||v||$
+
+---
+
 Q: Define the norm of a vector $v$ using the inner product.
 A: $$||v|| = \sqrt{\langle v, v \rangle}$$
 
