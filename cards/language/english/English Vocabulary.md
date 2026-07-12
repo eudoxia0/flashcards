@@ -83,6 +83,11 @@ A: Rejecting laws and moral codes.
 
 ---
 
+Q: antinomy
+A: A contradiction or paradox.
+
+---
+
 Q: antiparallel
 A: going in opposite directions
 
