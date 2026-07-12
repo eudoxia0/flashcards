@@ -15,3 +15,8 @@ A: `Etc/UTC`
 
 Q: `tzdata` code for SF and environs?
 A: `America/Los_Angeles`
+
+---
+
+Q: `tzdata` code for Montevideo?
+A: `America/Montevideo`
