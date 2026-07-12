@@ -352,7 +352,7 @@ If the premises of a syllogism are both in the indicative, the conclusion will a
 
 ---
 
-C: Expression and shape mean almost more to me than knowledge itself
+C: Expression and shape mean almost more to me than knowledge itself.
 
 — [Hermann Weyl]
 
