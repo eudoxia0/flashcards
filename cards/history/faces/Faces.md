@@ -700,6 +700,14 @@ A: Lev Landau
 
 Q: Name?
 
+![](<images/Louis de Broglie.jpg>)
+
+A: Louis de Broglie
+
+---
+
+Q: Name?
+
 ![](<images/Ludwig Boltzmann.jpg>)
 
 A: Ludwig Boltzmann
