@@ -697,16 +697,6 @@ A: From Greek _gonia_, "angle"; and Greek _metron_, "measure".
 
 ---
 
-Q: What is the Tagalog word for thrift shop?
-A: Ukay-ukay.
-
----
-
-Q: What is the Tagalog word for domestic helper?
-A: Kasambahay.
-
----
-
 Q: What does ZFC stand for?
 A: Zermelo-Fraenkel set theory plus the Axiom of Choice.
 
