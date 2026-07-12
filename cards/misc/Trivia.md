@@ -702,6 +702,11 @@ A: Ukay-ukay.
 
 ---
 
+Q: What is the Tagalog word for domestic helper?
+A: Kasambahay.
+
+---
+
 Q: What does ZFC stand for?
 A: Zermelo-Fraenkel set theory plus the Axiom of Choice.
 
