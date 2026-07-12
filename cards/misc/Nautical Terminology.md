@@ -101,3 +101,9 @@ Definition: [the direction towards the front of a ship.]
 C: Term: [aft]
 
 Definition: [the direction towards the back of a ship.]
+
+---
+
+C: Term: [capstan]
+
+Definition: [a vertical rotating drum used to haul ropes.]
