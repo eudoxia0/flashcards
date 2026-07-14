@@ -46,7 +46,7 @@ C: Radio light has a wavelength above [1] meters.
 
 ---
 
-C: The largest wavelength is visible light is [780] nanometers.
+C: The largest wavelength of visible light is [780] nanometers.
 
 ---
 
