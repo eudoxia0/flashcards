@@ -719,3 +719,8 @@ A: From Greek _oikos_, "home"; and _phobia_, "fear".
 
 Q: Who coined the term oikophobia?
 A: Roger Scruton.
+
+---
+
+Q: Hebbian learning is named after?
+A: Donald Hebb.
