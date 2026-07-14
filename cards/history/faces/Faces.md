@@ -876,6 +876,14 @@ A: Paul Ehrenfest
 
 Q: Name?
 
+![](<images/Paul Klee.jpg>)
+
+A: Paul Klee
+
+---
+
+Q: Name?
+
 ![](<images/Paul Verlaine.png>)
 
 A: Paul Verlaine
