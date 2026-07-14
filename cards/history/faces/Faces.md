@@ -548,6 +548,14 @@ A: J. B. S. Haldane
 
 Q: Name?
 
+![](<images/J. C. Leyendecker.jpg>)
+
+A: J. C. Leyendecker
+
+---
+
+Q: Name?
+
 ![](<images/Jacques Cousteau.jpg>)
 
 A: Jacques Cousteau
