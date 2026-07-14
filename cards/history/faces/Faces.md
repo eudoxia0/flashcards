@@ -76,6 +76,14 @@ A: Arend Heyting
 
 Q: Name?
 
+![](<images/Arthur Rimbaud.png>)
+
+A: Arthur Rimbaud
+
+---
+
+Q: Name?
+
 ![](<images/Arthur Schopenhauer.jpg>)
 
 A: Arthur Schopenhauer
