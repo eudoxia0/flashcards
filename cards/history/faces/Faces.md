@@ -860,6 +860,14 @@ A: Paul Ehrenfest
 
 Q: Name?
 
+![](<images/Paul Verlaine.png>)
+
+A: Paul Verlaine
+
+---
+
+Q: Name?
+
 ![](<images/Pierre Laval.jpg>)
 
 A: Pierre Laval
