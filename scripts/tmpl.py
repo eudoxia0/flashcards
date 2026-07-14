@@ -25,7 +25,7 @@ def main() -> None:
 
     with open(args.csv, newline="") as f:
         reader = csv.DictReader(f, delimiter=",", quotechar='"', skipinitialspace=True)
-        rows = list(reader)
+        rows = [clean_row(row) for row in list(reader)]
 
     blocks = [template.format(**row) for row in rows]
 
@@ -35,6 +35,10 @@ def main() -> None:
         f.write("---\n\n")
         f.write("\n\n---\n\n".join(blocks))
         f.write("\n")
+
+
+def clean_row(row: dict[str, str]) -> dict[str, str]:
+    return {k: v.strip() for k, v in row.items()}
 
 
 if __name__ == "__main__":
