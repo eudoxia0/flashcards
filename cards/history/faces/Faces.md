@@ -556,6 +556,14 @@ A: J. C. Leyendecker
 
 Q: Name?
 
+![](<images/J. R. R. Tolkien.jpg>)
+
+A: J. R. R. Tolkien
+
+---
+
+Q: Name?
+
 ![](<images/Jacques Cousteau.jpg>)
 
 A: Jacques Cousteau
