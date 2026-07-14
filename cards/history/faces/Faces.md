@@ -52,6 +52,14 @@ A: Anastas Mikoyan
 
 Q: Name?
 
+![](<images/Anatole France.jpg>)
+
+A: Anatole France
+
+---
+
+Q: Name?
+
 ![](<images/Andrey Kolmogorov.jpg>)
 
 A: Andrey Kolmogorov
