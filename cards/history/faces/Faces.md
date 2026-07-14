@@ -852,6 +852,14 @@ A: Osip Mandelstam
 
 Q: Name?
 
+![](<images/Paul Cadmus.jpg>)
+
+A: Paul Cadmus
+
+---
+
+Q: Name?
+
 ![](<images/Paul Delaroche.jpg>)
 
 A: Paul Delaroche
