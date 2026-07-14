@@ -24,7 +24,8 @@ def main() -> None:
         template = f.read()
 
     with open(args.csv, newline="") as f:
-        rows = list(csv.DictReader(f))
+        reader = csv.DictReader(f, delimiter=",", quotechar='"', skipinitialspace=True)
+        rows = list(reader)
 
     blocks = [template.format(**row) for row in rows]
 
