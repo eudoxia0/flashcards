@@ -964,6 +964,14 @@ A: Stefan Banach
 
 Q: Name?
 
+![](<images/Stendhal.jpg>)
+
+A: Stendhal
+
+---
+
+Q: Name?
+
 ![](<images/Stephen Cole Kleene.jpg>)
 
 A: Stephen Cole Kleene
