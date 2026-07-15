@@ -273,6 +273,11 @@ A: A female fan of yuri.
 
 ---
 
+Q: hylic
+A: Of or relating to the physical world.
+
+---
+
 Q: hypostatize
 A: to treat something abstract as concrete
 
