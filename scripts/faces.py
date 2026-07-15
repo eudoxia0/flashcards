@@ -24,7 +24,7 @@ def main():
 
     # Print deck.
     print("---")
-    print('title = "Great Buildings"')
+    print('name = "Faces"')
     print("---\n")
 
     first = True
