@@ -44,7 +44,7 @@ def main():
     images.sort(key=lambda x: (x[1] or "", x[2]))
 
     print("---")
-    print('title = "Great Buildings"')
+    print('name = "Great Buildings"')
     print("---\n")
 
     # Print deck.

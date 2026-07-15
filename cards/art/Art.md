@@ -1,5 +1,5 @@
 ---
-title = "Art"
+name = "Art"
 ---
 
 Q: Title?
