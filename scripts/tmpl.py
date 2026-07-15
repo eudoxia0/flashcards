@@ -16,9 +16,9 @@ def main() -> None:
     parser.add_argument(
         "--output", required=True, help="Path to the output Markdown file."
     )
-    parser.add_argument("--title", required=True, help="Deck title.")
+    parser.add_argument("--name", required=True, help="Deck name.")
     args = parser.parse_args()
-    title: str = args.title
+    name: str = args.name
 
     with open(args.template, "r") as f:
         template = f.read()
@@ -31,7 +31,7 @@ def main() -> None:
 
     with open(args.output, "w") as f:
         f.write("---\n")
-        f.write(f"title = '{title}'\n")
+        f.write(f"name = '{name}'\n")
         f.write("---\n\n")
         f.write("\n\n---\n\n".join(blocks))
         f.write("\n")

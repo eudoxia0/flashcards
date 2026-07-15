@@ -1,5 +1,5 @@
 ---
-title = 'Periodic Table'
+name = 'Periodic Table'
 ---
 
 Q: Atomic number of Hydrogen?

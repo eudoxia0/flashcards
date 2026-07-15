@@ -48,7 +48,7 @@ $(TEX_OUT): $(TEX_PY) $(TEX_SRC)
 	$(PY) $(TEX_PY) $(TEX_SRC) $(TEX_OUT)
 
 $(ELEMENTS): scripts/tmpl.py sources/elements.csv sources/elements.tmpl
-	python scripts/tmpl.py --csv=sources/elements.csv --template=sources/elements.tmpl --title="Periodic Table" --output=$@
+	python scripts/tmpl.py --csv=sources/elements.csv --template=sources/elements.tmpl --name="Periodic Table" --output=$@
 
 check:
 	hashcards check cards
