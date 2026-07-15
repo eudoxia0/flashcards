@@ -1,5 +1,5 @@
 ---
-title = "Zathura Keybindings"
+name = "Zathura Keybindings"
 ---
 
 C: Key: [gg]
