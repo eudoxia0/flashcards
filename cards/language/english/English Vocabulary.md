@@ -1,8 +1,3 @@
-Q: Barangay
-A: The smallest administrative division of the Philippines.
-
----
-
 Q: _a priori_
 A: From first principles.
 
@@ -105,6 +100,11 @@ A: A short sword with a heavy, curved blade; and S-shaped quillons.
 
 Q: badinage
 A: banter
+
+---
+
+Q: barangay
+A: The smallest administrative division of the Philippines.
 
 ---
 
