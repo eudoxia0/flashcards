@@ -8,7 +8,7 @@ A: 1
 ---
 
 Q: Symbol of Hydrogen?
-A: H.
+A: H
 
 ---
 
@@ -24,7 +24,7 @@ A: 2
 ---
 
 Q: Symbol of Helium?
-A: He.
+A: He
 
 ---
 
@@ -40,7 +40,7 @@ A: 3
 ---
 
 Q: Symbol of Lithium?
-A: Li.
+A: Li
 
 ---
 
@@ -56,7 +56,7 @@ A: 4
 ---
 
 Q: Symbol of Beryllium?
-A: Be.
+A: Be
 
 ---
 
@@ -72,7 +72,7 @@ A: 5
 ---
 
 Q: Symbol of Boron?
-A: B.
+A: B
 
 ---
 
@@ -88,7 +88,7 @@ A: 6
 ---
 
 Q: Symbol of Carbon?
-A: C.
+A: C
 
 ---
 
@@ -104,7 +104,7 @@ A: 7
 ---
 
 Q: Symbol of Nitrogen?
-A: N.
+A: N
 
 ---
 
@@ -120,7 +120,7 @@ A: 8
 ---
 
 Q: Symbol of Oxygen?
-A: O.
+A: O
 
 ---
 
@@ -136,7 +136,7 @@ A: 9
 ---
 
 Q: Symbol of Fluorine?
-A: F.
+A: F
 
 ---
 
