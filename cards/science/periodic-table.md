@@ -8,12 +8,12 @@ A: 1
 ---
 
 Q: Symbol of Hydrogen?
-A: H
+A: H.
 
 ---
 
 Q: What element has atomic number 1?
-A: Hydrogen
+A: Hydrogen.
 
 
 ---
@@ -24,12 +24,12 @@ A: 2
 ---
 
 Q: Symbol of Helium?
-A: He
+A: He.
 
 ---
 
 Q: What element has atomic number 2?
-A: Helium
+A: Helium.
 
 
 ---
@@ -40,12 +40,12 @@ A: 3
 ---
 
 Q: Symbol of Lithium?
-A: Li
+A: Li.
 
 ---
 
 Q: What element has atomic number 3?
-A: Lithium
+A: Lithium.
 
 
 ---
@@ -56,12 +56,12 @@ A: 4
 ---
 
 Q: Symbol of Beryllium?
-A: Be
+A: Be.
 
 ---
 
 Q: What element has atomic number 4?
-A: Beryllium
+A: Beryllium.
 
 
 ---
@@ -72,12 +72,12 @@ A: 5
 ---
 
 Q: Symbol of Boron?
-A: B
+A: B.
 
 ---
 
 Q: What element has atomic number 5?
-A: Boron
+A: Boron.
 
 
 ---
@@ -88,12 +88,12 @@ A: 6
 ---
 
 Q: Symbol of Carbon?
-A: C
+A: C.
 
 ---
 
 Q: What element has atomic number 6?
-A: Carbon
+A: Carbon.
 
 
 ---
@@ -104,12 +104,12 @@ A: 7
 ---
 
 Q: Symbol of Nitrogen?
-A: N
+A: N.
 
 ---
 
 Q: What element has atomic number 7?
-A: Nitrogen
+A: Nitrogen.
 
 
 ---
@@ -120,12 +120,12 @@ A: 8
 ---
 
 Q: Symbol of Oxygen?
-A: O
+A: O.
 
 ---
 
 Q: What element has atomic number 8?
-A: Oxygen
+A: Oxygen.
 
 
 ---
@@ -136,10 +136,10 @@ A: 9
 ---
 
 Q: Symbol of Fluorine?
-A: F
+A: F.
 
 ---
 
 Q: What element has atomic number 9?
-A: Fluorine
+A: Fluorine.
 
