@@ -24,3 +24,18 @@ Q: What kind of capital is this?
 ![](@/images/corinthian.jpg)
 
 A: Corinthian.
+
+---
+
+Q: Recall what a Doric capital looks like.
+A: ![](@/images/doric.jpg)
+
+---
+
+Q: Recall what an Ionic capital looks like.
+A: ![](@/images/ionic.jpg)
+
+---
+
+Q: Recall what a Corinthian capital looks like.
+A: ![](@/images/corinthian.jpg)
