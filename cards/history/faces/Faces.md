@@ -196,7 +196,7 @@ A: Edmund Husserl
 
 Q: Name?
 
-![](<images/Edward Teller.jpg>)
+![](<images/Edward Teller—a.jpg>)
 
 A: Edward Teller
 
@@ -204,7 +204,7 @@ A: Edward Teller
 
 Q: Name?
 
-![](<images/Edward Teller—alt.jpg>)
+![](<images/Edward Teller—b.jpg>)
 
 A: Edward Teller
 
