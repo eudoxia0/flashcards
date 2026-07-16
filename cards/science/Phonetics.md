@@ -42,3 +42,8 @@ C: The [velum] is also called the [soft palate].
 
 Q: What is the velum?
 A: The soft tissue that makes up the top-back of the mouth.
+
+---
+
+Q: Term for the tissue that separates the oral and nasal cavities.
+A: Velum.
