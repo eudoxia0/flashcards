@@ -116,6 +116,14 @@ A: Benjamin Disraeli, the Earl of Beaconsfield
 
 Q: Name?
 
+![](<images/Bernhard Riemann.jpg>)
+
+A: Bernhard Riemann
+
+---
+
+Q: Name?
+
 ![](<images/Bryce DeWitt.jpg>)
 
 A: Bryce DeWitt
