@@ -19,8 +19,9 @@ TEX_OUT        := cards/tech/TeX.md
 TEX_PY         := scripts/tex.py
 TEX_SRC        := sources/expr.tex
 ELEMENTS       := cards/science/periodic-table.md
+GREEK          := cards/language/greek-alphabet.md
 
-TARGETS        := $(ART) $(ENG) $(FACES) $(PERSIAN) $(POW) $(TEX_OUT) $(BUILD) $(ELEMENTS)
+TARGETS        := $(ART) $(ENG) $(FACES) $(PERSIAN) $(POW) $(TEX_OUT) $(BUILD) $(ELEMENTS) $(GREEK)
 
 .PHONY: all check drill clean
 
@@ -49,6 +50,9 @@ $(TEX_OUT): $(TEX_PY) $(TEX_SRC)
 
 $(ELEMENTS): scripts/tmpl.py sources/elements.csv sources/elements.tmpl
 	python scripts/tmpl.py --csv=sources/elements.csv --template=sources/elements.tmpl --name="Periodic Table" --output=$@
+
+$(GREEK): scripts/tmpl.py sources/greek-alphabet.csv sources/greek-alphabet.tmpl
+	python scripts/tmpl.py --csv=sources/greek-alphabet.csv --template=sources/greek-alphabet.tmpl --name="Greek Alphabet" --output=$@
 
 check:
 	hashcards check cards
