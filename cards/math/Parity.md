@@ -39,6 +39,18 @@ A: $\text{even}$
 
 ---
 
+Q: Prove: $\text{odd} \pm \text{odd} = \text{odd}$
+
+---
+
+Let $a,b$ odd. Then:
+
+$$
+a+b = 2a' + 1 + 2b' + 1 = 2a' + 2b' + 2 = 2(a'+b'+1)
+$$
+
+---
+
 Q: $\text{even} \times \text{even} = \ldots$
 A: $\text{even}$
 
