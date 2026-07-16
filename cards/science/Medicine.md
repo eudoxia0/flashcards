@@ -644,6 +644,14 @@ A: 6 million.
 
 ---
 
+C: The opposite of [photopic] vision is [scotopic] vision.
+
+---
+
+C: The opposite of [scotopic] vision is [photopic] vision.
+
+---
+
 C: Term: [retrograde amnesia]
 
 Definition: [the inability to remember information acquired before a certain date.]
