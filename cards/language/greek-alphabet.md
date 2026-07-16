@@ -33,17 +33,17 @@ A: alpha
 
 ---
 
-Q: Uppercase form of **be\ta**?
+Q: Uppercase form of **beta**?
 A: # Β
 
 ---
 
-Q: Lowercase form of **be\ta**?
+Q: Lowercase form of **beta**?
 A: # β
 
 ---
 
-Q: Pronunciation of **be\ta**?
+Q: Pronunciation of **beta**?
 A: b
 
 ---
@@ -52,7 +52,7 @@ Q: Name of this letter?
 
 # Β
 
-A: be\ta
+A: beta
 
 ---
 
@@ -60,7 +60,7 @@ Q: Name of this letter?
 
 # β
 
-A: be\ta
+A: beta
 
 ---
 
