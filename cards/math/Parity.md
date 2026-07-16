@@ -11,6 +11,15 @@ A: $\text{even}$
 
 ---
 
+Q: Prove: $\text{even} \pm \text{even} = \text{even}$
+A: Let $a,b$ even. Then:
+
+$$
+a+b \equiv 2a' + 2b' \equiv 2(a'+b')
+$$
+
+---
+
 Q: $\text{even} \pm \text{odd} = \ldots$
 A: $\text{odd}$
 
