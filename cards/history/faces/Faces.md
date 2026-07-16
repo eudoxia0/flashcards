@@ -524,6 +524,14 @@ A: Hermann Weyl
 
 Q: Name?
 
+![](<images/Hermann von Helmholtz.jpg>)
+
+A: Hermann von Helmholtz
+
+---
+
+Q: Name?
+
 ![](<images/Hugh Everett.jpg>)
 
 A: Hugh Everett
