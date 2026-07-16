@@ -35,3 +35,8 @@ Definition: [The addition of a new word to a language.]
 
 Q: What does SSM stand for?
 A: Self-segregating morphology.
+
+---
+
+Q: Explain Neo-Davidsonian semantics.
+A: A linguistic framework that treats verbs as unary predicates on events.
