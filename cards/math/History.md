@@ -39,3 +39,7 @@ A: Hyperbolic geometry.
 
 Q: Explain the problem of squaring the circle.
 A: Given a circle, construct a square having the same area, using finitely many compass and straightedge operations.
+
+---
+
+C: The impossibility of squaring the circle was proven in the year [1882].
