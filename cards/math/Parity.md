@@ -11,17 +11,26 @@ A: $\text{even}$
 
 ---
 
-Q: Prove: $\text{even} \pm \text{even} = \text{even}$
+Q: Prove: $\text{even} + \text{even} = \text{even}$
 A: Let $a,b$ even. Then:
 
 $$
-a+b \equiv 2a' + 2b' \equiv 2(a'+b')
+a+b = 2a' + 2b' = 2(a'+b')
 $$
 
 ---
 
 Q: $\text{even} \pm \text{odd} = \ldots$
 A: $\text{odd}$
+
+---
+
+Q: Prove: $\text{even} + \text{odd} = \text{odd}$
+A: Let $a$ even, $b$ odd. Then:
+
+$$
+a+b = 2a' + 2b' + 1 = 2(a'+b') + 1
+$$
 
 ---
 
