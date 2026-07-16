@@ -34,3 +34,8 @@ A: "Intertwined" or "woven together".
 
 Q: What is Lobachevsky known for?
 A: Hyperbolic geometry.
+
+---
+
+Q: Explain the problem of squaring the circle.
+A: Given a circle, construct a square having the same area, using finitely many compass and straightedge operations.
