@@ -83,3 +83,21 @@ A: Let $a,b$ odd. Then:
 $$
 ab = (2a'+1)(2b'+1) = 4a'b'+2a'+2b'+1 = 2(2a'b' + a' + b') + 1
 $$
+
+---
+
+Q: Prove that the square of an even number is even.
+A: Let $n=2k$. Then:
+
+$$
+n^2 = (2k)^2 = 4k^2 = 2(2k^2)
+$$
+
+---
+
+Q: Prove that the square of an odd number is odd.
+A: Let $n=2k+1$. Then:
+
+$$
+n^2 = (2k+1)^2 = 4k^2+4k+1 = 2(2k^2+2k) + 1
+$$
