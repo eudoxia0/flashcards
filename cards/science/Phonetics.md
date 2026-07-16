@@ -32,11 +32,11 @@ A: The flap that prevents food from entering the larynx.
 
 ---
 
-C: The soft palate is also called the [velum].
+C: The [soft palate] is also called the [velum].
 
 ---
 
-C: The velum is also called the [soft palate].
+C: The [velum] is also called the [soft palate].
 
 ---
 
