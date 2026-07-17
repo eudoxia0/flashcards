@@ -828,6 +828,14 @@ A: Mikhail Bakunin
 
 Q: Name?
 
+![](<images/Mikhail Tukhachevsky.jpg>)
+
+A: Mikhail Tukhachevsky
+
+---
+
+Q: Name?
+
 ![](<images/Minoru Yamasaki.jpg>)
 
 A: Minoru Yamasaki
