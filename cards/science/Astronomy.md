@@ -85,3 +85,9 @@ Definition: [the apogee of an orbit around the Sun.]
 C: Term: [perihelion]
 
 Definition: [the perigee of an orbit around the Sun.]
+
+---
+
+C: Term: [apogee]
+
+Definition: [the highest altitude point in a satellite's orbit.]
