@@ -32,3 +32,8 @@ A: Move an electron from a bound state to being mobile.
 
 Q: Band gap of crystalline silicon.
 A: $1.1 \eV$
+
+---
+
+Q: Band gap of diamond.
+A: $5.5 \eV$
