@@ -20,8 +20,9 @@ TEX_PY         := scripts/tex.py
 TEX_SRC        := sources/expr.tex
 ELEMENTS       := cards/science/periodic-table.md
 GREEK          := cards/language/greek-alphabet.md
+SPECTRUM       := cards/science/em-spectrum.md
 
-TARGETS        := $(ART) $(ENG) $(FACES) $(PERSIAN) $(POW) $(TEX_OUT) $(BUILD) $(ELEMENTS) $(GREEK)
+TARGETS        := $(ART) $(ENG) $(FACES) $(PERSIAN) $(POW) $(TEX_OUT) $(BUILD) $(ELEMENTS) $(GREEK) $(SPECTRUM)
 
 .PHONY: all check drill clean
 
@@ -53,6 +54,9 @@ $(ELEMENTS): scripts/tmpl.py sources/elements.csv sources/elements.tmpl
 
 $(GREEK): scripts/tmpl.py sources/greek-alphabet.csv sources/greek-alphabet.tmpl
 	python scripts/tmpl.py --csv=sources/greek-alphabet.csv --template=sources/greek-alphabet.tmpl --name="Greek Alphabet" --output=$@
+
+$(SPECTRUM): scripts/tmpl.py sources/em-spectrum.csv sources/em-spectrum.tmpl
+	python scripts/tmpl.py --csv=sources/em-spectrum.csv --template=sources/em-spectrum.tmpl --name="Electromagnetic Spectrum" --output=$@
 
 check:
 	hashcards check cards
