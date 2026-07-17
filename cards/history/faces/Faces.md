@@ -460,6 +460,14 @@ A: Guglielmo Marconi
 
 Q: Name?
 
+![](<images/Hans Bethe.jpg>)
+
+A: Hans Bethe
+
+---
+
+Q: Name?
+
 ![](<images/Heinrich Hertz.jpg>)
 
 A: Heinrich Hertz
