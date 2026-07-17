@@ -102,4 +102,11 @@ Definition: [the lowest altitude point in a satellite's orbit.]
 
 C: Term: [equinox]
 
-Definition: [an event where the Sun appears directly above the Earth's equator.]
+Definition: [the time when the Sun appears directly above the Earth's equator.]
+
+---
+
+
+C: Term: [solstice]
+
+Definition: [the time when the Sun reaches its highest or lowest point in the sky at noon.]
