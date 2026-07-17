@@ -79,3 +79,9 @@ Symbol: [♆]
 C: Term: [aphelion]
 
 Definition: [the apogee of an orbit around the Sun.]
+
+---
+
+C: Term: [perihelion]
+
+Definition: [the perigee of an orbit around the Sun.]
