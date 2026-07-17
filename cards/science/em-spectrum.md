@@ -50,7 +50,7 @@ A: $10 \nanometer$ to $400 \nanometer$
 ---
 
 Q: Energy of: ultraviolet
-A: $3.10 \eV$ to $124 \eV$
+A: $3.1 \eV$ to $124 \eV$
 
 ---
 
@@ -59,7 +59,7 @@ A: ultraviolet
 
 ---
 
-Q: Photons with an energy of $3.10 \eV$ to $124 \eV$ are termed?
+Q: Photons with an energy of $3.1 \eV$ to $124 \eV$ are termed?
 A: ultraviolet
 
 
@@ -71,7 +71,7 @@ A: $400 \nanometer$ to $700 \nanometer$
 ---
 
 Q: Energy of: visible light
-A: $1.77 \eV$ to $3.10 \eV$
+A: $1.7 \eV$ to $3.1 \eV$
 
 ---
 
@@ -80,7 +80,7 @@ A: visible light
 
 ---
 
-Q: Photons with an energy of $1.77 \eV$ to $3.10 \eV$ are termed?
+Q: Photons with an energy of $1.7 \eV$ to $3.1 \eV$ are termed?
 A: visible light
 
 
@@ -92,7 +92,7 @@ A: $700 \nanometer$ to $1 \millimeter$
 ---
 
 Q: Energy of: infrared
-A: $1.24 \meV$ to $1.77 \eV$
+A: $1.2 \meV$ to $1.7 \eV$
 
 ---
 
@@ -101,7 +101,7 @@ A: infrared
 
 ---
 
-Q: Photons with an energy of $1.24 \meV$ to $1.77 \eV$ are termed?
+Q: Photons with an energy of $1.2 \meV$ to $1.7 \eV$ are termed?
 A: infrared
 
 
@@ -113,7 +113,7 @@ A: $1 \millimeter$ to $1 \meter$
 ---
 
 Q: Energy of: microwaves
-A: $1.24 \ueV$ to $1.24 \meV$
+A: $1.2 \ueV$ to $1.2 \meV$
 
 ---
 
@@ -122,7 +122,7 @@ A: microwaves
 
 ---
 
-Q: Photons with an energy of $1.24 \ueV$ to $1.24 \meV$ are termed?
+Q: Photons with an energy of $1.2 \ueV$ to $1.2 \meV$ are termed?
 A: microwaves
 
 
@@ -134,7 +134,7 @@ A: $\geq 1 \meter$
 ---
 
 Q: Energy of: radio
-A: $\leq 1.24 \ueV$
+A: $\leq 1.2 \ueV$
 
 ---
 
@@ -143,6 +143,6 @@ A: radio
 
 ---
 
-Q: Photons with an energy of $\leq 1.24 \ueV$ are termed?
+Q: Photons with an energy of $\leq 1.2 \ueV$ are termed?
 A: radio
 
