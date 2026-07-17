@@ -1,2 +1,8 @@
 Band, Wavelength, Energy
 gamma rays, "$\leq 10 \picometer$", "$\geq 124 \keV$"
+x-rays, $10 \picometer$ to $10 \nanometer$, $124 \eV$ to $124 \keV$
+ultraviolet, $10 \nanometer$ to $400 \nanometer$, $3.10 \eV$ to $124 \eV$
+visible light, $400 \nanometer$ to $700 \nanometer$, $1.77 \eV$ to $3.10 \eV$
+infrared, $700 \nanometer$ to $1 \millimeter$, $1.24 \meV$ to $1.77 \eV$
+microwaves, $1 \millimeter$ to $1 \meter$, $1.24 \ueV$ to $1.24 \meV$
+radio, "$\geq 1 \meter$", "$\leq 1.24 \ueV$"
