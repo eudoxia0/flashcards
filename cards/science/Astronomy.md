@@ -78,22 +78,22 @@ Symbol: [♆]
 
 C: Term: [aphelion]
 
-Definition: [the apogee of an orbit around the Sun.]
+Definition: [the apoapsis of an orbit around the Sun.]
 
 ---
 
 C: Term: [perihelion]
 
-Definition: [the perigee of an orbit around the Sun.]
+Definition: [the periapsis of an orbit around the Sun.]
 
 ---
 
-C: Term: [apogee]
+C: Term: [apoapsis]
 
 Definition: [the highest altitude point in a satellite's orbit.]
 
 ---
 
-C: Term: [perigee]
+C: Term: [periapsis]
 
 Definition: [the lowest altitude point in a satellite's orbit.]
