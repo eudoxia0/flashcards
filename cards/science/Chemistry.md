@@ -27,3 +27,8 @@ A: Electronvolts.
 
 Q: The band gap of a material can be thought of as the amount of energy required to...
 A: Move an electron from a bound state to being mobile.
+
+---
+
+Q: Band gap of crystalline silicon.
+A: $1.1 \eV$
