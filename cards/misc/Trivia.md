@@ -724,3 +724,8 @@ A: Roger Scruton.
 
 Q: Hebbian learning is named after?
 A: Donald Hebb.
+
+---
+
+Q: What is a Chernoff face?
+A: A way to visualize high-dimensional datasets by encoding parameters into stylized human faces.
