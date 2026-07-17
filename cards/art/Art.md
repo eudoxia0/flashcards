@@ -4868,6 +4868,22 @@ A: Pablo Picasso
 
 Q: Title?
 
+![](<@/art/images/Paul Cadmus—Night in Bologna.jpg>)
+
+A: Night in Bologna
+
+---
+
+Q: Artist?
+
+![](<@/art/images/Paul Cadmus—Night in Bologna.jpg>)
+
+A: Paul Cadmus
+
+---
+
+Q: Title?
+
 ![](<@/art/images/Paul Cézanne—The Abduction.jpg>)
 
 A: The Abduction
