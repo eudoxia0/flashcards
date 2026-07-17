@@ -91,3 +91,9 @@ Definition: [the perigee of an orbit around the Sun.]
 C: Term: [apogee]
 
 Definition: [the highest altitude point in a satellite's orbit.]
+
+---
+
+C: Term: [perigee]
+
+Definition: [the lowest altitude point in a satellite's orbit.]
