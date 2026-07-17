@@ -97,3 +97,9 @@ Definition: [the highest altitude point in a satellite's orbit.]
 C: Term: [periapsis]
 
 Definition: [the lowest altitude point in a satellite's orbit.]
+
+---
+
+C: Term: [equinox]
+
+Definition: [an event where the Sun appears directly above the Earth's equator.]
