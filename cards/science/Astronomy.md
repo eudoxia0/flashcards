@@ -73,3 +73,9 @@ Symbol: [⛢]
 C: Planet: [Neptune]
 
 Symbol: [♆]
+
+---
+
+C: Term: [aphelion]
+
+Definition: [the apogee of an orbit around the Sun.]
