@@ -729,3 +729,9 @@ A: Donald Hebb.
 
 Q: What is a Chernoff face?
 A: A way to visualize high-dimensional datasets by encoding parameters into stylized human faces.
+
+---
+
+C: Term: [pessimistic induction]
+
+Definition: [the argument that, since most scientific theories have been proven false, we should not believe our current theories to be true.]
