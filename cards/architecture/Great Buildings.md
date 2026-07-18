@@ -36,6 +36,14 @@ A: ICC Berlin
 
 Q: Name?
 
+![](<@/architecture/images/nil—La Scala.jpg>)
+
+A: La Scala
+
+---
+
+Q: Name?
+
 ![](<@/architecture/images/nil—Mercury City Tower.jpg>)
 
 A: Mercury City Tower
