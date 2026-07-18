@@ -60,6 +60,14 @@ A: Anatole France
 
 Q: Name?
 
+![](<images/Andrea Palladio.jpg>)
+
+A: Andrea Palladio
+
+---
+
+Q: Name?
+
 ![](<images/Andrey Kolmogorov.jpg>)
 
 A: Andrey Kolmogorov
@@ -79,6 +87,14 @@ Q: Name?
 ![](<images/Arend Heyting.jpg>)
 
 A: Arend Heyting
+
+---
+
+Q: Name?
+
+![](<images/Aristotle Onassis.jpg>)
+
+A: Aristotle Onassis
 
 ---
 
