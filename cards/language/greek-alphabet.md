@@ -292,7 +292,7 @@ A: # κ
 ---
 
 Q: Pronunciation of **kappa**?
-A: 
+A: k
 
 ---
 
