@@ -1308,6 +1308,14 @@ A: William Beebe
 
 Q: Name?
 
+![](<images/William Gladstone.jpg>)
+
+A: William Gladstone
+
+---
+
+Q: Name?
+
 ![](<images/William James.jpg>)
 
 A: William James
