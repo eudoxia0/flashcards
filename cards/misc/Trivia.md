@@ -735,3 +735,13 @@ A: A way to visualize high-dimensional datasets by encoding parameters into styl
 C: Term: [pessimistic induction]
 
 Definition: [the argument that, since most scientific theories have been proven false, we should not believe our current theories to be true.]
+
+---
+
+Q: What does sxhkd stand for?
+A: Simple X hotkey daemon.
+
+---
+
+Q: What program do you use to configure keybindings in bspwm?
+A: sxhkd
