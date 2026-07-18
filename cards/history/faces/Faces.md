@@ -1228,6 +1228,14 @@ A: W. V. O. Quine
 
 Q: Name?
 
+![](<images/Walther Rathenau.jpg>)
+
+A: Walther Rathenau
+
+---
+
+Q: Name?
+
 ![](<images/Werner Heisenberg.jpg>)
 
 A: Werner Heisenberg
