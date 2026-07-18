@@ -168,3 +168,9 @@ Definition: [a consonant articulated with the body of the tongue raised against 
 C: Term: [labiodental consonant]
 
 Definition: [a consonant articulated with the lower lip and the upper teeth.]
+
+---
+
+C: Term: [dentolabial consonant]
+
+Definition: [a consonant articulated with the lower teeth against the upper lip.]
