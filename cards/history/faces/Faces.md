@@ -612,6 +612,14 @@ A: Henry James
 
 Q: Name?
 
+![](<images/Herbert Hoover.jpg>)
+
+A: Herbert Hoover
+
+---
+
+Q: Name?
+
 ![](<images/Herbert Simon.jpg>)
 
 A: Herbert Simon
