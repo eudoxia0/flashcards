@@ -186,3 +186,9 @@ Definition: [a distinct speech sound.]
 C: Term: [phoneme]
 
 Definition: [a set of phones regarded by speakers of a language as indistinguishable.]
+
+---
+
+C: Term: [allophone]
+
+Definition: [a member of the set of phones that are interpreted as the same phoneme.]
