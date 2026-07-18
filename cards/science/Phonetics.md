@@ -210,3 +210,9 @@ Definition: [a consonant articulated with the tongue against the alveolar ridge.
 C: Term: [ambisyllabic]
 
 Definition: [of a consonant: forming part of two adjacent syllables.]
+
+---
+
+C: Term: [apical consonant]
+
+Definition: [a consonant articulated with the apex of the tongue.]
