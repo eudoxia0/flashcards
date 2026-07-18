@@ -750,3 +750,8 @@ A: sxhkd
 
 Q: What does XRD stand for?
 A: X-ray diffraction.
+
+---
+
+Q: What does XRF stand for?
+A: X-ray fluorescence.
