@@ -1140,6 +1140,14 @@ A: Stefan Banach
 
 Q: Name?
 
+![](<images/Stefan Zweig.jpg>)
+
+A: Stefan Zweig
+
+---
+
+Q: Name?
+
 ![](<images/Stendhal.jpg>)
 
 A: Stendhal
