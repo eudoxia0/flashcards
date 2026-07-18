@@ -78,3 +78,9 @@ Definition: [of a speech sound) the configuration of the articulators that produ
 C: Term: [fricative]
 
 Definition: [a speech sound produced by forcing air through a narrow channel.]
+
+---
+
+C: Term: [plosive]
+
+Definition: [a speech sound produced by opening a completely closed vocal tract.]
