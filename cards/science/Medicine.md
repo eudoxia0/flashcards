@@ -880,3 +880,9 @@ Definition: [the dark circle that separates the iris from the sclera.]
 C: Term: [Adam's apple]
 
 Definition: [the visible projection of the thyroid cartilage of the larynx.]
+
+---
+
+C: Term: [craniosynostosis]
+
+Definition: [a condition in which some of the fibrous sutures in an infant's skull prematurely ossify, thereby changing the growth pattern of the skull.]
