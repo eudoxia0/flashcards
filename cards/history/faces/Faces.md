@@ -20,6 +20,14 @@ A: Alexander Grothendieck
 
 Q: Name?
 
+![](<images/Alfred Kubin.jpg>)
+
+A: Alfred Kubin
+
+---
+
+Q: Name?
+
 ![](<images/Alfred Tarski.jpg>)
 
 A: Alfred Tarski
