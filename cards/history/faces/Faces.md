@@ -588,6 +588,14 @@ A: Hans Bethe
 
 Q: Name?
 
+![](<images/Harold Macmillan.jpg>)
+
+A: Harold Macmillan
+
+---
+
+Q: Name?
+
 ![](<images/Heinrich Hertz.jpg>)
 
 A: Heinrich Hertz
