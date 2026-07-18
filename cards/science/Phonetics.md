@@ -132,3 +132,9 @@ Definition: [an articulator that cannot move.]
 C: Term: [labial consonant]
 
 Definition: [a consonant where one or both lips are the active articulator.]
+
+---
+
+C: Term: [bilabial consonant]
+bi
+Definition: [a consonant where both lips are the active articulator.]
