@@ -188,6 +188,14 @@ A: Claudio Monteverdi
 
 Q: Name?
 
+![](<images/Cosima Wagner.jpg>)
+
+A: Cosima Wagner
+
+---
+
+Q: Name?
+
 ![](<images/David Hilbert—old.jpg>)
 
 A: David Hilbert
