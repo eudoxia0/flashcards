@@ -1052,6 +1052,14 @@ A: Sergei Kirov
 
 Q: Name?
 
+![](<images/Sergei Korolev.jpg>)
+
+A: Sergei Korolev
+
+---
+
+Q: Name?
+
 ![](<images/Sophus Lie.jpg>)
 
 A: Sophus Lie
