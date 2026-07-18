@@ -114,3 +114,9 @@ Definition: [a consonant produced with a lowered velum.]
 C: Term: [approximant]
 
 Definition: [a speech sound where two articulators approach each other, but not enough to create turbulent airflow.]
+
+---
+
+C: Term: [labial consonant]
+
+Definition: [a consonant where one or both lips are the active articulator.]
