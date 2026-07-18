@@ -8,8 +8,8 @@ A: Reflecting $z$ around the $x$ axis.
 
 ---
 
-Q: $$i$$
-A: $$\sqrt{-1}$$
+Q: $i$ is defined as the square root of which number?
+A: $-1$
 
 ---
 
