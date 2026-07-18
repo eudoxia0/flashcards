@@ -892,3 +892,9 @@ Definition: [a condition in which some of the fibrous sutures in an infant's sku
 C: Term: [syndactyly]
 
 Definition: [a condition where some digits are fused together.]
+
+---
+
+C: Term: [acrocephalosyndactyly]
+
+Definition: [a class of congenital conditions characterized by craniosynostosis and syndactyly.]
