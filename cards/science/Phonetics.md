@@ -174,3 +174,9 @@ Definition: [a consonant articulated with the lower lip and the upper teeth.]
 C: Term: [dentolabial consonant]
 
 Definition: [a consonant articulated with the lower teeth against the upper lip.]
+
+---
+
+C: Term: [phone]
+
+Definition: [a distinct speech sound.]
