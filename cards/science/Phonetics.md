@@ -117,6 +117,18 @@ Definition: [a speech sound where two articulators approach each other, but not 
 
 ---
 
+C: Term: [active articulator]
+
+Definition: [an articulator that can move.]
+
+---
+
+C: Term: [passive articulator]
+
+Definition: [an articulator that cannot move.]
+
+---
+
 C: Term: [labial consonant]
 
 Definition: [a consonant where one or both lips are the active articulator.]
