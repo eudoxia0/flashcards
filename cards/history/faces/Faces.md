@@ -524,6 +524,14 @@ A: Guglielmo Marconi
 
 Q: Name?
 
+![](<images/Guy de Maupassant.jpg>)
+
+A: Guy de Maupassant
+
+---
+
+Q: Name?
+
 ![](<images/Hans Bethe.jpg>)
 
 A: Hans Bethe
