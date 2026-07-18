@@ -780,6 +780,14 @@ A: John William Waterhouse
 
 Q: Name?
 
+![](<images/Joseph Conrad.png>)
+
+A: Joseph Conrad
+
+---
+
+Q: Name?
+
 ![](<images/Joseph de Maistre.jpg>)
 
 A: Joseph de Maistre
