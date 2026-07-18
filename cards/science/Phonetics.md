@@ -216,3 +216,9 @@ Definition: [of a consonant: forming part of two adjacent syllables.]
 C: Term: [apical consonant]
 
 Definition: [a consonant articulated with the apex of the tongue.]
+
+---
+
+C: Term: [laminal consonant]
+
+Definition: [a consonant articulated with the blade of the tongue.]
