@@ -1108,6 +1108,14 @@ A: Richard Wagner
 
 Q: Name?
 
+![](<images/Robert Menzies.jpg>)
+
+A: Robert Menzies
+
+---
+
+Q: Name?
+
 ![](<images/Rudolf Carnap.jpg>)
 
 A: Rudolf Carnap
