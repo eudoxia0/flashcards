@@ -222,3 +222,9 @@ Definition: [a consonant articulated with the apex of the tongue.]
 C: Term: [laminal consonant]
 
 Definition: [a consonant articulated with the blade of the tongue.]
+
+---
+
+C: Term: [subapical consonant]
+
+Definition: [a consonant articulated with the underside of the apex of the tongue.]
