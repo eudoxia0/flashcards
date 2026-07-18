@@ -68,6 +68,11 @@ A: indulging in moderation
 
 ---
 
+Q: amdram
+A: Amateur dramatics.
+
+---
+
 Q: anastylosis
 A: The reconstruction of archaeological ruins from the remaining fragments.
 
