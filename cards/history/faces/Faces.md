@@ -1204,6 +1204,14 @@ A: Thomas Carlyle
 
 Q: Name?
 
+![](<images/Urho Kekkonen.jpg>)
+
+A: Urho Kekkonen
+
+---
+
+Q: Name?
+
 ![](<images/Victor Hugo.jpg>)
 
 A: Victor Hugo
