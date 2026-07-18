@@ -96,3 +96,9 @@ Definition: [a speech sound produced by opening a completely closed vocal tract.
 C: Term: [affricate]
 
 Definition: [a consonant that begins as a plosive and releases as a fricative.]
+
+---
+
+C: Term: [nasal consonant]
+
+Definition: [a consonant produced with a lowered velum.]
