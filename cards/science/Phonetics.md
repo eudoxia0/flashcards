@@ -156,3 +156,9 @@ Definition: [the part of the tongue just behind the tip.]
 C: Term: [dorsum (tongue)]
 
 Definition: [the upper surface of the tongue.]
+
+---
+
+C: Term: [palatal consonant]
+
+Definition: [a consonant articulated with the body of the tongue raised against the hard palate.]
