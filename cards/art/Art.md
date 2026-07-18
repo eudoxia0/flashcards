@@ -3476,6 +3476,22 @@ A: Johannes Vermeer
 
 Q: Title?
 
+![](<@/art/images/Johannes Vermeer—The Geographer.jpg>)
+
+A: The Geographer
+
+---
+
+Q: Artist?
+
+![](<@/art/images/Johannes Vermeer—The Geographer.jpg>)
+
+A: Johannes Vermeer
+
+---
+
+Q: Title?
+
 ![](<@/art/images/Johannes Vermeer—The Little Street.jpg>)
 
 A: The Little Street
