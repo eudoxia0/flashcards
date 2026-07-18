@@ -138,3 +138,9 @@ Definition: [a consonant where one or both lips are the active articulator.]
 C: Term: [bilabial consonant]
 
 Definition: [a consonant where both lips are the active articulator.]
+
+---
+
+C: Term: [dental consonant]
+
+Definition: [a consonant articulated with the tongue against the upper teeth.]
