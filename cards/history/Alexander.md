@@ -1,3 +1,7 @@
+---
+name = "People"
+---
+
 C: Alexander was born in the year [356] BCE.
 
 ---

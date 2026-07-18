@@ -1,3 +1,7 @@
+---
+name = "People"
+---
+
 C: Dante was born in the year [1265].
 
 ---

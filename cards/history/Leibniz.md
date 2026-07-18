@@ -1,3 +1,7 @@
+---
+name = "People"
+---
+
 Q: Leibniz, year of birth.
 A: 1646
 
