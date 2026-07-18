@@ -1244,6 +1244,14 @@ A: W. V. O. Quine
 
 Q: Name?
 
+![](<images/Walter Benjamin.jpg>)
+
+A: Walter Benjamin
+
+---
+
+Q: Name?
+
 ![](<images/Walther Rathenau.jpg>)
 
 A: Walther Rathenau
