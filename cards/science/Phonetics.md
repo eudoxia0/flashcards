@@ -66,3 +66,9 @@ Definition: [a speech sound produced with complete or partial closure of the voc
 C: Term: [vowel]
 
 Definition: [a speech sound produced without any stricture of the vocal tract.]
+
+---
+
+C: Term: [fricative]
+
+Definition: [a speech sound produced by forcing air through a narrow channel.]
