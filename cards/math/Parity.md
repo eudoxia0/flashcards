@@ -54,7 +54,11 @@ A: $\text{even}$
 ---
 
 Q: Prove: $\text{even} \times \text{even} = \text{even}$
-A:
+A: Let $a, b$ even. Then:
+
+$$
+(2a')(2b') = 4a'b' = 2(2a'b')
+$$
 
 ---
 
