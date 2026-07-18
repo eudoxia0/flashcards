@@ -364,6 +364,14 @@ A: François Arago
 
 Q: Name?
 
+![](<images/Fridtjof Nansen.jpg>)
+
+A: Fridtjof Nansen
+
+---
+
+Q: Name?
+
 ![](<images/Friedrich Hölderlin.jpg>)
 
 A: Friedrich Hölderlin
