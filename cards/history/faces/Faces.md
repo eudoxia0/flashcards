@@ -316,6 +316,14 @@ A: Ettore Majorana
 
 Q: Name?
 
+![](<images/Eugen von Böhm-Bawerk.png>)
+
+A: Eugen von Böhm-Bawerk
+
+---
+
+Q: Name?
+
 ![](<images/Eugene Wigner.jpg>)
 
 A: Eugene Wigner
