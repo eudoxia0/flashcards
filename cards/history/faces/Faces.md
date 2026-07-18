@@ -180,6 +180,14 @@ A: Claude Shannon
 
 Q: Name?
 
+![](<images/Claudio Monteverdi.jpg>)
+
+A: Claudio Monteverdi
+
+---
+
+Q: Name?
+
 ![](<images/David Hilbert—old.jpg>)
 
 A: David Hilbert
