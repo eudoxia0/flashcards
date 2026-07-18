@@ -108,3 +108,9 @@ Definition: [a consonant that begins as a plosive and releases as a fricative.]
 C: Term: [nasal consonant]
 
 Definition: [a consonant produced with a lowered velum.]
+
+---
+
+C: Term: [approximant]
+
+Definition: [a speech sound where two articulators approach each other, but not enough to create turbulent airflow.]
