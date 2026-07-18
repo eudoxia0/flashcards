@@ -755,3 +755,8 @@ A: X-ray diffraction.
 
 Q: What does XRF stand for?
 A: X-ray fluorescence.
+
+---
+
+Q: What does XRS stand for?
+A: X-ray spectroscopy.
