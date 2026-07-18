@@ -162,3 +162,9 @@ Definition: [the upper surface of the tongue.]
 C: Term: [palatal consonant]
 
 Definition: [a consonant articulated with the body of the tongue raised against the hard palate.]
+
+---
+
+C: Term: [labiodental consonant]
+
+Definition: [a consonant articulated with the lower lip and the upper teeth.]
