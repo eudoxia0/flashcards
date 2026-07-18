@@ -1108,6 +1108,14 @@ A: Richard Wagner
 
 Q: Name?
 
+![](<images/Robert Gascoyne-Cecil.jpg>)
+
+A: Robert Gascoyne-Cecil
+
+---
+
+Q: Name?
+
 ![](<images/Robert Menzies.jpg>)
 
 A: Robert Menzies
