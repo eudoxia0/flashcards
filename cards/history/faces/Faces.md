@@ -476,6 +476,14 @@ A: Giacomo Puccini
 
 Q: Name?
 
+![](<images/Giuseppe Garibaldi.jpg>)
+
+A: Giuseppe Garibaldi
+
+---
+
+Q: Name?
+
 ![](<images/Giuseppe Verdi.jpg>)
 
 A: Giuseppe Verdi
