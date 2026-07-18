@@ -564,6 +564,14 @@ A: Guy de Maupassant
 
 Q: Name?
 
+![](<images/H. H. Asquith.jpg>)
+
+A: H. H. Asquith
+
+---
+
+Q: Name?
+
 ![](<images/Hans Bethe.jpg>)
 
 A: Hans Bethe
