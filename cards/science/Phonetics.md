@@ -198,3 +198,9 @@ Definition: [a member of the set of phones that are interpreted as the same phon
 C: Term: [alveolar ridge]
 
 Definition: [the bony ridge between the upper teeth and the hard palate.]
+
+---
+
+C: Term: [alveolar consonant]
+
+Definition: [a consonant articulated with the tongue against the alveolar ridge.]
