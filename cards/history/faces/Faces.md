@@ -292,6 +292,14 @@ A: Ernest Rutherford
 
 Q: Name?
 
+![](<images/Ernest Shackleton.jpg>)
+
+A: Ernest Shackleton
+
+---
+
+Q: Name?
+
 ![](<images/Ernst Mach.jpg>)
 
 A: Ernst Mach
