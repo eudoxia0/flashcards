@@ -180,3 +180,9 @@ Definition: [a consonant articulated with the lower teeth against the upper lip.
 C: Term: [phone]
 
 Definition: [a distinct speech sound.]
+
+---
+
+C: Term: [phoneme]
+
+Definition: [a set of phones regarded by speakers of a language as indistinguishable.]
