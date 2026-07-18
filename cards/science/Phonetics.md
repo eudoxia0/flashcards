@@ -234,3 +234,9 @@ Definition: [a consonant articulated with the underside of the apex of the tongu
 C: Term: [dorsal consonant]
 
 Definition: [a consonant articulated with the dorsum of the tongue.]
+
+---
+
+C: Term: [pharyngeal consonant]
+
+Definition: [a consonant articulated in the pharynx.]
