@@ -192,3 +192,9 @@ Definition: [a set of phones regarded by speakers of a language as indistinguish
 C: Term: [allophone]
 
 Definition: [a member of the set of phones that are interpreted as the same phoneme.]
+
+---
+
+C: Term: [alveolar ridge]
+
+Definition: [the bony ridge between the upper teeth and the hard palate.]
