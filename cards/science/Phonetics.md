@@ -144,3 +144,9 @@ Definition: [a consonant where both lips are the active articulator.]
 C: Term: [dental consonant]
 
 Definition: [a consonant articulated with the tongue against the upper teeth.]
+
+---
+
+C: Term: [blade (tongue)]
+
+Definition: [the part of the tongue just behind the tip.]
