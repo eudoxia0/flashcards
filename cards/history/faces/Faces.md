@@ -92,6 +92,14 @@ A: Andrey Kolmogorov
 
 Q: Name?
 
+![](<images/Anthony Eden.jpg>)
+
+A: Anthony Eden
+
+---
+
+Q: Name?
+
 ![](<images/Archibald Primrose, the Earl of Rosebery.jpg>)
 
 A: Archibald Primrose, the Earl of Rosebery
