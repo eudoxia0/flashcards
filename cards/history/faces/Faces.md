@@ -492,6 +492,14 @@ A: Giacomo Puccini
 
 Q: Name?
 
+![](<images/Giulio Andreotti.jpg>)
+
+A: Giulio Andreotti
+
+---
+
+Q: Name?
+
 ![](<images/Giuseppe Garibaldi.jpg>)
 
 A: Giuseppe Garibaldi
