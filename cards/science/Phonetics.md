@@ -75,6 +75,12 @@ Definition: [of a speech sound) the configuration of the articulators that produ
 
 ---
 
+C: Term: [place of articulation]
+
+Definition: [of a speech sound: the point along the vocal tract where articulation happens.]
+
+---
+
 C: Term: [fricative]
 
 Definition: [a speech sound produced by forcing air through a narrow channel.]
