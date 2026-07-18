@@ -895,6 +895,12 @@ Definition: [a condition where some digits are fused together.]
 
 ---
 
+C: Term: [polydactyly]
+
+Definition: [a birth defect that creates extra digits.]
+
+---
+
 C: Term: [acrocephalosyndactyly]
 
 Definition: [a class of congenital conditions characterized by craniosynostosis and syndactyly.]
