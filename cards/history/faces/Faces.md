@@ -436,6 +436,14 @@ A: Georgy Malenkov
 
 Q: Name?
 
+![](<images/Giacomo Puccini.jpg>)
+
+A: Giacomo Puccini
+
+---
+
+Q: Name?
+
 ![](<images/Giuseppe Verdi.jpg>)
 
 A: Giuseppe Verdi
