@@ -47,3 +47,9 @@ A: The soft tissue that makes up the top-back of the mouth.
 
 Q: Term for the tissue that separates the oral and nasal cavities.
 A: Velum.
+
+---
+
+C: Term: [consonant]
+
+Definition: [a speech sound produced with complete or partial closure of the vocal tract.]
