@@ -10,3 +10,8 @@ A: `F2`
 
 Q: On the Fujitsu laptop, how do you enter the boot menu?
 A: `F12`
+
+---
+
+Q: What CLI app do I use to count lines of code?
+A: `tokei`
