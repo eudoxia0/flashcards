@@ -84,3 +84,9 @@ Definition: [a speech sound produced by forcing air through a narrow channel.]
 C: Term: [plosive]
 
 Definition: [a speech sound produced by opening a completely closed vocal tract.]
+
+---
+
+C: Term: [affricate]
+
+Definition: [a consonant that begins as a plosive and releases as a fricative.]
