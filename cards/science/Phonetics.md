@@ -32,14 +32,6 @@ A: The flap that prevents food from entering the larynx.
 
 ---
 
-C: The [soft palate] is also called the [velum].
-
----
-
-C: The [velum] is also called the [soft palate].
-
----
-
 Q: What is the velum?
 A: The soft tissue that makes up the top-back of the mouth.
 
@@ -47,6 +39,21 @@ A: The soft tissue that makes up the top-back of the mouth.
 
 Q: Term for the tissue that separates the oral and nasal cavities.
 A: Velum.
+
+---
+
+C: The [soft palate] is also called the [velum].
+
+---
+
+C: Term: [vocal tract]
+
+Definition: [the organs that shape speech sounds.]
+
+---
+
+Q: Describe the parts of the vocal tract.
+A: The larynx, pharynx, oral cavity, and nasal cavity.
 
 ---
 
