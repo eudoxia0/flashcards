@@ -874,3 +874,9 @@ C: [Pellagra] is another name for [vitamin B3 deficiency].
 C: Term: [limbal ring]
 
 Definition: [the dark circle that separates the iris from the sclera.]
+
+---
+
+C: Term: [Adam's apple]
+
+Definition: [the visible projection of the thyroid cartilage of the larynx.]
