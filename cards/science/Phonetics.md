@@ -150,3 +150,9 @@ Definition: [a consonant articulated with the tongue against the upper teeth.]
 C: Term: [blade (tongue)]
 
 Definition: [the part of the tongue just behind the tip.]
+
+---
+
+C: Term: [dorsum (tongue)]
+
+Definition: [the upper surface of the tongue.]
