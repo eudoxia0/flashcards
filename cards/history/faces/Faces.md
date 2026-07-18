@@ -780,6 +780,14 @@ A: Ludwig Mies van der Rohe
 
 Q: Name?
 
+![](<images/Maria Callas.jpg>)
+
+A: Maria Callas
+
+---
+
+Q: Name?
+
 ![](<images/Marie Curie.jpg>)
 
 A: Marie Curie
