@@ -68,6 +68,14 @@ A: Andrea Palladio
 
 Q: Name?
 
+![](<images/Andrei Tupolev.jpg>)
+
+A: Andrei Tupolev
+
+---
+
+Q: Name?
+
 ![](<images/Andrey Kolmogorov.jpg>)
 
 A: Andrey Kolmogorov
