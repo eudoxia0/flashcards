@@ -204,3 +204,9 @@ Definition: [the bony ridge between the upper teeth and the hard palate.]
 C: Term: [alveolar consonant]
 
 Definition: [a consonant articulated with the tongue against the alveolar ridge.]
+
+---
+
+C: Term: [ambisyllabic]
+
+Definition: [of a consonant: forming part of two adjacent syllables.]
