@@ -745,3 +745,8 @@ A: Simple X hotkey daemon.
 
 Q: What program do you use to configure keybindings in bspwm?
 A: sxhkd
+
+---
+
+Q: What does XRD stand for?
+A: X-ray diffraction.
