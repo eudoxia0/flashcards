@@ -70,5 +70,8 @@ stats:
 due:
 	hashcards due cards
 
+browse:
+	hashcards browse cards
+
 clean:
 	rm -f $(TARGETS)
