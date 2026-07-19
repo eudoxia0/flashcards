@@ -251,3 +251,8 @@ Definition: [a consonant articulated in the pharynx.]
 C: Term: [backness]
 
 Definition: [the horizontal dimension in vowel space]
+
+---
+
+Q: What are the possible values of vowel backness?
+A: Front, near-front, central, near-back, back.
