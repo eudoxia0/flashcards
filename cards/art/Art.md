@@ -4724,6 +4724,22 @@ A: Mikhail Vrubel
 
 Q: Title?
 
+![](<@/art/images/Miriam Escofet—Uccello's Chalice.jpg>)
+
+A: Uccello's Chalice
+
+---
+
+Q: Artist?
+
+![](<@/art/images/Miriam Escofet—Uccello's Chalice.jpg>)
+
+A: Miriam Escofet
+
+---
+
+Q: Title?
+
 ![](<@/art/images/Natalia Goncharova—Cyclist.jpg>)
 
 A: Cyclist
