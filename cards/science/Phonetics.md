@@ -52,12 +52,6 @@ C: When the velum is [raised], airflow through that nasal cavity is [unblocked].
 
 ---
 
-C: Term: [vocal tract]
-
-Definition: [the organs that shape speech sounds.]
-
----
-
 Q: Describe the parts of the vocal tract.
 A: The larynx, pharynx, oral cavity, and nasal cavity.
 
