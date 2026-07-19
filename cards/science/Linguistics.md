@@ -58,3 +58,9 @@ Definition: [an affix that appears before the stem.]
 C: Term: [suffix]
 
 Definition: [an affix that appears after the stem.]
+
+---
+
+C: Term: [infix]
+
+Definition: [an affix that appears within the stem.]
