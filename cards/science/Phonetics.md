@@ -52,7 +52,12 @@ C: When the velum is [raised], airflow through that nasal cavity is [blocked].
 
 ---
 
-Q: Describe the parts of the vocal tract.
+Q: List the parts of the vocal tract, from top to bottom.
+A: The nasal cavity, oral cavity, pharynx, and larynx.
+
+---
+
+Q: List the parts of the vocal tract, from bottom to top.
 A: The larynx, pharynx, oral cavity, and nasal cavity.
 
 ---
