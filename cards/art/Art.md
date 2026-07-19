@@ -4916,6 +4916,22 @@ A: Pablo Picasso
 
 Q: Title?
 
+![](<@/art/images/Paolo Uccello—Study of a chalice.jpg>)
+
+A: Study of a chalice
+
+---
+
+Q: Artist?
+
+![](<@/art/images/Paolo Uccello—Study of a chalice.jpg>)
+
+A: Paolo Uccello
+
+---
+
+Q: Title?
+
 ![](<@/art/images/Paul Cadmus—Night in Bologna.jpg>)
 
 A: Night in Bologna
