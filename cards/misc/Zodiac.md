@@ -61,7 +61,7 @@ C: Sign: [Aquarius]
 
 Symbol: [♒]
 
-
+---
 
 C: Sign: [Pisces]
 
