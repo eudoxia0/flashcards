@@ -71,7 +71,7 @@ Definition: [a speech sound produced without any stricture of the vocal tract.]
 
 C: Term: [manner of articulation]
 
-Definition: [of a speech sound) the configuration of the articulators that produce it.]
+Definition: [of a speech sound: the configuration of the articulators that produce it.]
 
 ---
 
