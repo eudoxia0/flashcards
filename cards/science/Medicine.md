@@ -901,11 +901,5 @@ Definition: [a birth defect that creates extra digits.]
 
 ---
 
-C: Term: [acrocephalosyndactyly]
-
-Definition: [a class of congenital conditions characterized by craniosynostosis and syndactyly.]
-
----
-
 Q: Etymology of syndactyly.
 A: From Greek _syn_, "together"; and _daktulos_, "finger".
