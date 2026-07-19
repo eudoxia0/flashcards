@@ -245,3 +245,9 @@ Definition: [a consonant articulated with the dorsum of the tongue.]
 C: Term: [pharyngeal consonant]
 
 Definition: [a consonant articulated in the pharynx.]
+
+---
+
+C: Term: [backness]
+
+Definition: [the horizontal dimension in vowel space]
