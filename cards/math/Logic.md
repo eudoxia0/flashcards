@@ -157,3 +157,9 @@ A: Leibniz.
 C: Term: [existential-conjunctive logic]
 
 Definition: [the subset of logical expressions with only $\exists$ and $\land$.]
+
+---
+
+C: Term: [monotonicity of entailment]
+
+Definition: [the principle that if $P \vdash Q$, then $P, P' \vdash Q$. That is: adding new premises does not invalidate the conclusion.]
