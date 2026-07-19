@@ -298,3 +298,9 @@ Definition: [the production of sound with a lowered velum.]
 C: Term: [voiced]
 
 Definition: [of a speech sound: produced with the vocal folds vibrating.]
+
+---
+
+C: Term: [voiceless]
+
+Definition: [of a speech sound: produced without the vocal folds vibrating.]
