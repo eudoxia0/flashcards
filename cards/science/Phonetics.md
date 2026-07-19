@@ -274,3 +274,9 @@ A:
 - open-mid
 - near-open
 - open
+
+---
+
+C: Term: [roundedness]
+
+Definition: [of a vowel: the degree to which the lips are rounded.]
