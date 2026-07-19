@@ -909,3 +909,9 @@ A: From Greek _syn_, "together"; and _daktulos_, "finger".
 C: Term: [ipsilateral]
 
 Definition: [of two things: being on the same side of the body.]
+
+---
+
+C: Term: [contralateral]
+
+Definition: [of two things: being on opposite sides of the body.]
