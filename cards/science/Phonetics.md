@@ -256,3 +256,9 @@ Definition: [the horizontal dimension in vowel space]
 
 Q: What are the possible values of vowel backness?
 A: Front, near-front, central, near-back, back.
+
+---
+
+C: Term: [vowel height]
+
+Definition: [the vertical dimension in vowel space]
