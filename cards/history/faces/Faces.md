@@ -868,6 +868,14 @@ A: L. E. J. Brouwer
 
 Q: Name?
 
+![](<images/Lachlan Macquarie.jpg>)
+
+A: Lachlan Macquarie
+
+---
+
+Q: Name?
+
 ![](<images/Leonhard Euler.jpg>)
 
 A: Leonhard Euler
