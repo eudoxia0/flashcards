@@ -286,3 +286,9 @@ Definition: [of a vowel: the degree to which the lips are rounded.]
 C: Term: [nasal vowel]
 
 Definition: [a vowel produced with a lowered velum.]
+
+---
+
+C: Term: [nasalization]
+
+Definition: [the production of sound with a lowered velum.]
