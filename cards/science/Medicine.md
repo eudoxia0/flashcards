@@ -903,3 +903,9 @@ Definition: [a birth defect that creates extra digits.]
 
 Q: Etymology of syndactyly.
 A: From Greek _syn_, "together"; and _daktulos_, "finger".
+
+---
+
+C: Term: [ipsilateral]
+
+Definition: [of two things: being on the same side of the body.]
