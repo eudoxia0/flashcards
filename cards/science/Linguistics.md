@@ -88,3 +88,9 @@ Definition: [a word borrowed from another language by translating each morpheme.
 C: Term: [malapropism]
 
 Definition: [the incorrect use of a word in place of a similar-sounding word.]
+
+---
+
+C: Term: [back-formation]
+
+Definition: [a word formed by removing an affix from another word.]
