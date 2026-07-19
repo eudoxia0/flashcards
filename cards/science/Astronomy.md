@@ -106,7 +106,11 @@ Definition: [the time when the Sun appears directly above the Earth's equator.]
 
 ---
 
-
 C: Term: [solstice]
 
 Definition: [the time when the Sun reaches its highest or lowest point in the sky at noon.]
+
+---
+
+Q: Etymology of equinox?
+A: From Latin _aequinoctium_, "equal night".
