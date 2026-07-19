@@ -189,7 +189,7 @@ Definition: [the breakdown of proteins.]
 
 ---
 
-[Proteolysis] is catalyzed by enzymes called [proteases].
+C: [Proteolysis] is catalyzed by enzymes called [proteases].
 
 ---
 
