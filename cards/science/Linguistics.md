@@ -76,3 +76,9 @@ Definition: [an affix where one segment is a prefix, and another a suffix.]
 C: Term: [cognate]
 
 Definition: [one of a set of words that have a common ancestry.]
+
+---
+
+C: Term: [calque]
+
+Definition: [a word borrowed from another language by translating each morpheme.]
