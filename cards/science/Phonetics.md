@@ -316,3 +316,9 @@ Definition: [of a speech sound: produced without the vocal folds vibrating.]
 C: Term: [voicing]
 
 Definition: [the quality of a speech sound being voiced or voiceless.]
+
+---
+
+C: Term: [continuant]
+
+Definition: [a speech sound produced with zero or partial closure of the vocal tract.]
