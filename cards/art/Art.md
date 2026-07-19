@@ -1476,6 +1476,22 @@ A: Francisco Goya
 
 Q: Title?
 
+![](<@/art/images/Francisco de Zurbarán—Agnus Dei.jpg>)
+
+A: Agnus Dei
+
+---
+
+Q: Artist?
+
+![](<@/art/images/Francisco de Zurbarán—Agnus Dei.jpg>)
+
+A: Francisco de Zurbarán
+
+---
+
+Q: Title?
+
 ![](<@/art/images/Franz Xaver Winterhalter—Portrait of Alexandra of Denmark.jpg>)
 
 A: Portrait of Alexandra of Denmark
