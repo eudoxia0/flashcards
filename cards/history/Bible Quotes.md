@@ -187,7 +187,7 @@ C: Or like as when an arrow is shot at a mark, it parteth the air, which immedia
 
 ---
 
-I returned, and saw under the sun, that the race is not to the swift, nor the battle to the strong, neither yet bread to the wise, nor yet riches to men of understanding, nor yet favour to men of skill; but time and chance happeneth to them all.
+C: I returned, and saw under the sun, that the race is not to the swift, nor the battle to the strong, neither yet bread to the wise, nor yet riches to men of understanding, nor yet favour to men of skill; but time and chance happeneth to them all.
 
 — [Ecclesiastes] [9]:[11]
 

@@ -44,7 +44,7 @@ C: Sign: [Scorpius]
 Symbol: [♏]
 
 ---
-s
+
 C: Sign: [Sagittarius]
 
 Symbol: [♐]
