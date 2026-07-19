@@ -64,3 +64,9 @@ Definition: [an affix that appears after the stem.]
 C: Term: [infix]
 
 Definition: [an affix that appears within the stem.]
+
+---
+
+C: Term: [circumfix]
+
+Definition: [an affix where one segment is a prefix, and another a suffix.]
