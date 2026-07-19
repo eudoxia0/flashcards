@@ -70,3 +70,9 @@ Definition: [an affix that appears within the stem.]
 C: Term: [circumfix]
 
 Definition: [an affix where one segment is a prefix, and another a suffix.]
+
+---
+
+C: Term: [cognate]
+
+Definition: [one of a set of words that have a common ancestry.]
