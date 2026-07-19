@@ -52,3 +52,9 @@ Definition: [a morpheme that is attached to a stem to form a new word.]
 C: Term: [prefix]
 
 Definition: [an affix that appears before the stem.]
+
+---
+
+C: Term: [suffix]
+
+Definition: [an affix that appears after the stem.]
