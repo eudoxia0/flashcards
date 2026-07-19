@@ -114,3 +114,8 @@ Definition: [the time when the Sun reaches its highest or lowest point in the sk
 
 Q: Etymology of equinox?
 A: From Latin _aequinoctium_, "equal night".
+
+---
+
+Q: Etymology of solstice?
+A: From Latin _solstitium_: _sol_ (Sun) plus _sistere_ (to sit).
