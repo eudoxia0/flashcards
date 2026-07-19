@@ -322,3 +322,9 @@ Definition: [the quality of a speech sound being voiced or voiceless.]
 C: Term: [continuant]
 
 Definition: [a speech sound produced with zero or partial closure of the vocal tract.]
+
+---
+
+C: Term: [tap]
+
+Definition: [a speech sound where an articulator is rapidly thrown against another.]
