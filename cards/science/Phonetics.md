@@ -44,11 +44,11 @@ A: Velum.
 
 C: The [soft palate] is also called the [velum].
 
-C: When the velum is [lowered], airflow through that nasal cavity is [blocked].
+C: When the velum is [lowered], airflow through that nasal cavity is [unblocked].
 
 ---
 
-C: When the velum is [raised], airflow through that nasal cavity is [unblocked].
+C: When the velum is [raised], airflow through that nasal cavity is [blocked].
 
 ---
 
