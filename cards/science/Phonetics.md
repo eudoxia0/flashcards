@@ -262,3 +262,15 @@ A: Front, near-front, central, near-back, back.
 C: Term: [vowel height]
 
 Definition: [the vertical dimension in vowel space]
+
+---
+
+Q: What are the possible values of vowel height?
+A:
+- close
+- near-close
+- close-mid
+- mid
+- open-mid
+- near-open
+- open
