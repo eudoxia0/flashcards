@@ -1,8 +1,8 @@
-Band, Wavelength, Energy
-gamma rays, "$\leq 10 \picometer$", "$\geq 124 \keV$"
-x-rays, $10 \picometer$ to $10 \nanometer$, $124 \eV$ to $124 \keV$
-ultraviolet, $10 \nanometer$ to $400 \nanometer$, $3.1 \eV$ to $124 \eV$
-visible light, $400 \nanometer$ to $700 \nanometer$, $1.7 \eV$ to $3.1 \eV$
-infrared, $700 \nanometer$ to $1 \millimeter$, $1.2 \meV$ to $1.7 \eV$
-microwaves, $1 \millimeter$ to $1 \meter$, $1.2 \ueV$ to $1.2 \meV$
-radio, "$\geq 1 \meter$", "$\leq 1.2 \ueV$"
+Band,WavelengthLow,WavelengthHigh,EnergyLow,EnergyHigh
+gamma rays,$- \infty$,$10 \picometer$,$124 \keV$,$+ \infty$
+x-rays,$10 \picometer$,$10 \nanometer$,$124 \eV$,$124 \keV$
+ultraviolet,$10 \nanometer$,$400 \nanometer$,$3.1 \eV$,$124 \eV$
+visible light,$400 \nanometer$,$700 \nanometer$,$1.7 \eV$,$3.1 \eV$
+infrared,$700 \nanometer$,$1 \millimeter$,$1.2 \meV$,$1.7 \eV$
+microwaves,$1 \millimeter$,$1 \meter$,$1.2 \ueV$,$1.2 \meV$
+radio,$1 \meter$,$+ \infty$,$- \infty$,$1.2 \ueV$
