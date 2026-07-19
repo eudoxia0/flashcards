@@ -280,3 +280,9 @@ A:
 C: Term: [roundedness]
 
 Definition: [of a vowel: the degree to which the lips are rounded.]
+
+---
+
+C: Term: [nasal vowel]
+
+Definition: [a vowel produced with a lowered velum.]
