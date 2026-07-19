@@ -82,3 +82,9 @@ Definition: [one of a set of words that have a common ancestry.]
 C: Term: [calque]
 
 Definition: [a word borrowed from another language by translating each morpheme.]
+
+---
+
+C: Term: [malapropism]
+
+Definition: [the incorrect use of a word in place of a similar-sounding word.]
