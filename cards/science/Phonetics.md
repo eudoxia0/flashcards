@@ -350,3 +350,7 @@ Definition: [a speech sound produced with obstructed airflow.]
 C: Term: [sonorant]
 
 Definition: [a speech sound produced with continuous, non-turbulent airflow.]
+
+---
+
+C: Dual: [sonorant], [obstruent].
