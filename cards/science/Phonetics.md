@@ -332,3 +332,9 @@ Definition: [a speech sound where an articulator is rapidly thrown against anoth
 ---
 
 C: Synonyms: [tap], [flap].
+
+---
+
+C: Term: [obstruent]
+
+Definition: [a speech sound produced by obstructing airflow.]
