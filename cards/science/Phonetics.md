@@ -337,4 +337,10 @@ C: Synonyms: [tap], [flap].
 
 C: Term: [obstruent]
 
-Definition: [a speech sound produced by obstructing airflow.]
+Definition: [a speech sound produced with obstructed airflow.]
+
+---
+
+C: Term: [sonorant]
+
+Definition: [a speech sound produced with continuous, non-turbulent airflow.]
