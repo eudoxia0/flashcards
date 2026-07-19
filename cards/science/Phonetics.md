@@ -242,6 +242,12 @@ Definition: [a consonant articulated with the dorsum of the tongue.]
 
 ---
 
+C: Term: [coronal consonant]
+
+Definition: [a consonant articulated with the flexible front part of the tongue.]
+
+---
+
 C: Term: [pharyngeal consonant]
 
 Definition: [a consonant articulated in the pharynx.]
