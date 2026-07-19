@@ -328,3 +328,7 @@ Definition: [a speech sound produced with zero or partial closure of the vocal t
 C: Term: [tap]
 
 Definition: [a speech sound where an articulator is rapidly thrown against another.]
+
+---
+
+C: Synonyms: [tap], [flap].
