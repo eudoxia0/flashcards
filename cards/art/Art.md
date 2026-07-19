@@ -1492,6 +1492,22 @@ A: Francisco de Zurbarán
 
 Q: Title?
 
+![](<@/art/images/Francisco de Zurbarán—Saint Francis in Meditation.jpg>)
+
+A: Saint Francis in Meditation
+
+---
+
+Q: Artist?
+
+![](<@/art/images/Francisco de Zurbarán—Saint Francis in Meditation.jpg>)
+
+A: Francisco de Zurbarán
+
+---
+
+Q: Title?
+
 ![](<@/art/images/Franz Xaver Winterhalter—Portrait of Alexandra of Denmark.jpg>)
 
 A: Portrait of Alexandra of Denmark
