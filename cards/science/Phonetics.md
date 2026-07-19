@@ -152,6 +152,12 @@ Definition: [a consonant articulated with the tongue against the upper teeth.]
 
 ---
 
+C: Term: [bidental consonant]
+
+Definition: [a consonant articulated with both the upper and lower teeth.]
+
+---
+
 C: Term: [blade (tongue)]
 
 Definition: [the part of the tongue just behind the tip.]
