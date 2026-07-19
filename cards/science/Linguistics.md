@@ -40,3 +40,9 @@ A: Self-segregating morphology.
 
 Q: Explain Neo-Davidsonian semantics.
 A: A linguistic framework that treats verbs as unary predicates on events.
+
+---
+
+C: Term: [affix]
+
+Definition: [a morpheme that is attached to a stem to form a new word.]
