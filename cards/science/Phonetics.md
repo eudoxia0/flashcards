@@ -292,3 +292,9 @@ Definition: [a vowel produced with a lowered velum.]
 C: Term: [nasalization]
 
 Definition: [the production of sound with a lowered velum.]
+
+---
+
+C: Term: [voiced]
+
+Definition: [of a speech sound: produced with the vocal folds vibrating.]
