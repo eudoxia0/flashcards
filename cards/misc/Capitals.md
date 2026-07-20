@@ -31,3 +31,7 @@ C: [Bishkek] is the capital of [Kyrgyzstan].
 ---
 
 C: [Ulaanbaatar] is the capital of [Mongolia].
+
+---
+
+C: [Ashgabat] is the capital of [Turkmenistan].
