@@ -37,8 +37,3 @@ C: In modern terms, Leibniz's [_calculus ratiocinator_] corresponds to the moder
 
 Q: Leibniz's full name.
 A: Gottfried Wilhelm Leibniz.
-
----
-
-Q: Leibniz, alma mater.
-A: The University of Leipzig and the University of Altdorf.
