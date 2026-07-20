@@ -3100,14 +3100,6 @@ A: James McNeill Whistler
 
 Q: Artist?
 
-![](<@/art/images/James Tissot—Too Early (skip).jpg>)
-
-A: James Tissot
-
----
-
-Q: Artist?
-
 ![](<@/art/images/James Tissot—Waiting for the Ferry at the Falcon Tavern (skip).jpg>)
 
 A: James Tissot
