@@ -6,17 +6,7 @@ C: Dante was born in the year [1265].
 
 ---
 
-Q: Dante, year of birth.
-A: 1265
-
----
-
 C: Dante died in the year [1321].
-
----
-
-Q: Dante, year of death.
-A: 1321
 
 ---
 
