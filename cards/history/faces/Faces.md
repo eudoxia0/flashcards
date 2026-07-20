@@ -1100,7 +1100,7 @@ A: Paul Klee
 
 Q: Name?
 
-![](<images/Paul Verlaine.png>)
+![](<images/Paul Verlaine.jpg>)
 
 A: Paul Verlaine
 
