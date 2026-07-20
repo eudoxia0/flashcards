@@ -359,3 +359,9 @@ C:  When man took to his bed the Computer, there was great rejoicing, and great 
  I learned much about the Entity's sense of Herself. Each moon- brain, it seemed, was at once an island of consciousness and a part of the greater whole. And each moon could subdivide and compartmentalise at need into smaller and smaller units, trillions of units of intelligence gathering and shifting like clouds of sand. 
 
  — [David Zindell]
+
+---
+
+The universe is a womb for the genesis of gods.
+
+— [David Zindell]
