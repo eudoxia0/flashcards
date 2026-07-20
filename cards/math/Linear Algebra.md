@@ -24,9 +24,7 @@ Definition: [a square matrix whose transpose equals its negation.]
 
 ---
 
-C:
-
-Let $A$ be a matrix. Then:
+C: Let $A$ be a matrix. Then:
 
 [$\text{SkewSymmetric}(A)$] $\iff$ [$A^T = -A$]
 

@@ -115,29 +115,25 @@ A: Outer product.
 
 ---
 
-C:
-Notation: [$\braket{a|b}$]
+C: Notation: [$\braket{a|b}$]
 
 Definition: [inner product of the vectors $\ket{a}$ and $\ket{b}$.]
 
 ---
 
-C:
-Notation: [$\ket{a} \otimes \ket{b}$]
+C: Notation: [$\ket{a} \otimes \ket{b}$]
 
 Definition: [tensor product of the vectors $\ket{a}$ and $\ket{b}$.]
 
 ---
 
-C:
-Notation: [$\ket{a} \ket{b}$]
+C: Notation: [$\ket{a} \ket{b}$]
 
 Definition: [abbreviated notation for the tensor product of the vectors $\ket{a}$ and $\ket{b}$.]
 
 ---
 
-C:
-Notation: [$\overline{A}$]
+C: Notation: [$\overline{A}$]
 
 Definition: [complex conjugate of a matrix $A$.]
 

@@ -3,8 +3,7 @@ A: A rewrite system terminates when any expression can be rewritten into an expr
 
 ---
 
-C:
-Term: [normal form]
+C: Term: [normal form]
 
 Definition: [An expression for which no more rules apply.]
 
@@ -18,8 +17,7 @@ C: Saying "$x$ is [irreducible]" is equivalent to saying "$x$ is a [normal form]
 
 ---
 
-C:
-Notation: [$x!$]
+C: Notation: [$x!$]
 
 Definition: [$x$ has a unique normal form.]
 
@@ -58,22 +56,19 @@ A: If two terms have a common (possibly indirect) ancestor, they are joinable.
 
 ---
 
-C:
-[$\text{Confluent}(R)$]
+C: [$\text{Confluent}(R)$]
 $\iff$
 [$\left( y_1 \lstarpath x \starpath y_2 \implies y_1 \join y_2 \right)$]
 
 ---
 
-C:
-Term: [convergent rewrite system]
+C: Term: [convergent rewrite system]
 
 Definition: [A rewrite system that is both terminating and confluent.]
 
 ---
 
-C:
-[$\text{ChurchRosser}(R)$]
+C: [$\text{ChurchRosser}(R)$]
 $\iff$
 [$\left( x \conv y \implies x \join y \right)$]
 
@@ -94,15 +89,13 @@ A: "$x$ and $y$ are convertible"
 
 ---
 
-C:
-Term: [normalizing rewrite system]
+C: Term: [normalizing rewrite system]
 
 Definition: [A rewrite system where every element has at least one normal form.]
 
 ---
 
-C:
-[$\text{SemiConfluent}(R)$]
+C: [$\text{SemiConfluent}(R)$]
 $\iff$
 [$\left( y_1 \leftarrow x \starpath y_2 \implies y_1 \join y_2 \right)$]
 
@@ -133,15 +126,13 @@ A: Normalizing means every element has at least one normal form. Confluence mean
 
 ---
 
-C:
-Term: [finitely branching relation]
+C: Term: [finitely branching relation]
 
 Definition: [A relation where every element has only finitely many direct successors.]
 
 ---
 
-C:
-Term: [globally finite relation]
+C: Term: [globally finite relation]
 
 Definition: [A relation where every element has only finitely many distinct successors.]
 
@@ -162,8 +153,7 @@ The set of successors is $\set{a,b}$ for every element.
 
 ---
 
-C:
-Term: [acyclic relation]
+C: Term: [acyclic relation]
 
 Definition: [A relation where there is no element $a$ such that $a \pluspath a$.]
 
@@ -191,15 +181,13 @@ $\iff$
 
 ---
 
-C:
-Term: [signature]
+C: Term: [signature]
 
 Definition: [a set of function symbols, each of which is associated with a natural number called its arity.]
 
 ---
 
-C:
-Notation: [$\Sigma^{(n)}$]
+C: Notation: [$\Sigma^{(n)}$]
 
 Definition: [the set of $n$-ary symbols in a signature $\Sigma$.]
 
@@ -214,36 +202,31 @@ A: By induction: every variable is a term, and every application of function sym
 
 ---
 
-C:
-Notation: [$T(\Sigma, X)$]
+C: Notation: [$T(\Sigma, X)$]
 
 Definition: [the set of $\Sigma$-terms over $X$.]
 
 ---
 
-C:
-Notation: [$\mathcal{Pos}(t)$]
+C: Notation: [$\mathcal{Pos}(t)$]
 
 Definition: [the set of positions in a term $t$.]
 
 ---
 
-C:
-Notation: [$\mathcal{Var}(t)$]
+C: Notation: [$\mathcal{Var}(t)$]
 
 Definition: [the set of variables in a term $t$.]
 
 ---
 
-C:
-Notation: [$t |_p$]
+C: Notation: [$t |_p$]
 
 Definition: [the subterm of $t$ at position $p$.]
 
 ---
 
-C:
-Term: [ground term]
+C: Term: [ground term]
 
 Definition: [a term with no free variables.]
 
@@ -257,7 +240,6 @@ $\iff$
 
 ---
 
-C:
-Notation: [$T(\Sigma)$]
+C: Notation: [$T(\Sigma)$]
 
 Definition: [the set of ground terms over a signature $\Sigma$.]

@@ -66,29 +66,25 @@ Definition: [A cylinder capped with a hemisphere at both ends.]
 
 ---
 
-C:
-Term: [haploid cell]
+C: Term: [haploid cell]
 
 Definition: [A cell that has one copy of each chromosome.]
 
 ---
 
-C:
-Term: [diploid cell]
+C: Term: [diploid cell]
 
 Definition: [A cell that has two copies of each chromosome.]
 
 ---
 
-C:
-Term: [ploidy]
+C: Term: [ploidy]
 
 Definition: [The number of copies of each chromosome in a cell.]
 
 ---
 
-C:
-Term: [endocytosis]
+C: Term: [endocytosis]
 
 Definition: [A process by which a cell acquires extracellular material, by wrapping its membrane around it, which buds off into an intracellular vesicle.]
 
@@ -103,15 +99,13 @@ C: Humans are made of about [60]% water.
 
 ---
 
-C:
-Term: [anabolism]
+C: Term: [anabolism]
 
 Definition: [The metabolic processes that construct large biomolecules from smaller units.]
 
 ---
 
-C:
-Term: [catabolism]
+C: Term: [catabolism]
 
 Definition: [The metabolic processes that break down large molecules, either to provide energy or feedstock.]
 
@@ -132,15 +126,13 @@ A: In the ribosome.
 
 ---
 
-C:
-Term: [cell cycle time]
+C: Term: [cell cycle time]
 
 Definition: [The time it takes for a cell to complete a full cycle of division.]
 
 ---
 
-C:
-Term: [transcription]
+C: Term: [transcription]
 
 Definition: [The process by which mRNA is synthesized from a DNA template.]
 
@@ -151,39 +143,31 @@ A: Transcription.
 
 ---
 
-C:
-Term: [transcription factor]
+C: Term: [transcription factor]
 
 Definition: [A protein that binds to a DNA sequence, turning transcription on/off in response to signals.]
 
 ---
 
-C:
-
-Process: [replication]
+C: Process: [replication]
 
 Diagram: [$\text{DNA} \rightarrow \text{DNA}$]
 
 ---
 
-C:
-
-Process: [transcription]
+C: Process: [transcription]
 
 Diagram: [$\text{DNA} \rightarrow \text{RNA}$]
 
 ---
 
-C:
-
-Process: [translation]
+C: Process: [translation]
 
 Diagram: [$\text{RNA} \rightarrow \text{Protein}$]
 
 ---
 
-C:
-Term: [proteolysis]
+C: Term: [proteolysis]
 
 Definition: [the breakdown of proteins.]
 

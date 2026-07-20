@@ -97,57 +97,49 @@ C: [Endone] is the Australian trade name of [oxycodone].
 
 ---
 
-C:
-Term: [prodromal]
+C: Term: [prodromal]
 
 Definition: [The phase of disease before the onset of symptoms.]
 
 ---
 
-C:
-Term: [coloboma of the iris]
+C: Term: [coloboma of the iris]
 
 Definition: [A defect of the eye where the iris is shaped like a keyhole.]
 
 ---
 
-C:
-Term: [infarction]
+C: Term: [infarction]
 
 Definition: [Tissue death caused by loss of blood supply.]
 
 ---
 
-C:
-Term: [infarct]
+C: Term: [infarct]
 
 Definition: [A lesion resulting from an infarction.]
 
 ---
 
-C:
-Term: [embolus]
+C: Term: [embolus]
 
 Definition: [A clot that travels through circulation, becomes lodged in a blood vessel, and impedes blood flow.]
 
 ---
 
-C:
-Term: [thrombus]
+C: Term: [thrombus]
 
 Definition: [A blood clot that forms _in situ_ and impedes blood flow.]
 
 ---
 
-C:
-Term: [orthopantomogram]
+C: Term: [orthopantomogram]
 
 Definition: [A panoramic dental x-ray.]
 
 ---
 
-C:
-Term: [pericoronitis]
+C: Term: [pericoronitis]
 
 Definition: [infection of the gum around a partially-erupted wisdom tooth.]
 
@@ -173,57 +165,49 @@ A: anorectic
 
 ---
 
-C:
-Abbreviation: [qd]
+C: Abbreviation: [qd]
 
 Definition: [once daily.]
 
 ---
 
-C:
-Abbreviation: [qAM]
+C: Abbreviation: [qAM]
 
 Definition: [Every morning.]
 
 ---
 
-C:
-Abbreviation: [qHS]
+C: Abbreviation: [qHS]
 
 Definition: [At bedtime.]
 
 ---
 
-C:
-Abbreviation: [bid]
+C: Abbreviation: [bid]
 
 Definition: [Twice daily.]
 
 ---
 
-C:
-Abbreviation: [tid]
+C: Abbreviation: [tid]
 
 Definition: [Three times daily.]
 
 ---
 
-C:
-Abbreviation: [qid]
+C: Abbreviation: [qid]
 
 Definition: [Four times daily.]
 
 ---
 
-C:
-Abbreviation: [qPM]
+C: Abbreviation: [qPM]
 
 Definition: [Every evening.]
 
 ---
 
-C:
-Abbreviation: [prn]
+C: Abbreviation: [prn]
 
 Definition: [As needed.]
 
@@ -320,8 +304,7 @@ A: Bereitschaftspotential.
 
 ---
 
-C:
-Term: [serial passage]
+C: Term: [serial passage]
 
 Definition: [The repeated transfer of a pathogen through a series of hosts or cultures to attenuate or adapt it.]
 

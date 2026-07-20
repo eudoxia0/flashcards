@@ -33,8 +33,7 @@ A: To maintain an extracellular environment similar to seawater.
 
 ---
 
-C:
-Term: [Ionic Gradient]
+C: Term: [Ionic Gradient]
 
 Definition: [The difference in the concentration of a particular ion between the interior and exterior of a cell.]
 
@@ -60,8 +59,7 @@ A: Because the cell is selectively permeable.
 
 ---
 
-C:
-Term: [Action Potential]
+C: Term: [Action Potential]
 Definition: [A rapid, all-or-nothing depolarization that travels down a neuron's axon.]
 
 ---
@@ -71,8 +69,7 @@ A: If the brain were not isolated from general circulation, changes in ion gradi
 
 ---
 
-C:
-Term: [Threshold potential]
+C: Term: [Threshold potential]
 Definition: [The value of the membrane potential at which an action potential is triggered.]
 
 ---
@@ -107,7 +104,6 @@ C: The [calcium] ion in neurons is [$Ca^{2+}$].
 
 ---
 
-C:
-Term: [Voltage-Gated Ion Channel]
+C: Term: [Voltage-Gated Ion Channel]
 
 Definition: [An ion channels whose permeability is determined by its surrounding membrane potential.]

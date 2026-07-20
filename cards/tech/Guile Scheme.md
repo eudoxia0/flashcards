@@ -1,5 +1,4 @@
-C:
-Function: [`display`]
+C: Function: [`display`]
 
 Synopsis: [print a string to stdout.]
 
@@ -20,8 +19,7 @@ A: `(define v e)`
 
 ---
 
-C:
-Function: [`string-append`]
+C: Function: [`string-append`]
 
 Synopsis: [concatenate strings.]
 
@@ -36,29 +34,25 @@ A:
 
 ---
 
-C:
-Function: [`string?`]
+C: Function: [`string?`]
 
 Synopsis: [predicate to test if a value is a string.]
 
 ---
 
-C:
-Function: [`eq?`]
+C: Function: [`eq?`]
 
 Synopsis: [pointer equality.]
 
 ---
 
-C:
-Function: [`equal?`]
+C: Function: [`equal?`]
 
 Synopsis: [value equality.]
 
 ---
 
-C:
-Function: [`member`]
+C: Function: [`member`]
 
 Synopsis: [test if an element is part of a list.]
 
@@ -84,15 +78,13 @@ A: `'()`
 
 ---
 
-C:
-Function: [`string-length`]
+C: Function: [`string-length`]
 
 Synopsis: [return the length of a string.]
 
 ---
 
-C:
-Function: [`symbol->string`]
+C: Function: [`symbol->string`]
 
 Synopsis: [convert a symbol to a string.]
 
@@ -103,8 +95,7 @@ A: `"foo"`
 
 ---
 
-C:
-Function: [`string-upcase`]
+C: Function: [`string-upcase`]
 
 Synopsis: [convert a string to uppercase.]
 
@@ -115,29 +106,25 @@ A: `"FOO"`
 
 ---
 
-C:
-Syntax: [`(map f l)`]
+C: Syntax: [`(map f l)`]
 
 Description: [apply `f` to each element of a list `l`, and return the list of results.]
 
 ---
 
-C:
-Function: [`=`]
+C: Function: [`=`]
 
 Synopsis: [numerical equality.]
 
 ---
 
-C:
-Syntax: [`(set! v e)`]
+C: Syntax: [`(set! v e)`]
 
 Description: [assign the value `e` to the variable `v`.]
 
 ---
 
-C:
-Syntax: [`(begin e0 e1 ... en)`]
+C: Syntax: [`(begin e0 e1 ... en)`]
 
 Description: [evaluate expressions `e0`, `e1`, ..., `en` in order, returning the value of `en`.]
 
@@ -148,42 +135,36 @@ A: `begin`
 
 ---
 
-C:
-Syntax: [`(vector e0 e1 ... en)`]
+C: Syntax: [`(vector e0 e1 ... en)`]
 
 Description: [construct a vector given initial elements `e0`, `e1`, ..., `en`.]
 
 ---
 
-C:
-Function: [`vector`]
+C: Function: [`vector`]
 
 Synopsis: [vector constructor.]
 
 ---
 
-C:
-Syntax: [`(vector-ref v i)`]
+C: Syntax: [`(vector-ref v i)`]
 
 Description: [return the `i`-th element of a vector `v`.]
 
 ---
 
-C:
-Syntax: [`(vector-set! v i e)`]
+C: Syntax: [`(vector-set! v i e)`]
 
 Description: [store `e` as the value of the `i`-th element of a vector `v`.]
 
 ---
 
-C:
-Function: [`string=?`]
+C: Function: [`string=?`]
 
 Synopsis: [string equality.]
 
 ---
 
-C:
-Function: [`newline`]
+C: Function: [`newline`]
 
 Synopsis: [print a newline to stdout.]

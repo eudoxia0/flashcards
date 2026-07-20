@@ -1,5 +1,4 @@
-C:
-Keybinding: [`C-x g`]
+C: Keybinding: [`C-x g`]
 
 Command: [`magit-status`]
 

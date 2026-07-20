@@ -58,22 +58,19 @@ A: Macrophages that provide immune defense in the CNS.
 
 ---
 
-C:
-Term: [gray matter]
+C: Term: [gray matter]
 
 Definition: [brain tissue made up of aggregates of neuron bodies.]
 
 ---
 
-C:
-Term: [white matter]
+C: Term: [white matter]
 
 Definition: [brain tissue made up of aggregates of axons.]
 
 ---
 
-C:
-Term: [membrane potential]
+C: Term: [membrane potential]
 
 Definition: [the voltage between the interior and exterior of the neuron.]
 

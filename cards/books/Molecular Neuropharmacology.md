@@ -1,5 +1,4 @@
-C:
-Term: [psychotropic drug]
+C: Term: [psychotropic drug]
 
 Definition: [A drug that influences behaviour]
 
@@ -25,36 +24,31 @@ A: SSRIs inhibit SERT and increase serotonin activity.
 
 ---
 
-C:
-Term: [Allosteric regulation]
+C: Term: [Allosteric regulation]
 
 Definition: [The changing of a protein's activity by a ligand binding somewhere other than the protein's active site.]
 
 ---
 
-C:
-Term: [Agonist]
+C: Term: [Agonist]
 
 Definition: [A ligand that binds to a receptor and activates it.]
 
 ---
 
-C:
-Term: [Partial Agonist]
+C: Term: [Partial Agonist]
 
 Definition: [A drug that binds to a receptor and activates it slightly.]
 
 ---
 
-C:
-Term: [Antagonist]
+C: Term: [Antagonist]
 
 Definition: [A ligand that binds to a receptor and remains inert, blocking the action of agonist ligands.]
 
 ---
 
-C:
-Term: [Inverse agonist]
+C: Term: [Inverse agonist]
 
 Definition: [A drug that binds to a receptor and produces an effect opposite to that of an agonist.]
 
