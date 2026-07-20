@@ -2006,6 +2006,20 @@ A: ![](<images/Sergei Korolev.jpg>)
 
 Q: Name?
 
+![](<images/Sergey Sazonov.jpg>)
+
+A: Sergey Sazonov
+
+---
+
+Q: Recall: Sergey Sazonov.
+
+A: ![](<images/Sergey Sazonov.jpg>)
+
+---
+
+Q: Name?
+
 ![](<images/Sophus Lie.jpg>)
 
 A: Sophus Lie
