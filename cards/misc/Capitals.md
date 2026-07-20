@@ -27,3 +27,7 @@ C: [Kabul] is the capital of [Afghanistan].
 ---
 
 C: [Bishkek] is the capital of [Kyrgyzstan].
+
+---
+
+C: [Ulaanbaatar] is the capital of [Mongolia].
