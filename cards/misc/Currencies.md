@@ -19,3 +19,9 @@ Currency: [Argentine peso.]
 C: Code: [CHF]
 
 Currency: [Swiss franc.]
+
+---
+
+C: Code: [GBP]
+
+Currency: [Pound sterling.]
