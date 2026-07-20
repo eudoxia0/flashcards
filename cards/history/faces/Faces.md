@@ -396,6 +396,20 @@ A: ![](<images/Dmitri Mendeleyev.jpg>)
 
 Q: Name?
 
+![](<images/Dragutin Dimitrijević.jpg>)
+
+A: Dragutin Dimitrijević
+
+---
+
+Q: Recall: Dragutin Dimitrijević.
+
+A: ![](<images/Dragutin Dimitrijević.jpg>)
+
+---
+
+Q: Name?
+
 ![](<images/E. O. Wilson.jpg>)
 
 A: E. O. Wilson
