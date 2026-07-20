@@ -2132,6 +2132,20 @@ A: ![](<images/Subrahmanyan Chandrasekhar.jpg>)
 
 Q: Name?
 
+![](<images/Theobald von Bethmann Hollweg.jpg>)
+
+A: Theobald von Bethmann Hollweg
+
+---
+
+Q: Recall: Theobald von Bethmann Hollweg.
+
+A: ![](<images/Theobald von Bethmann Hollweg.jpg>)
+
+---
+
+Q: Name?
+
 ![](<images/Thomas Carlyle.jpg>)
 
 A: Thomas Carlyle
