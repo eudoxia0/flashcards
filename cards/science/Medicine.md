@@ -802,15 +802,7 @@ C: Vitamin [B1] is also known as [thiamine].
 
 ---
 
-C: [Thiamine] is also known as [vitamin B1].
-
----
-
 C: Vitamin [B2] is also known as [riboflavin].
-
----
-
-C: [Riboflavin] is also known as [vitamin B2].
 
 ---
 
@@ -818,15 +810,7 @@ C: Vitamin [B3] is also known as [niacin].
 
 ---
 
-C: [Niacin] is also known as [vitamin B3].
-
----
-
 C: Vitamin [B5] is also known as [pantothenic acid].
-
----
-
-C: [Panthotenic acid] is also known as [vitamin B5].
 
 ---
 
@@ -834,23 +818,11 @@ C: Vitamin [B7] is also known as [biotin].
 
 ---
 
-C: [Biotin] is also known as [vitamin B7].
-
----
-
 C: [Thiamine deficiency] is also known as [beriberi].
 
 ---
 
-C: [Beriberi] is another name for [thiamine deficiency].
-
----
-
 C: [Vitamin B3 deficiency] is also known as [pellagra].
-
----
-
-C: [Pellagra] is another name for [vitamin B3 deficiency].
 
 ---
 
