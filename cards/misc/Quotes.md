@@ -347,3 +347,9 @@ C: The essential Saltes of Animals may be so prepared and preserved, that an ing
 C: Though this be madness, yet there is method in it.
 
 — [William Shakespeare], [_Hamlet_]
+
+---
+
+C:  When man took to his bed the Computer, there was great rejoicing, and great fear too, for their children were almost like gods. The mainbrains bestrode the galaxy at will, and changed its very face. The Silicon God, The Solid State Entity, Al Squared, Enth Generation - their names are many. And there were the Carked and Symbionts, whose daughters were the Neurosingers, Warrior-Poets, the Neurologicians and the Pilots of the Order of Mystic Mathematicians.
+
+— [David Zindell]
