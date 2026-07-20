@@ -148,9 +148,9 @@ A: Auguste Piccard
 
 Q: Name?
 
-![](<images/Benjamin Disraeli, the Earl of Beaconsfield.jpg>)
+![](<images/Benjamin Disraeli.jpg>)
 
-A: Benjamin Disraeli, the Earl of Beaconsfield
+A: Benjamin Disraeli
 
 ---
 
