@@ -1,17 +1,17 @@
-ART            := cards/art/Art.md
-BUILD          := cards/architecture/Great\ Buildings.md
-DEF_PY         := scripts/def.py
-ELEMENTS       := cards/science/periodic-table.md
-ENG            := cards/language/english/English\ Vocabulary.md
-FACES          := cards/history/faces/Faces.md
-GREEK          := cards/language/greek-alphabet.md
-PERSIAN        := cards/language/persian/Persian\ Alphabet.md
-POW            := cards/math/Powers\ of\ Two.md
-PY             := python3
-SPECTRUM       := cards/science/em-spectrum.md
-TEX            := cards/tech/TeX.md
+ART         := cards/art/Art.md
+BUILD       := cards/architecture/Great\ Buildings.md
+DEF_PY      := scripts/def.py
+ELEMENTS    := cards/science/periodic-table.md
+ENG         := cards/language/english/English\ Vocabulary.md
+FACES       := cards/history/faces/Faces.md
+GREEK       := cards/language/greek-alphabet.md
+PERSIAN     := cards/language/persian/Persian\ Alphabet.md
+POW         := cards/math/Powers\ of\ Two.md
+PY			:= python3
+SPECTRUM	:= cards/science/em-spectrum.md
+TEX			:= cards/tech/TeX.md
 
-TARGETS        := $(ART) $(ENG) $(FACES) $(PERSIAN) $(POW) $(TEX) $(BUILD) $(ELEMENTS) $(GREEK) $(SPECTRUM)
+TARGETS  := $(ART) $(ENG) $(FACES) $(PERSIAN) $(POW) $(TEX) $(BUILD) $(ELEMENTS) $(GREEK) $(SPECTRUM)
 
 .PHONY: all check drill clean
 
