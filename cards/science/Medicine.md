@@ -711,10 +711,6 @@ C: The Australian trade name of [paracetamol] is [Panadol].
 
 ---
 
-C: The trade name of [diclofenac] is [Voltaren].
-
----
-
 C: The INN of [Voltaren] is [diclofenac].
 
 ---
