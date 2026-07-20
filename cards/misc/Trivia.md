@@ -744,3 +744,9 @@ A: X-ray spectroscopy.
 C: Term: [Necker cube]
 
 Definition: [an optical illusion where a wireframe cube without depth cues can be interpreted in multiple ways.]
+
+---
+
+C: Term: [sympathetic magic]
+
+Definition: [a form of magic based on imitation, correspondence, contagion, acquiring the trappings of a thing to acquire its essence.]
