@@ -8,8 +8,6 @@ DEF_PY         := scripts/def.py
 ENG            := cards/language/english/English\ Vocabulary.md
 ENG_SRC        := sources/english_vocab.csv
 FACES          := cards/history/faces/Faces.md
-FACES_PY       := scripts/faces.py
-FACES_SRC      := cards/history/faces/images/*.jpg cards/history/faces/images/*.png
 PERSIAN        := cards/language/persian/Persian\ Alphabet.md
 PERSIAN_PY     := scripts/persian.py
 POW            := cards/math/Powers\ of\ Two.md
@@ -34,8 +32,8 @@ $(ART): $(ART_PY) $(ART_DIR)
 $(BUILD): $(BUILD_PY) $(BUILD_SRC)
 	$(PY) $(BUILD_PY) > $(BUILD)
 
-$(FACES): $(FACES_PY) $(FACES_SRC)
-	$(PY) $(FACES_PY) > $(FACES)
+$(FACES): scripts/faces.py cards/history/faces/images/*.jpg cards/history/faces/images/*.png
+	$(PY) scripts/faces.py > $(FACES)
 
 $(ENG): $(ENG_SRC) $(DEF_PY)
 	$(PY) $(DEF_PY) $(ENG_SRC) > $(ENG)
