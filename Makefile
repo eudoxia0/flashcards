@@ -11,11 +11,8 @@ FACES          := cards/history/faces/Faces.md
 PERSIAN        := cards/language/persian/Persian\ Alphabet.md
 PERSIAN_PY     := scripts/persian.py
 POW            := cards/math/Powers\ of\ Two.md
-POW_PY         := scripts/pow2.py
 PY             := python3
 TEX            := cards/tech/TeX.md
-TEX_PY         := scripts/tex.py
-TEX_SRC        := sources/expr.tex
 ELEMENTS       := cards/science/periodic-table.md
 GREEK          := cards/language/greek-alphabet.md
 SPECTRUM       := cards/science/em-spectrum.md
@@ -41,8 +38,8 @@ $(ENG): $(ENG_SRC) $(DEF_PY)
 $(PERSIAN): $(PERSIAN_PY)
 	$(PY) $(PERSIAN_PY) > $(PERSIAN)
 
-$(POW): $(POW_PY)
-	$(PY) $(POW_PY) > $(POW)
+$(POW): scripts/pow2.py
+	$(PY) scripts/pow2.py > $(POW)
 
 $(TEX): scripts/tex.py sources/expr.tex
 	$(PY) scripts/tex.py sources/expr.tex $(TEX)
