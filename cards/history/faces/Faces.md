@@ -180,14 +180,6 @@ A: Charles Babbage
 
 Q: Name?
 
-![](<images/Charles Babbage—photo.jpg>)
-
-A: Charles Babbage
-
----
-
-Q: Name?
-
 ![](<images/Charles Sanders Peirce.png>)
 
 A: Charles Sanders Peirce
@@ -220,15 +212,7 @@ A: Cosima Wagner
 
 Q: Name?
 
-![](<images/David Hilbert—old.jpg>)
-
-A: David Hilbert
-
----
-
-Q: Name?
-
-![](<images/David Hilbert—young.jpg>)
+![](<images/David Hilbert.jpg>)
 
 A: David Hilbert
 
@@ -260,15 +244,7 @@ A: Edmund Husserl
 
 Q: Name?
 
-![](<images/Edward Teller—a.jpg>)
-
-A: Edward Teller
-
----
-
-Q: Name?
-
-![](<images/Edward Teller—b.jpg>)
+![](<images/Edward Teller.jpg>)
 
 A: Edward Teller
 
@@ -381,14 +357,6 @@ A: Francisco Goya
 Q: Name?
 
 ![](<images/Frank Lloyd Wright.jpg>)
-
-A: Frank Lloyd Wright
-
----
-
-Q: Name?
-
-![](<images/Frank Lloyd Wright—alt.jpg>)
 
 A: Frank Lloyd Wright
 
@@ -612,15 +580,7 @@ A: Hendrik Lorentz
 
 Q: Name?
 
-![](<images/Henri Poincaré—old.png>)
-
-A: Henri Poincaré
-
----
-
-Q: Name?
-
-![](<images/Henri Poincaré—young.jpg>)
+![](<images/Henri Poincaré.jpg>)
 
 A: Henri Poincaré
 
@@ -805,14 +765,6 @@ A: John Singer Sargent
 Q: Name?
 
 ![](<images/John William Waterhouse.jpg>)
-
-A: John William Waterhouse
-
----
-
-Q: Name?
-
-![](<images/John William Waterhouse—big.jpg>)
 
 A: John William Waterhouse
 
