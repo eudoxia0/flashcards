@@ -43,3 +43,7 @@ C: [Abuja] is the capital of [Nigeria].
 ---
 
 C: [Accra] is the capital of [Ghana].
+
+---
+
+C: [Algiers] is the capital of [Algeria].
