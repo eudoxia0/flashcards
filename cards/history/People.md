@@ -48,23 +48,19 @@ C: Ernst Jünger died in town of [Riedlingen].
 
 ---
 
-Q: David Hilbert, year of birth.
-A: 1862
+C: David Hilbert was born in the year [1862].
 
 ---
 
-Q: David Hilbert, year of death.
-A: 1943
+C: David Hilbert was born in the city of [Königsberg].
 
 ---
 
-Q: David Hilbert, city of birth.
-A: Königsberg.
+C: David Hilbert died in the year [1943].
 
 ---
 
-Q: David Hilbert, city of death.
-A: Göttingen.
+C: David Hilbert died in town of [Göttingen].
 
 ---
 
