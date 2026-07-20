@@ -39,3 +39,7 @@ C: [Ashgabat] is the capital of [Turkmenistan].
 ---
 
 C: [Abuja] is the capital of [Nigeria].
+
+---
+
+C: [Accra] is the capital of [Ghana].
