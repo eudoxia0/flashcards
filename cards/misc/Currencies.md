@@ -31,3 +31,9 @@ Currency: [Pound sterling.]
 C: Code: [JPY]
 
 Currency: [Japanese yen.]
+
+---
+
+C: Code: [CNY]
+
+Currency: [Renminbi.]
