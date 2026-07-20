@@ -76,3 +76,7 @@ A: David Hilbert.
 
 Q: Translate: "wir müssen wissen, wir werden wissen".
 A: "We must know. We shall know."
+
+---
+
+C: Benjamin Disraeli was the Earl of [Beaconsfield].
