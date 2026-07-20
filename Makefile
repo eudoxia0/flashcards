@@ -1,21 +1,15 @@
 ART            := cards/art/Art.md
-ART_DIR        := cards/art/images
-ART_PY         := scripts/art.py
 BUILD          := cards/architecture/Great\ Buildings.md
-BUILD_PY       := scripts/build.py
-BUILD_SRC      := cards/architecture/images/*.jpg
 DEF_PY         := scripts/def.py
+ELEMENTS       := cards/science/periodic-table.md
 ENG            := cards/language/english/English\ Vocabulary.md
-ENG_SRC        := sources/english_vocab.csv
 FACES          := cards/history/faces/Faces.md
+GREEK          := cards/language/greek-alphabet.md
 PERSIAN        := cards/language/persian/Persian\ Alphabet.md
-PERSIAN_PY     := scripts/persian.py
 POW            := cards/math/Powers\ of\ Two.md
 PY             := python3
-TEX            := cards/tech/TeX.md
-ELEMENTS       := cards/science/periodic-table.md
-GREEK          := cards/language/greek-alphabet.md
 SPECTRUM       := cards/science/em-spectrum.md
+TEX            := cards/tech/TeX.md
 
 TARGETS        := $(ART) $(ENG) $(FACES) $(PERSIAN) $(POW) $(TEX) $(BUILD) $(ELEMENTS) $(GREEK) $(SPECTRUM)
 
@@ -23,20 +17,20 @@ TARGETS        := $(ART) $(ENG) $(FACES) $(PERSIAN) $(POW) $(TEX) $(BUILD) $(ELE
 
 all: $(TARGETS)
 
-$(ART): $(ART_PY) $(ART_DIR)
-	$(PY) $(ART_PY) > $(ART)
+$(ART): scripts/art.py cards/art/images
+	$(PY) scripts/art.py > $(ART)
 
-$(BUILD): $(BUILD_PY) $(BUILD_SRC)
-	$(PY) $(BUILD_PY) > $(BUILD)
+$(BUILD): scripts/build.py cards/architecture/images/*.jpg
+	$(PY) scripts/build.py > $(BUILD)
 
 $(FACES): scripts/faces.py cards/history/faces/images/*.jpg cards/history/faces/images/*.png
 	$(PY) scripts/faces.py > $(FACES)
 
-$(ENG): $(ENG_SRC) $(DEF_PY)
-	$(PY) $(DEF_PY) $(ENG_SRC) > $(ENG)
+$(ENG): sources/english_vocab.csv scripts/def.py
+	$(PY) scripts/def.py sources/english_vocab.csv > $(ENG)
 
-$(PERSIAN): $(PERSIAN_PY)
-	$(PY) $(PERSIAN_PY) > $(PERSIAN)
+$(PERSIAN): scripts/persian.py
+	$(PY) scripts/persian.py > $(PERSIAN)
 
 $(POW): scripts/pow2.py
 	$(PY) scripts/pow2.py > $(POW)
