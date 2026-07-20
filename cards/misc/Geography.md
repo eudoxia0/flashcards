@@ -1,4 +1,3 @@
-
 Q: Name of the airport in Fiji?
 A: Nadi.
 
