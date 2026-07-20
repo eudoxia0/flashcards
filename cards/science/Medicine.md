@@ -565,8 +565,8 @@ A: Adeno-associated virus.
 
 ---
 
-Q: Cyproheptadine, drug class.
-A: Serotonin antagonist.
+Q: Cyproheptadine antagonizes which receptors?
+A: Serotonin receptors.
 
 ---
 
