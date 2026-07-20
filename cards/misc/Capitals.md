@@ -15,3 +15,7 @@ C: [Tashkent] is the capital of [Uzbekistan].
 ---
 
 C: [Astana] is the capital of [Kazakhstan].
+
+---
+
+C: [Dushanbe] is the capital of [Tajikistan].
