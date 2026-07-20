@@ -4,7 +4,7 @@ A: King of Sparta at the start of the Greco-Persian Wars.
 ---
 
 Q: Who was king of Sparta at the start of the Greco-Persian Wars?
-A: Cleomenes I
+A: Cleomenes I.
 
 ---
 
