@@ -108,11 +108,7 @@ A: 1648–1649.
 
 ---
 
-C: The Torah is also known as the [Pentateuch].
-
----
-
-C: The Pentateuch is another name for the [Torah].
+C: The [Torah] is also known as the [Pentateuch].
 
 ---
 
@@ -139,11 +135,7 @@ A: TeX Gyre Heros.
 
 ---
 
-C: Hyperthreading is Intel's implementation of [simultaneous multithreading].
-
----
-
-C: Intel's implementation of simultaneous multithreading is called [hyperthreading].
+C: Intel's implementation of [simultaneous multithreading] is called [hyperthreading].
 
 ---
 
@@ -196,13 +188,9 @@ A: The ability of the human visual system to notice misalignment between two par
 
 ---
 
-Q: What is Rubin's vase?
-A: An optical illusion that can be perceived either as two faces in profile or as a vase.
+C: Term: [Rubin's vase]
 
----
-
-Q: What is the name of the optical illusion depicting two faces or a vase?
-A: Rubin's vase.
+Definition: [an optical illusion that can be perceived either as two faces in profile or as a vase.]
 
 ---
 
