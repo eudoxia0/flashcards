@@ -3002,81 +3002,41 @@ A: James McNeill Whistler
 
 ---
 
-Q: Title?
-
-![](<@/art/images/James McNeill Whistler—Mother of Pearl and Silver, The Andalusian.jpg>)
-
-A: Mother of Pearl and Silver, The Andalusian
-
----
-
 Q: Artist?
 
-![](<@/art/images/James McNeill Whistler—Mother of Pearl and Silver, The Andalusian.jpg>)
+![](<@/art/images/James McNeill Whistler—Mother of Pearl and Silver, The Andalusian (skip).jpg>)
 
 A: James McNeill Whistler
 
 ---
 
-Q: Title?
-
-![](<@/art/images/James McNeill Whistler—Nocturne.jpg>)
-
-A: Nocturne
-
----
-
 Q: Artist?
 
-![](<@/art/images/James McNeill Whistler—Nocturne.jpg>)
+![](<@/art/images/James McNeill Whistler—Nocturne (skip).jpg>)
 
 A: James McNeill Whistler
 
 ---
 
-Q: Title?
-
-![](<@/art/images/James McNeill Whistler—Nocturne - Blue and Gold - Old Battersea Bridge.jpg>)
-
-A: Nocturne - Blue and Gold - Old Battersea Bridge
-
----
-
 Q: Artist?
 
-![](<@/art/images/James McNeill Whistler—Nocturne - Blue and Gold - Old Battersea Bridge.jpg>)
+![](<@/art/images/James McNeill Whistler—Nocturne - Blue and Gold - Old Battersea Bridge (skip).jpg>)
 
 A: James McNeill Whistler
 
 ---
 
-Q: Title?
-
-![](<@/art/images/James McNeill Whistler—Nocturne - Blue and Gold - Southampton Water.jpg>)
-
-A: Nocturne - Blue and Gold - Southampton Water
-
----
-
 Q: Artist?
 
-![](<@/art/images/James McNeill Whistler—Nocturne - Blue and Gold - Southampton Water.jpg>)
+![](<@/art/images/James McNeill Whistler—Nocturne - Blue and Gold - Southampton Water (skip).jpg>)
 
 A: James McNeill Whistler
 
 ---
 
-Q: Title?
-
-![](<@/art/images/James McNeill Whistler—Nocturne - Blue and Silver - Battersea Reach .jpg>)
-
-A: Nocturne - Blue and Silver - Battersea Reach
-
----
-
 Q: Artist?
 
-![](<@/art/images/James McNeill Whistler—Nocturne - Blue and Silver - Battersea Reach .jpg>)
+![](<@/art/images/James McNeill Whistler—Nocturne - Blue and Silver - Battersea Reach (skip).jpg>)
 
 A: James McNeill Whistler
 
