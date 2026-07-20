@@ -79,4 +79,8 @@ A: "We must know. We shall know."
 
 ---
 
-C: Benjamin Disraeli was the Earl of [Beaconsfield].
+C: [Benjamin Disraeli] was the Earl of [Beaconsfield].
+
+---
+
+C: [Archibald Primrose] was the Earl of [Rosebery].

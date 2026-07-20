@@ -100,9 +100,9 @@ A: Anthony Eden
 
 Q: Name?
 
-![](<images/Archibald Primrose, the Earl of Rosebery.jpg>)
+![](<images/Archibald Primrose.jpg>)
 
-A: Archibald Primrose, the Earl of Rosebery
+A: Archibald Primrose
 
 ---
 
