@@ -12,11 +12,7 @@ def main():
     images: list[tuple[str, str]] = []
     for path in DIR.iterdir():
         filename: str = path.name
-        name: str
-        if "—" in filename:
-            name = filename.split("—")[0]
-        else:
-            name = path.stem
+        name: str = path.stem
         images.append((filename, name))
 
     # Sort by name.
