@@ -25,3 +25,9 @@ Currency: [Swiss franc.]
 C: Code: [GBP]
 
 Currency: [Pound sterling.]
+
+---
+
+C: Code: [JPY]
+
+Currency: [Japanese yen.]
