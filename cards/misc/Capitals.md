@@ -35,3 +35,7 @@ C: [Ulaanbaatar] is the capital of [Mongolia].
 ---
 
 C: [Ashgabat] is the capital of [Turkmenistan].
+
+---
+
+C: [Abuja] is the capital of [Nigeria].
