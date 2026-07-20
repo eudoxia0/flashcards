@@ -24,21 +24,6 @@ C: Speech is [produced] in [Broca's] area.
 
 ---
 
-Q: Where is speech understood?
-A: Wernicke's area.
-
----
-
-Q: Where is speech produced?
-A: Broca's area.
-
----
-
-Q: How does conduction aphasia present?
-A: Inability to repeat words.
-
----
-
 C: The hallmark symptom of [conduction] aphasia is an inability to [repeat] words.
 
 ---
