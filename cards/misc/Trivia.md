@@ -738,3 +738,9 @@ A: X-ray fluorescence.
 
 Q: What does XRS stand for?
 A: X-ray spectroscopy.
+
+---
+
+C: Term: [Necker cube]
+
+Definition: [an optical illusion where a wireframe cube without depth cues can be interpreted in multiple ways.]
