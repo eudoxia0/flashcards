@@ -13,14 +13,14 @@ PERSIAN_PY     := scripts/persian.py
 POW            := cards/math/Powers\ of\ Two.md
 POW_PY         := scripts/pow2.py
 PY             := python3
-TEX_OUT        := cards/tech/TeX.md
+TEX            := cards/tech/TeX.md
 TEX_PY         := scripts/tex.py
 TEX_SRC        := sources/expr.tex
 ELEMENTS       := cards/science/periodic-table.md
 GREEK          := cards/language/greek-alphabet.md
 SPECTRUM       := cards/science/em-spectrum.md
 
-TARGETS        := $(ART) $(ENG) $(FACES) $(PERSIAN) $(POW) $(TEX_OUT) $(BUILD) $(ELEMENTS) $(GREEK) $(SPECTRUM)
+TARGETS        := $(ART) $(ENG) $(FACES) $(PERSIAN) $(POW) $(TEX) $(BUILD) $(ELEMENTS) $(GREEK) $(SPECTRUM)
 
 .PHONY: all check drill clean
 
@@ -44,8 +44,8 @@ $(PERSIAN): $(PERSIAN_PY)
 $(POW): $(POW_PY)
 	$(PY) $(POW_PY) > $(POW)
 
-$(TEX_OUT): $(TEX_PY) $(TEX_SRC)
-	$(PY) $(TEX_PY) $(TEX_SRC) $(TEX_OUT)
+$(TEX): scripts/tex.py sources/expr.tex
+	$(PY) scripts/tex.py sources/expr.tex $(TEX)
 
 $(ELEMENTS): scripts/tmpl.py sources/elements.csv sources/elements.tmpl
 	python scripts/tmpl.py --csv=sources/elements.csv --template=sources/elements.tmpl --name="Periodic Table" --output=$@
