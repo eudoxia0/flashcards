@@ -37,12 +37,6 @@ def main():
         print(f"![](<images/{filename}>)")
         print()
         print(f"A: {name}")
-        print()
-        print("---")
-        print()
-        print(f"Q: Recall: {name}.")
-        print()
-        print(f"A: ![](<images/{filename}>)")
 
 
 if __name__ == "__main__":
