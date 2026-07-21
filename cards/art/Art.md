@@ -3684,6 +3684,22 @@ A: John Martin
 
 Q: Title?
 
+![](<@/art/images/John Martin—Satan Presiding at the Infernal Council.jpg>)
+
+A: Satan Presiding at the Infernal Council
+
+---
+
+Q: Artist?
+
+![](<@/art/images/John Martin—Satan Presiding at the Infernal Council.jpg>)
+
+A: John Martin
+
+---
+
+Q: Title?
+
 ![](<@/art/images/John Martin—The Deluge.jpg>)
 
 A: The Deluge
