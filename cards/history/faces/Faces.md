@@ -1076,6 +1076,14 @@ A: Pierre Laval
 
 Q: Name?
 
+![](<images/Pierre de Fermat.jpg>)
+
+A: Pierre de Fermat
+
+---
+
+Q: Name?
+
 ![](<images/Pierre-Joseph Proudhon.jpg>)
 
 A: Pierre-Joseph Proudhon
