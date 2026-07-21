@@ -17,12 +17,12 @@ A: a
 
 ---
 
-Q: Pronunciation of **Α**?
+Q: Pronunciation of Α?
 A: a
 
 ---
 
-Q: Pronunciation of **α**?
+Q: Pronunciation of α?
 A: a
 
 ---
@@ -59,12 +59,12 @@ A: b
 
 ---
 
-Q: Pronunciation of **Β**?
+Q: Pronunciation of Β?
 A: b
 
 ---
 
-Q: Pronunciation of **β**?
+Q: Pronunciation of β?
 A: b
 
 ---
@@ -101,12 +101,12 @@ A: g, ng before before γ, κ, ξ, χ
 
 ---
 
-Q: Pronunciation of **Γ**?
+Q: Pronunciation of Γ?
 A: g, ng before before γ, κ, ξ, χ
 
 ---
 
-Q: Pronunciation of **γ**?
+Q: Pronunciation of γ?
 A: g, ng before before γ, κ, ξ, χ
 
 ---
@@ -143,12 +143,12 @@ A: d
 
 ---
 
-Q: Pronunciation of **Δ**?
+Q: Pronunciation of Δ?
 A: d
 
 ---
 
-Q: Pronunciation of **δ**?
+Q: Pronunciation of δ?
 A: d
 
 ---
@@ -185,12 +185,12 @@ A: e
 
 ---
 
-Q: Pronunciation of **Ε**?
+Q: Pronunciation of Ε?
 A: e
 
 ---
 
-Q: Pronunciation of **ε**?
+Q: Pronunciation of ε?
 A: e
 
 ---
@@ -227,12 +227,12 @@ A: sd
 
 ---
 
-Q: Pronunciation of **Ζ**?
+Q: Pronunciation of Ζ?
 A: sd
 
 ---
 
-Q: Pronunciation of **ζ**?
+Q: Pronunciation of ζ?
 A: sd
 
 ---
@@ -269,12 +269,12 @@ A: e
 
 ---
 
-Q: Pronunciation of **Η**?
+Q: Pronunciation of Η?
 A: e
 
 ---
 
-Q: Pronunciation of **η**?
+Q: Pronunciation of η?
 A: e
 
 ---
@@ -311,12 +311,12 @@ A: t
 
 ---
 
-Q: Pronunciation of **Θ**?
+Q: Pronunciation of Θ?
 A: t
 
 ---
 
-Q: Pronunciation of **θ**?
+Q: Pronunciation of θ?
 A: t
 
 ---
@@ -353,12 +353,12 @@ A: i
 
 ---
 
-Q: Pronunciation of **Ι**?
+Q: Pronunciation of Ι?
 A: i
 
 ---
 
-Q: Pronunciation of **ι**?
+Q: Pronunciation of ι?
 A: i
 
 ---
@@ -395,12 +395,12 @@ A: k
 
 ---
 
-Q: Pronunciation of **Κ**?
+Q: Pronunciation of Κ?
 A: k
 
 ---
 
-Q: Pronunciation of **κ**?
+Q: Pronunciation of κ?
 A: k
 
 ---
@@ -437,12 +437,12 @@ A: l
 
 ---
 
-Q: Pronunciation of **Λ**?
+Q: Pronunciation of Λ?
 A: l
 
 ---
 
-Q: Pronunciation of **λ**?
+Q: Pronunciation of λ?
 A: l
 
 ---
@@ -479,12 +479,12 @@ A: m
 
 ---
 
-Q: Pronunciation of **Μ**?
+Q: Pronunciation of Μ?
 A: m
 
 ---
 
-Q: Pronunciation of **μ**?
+Q: Pronunciation of μ?
 A: m
 
 ---
@@ -521,12 +521,12 @@ A: n
 
 ---
 
-Q: Pronunciation of **Ν**?
+Q: Pronunciation of Ν?
 A: n
 
 ---
 
-Q: Pronunciation of **ν**?
+Q: Pronunciation of ν?
 A: n
 
 ---
@@ -563,12 +563,12 @@ A: ks
 
 ---
 
-Q: Pronunciation of **Ξ**?
+Q: Pronunciation of Ξ?
 A: ks
 
 ---
 
-Q: Pronunciation of **ξ**?
+Q: Pronunciation of ξ?
 A: ks
 
 ---
@@ -605,12 +605,12 @@ A: o
 
 ---
 
-Q: Pronunciation of **Ο**?
+Q: Pronunciation of Ο?
 A: o
 
 ---
 
-Q: Pronunciation of **ο**?
+Q: Pronunciation of ο?
 A: o
 
 ---
@@ -647,12 +647,12 @@ A: p
 
 ---
 
-Q: Pronunciation of **Π**?
+Q: Pronunciation of Π?
 A: p
 
 ---
 
-Q: Pronunciation of **π**?
+Q: Pronunciation of π?
 A: p
 
 ---
@@ -689,12 +689,12 @@ A: r
 
 ---
 
-Q: Pronunciation of **Ρ**?
+Q: Pronunciation of Ρ?
 A: r
 
 ---
 
-Q: Pronunciation of **ρ**?
+Q: Pronunciation of ρ?
 A: r
 
 ---
@@ -731,12 +731,12 @@ A: s
 
 ---
 
-Q: Pronunciation of **Σ**?
+Q: Pronunciation of Σ?
 A: s
 
 ---
 
-Q: Pronunciation of **σ**?
+Q: Pronunciation of σ?
 A: s
 
 ---
@@ -773,12 +773,12 @@ A: t
 
 ---
 
-Q: Pronunciation of **Τ**?
+Q: Pronunciation of Τ?
 A: t
 
 ---
 
-Q: Pronunciation of **τ**?
+Q: Pronunciation of τ?
 A: t
 
 ---
@@ -815,12 +815,12 @@ A: u
 
 ---
 
-Q: Pronunciation of **Υ**?
+Q: Pronunciation of Υ?
 A: u
 
 ---
 
-Q: Pronunciation of **υ**?
+Q: Pronunciation of υ?
 A: u
 
 ---
@@ -857,12 +857,12 @@ A: p
 
 ---
 
-Q: Pronunciation of **Φ**?
+Q: Pronunciation of Φ?
 A: p
 
 ---
 
-Q: Pronunciation of **φ**?
+Q: Pronunciation of φ?
 A: p
 
 ---
@@ -899,12 +899,12 @@ A: k
 
 ---
 
-Q: Pronunciation of **Χ**?
+Q: Pronunciation of Χ?
 A: k
 
 ---
 
-Q: Pronunciation of **χ**?
+Q: Pronunciation of χ?
 A: k
 
 ---
@@ -941,12 +941,12 @@ A: ps
 
 ---
 
-Q: Pronunciation of **Ψ**?
+Q: Pronunciation of Ψ?
 A: ps
 
 ---
 
-Q: Pronunciation of **ψ**?
+Q: Pronunciation of ψ?
 A: ps
 
 ---
@@ -983,12 +983,12 @@ A: o
 
 ---
 
-Q: Pronunciation of **Ω**?
+Q: Pronunciation of Ω?
 A: o
 
 ---
 
-Q: Pronunciation of **ω**?
+Q: Pronunciation of ω?
 A: o
 
 ---
