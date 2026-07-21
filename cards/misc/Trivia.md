@@ -749,7 +749,7 @@ Definition: [an optical illusion where a wireframe cube without depth cues can b
 
 C: Term: [sympathetic magic]
 
-Definition: [a form of magic based on imitation, correspondence, contagion, acquiring the trappings of a thing to acquire its essence.]
+Definition: [a form of magic based on imitation and correspondence.]
 
 ---
 
