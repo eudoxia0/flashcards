@@ -761,3 +761,9 @@ Definition: [a form of magic intended to protect against and ward off evil influ
 
 Q: Path to the fontconfig configuration file.
 A: `~/.config/fontconfig/fonts.conf`
+
+---
+
+C: In the _Preface to Dedekind_ (1888) we read that “In science, whatever is provable must not be believed without proof.” This remark is certainly characteristic of the way most mathematicians think. Nevertheless, it is a preposterous principle. As if such an indirect concatenation of grounds, call it a proof though we may, can awaken any “belief” apart from assuring ourselves through immediate insight that each individual step is correct. In all cases, this process of confirmation—and not the proof—remains the ultimate source from which knowledge derives its authority; it is the “experience of truth”.
+
+— [Hermann Weyl], [_The Continuum_]
