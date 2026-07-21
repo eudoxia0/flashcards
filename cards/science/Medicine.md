@@ -856,3 +856,7 @@ Definition: [of two things: being on the same side of the body.]
 C: Term: [contralateral]
 
 Definition: [of two things: being on opposite sides of the body.]
+
+---
+
+C: The dual of [ipsilateral] is [contralateral].
