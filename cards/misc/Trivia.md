@@ -756,3 +756,8 @@ Definition: [a form of magic based on imitation and correspondence.]
 C: Term: [apotropaic magic]
 
 Definition: [a form of magic intended to protect against and ward off evil influences.]
+
+---
+
+Q: Path to the fontconfig configuration file.
+A: `~/.config/fontconfig/fonts.conf`
