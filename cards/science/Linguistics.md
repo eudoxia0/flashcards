@@ -95,3 +95,9 @@ Definition: [a word formed by removing an affix from another word.]
 C: Term: [homograph]
 
 Definition: [one of two words with the same spelling but different meanings.]
+
+---
+
+C: Term: [hyoid bone]
+
+Definition: [the small V-shaped bone above the larynx.]
