@@ -354,3 +354,8 @@ Definition: [a speech sound produced with continuous, non-turbulent airflow.]
 ---
 
 C: Dual: [sonorant], [obstruent].
+
+---
+
+Q: Define: gingival.
+A: Pertaining to the gums.
