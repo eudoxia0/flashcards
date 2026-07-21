@@ -3668,6 +3668,22 @@ A: John Ferguson Weir
 
 Q: Title?
 
+![](<@/art/images/John Martin—The Destruction of Pompeii and Herculaneum.jpg>)
+
+A: The Destruction of Pompeii and Herculaneum
+
+---
+
+Q: Artist?
+
+![](<@/art/images/John Martin—The Destruction of Pompeii and Herculaneum.jpg>)
+
+A: John Martin
+
+---
+
+Q: Title?
+
 ![](<@/art/images/John Michael Wright—Charles II of England in Coronation Robes.jpg>)
 
 A: Charles II of England in Coronation Robes
