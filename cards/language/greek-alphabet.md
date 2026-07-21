@@ -548,17 +548,17 @@ A: nu
 
 ---
 
-Q: Uppercase form of **xi**?
+Q: Uppercase form of **xi (zai)**?
 A: # Ξ
 
 ---
 
-Q: Lowercase form of **xi**?
+Q: Lowercase form of **xi (zai)**?
 A: # ξ
 
 ---
 
-Q: Pronunciation of **xi**?
+Q: Pronunciation of **xi (zai)**?
 A: ks
 
 ---
@@ -577,7 +577,7 @@ Q: Name of this letter?
 
 # Ξ
 
-A: xi
+A: xi (zai)
 
 ---
 
@@ -585,7 +585,7 @@ Q: Name of this letter?
 
 # ξ
 
-A: xi
+A: xi (zai)
 
 
 ---
@@ -884,17 +884,17 @@ A: phi
 
 ---
 
-Q: Uppercase form of **chi**?
+Q: Uppercase form of **chi (kai)**?
 A: # Χ
 
 ---
 
-Q: Lowercase form of **chi**?
+Q: Lowercase form of **chi (kai)**?
 A: # χ
 
 ---
 
-Q: Pronunciation of **chi**?
+Q: Pronunciation of **chi (kai)**?
 A: k
 
 ---
@@ -913,7 +913,7 @@ Q: Name of this letter?
 
 # Χ
 
-A: chi
+A: chi (kai)
 
 ---
 
@@ -921,7 +921,7 @@ Q: Name of this letter?
 
 # χ
 
-A: chi
+A: chi (kai)
 
 
 ---
