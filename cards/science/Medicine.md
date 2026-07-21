@@ -826,7 +826,7 @@ Definition: [the visible projection of the thyroid cartilage of the larynx.]
 
 C: Term: [craniosynostosis]
 
-Definition: [a condition in which some of the fibrous sutures in an infant's skull prematurely ossify, thereby changing the growth pattern of the skull.]
+Definition: [the premature fusion of the skull sutures.]
 
 ---
 
