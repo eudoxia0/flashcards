@@ -3748,6 +3748,22 @@ A: John Martin
 
 Q: Title?
 
+![](<@/art/images/John Martin—The Plains of Heaven.jpg>)
+
+A: The Plains of Heaven
+
+---
+
+Q: Artist?
+
+![](<@/art/images/John Martin—The Plains of Heaven.jpg>)
+
+A: John Martin
+
+---
+
+Q: Title?
+
 ![](<@/art/images/John Michael Wright—Charles II of England in Coronation Robes.jpg>)
 
 A: Charles II of England in Coronation Robes
