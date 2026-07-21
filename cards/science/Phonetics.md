@@ -359,3 +359,9 @@ C: Dual: [sonorant], [obstruent].
 
 Q: Define: gingival.
 A: Pertaining to the gums.
+
+---
+
+C: Term: [interdental]
+
+Definition: [a type of articulation where the apex of the tongue protrudes slightly between the upper and lower teeth.]
