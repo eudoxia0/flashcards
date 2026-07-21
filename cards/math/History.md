@@ -48,3 +48,8 @@ C: The impossibility of squaring the circle was proven in the year [1882].
 
 Q: What is the difference between analytic and synthetic geometry?
 A: Analytic geometry uses a coordinate system, synthetic geometry does not.
+
+---
+
+Q: Analytic geometry was invented by which two mathematicians?
+A: René Descartes and Pierre de Fermat.
