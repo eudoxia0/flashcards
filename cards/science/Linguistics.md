@@ -89,3 +89,9 @@ Definition: [the incorrect use of a word in place of a similar-sounding word.]
 C: Term: [back-formation]
 
 Definition: [a word formed by removing an affix from another word.]
+
+---
+
+C: Term: [homograph]
+
+Definition: [one of two words with the same spelling but different meanings.]
