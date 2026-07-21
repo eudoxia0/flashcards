@@ -94,7 +94,7 @@ Definition: [of a speech sound: the point along the vocal tract where articulati
 
 C: Term: [fricative]
 
-Definition: [a speech sound produced by forcing air through a narrow channel.]
+Definition: [a speech sound produced by forcing air through a channel narrow enough to create turbulent flow.]
 
 ---
 
