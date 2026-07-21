@@ -337,22 +337,6 @@ Definition: [a speech sound where an articulator is rapidly thrown against anoth
 
 ---
 
-C: Term: [obstruent]
-
-Definition: [a speech sound produced with obstructed airflow.]
-
----
-
-C: Term: [sonorant]
-
-Definition: [a speech sound produced with continuous, non-turbulent airflow.]
-
----
-
-C: Dual: [sonorant], [obstruent].
-
----
-
 Q: Define: gingival.
 A: Pertaining to the gums.
 
