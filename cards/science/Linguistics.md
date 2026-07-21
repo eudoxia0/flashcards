@@ -106,3 +106,9 @@ Definition: [the small V-shaped bone above the larynx.]
 
 Q: Define: hypocorism.
 A: An endearing diminutive.
+
+---
+
+C: Term: [ingressive]
+
+Definition: [a speech sound involving outside air flowing into the vocal tract.]
