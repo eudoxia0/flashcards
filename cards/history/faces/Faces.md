@@ -1092,6 +1092,14 @@ A: Pierre-Joseph Proudhon
 
 Q: Name?
 
+![](<images/René Descartes.jpg>)
+
+A: René Descartes
+
+---
+
+Q: Name?
+
 ![](<images/Richard Dedekind.jpg>)
 
 A: Richard Dedekind
