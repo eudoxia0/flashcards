@@ -860,3 +860,7 @@ Definition: [of two things: being on opposite sides of the body.]
 ---
 
 C: The dual of [ipsilateral] is [contralateral].
+
+---
+
+C: The human body contains around [100] grams of ATP, representing [10] kilojoules of energy.
