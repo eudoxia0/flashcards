@@ -383,3 +383,9 @@ C: The coast, where I live, is the territory of Sequoia sempervirens, the coast 
 C: The two superpowers of the Cold War each wrote in a script descended from one of the two great Western civilizations, the Soviets in Greek-derived Cyrillic and the Americans in Latin script. Our heme protein, our precious oxygen carrier, shares its entire structure with chlorophyll—with one exception, the central atom: we use iron where the trees prefer magnesium, so we bleed red. And, speaking of atoms, fourteenth column, first row of the periodic table; carbon; us. Same column, second row; silicon; computers. Do you understand? Do you see the grand diagrams on which we stand? Do you feel the waters that surge within us?
 
 — [@ftlsid]
+
+---
+
+C: My purpose, and my belief, is that the bombs that killed and maimed at Hiroshima and Nagasaki shall one day open the skies to man.
+
+— [Freeman Dyson], [_A Space Traveler’s Manifesto_]
