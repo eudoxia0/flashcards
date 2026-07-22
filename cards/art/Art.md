@@ -4306,6 +4306,22 @@ A: Kristoffer Zetterstrand
 
 ---
 
+Q: Title?
+
+![](<@/art/images/Käthe Kollwitz—Female Nude, From Behind, on Green Cloth.jpg>)
+
+A: Female Nude, From Behind, on Green Cloth
+
+---
+
+Q: Artist?
+
+![](<@/art/images/Käthe Kollwitz—Female Nude, From Behind, on Green Cloth.jpg>)
+
+A: Käthe Kollwitz
+
+---
+
 Q: Artist?
 
 ![](<@/art/images/Lawrence Alma-Tadema—A Favourite Custom (skip).jpg>)
