@@ -365,3 +365,21 @@ C: I learned much about the Entity's sense of Herself. Each moon- brain, it seem
 C: The universe is a womb for the genesis of gods.
 
 — [David Zindell]
+
+---
+
+C: In the _Preface to Dedekind_ (1888) we read that “In science, whatever is provable must not be believed without proof.” This remark is certainly characteristic of the way most mathematicians think. Nevertheless, it is a preposterous principle. As if such an indirect concatenation of grounds, call it a proof though we may, can awaken any “belief” apart from assuring ourselves through immediate insight that each individual step is correct. In all cases, this process of confirmation—and not the proof—remains the ultimate source from which knowledge derives its authority; it is the “experience of truth”.
+
+— [Hermann Weyl], [_The Continuum_]
+
+---
+
+C: The coast, where I live, is the territory of Sequoia sempervirens, the coast redwood. Once you learn how to see, wherever you look, you see the touch of the redwoods. You find their leaves, a little darker and slightly curled, adorning the yew; their fibrous bark, less its reddish hue, clothing the cypress. If you’ve ever smelled a redwood, really inhaled it, you’ll notice its musty scent lurking in the aroma of the eucalyptus, and more subtly in the slightly noxious vapors of tequila; all contain the compounds called terpenes. Even in death—even in the darkened, knotted, and stained telephone poles lining the streets of San Francisco—those organic forms are renewed in the mind: the sweeping curves of the great tree’s boughs, the rustling of the mottled green foliage, an ochre pillar soaring indefatigably into the eternal California blue. The epithet sempervirens comes from the Latin: always living. Always.
+
+— [@ftlsid]
+
+---
+
+C: The two superpowers of the Cold War each wrote in a script descended from one of the two great Western civilizations, the Soviets in Greek-derived Cyrillic and the Americans in Latin script. Our heme protein, our precious oxygen carrier, shares its entire structure with chlorophyll—with one exception, the central atom: we use iron where the trees prefer magnesium, so we bleed red. And, speaking of atoms, fourteenth column, first row of the periodic table; carbon; us. Same column, second row; silicon; computers. Do you understand? Do you see the grand diagrams on which we stand? Do you feel the waters that surge within us?
+
+— [@ftlsid]
