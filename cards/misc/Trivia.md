@@ -761,3 +761,8 @@ Definition: [a form of magic intended to protect against and ward off evil influ
 
 Q: Path to the fontconfig configuration file.
 A: `~/.config/fontconfig/fonts.conf`
+
+---
+
+Q: What does the NA in High-NA EUV stand for?
+A: Numerical aperture.
