@@ -560,3 +560,8 @@ A: Of dubious authenticity, extracanonical.
 
 Q: palimpsest
 A: A writing surface from which text has been erased for reuse.
+
+---
+
+Q: theodicy
+A: The attempt to justify God's goodness despite the evil of the world.
