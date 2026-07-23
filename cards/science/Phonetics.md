@@ -277,14 +277,10 @@ Definition: [the vertical dimension in vowel space]
 
 ---
 
-Q: What are the possible values of vowel height?
+Q: What are the big three values of vowel height?
 A:
 - close
-- near-close
-- close-mid
 - mid
-- open-mid
-- near-open
 - open
 
 ---
