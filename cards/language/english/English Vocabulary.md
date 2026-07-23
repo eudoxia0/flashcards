@@ -525,3 +525,8 @@ A: why / therefore
 
 Q: whither
 A: To what place.
+
+---
+
+Q: haruspex
+A: A person who practices haruspicy.
