@@ -550,3 +550,8 @@ A: The practice of observing the behaviour of birds to predict the future.
 
 Q: heresiarch
 A: The originator of a heresy.
+
+---
+
+Q: apocryphal
+A: Of dubious authenticity, extracanonical.
