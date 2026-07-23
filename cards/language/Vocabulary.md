@@ -545,3 +545,8 @@ A: A person who practices augury.
 
 Q: augury
 A: The practice of observing the behaviour of birds to predict the future.
+
+---
+
+Q: heresiarch
+A: The originator of a heresy.
