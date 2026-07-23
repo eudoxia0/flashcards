@@ -1,8 +1,6 @@
 ART      := cards/art/Art.md
 BUILD    := cards/architecture/Great\ Buildings.md
-DEF_PY   := scripts/def.py
 ELEMENTS := cards/science/periodic-table.md
-ENG      := cards/language/english/English\ Vocabulary.md
 FACES    := cards/history/faces/Faces.md
 GREEK    := cards/language/greek-alphabet.md
 PERSIAN  := cards/language/persian/Persian\ Alphabet.md
@@ -25,9 +23,6 @@ $(BUILD): scripts/build.py cards/architecture/images/*.jpg
 
 $(FACES): scripts/faces.py cards/history/faces/images/*.jpg cards/history/faces/images/*.png
 	$(PY) scripts/faces.py > $(FACES)
-
-$(ENG): sources/english_vocab.csv scripts/def.py
-	$(PY) scripts/def.py sources/english_vocab.csv > $(ENG)
 
 $(PERSIAN): scripts/persian.py
 	$(PY) scripts/persian.py > $(PERSIAN)
