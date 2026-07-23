@@ -555,3 +555,8 @@ A: The originator of a heresy.
 
 Q: apocryphal
 A: Of dubious authenticity, extracanonical.
+
+---
+
+Q: palimpsest
+A: A writing surface from which text has been erased for reuse.
