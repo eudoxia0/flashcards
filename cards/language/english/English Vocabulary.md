@@ -258,6 +258,16 @@ A: grandmother
 
 ---
 
+Q: haruspex
+A: A person who practices haruspicy.
+
+---
+
+Q: haruspicy
+A: The practice of divining the future by inspecting the entrails of sacrificed animals.
+
+---
+
 Q: hauberk
 A: A coat of mail.
 
@@ -525,8 +535,3 @@ A: why / therefore
 
 Q: whither
 A: To what place.
-
----
-
-Q: haruspex
-A: A person who practices haruspicy.
