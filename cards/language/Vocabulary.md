@@ -535,3 +535,8 @@ A: why / therefore
 
 Q: whither
 A: To what place.
+
+---
+
+Q: augur
+A: A person who practices augury.
