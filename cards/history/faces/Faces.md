@@ -28,6 +28,14 @@ A: Alfred Kubin
 
 Q: Name?
 
+![](<images/Alfred North Whitehead.jpg>)
+
+A: Alfred North Whitehead
+
+---
+
+Q: Name?
+
 ![](<images/Alfred Tarski.jpg>)
 
 A: Alfred Tarski
