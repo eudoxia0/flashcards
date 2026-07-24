@@ -88,7 +88,7 @@ Definition: [the incorrect use of a word in place of a similar-sounding word.]
 
 C: Term: [back-formation]
 
-Definition: [a word formed by removing an affix from another word.]
+Definition: [the process of removing an affix from a word to create a new word.]
 
 ---
 
