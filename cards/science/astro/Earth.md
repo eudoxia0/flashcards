@@ -23,7 +23,7 @@ A: $29 \,\text{km}/\text{s}$
 ---
 
 Q: Earth, total surface area in $\text{km}^2$.
-A: $5.1 \times 10^8 \,\text{km}^2$
+A: $500,000,000 \,\text{km}^2$
 
 ---
 
@@ -33,7 +33,7 @@ A: $360,000,000 \,\text{km}^2$
 ---
 
 Q: Earth, surface area of the continents in $\text{km}^2$.
-A: $1.5 \times 10^8 \,\text{km}^2$
+A: $150,000,000 \,\text{km}^2$
 
 ---
 
