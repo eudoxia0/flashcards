@@ -1,3 +1,7 @@
+"""
+Generate flashcards to learn the powers of two.
+"""
+
 first = True
 for n in range(2, 17):
     if first:
