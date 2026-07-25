@@ -23,8 +23,13 @@ A: $29 \,\text{km}/\text{s}$
 
 ---
 
-Q: Earth, surface area in $\text{km}^2$.
+Q: Earth, total surface area in $\text{km}^2$.
 A: $5.1 \times 10^8 \,\text{km}^2$
+
+---
+
+Q: Earth, surface area of the oceans in $\text{km}^2$.
+A: $3.6 \times 10^8 \,\text{km}^2$
 
 ---
 
