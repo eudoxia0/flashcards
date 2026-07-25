@@ -13,6 +13,11 @@ A: $\approx 30 ~\text{km}/\text{s}$
 
 ---
 
+Q: Earth, mass in grams.
+A: $5.9 \times 10^{27} \gram$
+
+---
+
 Q: Sun, escape velocity at $1 ~\text{AU}$.
 A: $\approx 42 ~\text{km}/\text{s}$
 
