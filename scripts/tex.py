@@ -1,3 +1,7 @@
+"""
+Generate flashcards to learn TeX macros.
+"""
+
 import sys
 
 with open(sys.argv[1], "r") as istream:
