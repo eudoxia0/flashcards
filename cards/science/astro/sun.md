@@ -14,3 +14,8 @@ A: ☉
 
 Q: Object denoted by this symbol: ☉
 A: The Sun.
+
+---
+
+Q: Mass of the sun in $\text{g}$.
+A: $2 \times 10^{33} \,\text{g}$
