@@ -869,7 +869,7 @@ C: The human body contains around [100] grams of ATP, representing [10] kilojoul
 
 C: Term: [polycythemia]
 
-Definition: [a medical condition characterized by an abnormally high red blood cells count.]
+Definition: [a medical condition characterized by an abnormally high red blood cell count.]
 
 ---
 
