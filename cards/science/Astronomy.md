@@ -18,7 +18,7 @@ A: $5.9 \times 10^{27} \gram$
 
 ---
 
-Q: Earth, rotational velocity in $\,\text{km}/\text{s}$.
+Q: Earth, rotational velocity in $\text{km}/\text{s}$.
 A: $29 \,\text{km}/\text{s}$
 
 ---
