@@ -17,5 +17,10 @@ A: The Sun.
 
 ---
 
-Q: Mass of the sun in $\text{g}$.
+Q: Sun, mass in $\text{g}$.
 A: $2 \times 10^{33} \,\text{g}$
+
+---
+
+Q: Sun, radius in $\text{m}$.
+A: $7 \times 10^8 \,\text{m}$
