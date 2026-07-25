@@ -24,3 +24,8 @@ A: $2 \times 10^{33} \,\text{g}$
 
 Q: Sun, radius in $\text{m}$.
 A: $7 \times 10^8 \,\text{m}$
+
+---
+
+Q: Sun, luminosity in $\text{W}$.
+A: $3.8 \times 10^{26} \,\text{W}$
