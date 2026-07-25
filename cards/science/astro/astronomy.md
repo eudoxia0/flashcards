@@ -1,3 +1,7 @@
+---
+name = 'Astronomy'
+---
+
 Q: $1 ~\text{AU}$ in km.
 A: $\approx 150,000,000 ~\text{km}$
 
