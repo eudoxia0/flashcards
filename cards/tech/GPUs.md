@@ -1,18 +1,15 @@
-C: Term: [streaming multiprocessor]
-
-Definition: [a core on an NVIDIA GPU.]
-
----
-
-C: Term: [kernel]
-
-Definition: [a block of code that runs on the GPU.]
+T: streaming multiprocessor
+D: a core on an NVIDIA GPU.
 
 ---
 
-C: Term: [thread block]
+T: kernel
+D: a block of code that runs on the GPU.
 
-Definition: [a {1,2,3}-dimensional array of threads.]
+---
+
+T: thread block
+D: a {1,2,3}-dimensional array of threads.
 
 ---
 
@@ -21,15 +18,13 @@ A: Between 1 and 1024.
 
 ---
 
-C: Term: [grid]
-
-Definition: [a {1,2,3}-dimensional array of thread blocks.]
+T: grid
+D: a {1,2,3}-dimensional array of thread blocks.
 
 ---
 
-C: Term: [warp]
-
-Definition: [a bundle of threads within a thread block.]
+T: warp
+D: a bundle of threads within a thread block.
 
 ---
 

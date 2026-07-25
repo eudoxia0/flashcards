@@ -89,9 +89,8 @@ A: $A^\dagger$
 
 ---
 
-C: Term: [conjugate transpose]
-
-Definition: [the operation that takes the transpose of the complex conjugate of a matrix.]
+T: conjugate transpose
+D: the operation that takes the transpose of the complex conjugate of a matrix.
 
 ---
 
@@ -216,6 +215,5 @@ A: Quantum Control Unit.
 
 ---
 
-C: Term: [quantum register]
-
-Definition: [a set of qubits on which quantum gates act.]
+T: quantum register
+D: a set of qubits on which quantum gates act.

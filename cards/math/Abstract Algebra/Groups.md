@@ -2,9 +2,8 @@
 name = "Group Theory"
 ---
 
-C: Term: [group]
-
-Definition: [a mathematical object made up of a set $S$, an associative binary operation $S \times S \to S$, and identity $e \in S$, and an inverse $a^{-1}$ for each $a \in S$.]
+T: group
+D: a mathematical object made up of a set $S$, an associative binary operation $S \times S \to S$, and identity $e \in S$, and an inverse $a^{-1}$ for each $a \in S$.
 
 ---
 
@@ -16,15 +15,13 @@ C: The **order** of a group $G$, denoted [$|G|$], is [the number of elements it 
 
 ---
 
-C: Term: [Abelian group]
-
-Definition: [a group whose operation is commutative.]
+T: Abelian group
+D: a group whose operation is commutative.
 
 ---
 
-C: Term: [order of an element]
-
-Definition: [given $g \in G$, the smallest positive integer $r$ such that $g^r=e$.]
+T: order of an element
+D: given $g \in G$, the smallest positive integer $r$ such that $g^r=e$.
 
 ---
 
@@ -44,12 +41,10 @@ A: $$Hg = \set{ hg | h \in H }$$
 
 ---
 
-C: Term: [matrix group]
-
-Definition: [a set of square matrices that satisfy the group properties under matrix multiplication.]
+T: matrix group
+D: a set of square matrices that satisfy the group properties under matrix multiplication.
 
 ---
 
-C: Term: [group representation]
-
-Definition: [a function that maps a group to a matrix group in a way that preserves products.]
+T: group representation
+D: a function that maps a group to a matrix group in a way that preserves products.

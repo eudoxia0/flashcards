@@ -1,27 +1,22 @@
-C: Term: [amphiphilic]
-
-Definition: [a molecule with both hydrophilic and hydrophobic parts.]
-
----
-
-C: Term: [genome]
-
-Definition: [the set of all genes in an organism.]
+T: amphiphilic
+D: a molecule with both hydrophilic and hydrophobic parts.
 
 ---
 
-C: Term: [codon]
-
-Definition: [a triple of nucleotides.]
-
----
-
-C: Term: [polynucleotide]
-
-Definition: [generic term for either DNA or RNA.]
+T: genome
+D: the set of all genes in an organism.
 
 ---
 
-C: Term: [enzyme]
+T: codon
+D: a triple of nucleotides.
 
-Definition: [A molecule that catalyzes chemical reactions]
+---
+
+T: polynucleotide
+D: generic term for either DNA or RNA.
+
+---
+
+T: enzyme
+D: A molecule that catalyzes chemical reactions

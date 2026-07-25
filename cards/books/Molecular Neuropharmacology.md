@@ -1,6 +1,5 @@
-C: Term: [psychotropic drug]
-
-Definition: [A drug that influences behaviour]
+T: psychotropic drug
+D: A drug that influences behaviour
 
 ---
 
@@ -24,33 +23,28 @@ A: SSRIs inhibit SERT and increase serotonin activity.
 
 ---
 
-C: Term: [Allosteric regulation]
-
-Definition: [The changing of a protein's activity by a ligand binding somewhere other than the protein's active site.]
-
----
-
-C: Term: [Agonist]
-
-Definition: [A ligand that binds to a receptor and activates it.]
+T: Allosteric regulation
+D: The changing of a protein's activity by a ligand binding somewhere other than the protein's active site.
 
 ---
 
-C: Term: [Partial Agonist]
-
-Definition: [A drug that binds to a receptor and activates it slightly.]
-
----
-
-C: Term: [Antagonist]
-
-Definition: [A ligand that binds to a receptor and remains inert, blocking the action of agonist ligands.]
+T: Agonist
+D: A ligand that binds to a receptor and activates it.
 
 ---
 
-C: Term: [Inverse agonist]
+T: Partial Agonist
+D: A drug that binds to a receptor and activates it slightly.
 
-Definition: [A drug that binds to a receptor and produces an effect opposite to that of an agonist.]
+---
+
+T: Antagonist
+D: A ligand that binds to a receptor and remains inert, blocking the action of agonist ligands.
+
+---
+
+T: Inverse agonist
+D: A drug that binds to a receptor and produces an effect opposite to that of an agonist.
 
 ---
 
@@ -72,9 +66,8 @@ A: ~100 trillion
 
 ---
 
-C: Term: [orphan receptor]
-
-Definition: [a receptor for which no endogenous ligand is known.]
+T: orphan receptor
+D: a receptor for which no endogenous ligand is known.
 
 ---
 

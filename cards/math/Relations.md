@@ -2,30 +2,25 @@
 name = "Relations"
 ---
 
-C: Term: [reflexive]
-
-Definition: [$\forall x . R(x,x)$]
-
----
-
-C: Term: [irreflexive]
-
-Definition: [$\forall x . \neg R(x,x)$]
+T: reflexive
+D: $\forall x . R(x,x)$
 
 ---
 
-C: Term: [symmetric]
-
-Definition: [$\forall x,y . R(x,y) \to R(y,x)$]
-
----
-
-C: Term: [antisymmetric]
-
-Definition: [$\forall x,y . R(x,y) \land R(y,x) \to x=y$]
+T: irreflexive
+D: $\forall x . \neg R(x,x)$
 
 ---
 
-C: Term: [asymmetric]
+T: symmetric
+D: $\forall x,y . R(x,y) \to R(y,x)$
 
-Definition: [$\forall x,y . R(x,y) \to \neg R(y,x)$]
+---
+
+T: antisymmetric
+D: $\forall x,y . R(x,y) \land R(y,x) \to x=y$
+
+---
+
+T: asymmetric
+D: $\forall x,y . R(x,y) \to \neg R(y,x)$

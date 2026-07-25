@@ -14,9 +14,8 @@ C: Every positive integer is either [prime], [composite], or [one].
 
 ---
 
-C: Term: [composite number]
-
-Definition: [A positive integer that is the product of two smaller positive integers.]
+T: composite number
+D: A positive integer that is the product of two smaller positive integers.
 
 ---
 
@@ -28,9 +27,8 @@ A: $$\text{Composite}(n) = \exists a,b \in \Z^+ . 1 \lt a \lt n, 1 \lt b \lt n, 
 
 ---
 
-C: Term: [highly composite number]
-
-Definition: [A positive integer that has more factors than any smaller positive integer.]
+T: highly composite number
+D: A positive integer that has more factors than any smaller positive integer.
 
 ---
 

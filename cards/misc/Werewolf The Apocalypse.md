@@ -2,60 +2,50 @@
 name = "Werewolf: The Apocalypse"
 ---
 
-C: Term: [garou]
-
-Definition: [in-universe term for werewolves.]
-
----
-
-C: Term: [auspice]
-
-Definition: [the phase of the moon under which a particular garou was born.]
+T: garou
+D: in-universe term for werewolves.
 
 ---
 
-C: Term: [bawn]
-
-Definition: [the boundary area around a caern.]
-
----
-
-C: Term: [cub]
-
-Definition: [a newly-changed garou who has not passed his Rite of Passage.]
+T: auspice
+D: the phase of the moon under which a particular garou was born.
 
 ---
 
-C: Term: [Helios]
-
-Definition: [the garou name for the Sun.]
-
----
-
-C: Term: [The Umbra]
-
-Definition: [the spirit world.]
+T: bawn
+D: the boundary area around a caern.
 
 ---
 
-C: Term: [crinos]
-
-Definition: [the war-form of the garou.]
-
----
-
-C: Term: [reaching]
-
-Definition: [traveling into the spirit world.]
+T: cub
+D: a newly-changed garou who has not passed his Rite of Passage.
 
 ---
 
-C: Term: [stepping sideways]
-
-Definition: [slang for entering the spirit world.]
+T: Helios
+D: the garou name for the Sun.
 
 ---
 
-C: Term: [throat (v.)]
+T: The Umbra
+D: the spirit world.
 
-Definition: [to best another in ritual combat.]
+---
+
+T: crinos
+D: the war-form of the garou.
+
+---
+
+T: reaching
+D: traveling into the spirit world.
+
+---
+
+T: stepping sideways
+D: slang for entering the spirit world.
+
+---
+
+T: throat (v.)
+D: to best another in ritual combat.

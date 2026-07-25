@@ -2,9 +2,8 @@
 name = "Mathematics"
 ---
 
-C: Term: [bijective function]
-
-Definition: [a function where every element in the codomain is the image of exactly one element in the domain.]
+T: bijective function
+D: a function where every element in the codomain is the image of exactly one element in the domain.
 
 ---
 

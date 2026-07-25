@@ -6,9 +6,8 @@ Satisfiable: true for some assignment.
 
 ---
 
-C: Term: [equiconsistent]
-
-Definition: [two mathematical theories are called this if the consistency of one implies that of the other.]
+T: equiconsistent
+D: two mathematical theories are called this if the consistency of one implies that of the other.
 
 ---
 
@@ -154,12 +153,10 @@ A: Leibniz.
 
 ---
 
-C: Term: [existential-conjunctive logic]
-
-Definition: [the subset of logical expressions with only $\exists$ and $\land$.]
+T: existential-conjunctive logic
+D: the subset of logical expressions with only $\exists$ and $\land$.
 
 ---
 
-C: Term: [monotonicity of entailment]
-
-Definition: [the principle that if $P \vdash Q$, then $P, P' \vdash Q$. That is: adding new premises does not invalidate the conclusion.]
+T: monotonicity of entailment
+D: the principle that if $P \vdash Q$, then $P, P' \vdash Q$. That is: adding new premises does not invalidate the conclusion.

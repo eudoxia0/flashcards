@@ -2,9 +2,8 @@
 name = "Mathematics"
 ---
 
-C: Term: [injective function]
-
-Definition: [a function that maps distinct elements in its domain to distinct elements in its codomain.]
+T: injective function
+D: a function that maps distinct elements in its domain to distinct elements in its codomain.
 
 ---
 

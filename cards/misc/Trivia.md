@@ -139,9 +139,8 @@ C: Intel's implementation of [simultaneous multithreading] is called [hyperthrea
 
 ---
 
-C: Term: [simultaneous multithreading]
-
-Definition: [a technique whereby a single CPU can execute multiple threads in parallel.]
+T: simultaneous multithreading
+D: a technique whereby a single CPU can execute multiple threads in parallel.
 
 ---
 
@@ -188,9 +187,8 @@ A: The ability of the human visual system to notice misalignment between two par
 
 ---
 
-C: Term: [Rubin's vase]
-
-Definition: [an optical illusion that can be perceived either as two faces in profile or as a vase.]
+T: Rubin's vase
+D: an optical illusion that can be perceived either as two faces in profile or as a vase.
 
 ---
 
@@ -241,27 +239,23 @@ A: A pair of concave mirrors that focus x-rays by reflecting them at a shallow a
 
 ---
 
-C: Term: [Coulomb explosion]
-
-Definition: [rapid fragmentation of an object caused by Coulomb repulsion when multiple electrons are freed.]
-
----
-
-C: Term: [Diffraction before destruction]
-
-Definition: [an imaging technique where a femtosecond pulse creates a diffraction pattern before the sample is destroyed by a Coulomb explosion.]
+T: Coulomb explosion
+D: rapid fragmentation of an object caused by Coulomb repulsion when multiple electrons are freed.
 
 ---
 
-C: Term: [ankylography]
-
-Definition: [3D structure determination from a single diffraction pattern.]
+T: Diffraction before destruction
+D: an imaging technique where a femtosecond pulse creates a diffraction pattern before the sample is destroyed by a Coulomb explosion.
 
 ---
 
-C: Term: [Kerckhoffs' principle]
+T: ankylography
+D: 3D structure determination from a single diffraction pattern.
 
-Definition: [the idea that a cryptosystem should be secure if everything about it, except the key, is public knowledge.]
+---
+
+T: Kerckhoffs' principle
+D: the idea that a cryptosystem should be secure if everything about it, except the key, is public knowledge.
 
 ---
 
@@ -308,15 +302,13 @@ A: Henry Wadsworth Longfellow.
 
 ---
 
-C: Term: [soft-core microprocessor]
-
-Definition: [a microprocessor that can be implemented entirely with logic synthesis.]
+T: soft-core microprocessor
+D: a microprocessor that can be implemented entirely with logic synthesis.
 
 ---
 
-C: Term: [hygroscopic]
-
-Definition: [of a substance: readily absording water, particularly from the atmosphere.]
+T: hygroscopic
+D: of a substance: readily absording water, particularly from the atmosphere.
 
 ---
 
@@ -325,15 +317,13 @@ A: Business process outsourcing.
 
 ---
 
-C: Term: [hypnagogic]
-
-Definition: [the state of consciousness while falling asleep.]
+T: hypnagogic
+D: the state of consciousness while falling asleep.
 
 ---
 
-C: Term: [hypnopompic]
-
-Definition: [the state of consciousness while waking.]
+T: hypnopompic
+D: the state of consciousness while waking.
 
 ---
 
@@ -347,9 +337,8 @@ A: Gilbert Baker
 
 ---
 
-C: Term: [condottiero]
-
-Definition: [the commander of an Italian mercenary company in the early modern period.]
+T: condottiero
+D: the commander of an Italian mercenary company in the early modern period.
 
 ---
 
@@ -378,15 +367,13 @@ A: Los Alamos National Laboratory.
 
 ---
 
-C: Term: [Bulverism]
-
-Definition: [the logical fallacy of explaining why the opponent holds their view, instead of showing the view is false.]
+T: Bulverism
+D: the logical fallacy of explaining why the opponent holds their view, instead of showing the view is false.
 
 ---
 
-C: Term: [Blinn's Law]
-
-Definition: [the observation that as computers get faster, rendering time stays constant.]
+T: Blinn's Law
+D: the observation that as computers get faster, rendering time stays constant.
 
 ---
 
@@ -429,15 +416,13 @@ C: Grice's maxims are named after [Paul Grice].
 
 ---
 
-C: Term: [gijinka]
-
-Definition: [the practice of creating an anthropomorphic character to represent an abstract concept or thing.]
+T: gijinka
+D: the practice of creating an anthropomorphic character to represent an abstract concept or thing.
 
 ---
 
-C: Term: [komorebi]
-
-Definition: [Japanese term for the play of sunlight filtering through trees.]
+T: komorebi
+D: Japanese term for the play of sunlight filtering through trees.
 
 ---
 
@@ -538,21 +523,18 @@ Publication Year: [1976]
 
 ---
 
-C: Term: [Norman door]
-
-Definition: [a door that's confusing or difficult to use, e.g. you don't know whether to push or pull.]
-
----
-
-C: Term: [anacoluthon]
-
-Definition: [an unexpected break or shift in a sentence's structure.]
+T: Norman door
+D: a door that's confusing or difficult to use, e.g. you don't know whether to push or pull.
 
 ---
 
-C: Term: [ariadnology]
+T: anacoluthon
+D: an unexpected break or shift in a sentence's structure.
 
-Definition: [Stanisław Lem's term for the theory of search engines.]
+---
+
+T: ariadnology
+D: Stanisław Lem's term for the theory of search engines.
 
 ---
 
@@ -649,9 +631,8 @@ A: China-Japan-Korea.
 
 ---
 
-C: Term: [gish gallop]
-
-Definition: [the debate tactic of overwhelming the opponent with lots of weak or fallacious arguments.]
+T: gish gallop
+D: the debate tactic of overwhelming the opponent with lots of weak or fallacious arguments.
 
 ---
 
@@ -710,9 +691,8 @@ A: A way to visualize high-dimensional datasets by encoding parameters into styl
 
 ---
 
-C: Term: [pessimistic induction]
-
-Definition: [the argument that, since most scientific theories have been proven false, we should not believe our current theories to be true.]
+T: pessimistic induction
+D: the argument that, since most scientific theories have been proven false, we should not believe our current theories to be true.
 
 ---
 
@@ -741,21 +721,18 @@ A: X-ray spectroscopy.
 
 ---
 
-C: Term: [Necker cube]
-
-Definition: [an optical illusion where a wireframe cube without depth cues can be interpreted in multiple ways.]
-
----
-
-C: Term: [sympathetic magic]
-
-Definition: [a form of magic based on imitation and correspondence.]
+T: Necker cube
+D: an optical illusion where a wireframe cube without depth cues can be interpreted in multiple ways.
 
 ---
 
-C: Term: [apotropaic magic]
+T: sympathetic magic
+D: a form of magic based on imitation and correspondence.
 
-Definition: [a form of magic intended to protect against and ward off evil influences.]
+---
+
+T: apotropaic magic
+D: a form of magic intended to protect against and ward off evil influences.
 
 ---
 
