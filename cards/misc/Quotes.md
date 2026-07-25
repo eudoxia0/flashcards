@@ -395,3 +395,9 @@ C: My purpose, and my belief, is that the bombs that killed and maimed at Hirosh
 C: All the armies of Europe, Asia and Africa combined, with all the treasure of the earth (our own excepted) in their military chest; with a Buonaparte for a commander, could not by force, take a drink from the Ohio, or make a track on the Blue Ridge, in a trial of a thousand years.
 
 — [Abraham Lincoln], [the Lyceum address]
+
+---
+
+C: As a nation of freemen, we must live through all time, or die by suicide.
+
+— [Abraham Lincoln], [the Lyceum address]
