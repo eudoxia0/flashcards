@@ -9,12 +9,17 @@ A: $\approx 6380 ~\text{km}$
 ---
 
 Q: Earth, orbital velocity.
-A: $\approx 30 ~\text{km}/\text{s}$
+A: $\approx 30 \,\text{km}/\text{s}$
 
 ---
 
 Q: Earth, mass in grams.
 A: $5.9 \times 10^{27} \gram$
+
+---
+
+Q: Earth, rotational velocity in $\,\text{km}/\text{s}$.
+A: $29 \,\text{km}/\text{s}$
 
 ---
 
