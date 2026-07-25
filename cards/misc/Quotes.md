@@ -389,3 +389,9 @@ C: The two superpowers of the Cold War each wrote in a script descended from one
 C: My purpose, and my belief, is that the bombs that killed and maimed at Hiroshima and Nagasaki shall one day open the skies to man.
 
 — [Freeman Dyson], [_A Space Traveler’s Manifesto_]
+
+---
+
+C: All the armies of Europe, Asia and Africa combined, with all the treasure of the earth (our own excepted) in their military chest; with a Buonaparte for a commander, could not by force, take a drink from the Ohio, or make a track on the Blue Ridge, in a trial of a thousand years.
+
+— [Abraham Lincoln], [the Lyceum address]
