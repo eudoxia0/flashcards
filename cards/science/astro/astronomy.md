@@ -12,7 +12,7 @@ A: $299,000,000 \,\text{m}/\text{s}$
 
 ---
 
-Q: Time for light to travel $1 ,\text{AU}$ in seconds.
+Q: Time for light to travel $1 \,\text{AU}$ in seconds.
 A: $500 \,\text{s}$
 
 ---
