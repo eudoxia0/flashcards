@@ -7,6 +7,11 @@ A: $\approx 150,000,000 ~\text{km}$
 
 ---
 
+Q: Speed of light in $\text{m}/\text{s}$.
+A: $299,000,000 \,\text{m}/\text{s}$
+
+---
+
 Q: Sun, escape velocity at $1 ~\text{AU}$.
 A: $\approx 42 ~\text{km}/\text{s}$
 
