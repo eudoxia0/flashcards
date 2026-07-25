@@ -2,7 +2,7 @@ ART      := cards/art/Art.md
 BUILD    := cards/architecture/Great\ Buildings.md
 ELEMENTS := cards/science/elements.md
 FACES    := cards/history/faces/Faces.md
-GREEK    := cards/language/greek-alphabet.md
+GREEK    := cards/language/greek/greek-alphabet.md
 PERSIAN  := cards/language/persian/Persian\ Alphabet.md
 POW      := cards/math/Powers\ of\ Two.md
 PY       := python3
@@ -40,10 +40,10 @@ $(ELEMENTS): scripts/tmpl.py cards/science/elements.csv cards/science/elements.t
 		--name="Periodic Table" \
 		--output=$@
 
-$(GREEK): scripts/tmpl.py cards/language/greek-alphabet.csv cards/language/greek-alphabet.tmpl
+$(GREEK): scripts/tmpl.py cards/language/greek/greek-alphabet.csv cards/language/greek/greek-alphabet.tmpl
 	python scripts/tmpl.py \
-	    --csv=cards/language/greek-alphabet.csv \
-		--template=cards/language/greek-alphabet.tmpl \
+	    --csv=cards/language/greek/greek-alphabet.csv \
+		--template=cards/language/greek/greek-alphabet.tmpl \
 		--name="Greek Alphabet" \
 		--output=$@
 
