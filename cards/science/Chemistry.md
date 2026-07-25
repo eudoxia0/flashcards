@@ -35,3 +35,28 @@ A: $1.1 \eV$
 
 Q: Band gap of diamond.
 A: $5.5 \eV$
+
+---
+
+Q: Energy content of hydrogen in $\text{MJ}/\text{kg}$.
+A: $140 \,\text{MJ}/\text{kg}$
+
+---
+
+Q: Energy content of methane in $\text{MJ}/\text{kg}$.
+A: $55 \,\text{MJ}/\text{kg}$
+
+---
+
+Q: Energy content of ethanol in $\text{MJ}/\text{kg}$.
+A: $30 \,\text{MJ}/\text{kg}$
+
+---
+
+Q: Energy content of gasoline in $\text{MJ}/\text{kg}$.
+A: $46 \,\text{MJ}/\text{kg}$
+
+---
+
+Q: Energy content of wood in $\text{MJ}/\text{kg}$.
+A: $20 \,\text{MJ}/\text{kg}$
