@@ -13,7 +13,7 @@ A: $\approx 30 \,\text{km}/\text{s}$
 ---
 
 Q: Earth, mass in grams.
-A: $5.9 \times 10^{27} \gram$
+A: $6 \times 10^{27} \gram$
 
 ---
 
@@ -44,3 +44,8 @@ A: $35 \,\text{km}$
 
 Q: Earth, mean thickness of ocean lithosphere in $\text{km}$.
 A: $5 \,\text{km}$
+
+---
+
+Q: Earth, mass of the hydrosphere in $\text{g}$.
+A: $1.6 \times 10^{24} \,\text{g}$
