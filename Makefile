@@ -30,8 +30,8 @@ $(PERSIAN): scripts/persian.py
 $(POW): scripts/pow2.py
 	$(PY) scripts/pow2.py > $(POW)
 
-$(TEX): scripts/tex.py sources/expr.tex
-	$(PY) scripts/tex.py sources/expr.tex $(TEX)
+$(TEX): scripts/tex.py cards/tech/tex.txt
+	$(PY) scripts/tex.py cards/tech/tex.txt $(TEX)
 
 $(ELEMENTS): scripts/tmpl.py cards/science/elements.csv cards/science/elements.tmpl
 	python scripts/tmpl.py \

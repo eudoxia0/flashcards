@@ -7,7 +7,6 @@ My collection of flashcards, using [hashcards].
 - `cards`: the actual flashcards.
 - `inbox`: decks that are not ready to be learned yet, WIP.
 - `scripts`: scripts to generate flashcards from data sources.
-- `sources`: data sources to generate flashcards.
 
 ## License
 
