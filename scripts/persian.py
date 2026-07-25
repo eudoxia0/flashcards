@@ -1,3 +1,7 @@
+"""
+Generate flashcards to learn the Persian alphabet.
+"""
+
 from dataclasses import dataclass
 
 
