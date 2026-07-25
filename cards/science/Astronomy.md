@@ -33,6 +33,11 @@ A: $3.6 \times 10^8 \,\text{km}^2$
 
 ---
 
+Q: Earth, surface area of the continents in $\text{km}^2$.
+A: $1.5 \times 10^8 \,\text{km}^2$
+
+---
+
 Q: Sun, escape velocity at $1 ~\text{AU}$.
 A: $\approx 42 ~\text{km}/\text{s}$
 
