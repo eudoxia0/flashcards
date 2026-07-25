@@ -7,7 +7,7 @@ PERSIAN  := cards/language/persian/Persian\ Alphabet.md
 POW      := cards/math/Powers\ of\ Two.md
 PY       := python3
 SPECTRUM := cards/science/em-spectrum.md
-TEX      := cards/tech/TeX.md
+TEX      := cards/tech/tex.md
 
 TARGETS  := $(ART) $(ENG) $(FACES) $(PERSIAN) $(POW) $(TEX) $(BUILD) $(ELEMENTS) $(GREEK) $(SPECTRUM)
 

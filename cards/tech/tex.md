@@ -1,3 +1,7 @@
+---
+name = "TeX"
+---
+
 C:
 TeX: [`\Gamma`]
 
