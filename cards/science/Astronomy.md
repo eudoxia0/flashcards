@@ -76,39 +76,33 @@ Symbol: [♆]
 
 ---
 
-C: Term: [aphelion]
-
-Definition: [the apoapsis of an orbit around the Sun.]
-
----
-
-C: Term: [perihelion]
-
-Definition: [the periapsis of an orbit around the Sun.]
+T: aphelion
+D: the apoapsis of an orbit around the Sun.
 
 ---
 
-C: Term: [apoapsis]
-
-Definition: [the highest altitude point in a satellite's orbit.]
-
----
-
-C: Term: [periapsis]
-
-Definition: [the lowest altitude point in a satellite's orbit.]
+T: perihelion
+D: the periapsis of an orbit around the Sun.
 
 ---
 
-C: Term: [equinox]
-
-Definition: [the time when the Sun appears directly above the Earth's equator.]
+T: apoapsis
+D: the highest altitude point in a satellite's orbit.
 
 ---
 
-C: Term: [solstice]
+T: periapsis
+D: the lowest altitude point in a satellite's orbit.
 
-Definition: [the time when the Sun reaches its highest or lowest point in the sky at noon.]
+---
+
+T: equinox
+D: the time when the Sun appears directly above the Earth's equator.
+
+---
+
+T: solstice
+D: the time when the Sun reaches its highest or lowest point in the sky at noon.
 
 ---
 

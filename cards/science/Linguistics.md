@@ -1,30 +1,25 @@
-C: Term: [idiolect]
-
-Definition: [The language habits of a particular person.]
-
----
-
-C: Term: [sociolect]
-
-Definition: [The dialect of a particular group.]
+T: idiolect
+D: The language habits of a particular person.
 
 ---
 
-C: Term: [acrolect]
-
-Definition: [The most prestigious dialect of a language.]
-
----
-
-C: Term: [basolect]
-
-Definition: [The least prestigious dialect of a language.]
+T: sociolect
+D: The dialect of a particular group.
 
 ---
 
-C: Term: [lexicalization]
+T: acrolect
+D: The most prestigious dialect of a language.
 
-Definition: [The addition of a new word to a language.]
+---
+
+T: basolect
+D: The least prestigious dialect of a language.
+
+---
+
+T: lexicalization
+D: The addition of a new word to a language.
 
 ---
 
@@ -38,69 +33,58 @@ A: A linguistic framework that treats verbs as unary predicates on events.
 
 ---
 
-C: Term: [affix]
-
-Definition: [a morpheme that is attached to a stem to form a new word.]
-
----
-
-C: Term: [prefix]
-
-Definition: [an affix that appears before the stem.]
+T: affix
+D: a morpheme that is attached to a stem to form a new word.
 
 ---
 
-C: Term: [suffix]
-
-Definition: [an affix that appears after the stem.]
-
----
-
-C: Term: [infix]
-
-Definition: [an affix that appears within the stem.]
+T: prefix
+D: an affix that appears before the stem.
 
 ---
 
-C: Term: [circumfix]
-
-Definition: [an affix where one segment is a prefix, and another a suffix.]
-
----
-
-C: Term: [cognate]
-
-Definition: [one of a set of words that have a common ancestry.]
+T: suffix
+D: an affix that appears after the stem.
 
 ---
 
-C: Term: [calque]
-
-Definition: [a word borrowed from another language by translating each morpheme.]
-
----
-
-C: Term: [malapropism]
-
-Definition: [the incorrect use of a word in place of a similar-sounding word.]
+T: infix
+D: an affix that appears within the stem.
 
 ---
 
-C: Term: [back-formation]
-
-Definition: [the process of removing an affix from a word to create a new word.]
-
----
-
-C: Term: [homograph]
-
-Definition: [one of two words with the same spelling but different meanings.]
+T: circumfix
+D: an affix where one segment is a prefix, and another a suffix.
 
 ---
 
-C: Term: [hyoid bone]
+T: cognate
+D: one of a set of words that have a common ancestry.
 
-Definition: [the small V-shaped bone above the larynx.]
+---
+
+T: calque
+D: a word borrowed from another language by translating each morpheme.
+
+---
+
+T: malapropism
+D: the incorrect use of a word in place of a similar-sounding word.
+
+---
+
+T: back-formation
+D: the process of removing an affix from a word to create a new word.
+
+---
+
+T: homograph
+D: one of two words with the same spelling but different meanings.
+
+---
+
+T: hyoid bone
+D: the small V-shaped bone above the larynx.
 
 ---
 
@@ -109,6 +93,5 @@ A: An endearing diminutive.
 
 ---
 
-C: Term: [ingressive]
-
-Definition: [a speech sound involving outside air flowing into the vocal tract.]
+T: ingressive
+D: a speech sound involving outside air flowing into the vocal tract.

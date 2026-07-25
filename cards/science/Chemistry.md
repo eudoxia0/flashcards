@@ -3,9 +3,8 @@ A: A lattice defect where a Si is replaced with a C-C dimer, with one C bonded t
 
 ---
 
-C: Term: [isoelectronic]
-
-Definition: [(of two atoms) having the same electron configuration.]
+T: isoelectronic
+D: (of two atoms) having the same electron configuration.
 
 ---
 
@@ -14,9 +13,8 @@ A: William Hallowes Miller.
 
 ---
 
-C: Term: [band gap]
-
-Definition: [the energy range in a solid where no electronic states exist.]
+T: band gap
+D: the energy range in a solid where no electronic states exist.
 
 ---
 

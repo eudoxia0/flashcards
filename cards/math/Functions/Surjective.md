@@ -2,9 +2,8 @@
 name = "Mathematics"
 ---
 
-C: Term: [surjective function]
-
-Definition: [a function where every element in the codomain is the image of at least one element in the domain.]
+T: surjective function
+D: a function where every element in the codomain is the image of at least one element in the domain.
 
 ---
 

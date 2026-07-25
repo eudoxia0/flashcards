@@ -62,207 +62,173 @@ A: The larynx, pharynx, oral cavity, and nasal cavity.
 
 ---
 
-C: Term: [consonant]
-
-Definition: [a speech sound produced with complete or partial closure of the vocal tract.]
-
----
-
-C: Term: [vowel]
-
-Definition: [a speech sound produced without any stricture of the vocal tract.]
+T: consonant
+D: a speech sound produced with complete or partial closure of the vocal tract.
 
 ---
 
-C: Term: [articulation]
-
-Definition: [the use of speech organs in the supralaryngeal tract to produce speech sounds.]
-
----
-
-C: Term: [manner of articulation]
-
-Definition: [of a speech sound: the configuration of the articulators that produce it.]
+T: vowel
+D: a speech sound produced without any stricture of the vocal tract.
 
 ---
 
-C: Term: [place of articulation]
-
-Definition: [of a speech sound: the point along the vocal tract where articulation happens.]
-
----
-
-C: Term: [fricative]
-
-Definition: [a speech sound produced by forcing air through a channel narrow enough to create turbulent flow.]
+T: articulation
+D: the use of speech organs in the supralaryngeal tract to produce speech sounds.
 
 ---
 
-C: Term: [plosive]
-
-Definition: [a speech sound produced by opening a completely closed vocal tract.]
-
----
-
-C: Term: [affricate]
-
-Definition: [a consonant that begins as a plosive and releases as a fricative.]
+T: manner of articulation
+D: of a speech sound: the configuration of the articulators that produce it.
 
 ---
 
-C: Term: [nasal consonant]
-
-Definition: [a consonant produced with a lowered velum.]
-
----
-
-C: Term: [approximant]
-
-Definition: [a speech sound between a vowel and a consonant.]
+T: place of articulation
+D: of a speech sound: the point along the vocal tract where articulation happens.
 
 ---
 
-C: Term: [active articulator]
-
-Definition: [an articulator that can move.]
-
----
-
-C: Term: [passive articulator]
-
-Definition: [an articulator that cannot move.]
+T: fricative
+D: a speech sound produced by forcing air through a channel narrow enough to create turbulent flow.
 
 ---
 
-C: Term: [labial consonant]
-
-Definition: [a consonant where one or both lips are the active articulator.]
-
----
-
-C: Term: [bilabial consonant]
-
-Definition: [a consonant where both lips are the active articulator.]
+T: plosive
+D: a speech sound produced by opening a completely closed vocal tract.
 
 ---
 
-C: Term: [dental consonant]
-
-Definition: [a consonant articulated with the tongue against the upper teeth.]
-
----
-
-C: Term: [bidental consonant]
-
-Definition: [a consonant articulated with both the upper and lower teeth.]
+T: affricate
+D: a consonant that begins as a plosive and releases as a fricative.
 
 ---
 
-C: Term: [blade (tongue)]
-
-Definition: [the part of the tongue just behind the tip.]
-
----
-
-C: Term: [dorsum (tongue)]
-
-Definition: [the upper surface of the tongue.]
+T: nasal consonant
+D: a consonant produced with a lowered velum.
 
 ---
 
-C: Term: [palatal consonant]
-
-Definition: [a consonant articulated with the body of the tongue raised against the hard palate.]
-
----
-
-C: Term: [labiodental consonant]
-
-Definition: [a consonant articulated with the lower lip and the upper teeth.]
+T: approximant
+D: a speech sound between a vowel and a consonant.
 
 ---
 
-C: Term: [dentolabial consonant]
-
-Definition: [a consonant articulated with the lower teeth against the upper lip.]
-
----
-
-C: Term: [phone]
-
-Definition: [a distinct speech sound.]
+T: active articulator
+D: an articulator that can move.
 
 ---
 
-C: Term: [phoneme]
-
-Definition: [a set of phones regarded by speakers of a language as indistinguishable.]
-
----
-
-C: Term: [allophone]
-
-Definition: [a member of the set of phones that are interpreted as the same phoneme.]
+T: passive articulator
+D: an articulator that cannot move.
 
 ---
 
-C: Term: [alveolar ridge]
-
-Definition: [the bony ridge between the upper teeth and the hard palate.]
-
----
-
-C: Term: [alveolar consonant]
-
-Definition: [a consonant articulated with the tongue against the alveolar ridge.]
+T: labial consonant
+D: a consonant where one or both lips are the active articulator.
 
 ---
 
-C: Term: [ambisyllabic]
-
-Definition: [of a consonant: forming part of two adjacent syllables.]
-
----
-
-C: Term: [apical consonant]
-
-Definition: [a consonant articulated with the apex of the tongue.]
+T: bilabial consonant
+D: a consonant where both lips are the active articulator.
 
 ---
 
-C: Term: [laminal consonant]
-
-Definition: [a consonant articulated with the blade of the tongue.]
-
----
-
-C: Term: [subapical consonant]
-
-Definition: [a consonant articulated with the underside of the apex of the tongue.]
+T: dental consonant
+D: a consonant articulated with the tongue against the upper teeth.
 
 ---
 
-C: Term: [dorsal consonant]
-
-Definition: [a consonant articulated with the dorsum of the tongue.]
-
----
-
-C: Term: [coronal consonant]
-
-Definition: [a consonant articulated with the flexible front part of the tongue.]
+T: bidental consonant
+D: a consonant articulated with both the upper and lower teeth.
 
 ---
 
-C: Term: [pharyngeal consonant]
-
-Definition: [a consonant articulated in the pharynx.]
+T: blade (tongue)
+D: the part of the tongue just behind the tip.
 
 ---
 
-C: Term: [backness]
+T: dorsum (tongue)
+D: the upper surface of the tongue.
 
-Definition: [the horizontal dimension in vowel space]
+---
+
+T: palatal consonant
+D: a consonant articulated with the body of the tongue raised against the hard palate.
+
+---
+
+T: labiodental consonant
+D: a consonant articulated with the lower lip and the upper teeth.
+
+---
+
+T: dentolabial consonant
+D: a consonant articulated with the lower teeth against the upper lip.
+
+---
+
+T: phone
+D: a distinct speech sound.
+
+---
+
+T: phoneme
+D: a set of phones regarded by speakers of a language as indistinguishable.
+
+---
+
+T: allophone
+D: a member of the set of phones that are interpreted as the same phoneme.
+
+---
+
+T: alveolar ridge
+D: the bony ridge between the upper teeth and the hard palate.
+
+---
+
+T: alveolar consonant
+D: a consonant articulated with the tongue against the alveolar ridge.
+
+---
+
+T: ambisyllabic
+D: of a consonant: forming part of two adjacent syllables.
+
+---
+
+T: apical consonant
+D: a consonant articulated with the apex of the tongue.
+
+---
+
+T: laminal consonant
+D: a consonant articulated with the blade of the tongue.
+
+---
+
+T: subapical consonant
+D: a consonant articulated with the underside of the apex of the tongue.
+
+---
+
+T: dorsal consonant
+D: a consonant articulated with the dorsum of the tongue.
+
+---
+
+T: coronal consonant
+D: a consonant articulated with the flexible front part of the tongue.
+
+---
+
+T: pharyngeal consonant
+D: a consonant articulated in the pharynx.
+
+---
+
+T: backness
+D: the horizontal dimension in vowel space
 
 ---
 
@@ -271,9 +237,8 @@ A: Front, near-front, central, near-back, back.
 
 ---
 
-C: Term: [vowel height]
-
-Definition: [the vertical dimension in vowel space]
+T: vowel height
+D: the vertical dimension in vowel space
 
 ---
 
@@ -285,45 +250,38 @@ A:
 
 ---
 
-C: Term: [roundedness]
-
-Definition: [of a vowel: the degree to which the lips are rounded.]
-
----
-
-C: Term: [nasal vowel]
-
-Definition: [a vowel produced with a lowered velum.]
+T: roundedness
+D: of a vowel: the degree to which the lips are rounded.
 
 ---
 
-C: Term: [nasalization]
-
-Definition: [the production of sound with a lowered velum.]
-
----
-
-C: Term: [voiced]
-
-Definition: [of a speech sound: produced with the vocal folds vibrating.]
+T: nasal vowel
+D: a vowel produced with a lowered velum.
 
 ---
 
-C: Term: [voiceless]
-
-Definition: [of a speech sound: produced without the vocal folds vibrating.]
-
----
-
-C: Term: [voicing]
-
-Definition: [the quality of a speech sound being voiced or voiceless.]
+T: nasalization
+D: the production of sound with a lowered velum.
 
 ---
 
-C: Term: [tap]
+T: voiced
+D: of a speech sound: produced with the vocal folds vibrating.
 
-Definition: [a speech sound where an articulator is rapidly thrown against another.]
+---
+
+T: voiceless
+D: of a speech sound: produced without the vocal folds vibrating.
+
+---
+
+T: voicing
+D: the quality of a speech sound being voiced or voiceless.
+
+---
+
+T: tap
+D: a speech sound where an articulator is rapidly thrown against another.
 
 ---
 
@@ -332,6 +290,5 @@ A: Pertaining to the gums.
 
 ---
 
-C: Term: [interdental]
-
-Definition: [a type of articulation where the apex of the tongue protrudes slightly between the upper and lower teeth.]
+T: interdental
+D: a type of articulation where the apex of the tongue protrudes slightly between the upper and lower teeth.

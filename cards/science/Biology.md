@@ -1,12 +1,10 @@
-C: Term: [exon]
-
-Definition: [the parts of a gene that end up coding for RNA.]
+T: exon
+D: the parts of a gene that end up coding for RNA.
 
 ---
 
-C: Term: [RNA splicing]
-
-Definition: [the process that removes introns and stitches together exons from a strand of pre-mRNA.]
+T: RNA splicing
+D: the process that removes introns and stitches together exons from a strand of pre-mRNA.
 
 ---
 
@@ -21,6 +19,5 @@ A: Transcription can choose which exons to keep and how to join them.
 
 ---
 
-C: Term: [ontogeny]
-
-Definition: [the developmental history of an organism within its own lifetime.]
+T: ontogeny
+D: the developmental history of an organism within its own lifetime.

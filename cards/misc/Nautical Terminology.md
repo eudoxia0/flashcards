@@ -1,12 +1,10 @@
-C: Term: [spar]
-
-Definition: [a pole that supports a sail.]
+T: spar
+D: a pole that supports a sail.
 
 ---
 
-C: Term: [mast]
-
-Definition: [a tall, vertical spar.]
+T: mast
+D: a tall, vertical spar.
 
 ---
 
@@ -14,9 +12,8 @@ C: A mast is a type of [spar].
 
 ---
 
-C: Term: [yard]
-
-Definition: [a horizontal spar attached to a mast, running perpendicular to the ship's length.]
+T: yard
+D: a horizontal spar attached to a mast, running perpendicular to the ship's length.
 
 ---
 
@@ -24,9 +21,8 @@ C: A yard is a type of [spar].
 
 ---
 
-C: Term: [boom]
-
-Definition: [a horizontal spar attached to the base of a mast that runs aft.]
+T: boom
+D: a horizontal spar attached to the base of a mast that runs aft.
 
 ---
 
@@ -34,39 +30,33 @@ C: A boom is a type of [spar].
 
 ---
 
-C: Term: [rigging]
-
-Definition: [the structures that support and control the sails on a ship.]
-
----
-
-C: Term: [guy wire]
-
-Definition: [a tensioned cable that stabilizes a spar.]
+T: rigging
+D: the structures that support and control the sails on a ship.
 
 ---
 
-C: Term: [fore-and-aft]
-
-Definition: [the axis parallel to the keel, that is, from bow to stern.]
-
----
-
-C: Term: [athwartships]
-
-Definition: [the axis from port to starboard.]
+T: guy wire
+D: a tensioned cable that stabilizes a spar.
 
 ---
 
-C: Term: [port]
-
-Definition: [the left side of a vessel when facing the bow.]
+T: fore-and-aft
+D: the axis parallel to the keel, that is, from bow to stern.
 
 ---
 
-C: Term: [starboard]
+T: athwartships
+D: the axis from port to starboard.
 
-Definition: [the right side of a vessel when facing the bow].
+---
+
+T: port
+D: the left side of a vessel when facing the bow.
+
+---
+
+T: starboard
+D: the right side of a vessel when facing the bow.
 
 ---
 
@@ -80,30 +70,25 @@ A: estribor
 
 ---
 
-C: Term: [bow]
-
-Definition: [the front part of a ship.]
-
----
-
-C: Term: [stern]
-
-Definition: [the rear part of a ship.]
+T: bow
+D: the front part of a ship.
 
 ---
 
-C: Term: [fore]
-
-Definition: [the direction towards the front of a ship.]
-
----
-
-C: Term: [aft]
-
-Definition: [the direction towards the back of a ship.]
+T: stern
+D: the rear part of a ship.
 
 ---
 
-C: Term: [capstan]
+T: fore
+D: the direction towards the front of a ship.
 
-Definition: [a vertical rotating drum used to haul ropes.]
+---
+
+T: aft
+D: the direction towards the back of a ship.
+
+---
+
+T: capstan
+D: a vertical rotating drum used to haul ropes.

@@ -1,12 +1,10 @@
-C: Term: [ligand]
-
-Definition: [A substance that binds to a biomolecule to produce some biological change]
+T: ligand
+D: A substance that binds to a biomolecule to produce some biological change
 
 ---
 
-C: Term: [enteral administration]
-
-Definition: [Administration of a drug through the intestines, either orally or rectally]
+T: enteral administration
+D: Administration of a drug through the intestines, either orally or rectally
 
 ---
 
@@ -18,33 +16,28 @@ C: Rectal administration is a subtype of [enteral] administration.
 
 ---
 
-C: Term: [parenteral administration]
-
-Definition: [Administration of a drug through any route other than the intestines]
-
----
-
-C: Term: [intraperitoneal administration]
-
-Definition: [Administration of a drug into the abdominal cavity]
+T: parenteral administration
+D: Administration of a drug through any route other than the intestines
 
 ---
 
-C: Term: [bioavailability]
-
-Definition: [The fraction of a drug administered that reaches circulation]
-
----
-
-C: Term: [prodrug]
-
-Definition: [A drug that is converted into an active metabolite in the body.]
+T: intraperitoneal administration
+D: Administration of a drug into the abdominal cavity
 
 ---
 
-C: Term: [dissociation constant]
+T: bioavailability
+D: The fraction of a drug administered that reaches circulation
 
-Definition: [the drug concentration at which half of the available binding sites are occupied.]
+---
+
+T: prodrug
+D: A drug that is converted into an active metabolite in the body.
+
+---
+
+T: dissociation constant
+D: the drug concentration at which half of the available binding sites are occupied.
 
 ---
 

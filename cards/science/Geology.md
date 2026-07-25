@@ -1,12 +1,10 @@
-C: Term: [lithosphere]
-
-Definition: [The rigid outermost layer of the Earth.]
+T: lithosphere
+D: The rigid outermost layer of the Earth.
 
 ---
 
-C: Term: [asthenosphere]
-
-Definition: [The ductile layer of the Earth's upper mantle.]
+T: asthenosphere
+D: The ductile layer of the Earth's upper mantle.
 
 ---
 
@@ -20,9 +18,8 @@ A: At plate boundaries.
 
 ---
 
-C: Term: [plate boundary]
-
-Definition: [The zones where tectonic plates meet.]
+T: plate boundary
+D: The zones where tectonic plates meet.
 
 ---
 

@@ -2,9 +2,8 @@
 name = "Mathematics"
 ---
 
-C: Term: [associativity]
-
-Definition: [a property of a binary operation whereby $(ab)c = a(bc)$.]
+T: associativity
+D: a property of a binary operation whereby $(ab)c = a(bc)$.
 
 ---
 
@@ -20,9 +19,8 @@ A: Associativity.
 
 ---
 
-C: Term: [commutativity]
-
-Definition: [a property of a binary operation whereby $ab = ba$.]
+T: commutativity
+D: a property of a binary operation whereby $ab = ba$.
 
 ---
 

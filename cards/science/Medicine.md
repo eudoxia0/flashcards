@@ -97,51 +97,43 @@ C: [Endone] is the Australian trade name of [oxycodone].
 
 ---
 
-C: Term: [prodromal]
-
-Definition: [The phase of disease before the onset of symptoms.]
-
----
-
-C: Term: [coloboma of the iris]
-
-Definition: [A defect of the eye where the iris is shaped like a keyhole.]
+T: prodromal
+D: The phase of disease before the onset of symptoms.
 
 ---
 
-C: Term: [infarction]
-
-Definition: [Tissue death caused by loss of blood supply.]
-
----
-
-C: Term: [infarct]
-
-Definition: [A lesion resulting from an infarction.]
+T: coloboma of the iris
+D: A defect of the eye where the iris is shaped like a keyhole.
 
 ---
 
-C: Term: [embolus]
-
-Definition: [A clot that travels through circulation, becomes lodged in a blood vessel, and impedes blood flow.]
-
----
-
-C: Term: [thrombus]
-
-Definition: [A blood clot that forms _in situ_ and impedes blood flow.]
+T: infarction
+D: Tissue death caused by loss of blood supply.
 
 ---
 
-C: Term: [orthopantomogram]
-
-Definition: [A panoramic dental x-ray.]
+T: infarct
+D: A lesion resulting from an infarction.
 
 ---
 
-C: Term: [pericoronitis]
+T: embolus
+D: A clot that travels through circulation, becomes lodged in a blood vessel, and impedes blood flow.
 
-Definition: [infection of the gum around a partially-erupted wisdom tooth.]
+---
+
+T: thrombus
+D: A blood clot that forms _in situ_ and impedes blood flow.
+
+---
+
+T: orthopantomogram
+D: A panoramic dental x-ray.
+
+---
+
+T: pericoronitis
+D: infection of the gum around a partially-erupted wisdom tooth.
 
 ---
 
@@ -304,9 +296,8 @@ A: Bereitschaftspotential.
 
 ---
 
-C: Term: [serial passage]
-
-Definition: [The repeated transfer of a pathogen through a series of hosts or cultures to attenuate or adapt it.]
+T: serial passage
+D: The repeated transfer of a pathogen through a series of hosts or cultures to attenuate or adapt it.
 
 ---
 
@@ -320,21 +311,18 @@ A: Designer Receptors Exclusively Activated by Designer Drugs
 
 ---
 
-C: Term: [intrathecal administration]
-
-Definition: [administration of a drug into the CSF.]
-
----
-
-C: Term: [Capgras syndrome]
-
-Definition: [a psychiatric disorder where the patient believes people around them have been replaced by impostors.]
+T: intrathecal administration
+D: administration of a drug into the CSF.
 
 ---
 
-C: Term: [transient global amnesia]
+T: Capgras syndrome
+D: a psychiatric disorder where the patient believes people around them have been replaced by impostors.
 
-Definition: [a neurological disorder where the patient has no short-term memory for some hours.]
+---
+
+T: transient global amnesia
+D: a neurological disorder where the patient has no short-term memory for some hours.
 
 ---
 
@@ -429,9 +417,8 @@ A: C-reactive protein.
 
 ---
 
-C: Term: [monotropism]
-
-Definition: [a tendency to focus attention on few or one interests at any time, while neglectic others.]
+T: monotropism
+D: a tendency to focus attention on few or one interests at any time, while neglectic others.
 
 ---
 
@@ -439,15 +426,13 @@ C: Monotropism is a cognitive feature of [autism].
 
 ---
 
-C: Term: [chemotaxis]
-
-Definition: [the directed movement of an organism in response to chemical gradients in their environment.]
+T: chemotaxis
+D: the directed movement of an organism in response to chemical gradients in their environment.
 
 ---
 
-C: Term: [thermotaxis]
-
-Definition: [the directed movement of an organism in response to temperature gradients in their environment.]
+T: thermotaxis
+D: the directed movement of an organism in response to temperature gradients in their environment.
 
 ---
 
@@ -455,9 +440,8 @@ C: Action potentials were discovered by [Edgar Adrian], who published his result
 
 ---
 
-C: Term: [ligase]
-
-Definition: [an enzyme that catalyzes the joining of two molecules by forming a new chemical bond.]
+T: ligase
+D: an enzyme that catalyzes the joining of two molecules by forming a new chemical bond.
 
 ---
 
@@ -494,39 +478,33 @@ A: Using telomeres.
 
 ---
 
-C: Term: [lytic cycle]
-
-Definition: [the cycle of viral reproduction that results in the destruction of the infected cell.]
-
----
-
-C: Term: [virulent phage]
-
-Definition: [a bacteriophage that can only reproduce through the lytic cycle.]
+T: lytic cycle
+D: the cycle of viral reproduction that results in the destruction of the infected cell.
 
 ---
 
-C: Term: [lysogenic cycle]
-
-Definition: [the cycle of viral reproduction where the viral genome is integrated into the bacterial genome.]
-
----
-
-C: Term: [temperate phage]
-
-Definition: [a bacteriophage that can reproduce through the lysogenic cycle.]
+T: virulent phage
+D: a bacteriophage that can only reproduce through the lytic cycle.
 
 ---
 
-C: Term: [afferent nerves]
-
-Definition: [the nerves that carry signals from the body to the CNS.]
+T: lysogenic cycle
+D: the cycle of viral reproduction where the viral genome is integrated into the bacterial genome.
 
 ---
 
-C: Term: [efferent nerves]
+T: temperate phage
+D: a bacteriophage that can reproduce through the lysogenic cycle.
 
-Definition: [the nerves that carry signals from the CNS to the muscles.]
+---
+
+T: afferent nerves
+D: the nerves that carry signals from the body to the CNS.
+
+---
+
+T: efferent nerves
+D: the nerves that carry signals from the CNS to the muscles.
 
 ---
 
@@ -575,15 +553,13 @@ A: Cyproheptadine.
 
 ---
 
-C: Term: [scotopic vision]
-
-Definition: [vision in low light conditions.]
+T: scotopic vision
+D: vision in low light conditions.
 
 ---
 
-C: Term: [photopic vision]
-
-Definition: [vision in bright light conditions.]
+T: photopic vision
+D: vision in bright light conditions.
 
 ---
 
@@ -635,15 +611,13 @@ C: The opposite of [scotopic] vision is [photopic] vision.
 
 ---
 
-C: Term: [retrograde amnesia]
-
-Definition: [the inability to remember information acquired before a certain date.]
+T: retrograde amnesia
+D: the inability to remember information acquired before a certain date.
 
 ---
 
-C: Term: [anterograde amnesia]
-
-Definition: [the inability to remember information acquired after a certain date.]
+T: anterograde amnesia
+D: the inability to remember information acquired after a certain date.
 
 ---
 
@@ -657,9 +631,8 @@ A: Pervitin.
 
 ---
 
-C: Term: [sphygmomanometer]
-
-Definition: [a medical device used to measure blood pressure.]
+T: sphygmomanometer
+D: a medical device used to measure blood pressure.
 
 ---
 
@@ -683,15 +656,13 @@ A: Ear-nose-throat.
 
 ---
 
-C: Term: [otoscope]
-
-Definition: [a medical device used to look inside the ear.]
+T: otoscope
+D: a medical device used to look inside the ear.
 
 ---
 
-C: Term: [nasal endoscope]
-
-Definition: [a medical device used to look inside the nose.]
+T: nasal endoscope
+D: a medical device used to look inside the nose.
 
 ---
 
@@ -778,9 +749,8 @@ A: Arrhythmogenic right ventricular dysplasia.
 
 ---
 
-C: Term: [preponent response]
-
-Definition: [a natural, habitual, or dominant behavioral response to a stimulus.]
+T: preponent response
+D: a natural, habitual, or dominant behavioral response to a stimulus.
 
 ---
 
@@ -812,33 +782,28 @@ C: [Vitamin B3 deficiency] is also known as [pellagra].
 
 ---
 
-C: Term: [limbal ring]
-
-Definition: [the dark circle that separates the iris from the sclera.]
-
----
-
-C: Term: [Adam's apple]
-
-Definition: [the visible projection of the thyroid cartilage of the larynx.]
+T: limbal ring
+D: the dark circle that separates the iris from the sclera.
 
 ---
 
-C: Term: [craniosynostosis]
-
-Definition: [the premature fusion of the skull sutures.]
-
----
-
-C: Term: [syndactyly]
-
-Definition: [a condition where some digits are fused together.]
+T: Adam's apple
+D: the visible projection of the thyroid cartilage of the larynx.
 
 ---
 
-C: Term: [polydactyly]
+T: craniosynostosis
+D: the premature fusion of the skull sutures.
 
-Definition: [a birth defect that creates extra digits.]
+---
+
+T: syndactyly
+D: a condition where some digits are fused together.
+
+---
+
+T: polydactyly
+D: a birth defect that creates extra digits.
 
 ---
 
@@ -847,15 +812,13 @@ A: From Greek _syn_, "together"; and _daktulos_, "finger".
 
 ---
 
-C: Term: [ipsilateral]
-
-Definition: [of two things: being on the same side of the body.]
+T: ipsilateral
+D: of two things: being on the same side of the body.
 
 ---
 
-C: Term: [contralateral]
-
-Definition: [of two things: being on opposite sides of the body.]
+T: contralateral
+D: of two things: being on opposite sides of the body.
 
 ---
 
@@ -864,3 +827,13 @@ C: The dual of [ipsilateral] is [contralateral].
 ---
 
 C: The human body contains around [100] grams of ATP, representing [10] kilojoules of energy.
+
+---
+
+T: polycythemia
+D: a medical condition characterized by an abnormally high red blood cell count.
+
+---
+
+Q: Temperature of transplant organs.
+A: Between $0$ and $4 \celsius$.

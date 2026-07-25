@@ -18,9 +18,8 @@ A: $$||v|| = \sqrt{\langle v, v \rangle}$$
 
 ---
 
-C: Term: [skew-symmetric matrix]
-
-Definition: [a square matrix whose transpose equals its negation.]
+T: skew-symmetric matrix
+D: a square matrix whose transpose equals its negation.
 
 ---
 

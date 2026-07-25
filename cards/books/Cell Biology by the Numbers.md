@@ -60,33 +60,28 @@ C: An _E. coli_ bacterium is shaped like a [spherocylinder].
 
 ---
 
-C: Term: [spherocylinder]
-
-Definition: [A cylinder capped with a hemisphere at both ends.]
-
----
-
-C: Term: [haploid cell]
-
-Definition: [A cell that has one copy of each chromosome.]
+T: spherocylinder
+D: A cylinder capped with a hemisphere at both ends.
 
 ---
 
-C: Term: [diploid cell]
-
-Definition: [A cell that has two copies of each chromosome.]
-
----
-
-C: Term: [ploidy]
-
-Definition: [The number of copies of each chromosome in a cell.]
+T: haploid cell
+D: A cell that has one copy of each chromosome.
 
 ---
 
-C: Term: [endocytosis]
+T: diploid cell
+D: A cell that has two copies of each chromosome.
 
-Definition: [A process by which a cell acquires extracellular material, by wrapping its membrane around it, which buds off into an intracellular vesicle.]
+---
+
+T: ploidy
+D: The number of copies of each chromosome in a cell.
+
+---
+
+T: endocytosis
+D: A process by which a cell acquires extracellular material, by wrapping its membrane around it, which buds off into an intracellular vesicle.
 
 ---
 
@@ -99,15 +94,13 @@ C: Humans are made of about [60]% water.
 
 ---
 
-C: Term: [anabolism]
-
-Definition: [The metabolic processes that construct large biomolecules from smaller units.]
+T: anabolism
+D: The metabolic processes that construct large biomolecules from smaller units.
 
 ---
 
-C: Term: [catabolism]
-
-Definition: [The metabolic processes that break down large molecules, either to provide energy or feedstock.]
+T: catabolism
+D: The metabolic processes that break down large molecules, either to provide energy or feedstock.
 
 ---
 
@@ -126,15 +119,13 @@ A: In the ribosome.
 
 ---
 
-C: Term: [cell cycle time]
-
-Definition: [The time it takes for a cell to complete a full cycle of division.]
+T: cell cycle time
+D: The time it takes for a cell to complete a full cycle of division.
 
 ---
 
-C: Term: [transcription]
-
-Definition: [The process by which mRNA is synthesized from a DNA template.]
+T: transcription
+D: The process by which mRNA is synthesized from a DNA template.
 
 ---
 
@@ -143,9 +134,8 @@ A: Transcription.
 
 ---
 
-C: Term: [transcription factor]
-
-Definition: [A protein that binds to a DNA sequence, turning transcription on/off in response to signals.]
+T: transcription factor
+D: A protein that binds to a DNA sequence, turning transcription on/off in response to signals.
 
 ---
 
@@ -167,9 +157,8 @@ Diagram: [$\text{RNA} \rightarrow \text{Protein}$]
 
 ---
 
-C: Term: [proteolysis]
-
-Definition: [the breakdown of proteins.]
+T: proteolysis
+D: the breakdown of proteins.
 
 ---
 

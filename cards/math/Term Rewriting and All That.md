@@ -3,9 +3,8 @@ A: A rewrite system terminates when any expression can be rewritten into an expr
 
 ---
 
-C: Term: [normal form]
-
-Definition: [An expression for which no more rules apply.]
+T: normal form
+D: An expression for which no more rules apply.
 
 ---
 
@@ -62,9 +61,8 @@ $\iff$
 
 ---
 
-C: Term: [convergent rewrite system]
-
-Definition: [A rewrite system that is both terminating and confluent.]
+T: convergent rewrite system
+D: A rewrite system that is both terminating and confluent.
 
 ---
 
@@ -89,9 +87,8 @@ A: "$x$ and $y$ are convertible"
 
 ---
 
-C: Term: [normalizing rewrite system]
-
-Definition: [A rewrite system where every element has at least one normal form.]
+T: normalizing rewrite system
+D: A rewrite system where every element has at least one normal form.
 
 ---
 
@@ -126,15 +123,13 @@ A: Normalizing means every element has at least one normal form. Confluence mean
 
 ---
 
-C: Term: [finitely branching relation]
-
-Definition: [A relation where every element has only finitely many direct successors.]
+T: finitely branching relation
+D: A relation where every element has only finitely many direct successors.
 
 ---
 
-C: Term: [globally finite relation]
-
-Definition: [A relation where every element has only finitely many distinct successors.]
+T: globally finite relation
+D: A relation where every element has only finitely many distinct successors.
 
 ---
 
@@ -153,9 +148,8 @@ The set of successors is $\set{a,b}$ for every element.
 
 ---
 
-C: Term: [acyclic relation]
-
-Definition: [A relation where there is no element $a$ such that $a \pluspath a$.]
+T: acyclic relation
+D: A relation where there is no element $a$ such that $a \pluspath a$.
 
 ---
 
@@ -181,9 +175,8 @@ $\iff$
 
 ---
 
-C: Term: [signature]
-
-Definition: [a set of function symbols, each of which is associated with a natural number called its arity.]
+T: signature
+D: a set of function symbols, each of which is associated with a natural number called its arity.
 
 ---
 
@@ -226,9 +219,8 @@ Definition: [the subterm of $t$ at position $p$.]
 
 ---
 
-C: Term: [ground term]
-
-Definition: [a term with no free variables.]
+T: ground term
+D: a term with no free variables.
 
 ---
 
