@@ -1,6 +1,6 @@
 ART      := cards/art/Art.md
 BUILD    := cards/architecture/Great\ Buildings.md
-ELEMENTS := cards/science/periodic-table.md
+ELEMENTS := cards/science/elements.md
 FACES    := cards/history/faces/Faces.md
 GREEK    := cards/language/greek-alphabet.md
 PERSIAN  := cards/language/persian/Persian\ Alphabet.md
@@ -33,14 +33,26 @@ $(POW): scripts/pow2.py
 $(TEX): scripts/tex.py sources/expr.tex
 	$(PY) scripts/tex.py sources/expr.tex $(TEX)
 
-$(ELEMENTS): scripts/tmpl.py sources/elements.csv sources/elements.tmpl
-	python scripts/tmpl.py --csv=sources/elements.csv --template=sources/elements.tmpl --name="Periodic Table" --output=$@
+$(ELEMENTS): scripts/tmpl.py cards/science/elements.csv cards/science/elements.tmpl
+	python scripts/tmpl.py \
+	    --csv=cards/science/elements.csv \
+		--template=cards/science/elements.tmpl \
+		--name="Periodic Table" \
+		--output=$@
 
-$(GREEK): scripts/tmpl.py sources/greek-alphabet.csv sources/greek-alphabet.tmpl
-	python scripts/tmpl.py --csv=sources/greek-alphabet.csv --template=sources/greek-alphabet.tmpl --name="Greek Alphabet" --output=$@
+$(GREEK): scripts/tmpl.py cards/language/greek-alphabet.csv cards/language/greek-alphabet.tmpl
+	python scripts/tmpl.py \
+	    --csv=cards/language/greek-alphabet.csv \
+		--template=cards/language/greek-alphabet.tmpl \
+		--name="Greek Alphabet" \
+		--output=$@
 
-$(SPECTRUM): scripts/tmpl.py sources/em-spectrum.csv sources/em-spectrum.tmpl
-	python scripts/tmpl.py --csv=sources/em-spectrum.csv --template=sources/em-spectrum.tmpl --name="Electromagnetic Spectrum" --output=$@
+$(SPECTRUM): scripts/tmpl.py cards/science/em-spectrum.csv cards/science/em-spectrum.tmpl
+	python scripts/tmpl.py \
+	    --csv=cards/science/em-spectrum.csv \
+		--template=cards/science/em-spectrum.tmpl \
+		--name="Electromagnetic Spectrum" \
+		--output=$@
 
 check:
 	hashcards check cards
