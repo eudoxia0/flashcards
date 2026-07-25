@@ -1,12 +1,3 @@
-Q: Relative to the extracellular environment, is the interior of a neuron positively or negatively charged?
-A: Negatively.
-
----
-
-
-
----
-
 C: Term: [Neuron depolarization]
 
 Definition: [An event where a neuron's membrane potential becomes less negative.]
