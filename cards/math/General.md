@@ -8,7 +8,7 @@ A: $\pi = 3.1415$
 ---
 
 Q: $e = \ldots$ (two decimal places)
-A: $e = 3.71$
+A: $e = 2.71$
 
 ---
 
