@@ -143,3 +143,147 @@ A: F
 Q: What element has atomic number 9?
 A: Fluorine.
 
+
+---
+
+Q: Atomic number of Neon?
+A: 10
+
+---
+
+Q: Symbol of Neon?
+A: Ne
+
+---
+
+Q: What element has atomic number 10?
+A: Neon.
+
+
+---
+
+Q: Atomic number of Sodium?
+A: 11
+
+---
+
+Q: Symbol of Sodium?
+A: Na
+
+---
+
+Q: What element has atomic number 11?
+A: Sodium.
+
+
+---
+
+Q: Atomic number of Magnesium?
+A: 12
+
+---
+
+Q: Symbol of Magnesium?
+A: Mg
+
+---
+
+Q: What element has atomic number 12?
+A: Magnesium.
+
+
+---
+
+Q: Atomic number of Aluminium?
+A: 13
+
+---
+
+Q: Symbol of Aluminium?
+A: Al
+
+---
+
+Q: What element has atomic number 13?
+A: Aluminium.
+
+
+---
+
+Q: Atomic number of Silicon?
+A: 14
+
+---
+
+Q: Symbol of Silicon?
+A: Si
+
+---
+
+Q: What element has atomic number 14?
+A: Silicon.
+
+
+---
+
+Q: Atomic number of Phosphorus?
+A: 15
+
+---
+
+Q: Symbol of Phosphorus?
+A: P
+
+---
+
+Q: What element has atomic number 15?
+A: Phosphorus.
+
+
+---
+
+Q: Atomic number of Sulfur?
+A: 16
+
+---
+
+Q: Symbol of Sulfur?
+A: S
+
+---
+
+Q: What element has atomic number 16?
+A: Sulfur.
+
+
+---
+
+Q: Atomic number of Chlorine?
+A: 17
+
+---
+
+Q: Symbol of Chlorine?
+A: Cl
+
+---
+
+Q: What element has atomic number 17?
+A: Chlorine.
+
+
+---
+
+Q: Atomic number of Argon?
+A: 18
+
+---
+
+Q: Symbol of Argon?
+A: Ar
+
+---
+
+Q: What element has atomic number 18?
+A: Argon.
+
