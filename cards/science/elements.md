@@ -2,288 +2,162 @@
 name = 'Periodic Table'
 ---
 
-Q: Atomic number of Hydrogen?
-A: 1
+C: The atomic number of [Hydrogen] is [1].
 
 ---
 
-Q: Symbol of Hydrogen?
-A: H
-
----
-
-Q: What element has atomic number 1?
-A: Hydrogen.
+C: The symbol of [Hydrogen] is [H].
 
 
 ---
 
-Q: Atomic number of Helium?
-A: 2
+C: The atomic number of [Helium] is [2].
 
 ---
 
-Q: Symbol of Helium?
-A: He
-
----
-
-Q: What element has atomic number 2?
-A: Helium.
+C: The symbol of [Helium] is [He].
 
 
 ---
 
-Q: Atomic number of Lithium?
-A: 3
+C: The atomic number of [Lithium] is [3].
 
 ---
 
-Q: Symbol of Lithium?
-A: Li
-
----
-
-Q: What element has atomic number 3?
-A: Lithium.
+C: The symbol of [Lithium] is [Li].
 
 
 ---
 
-Q: Atomic number of Beryllium?
-A: 4
+C: The atomic number of [Beryllium] is [4].
 
 ---
 
-Q: Symbol of Beryllium?
-A: Be
-
----
-
-Q: What element has atomic number 4?
-A: Beryllium.
+C: The symbol of [Beryllium] is [Be].
 
 
 ---
 
-Q: Atomic number of Boron?
-A: 5
+C: The atomic number of [Boron] is [5].
 
 ---
 
-Q: Symbol of Boron?
-A: B
-
----
-
-Q: What element has atomic number 5?
-A: Boron.
+C: The symbol of [Boron] is [B].
 
 
 ---
 
-Q: Atomic number of Carbon?
-A: 6
+C: The atomic number of [Carbon] is [6].
 
 ---
 
-Q: Symbol of Carbon?
-A: C
-
----
-
-Q: What element has atomic number 6?
-A: Carbon.
+C: The symbol of [Carbon] is [C].
 
 
 ---
 
-Q: Atomic number of Nitrogen?
-A: 7
+C: The atomic number of [Nitrogen] is [7].
 
 ---
 
-Q: Symbol of Nitrogen?
-A: N
-
----
-
-Q: What element has atomic number 7?
-A: Nitrogen.
+C: The symbol of [Nitrogen] is [N].
 
 
 ---
 
-Q: Atomic number of Oxygen?
-A: 8
+C: The atomic number of [Oxygen] is [8].
 
 ---
 
-Q: Symbol of Oxygen?
-A: O
-
----
-
-Q: What element has atomic number 8?
-A: Oxygen.
+C: The symbol of [Oxygen] is [O].
 
 
 ---
 
-Q: Atomic number of Fluorine?
-A: 9
+C: The atomic number of [Fluorine] is [9].
 
 ---
 
-Q: Symbol of Fluorine?
-A: F
-
----
-
-Q: What element has atomic number 9?
-A: Fluorine.
+C: The symbol of [Fluorine] is [F].
 
 
 ---
 
-Q: Atomic number of Neon?
-A: 10
+C: The atomic number of [Neon] is [10].
 
 ---
 
-Q: Symbol of Neon?
-A: Ne
-
----
-
-Q: What element has atomic number 10?
-A: Neon.
+C: The symbol of [Neon] is [Ne].
 
 
 ---
 
-Q: Atomic number of Sodium?
-A: 11
+C: The atomic number of [Sodium] is [11].
 
 ---
 
-Q: Symbol of Sodium?
-A: Na
-
----
-
-Q: What element has atomic number 11?
-A: Sodium.
+C: The symbol of [Sodium] is [Na].
 
 
 ---
 
-Q: Atomic number of Magnesium?
-A: 12
+C: The atomic number of [Magnesium] is [12].
 
 ---
 
-Q: Symbol of Magnesium?
-A: Mg
-
----
-
-Q: What element has atomic number 12?
-A: Magnesium.
+C: The symbol of [Magnesium] is [Mg].
 
 
 ---
 
-Q: Atomic number of Aluminium?
-A: 13
+C: The atomic number of [Aluminium] is [13].
 
 ---
 
-Q: Symbol of Aluminium?
-A: Al
-
----
-
-Q: What element has atomic number 13?
-A: Aluminium.
+C: The symbol of [Aluminium] is [Al].
 
 
 ---
 
-Q: Atomic number of Silicon?
-A: 14
+C: The atomic number of [Silicon] is [14].
 
 ---
 
-Q: Symbol of Silicon?
-A: Si
-
----
-
-Q: What element has atomic number 14?
-A: Silicon.
+C: The symbol of [Silicon] is [Si].
 
 
 ---
 
-Q: Atomic number of Phosphorus?
-A: 15
+C: The atomic number of [Phosphorus] is [15].
 
 ---
 
-Q: Symbol of Phosphorus?
-A: P
-
----
-
-Q: What element has atomic number 15?
-A: Phosphorus.
+C: The symbol of [Phosphorus] is [P].
 
 
 ---
 
-Q: Atomic number of Sulfur?
-A: 16
+C: The atomic number of [Sulfur] is [16].
 
 ---
 
-Q: Symbol of Sulfur?
-A: S
-
----
-
-Q: What element has atomic number 16?
-A: Sulfur.
+C: The symbol of [Sulfur] is [S].
 
 
 ---
 
-Q: Atomic number of Chlorine?
-A: 17
+C: The atomic number of [Chlorine] is [17].
 
 ---
 
-Q: Symbol of Chlorine?
-A: Cl
-
----
-
-Q: What element has atomic number 17?
-A: Chlorine.
+C: The symbol of [Chlorine] is [Cl].
 
 
 ---
 
-Q: Atomic number of Argon?
-A: 18
+C: The atomic number of [Argon] is [18].
 
 ---
 
-Q: Symbol of Argon?
-A: Ar
-
----
-
-Q: What element has atomic number 18?
-A: Argon.
+C: The symbol of [Argon] is [Ar].
 
