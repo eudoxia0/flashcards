@@ -233,16 +233,6 @@ A: Fucked up beyond all repair.
 
 ---
 
-Q: fudanshi
-A: A male fan of yaoi.
-
----
-
-Q: fujoshi
-A: A female fan of yaoi.
-
----
-
 Q: gallipot
 A: A small pot used by apothecaries to hold medicines.
 
@@ -270,11 +260,6 @@ A: Under this
 
 Q: hieratic
 A: of or pertaining to priests
-
----
-
-Q: himejoshi
-A: A female fan of yuri.
 
 ---
 
@@ -565,3 +550,19 @@ A: A writing surface from which text has been erased for reuse.
 
 Q: theodicy
 A: The attempt to justify God's goodness despite the evil of the world.
+
+---
+
+C: A [male] fan of [yaoi] is called a [fudanshi].
+
+---
+
+C: A [male] fan of [yuri] is called a [himedanshi].
+
+---
+
+C: A [female] fan of [yaoi] is called a [fujoshi].
+
+---
+
+C: A [female] fan of [yuri] is called a [himejoshi].
