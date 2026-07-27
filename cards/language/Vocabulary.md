@@ -566,3 +566,23 @@ C: A [female] fan of [yaoi] is called a [fujoshi].
 ---
 
 C: A [female] fan of [yuri] is called a [himejoshi].
+
+---
+
+Q: fudanshi
+A: A male fan of yaoi.
+
+---
+
+Q: himedanshi
+A: A male fan of yuri.
+
+---
+
+Q: fujoshi
+A: A female fan of yaoi.
+
+---
+
+Q: himejoshi
+A: A female fan of yuri.
