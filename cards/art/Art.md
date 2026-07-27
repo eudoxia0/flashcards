@@ -1506,33 +1506,17 @@ A: Francisco de Zurbarán
 
 ---
 
-Q: Title?
-
-![](<@/art/images/Franz Xaver Winterhalter—Portrait of Alexandra of Denmark.jpg>)
-
-A: Portrait of Alexandra of Denmark
-
----
-
 Q: Artist?
 
-![](<@/art/images/Franz Xaver Winterhalter—Portrait of Alexandra of Denmark.jpg>)
+![](<@/art/images/Franz Xaver Winterhalter—Portrait of Alexandra of Denmark (skip).jpg>)
 
 A: Franz Xaver Winterhalter
 
 ---
 
-Q: Title?
-
-![](<@/art/images/Franz Xaver Winterhalter—Portrait of Empress Elisabeth of Austria.jpg>)
-
-A: Portrait of Empress Elisabeth of Austria
-
----
-
 Q: Artist?
 
-![](<@/art/images/Franz Xaver Winterhalter—Portrait of Empress Elisabeth of Austria.jpg>)
+![](<@/art/images/Franz Xaver Winterhalter—Portrait of Empress Elisabeth of Austria (skip).jpg>)
 
 A: Franz Xaver Winterhalter
 
