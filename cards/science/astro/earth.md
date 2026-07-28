@@ -34,8 +34,3 @@ A: $35 \,\text{km}$
 
 Q: Earth, mean thickness of ocean lithosphere in $\text{km}$.
 A: $5 \,\text{km}$
-
----
-
-Q: Earth, mass of the hydrosphere in $\text{g}$.
-A: $1.6 \times 10^{24} \,\text{g}$
