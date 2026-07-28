@@ -12,11 +12,6 @@ A: $\approx 30 \,\text{km}/\text{s}$
 
 ---
 
-Q: Earth, mass in grams.
-A: $6 \times 10^{27} \gram$
-
----
-
 Q: Earth, total surface area in $\text{km}^2$.
 A: $500,000,000 \,\text{km}^2$
 
