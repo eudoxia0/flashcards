@@ -206,3 +206,30 @@ C: The atomic number of [Vanadium] is [23].
 
 C: The symbol of [Vanadium] is [V].
 
+
+---
+
+C: The atomic number of [Chromium] is [24].
+
+---
+
+C: The symbol of [Chromium] is [Cr].
+
+
+---
+
+C: The atomic number of [Manganese] is [25].
+
+---
+
+C: The symbol of [Manganese] is [Mn].
+
+
+---
+
+C: The atomic number of [Iron] is [26].
+
+---
+
+C: The symbol of [Iron] is [Fe].
+
