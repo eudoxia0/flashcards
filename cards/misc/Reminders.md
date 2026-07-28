@@ -15,3 +15,8 @@ A: `F12`
 
 Q: What CLI app do I use to count lines of code?
 A: `tokei`
+
+---
+
+Q: Name of the TUI timer app I use.
+A: `termdown`
