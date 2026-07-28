@@ -161,3 +161,48 @@ C: The atomic number of [Argon] is [18].
 
 C: The symbol of [Argon] is [Ar].
 
+
+---
+
+C: The atomic number of [Potassium] is [19].
+
+---
+
+C: The symbol of [Potassium] is [K].
+
+
+---
+
+C: The atomic number of [Calcium] is [20].
+
+---
+
+C: The symbol of [Calcium] is [Ca].
+
+
+---
+
+C: The atomic number of [Scandium] is [21].
+
+---
+
+C: The symbol of [Scandium] is [Sc].
+
+
+---
+
+C: The atomic number of [Titanium] is [22].
+
+---
+
+C: The symbol of [Titanium] is [Ti].
+
+
+---
+
+C: The atomic number of [Vanadium] is [23].
+
+---
+
+C: The symbol of [Vanadium] is [V].
+
