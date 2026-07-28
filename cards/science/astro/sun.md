@@ -22,8 +22,8 @@ A: $2 \times 10^{33} \,\text{g}$
 
 ---
 
-Q: Sun, radius in $\text{m}$.
-A: $7 \times 10^8 \,\text{m}$
+Q: Sun, radius in $\text{km}$.
+A: $700,000 \,\text{km}$
 
 ---
 
