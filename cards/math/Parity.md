@@ -33,3 +33,8 @@ A: $\text{even}$
 
 Q: $\text{odd} \times \text{odd} = \ldots$
 A: $\text{odd}$
+
+---
+
+Q: Parity of zero?
+A: Even.
