@@ -586,3 +586,8 @@ A: A female fan of yaoi.
 
 Q: himejoshi
 A: A female fan of yuri.
+
+---
+
+Q: captious
+A: Of a person: quick to find fault.
