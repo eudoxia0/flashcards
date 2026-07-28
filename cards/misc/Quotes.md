@@ -340,7 +340,7 @@ C: There is no royal road to geometry.
 
 C: The essential Saltes of Animals may be so prepared and preserved, that an ingenious Man may have the whole Ark of Noah in his own Studie, and raise the fine Shape of an Animal out of its Ashes at his Pleasure; and by the lyke Method from the essential Saltes of humane Dust, a Philosopher may, without any criminal Necromancy, call up the Shape of any dead Ancestour from the Dust whereinto his Bodie has been incinerated.
 
-— [Borellus] ([Pierre Borel])
+— [Borellus]
 
 ---
 
