@@ -34,3 +34,13 @@ A: $35 \,\text{km}$
 
 Q: Earth, mean thickness of ocean lithosphere in $\text{km}$.
 A: $5 \,\text{km}$
+
+---
+
+Q: Solar irradiance at 1AU.
+A: $1361 ~\text{W}/\text{m}^2$
+
+---
+
+Q: Solar irradiance at the Earth's surface.
+A: $1000 ~\text{W}/\text{m}^2$

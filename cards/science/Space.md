@@ -65,13 +65,3 @@ A: 1967
 
 Q: What does OKB-1 stand for?
 A: "Experimental Design Bureau-1"
-
----
-
-Q: Solar irradiance at 1AU.
-A: $1361 ~\text{W}/\text{m}^2$
-
----
-
-Q: Solar irradiance at the Earth's surface.
-A: $1000 ~\text{W}/\text{m}^2$
