@@ -92,3 +92,45 @@ A: Midbrain, pons, medulla oblongata.
 
 Q: List the three divisions of the brainstem, from bottom to top.
 A: Medulla oblongata, pons, midbrain.
+
+---
+
+C: Synaptic vesicles are around [40] nanometers in diameter.
+
+---
+
+C: In the nervous system, [electrical] communication happens [within] neurons.
+
+---
+
+C: In the nervous system, [chemical] communication happens [between] neurons.
+
+---
+
+Q: What's the width of a synaptic cleft?
+A: 20 to 40 nanometers.
+
+---
+
+Q: How many synapses are there in a human brain?
+A: ~100 trillion
+
+---
+
+Q: How many neurons are there in the human brain?
+A: ~80 billion.
+
+---
+
+Q: Why do antidepressants take time to work?
+A: Because the therapeutic benefit is caused by long-term brain adaptation to the change in neurotransmitter activity.
+
+---
+
+Q: How many serotonergic neurons are there in the human brain?
+A: ~200,000
+
+---
+
+Q: How do SSRIs work?
+A: SSRIs inhibit SERT and increase serotonin activity.

@@ -74,3 +74,38 @@ A: Because you need a lower concentration of the drug to reach the same amount o
 ---
 
 C: $K_d$ is [inversely] proportional to binding affinity.
+
+---
+
+T: psychotropic drug
+D: A drug that influences behaviour
+
+---
+
+T: Allosteric regulation
+D: The changing of a protein's activity by a ligand binding somewhere other than the protein's active site.
+
+---
+
+T: Agonist
+D: A ligand that binds to a receptor and activates it.
+
+---
+
+T: Partial Agonist
+D: A drug that binds to a receptor and activates it slightly.
+
+---
+
+T: Antagonist
+D: A ligand that binds to a receptor and remains inert, blocking the action of agonist ligands.
+
+---
+
+T: Inverse agonist
+D: A drug that binds to a receptor and produces an effect opposite to that of an agonist.
+
+---
+
+T: orphan receptor
+D: a receptor for which no endogenous ligand is known.
