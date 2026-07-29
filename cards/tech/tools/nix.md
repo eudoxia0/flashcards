@@ -1,3 +1,7 @@
+---
+name = 'Nix'
+---
+
 Q: Command to create a `flake.lock`, from a `flake.nix` in the current directory.
 A: `nix flake lock`
 

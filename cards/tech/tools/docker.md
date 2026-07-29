@@ -1,3 +1,7 @@
+---
+name = 'Docker'
+---
+
 Q: What is a Docker image?
 A: A filesystem snapshot used to create a container.
 
