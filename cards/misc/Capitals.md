@@ -47,3 +47,7 @@ C: [Accra] is the capital of [Ghana].
 ---
 
 C: [Algiers] is the capital of [Algeria].
+
+---
+
+C: [Kiel] is the capital of the state of [Schleswig-Holstein].
