@@ -1,3 +1,7 @@
+---
+name = 'Regular Expressions'
+---
+
 Q: What is the regex for matching digits?
 A: `\d`
 
