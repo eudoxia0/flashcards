@@ -1,3 +1,7 @@
+---
+name = 'AWS Regions'
+---
+
 C: Region: [`us-east-2`]
 
 Location: [Ohio]

@@ -1,3 +1,7 @@
+---
+name = 'GPUs'
+---
+
 T: streaming multiprocessor
 D: a core on an NVIDIA GPU.
 

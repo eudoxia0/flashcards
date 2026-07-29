@@ -1,3 +1,7 @@
+---
+name = 'MIME'
+---
+
 Q: What does MIME stand for?
 A: Multipurpose Internet Mail Extensions.
 
