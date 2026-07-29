@@ -1,3 +1,7 @@
+---
+name = 'Pharmacology'
+---
+
 T: ligand
 D: A substance that binds to a biomolecule to produce some biological change
 

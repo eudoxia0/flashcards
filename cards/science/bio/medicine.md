@@ -1,3 +1,7 @@
+---
+name = 'Medicine'
+---
+
 C: The [maxillary] teeth are those of the [upper] jaw.
 
 ---
