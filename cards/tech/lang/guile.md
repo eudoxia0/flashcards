@@ -1,3 +1,7 @@
+---
+name = 'Guile Scheme'
+---
+
 C: Function: [`display`]
 
 Synopsis: [print a string to stdout.]

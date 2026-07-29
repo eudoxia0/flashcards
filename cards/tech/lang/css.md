@@ -1,3 +1,7 @@
+---
+name = 'CSS'
+---
+
 Q: Write a CSS rule to disable resizing the `textarea` element.
 A:
 

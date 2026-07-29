@@ -1,3 +1,7 @@
+---
+name = 'Rust'
+---
+
 Q: Consider this destructure expression:
 
 ```

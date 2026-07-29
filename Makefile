@@ -7,7 +7,7 @@ PERSIAN  := cards/language/persian/Persian\ Alphabet.md
 POW      := cards/math/Powers\ of\ Two.md
 PY       := python3
 SPECTRUM := cards/science/em-spectrum.md
-TEX      := cards/tech/tex.md
+TEX      := cards/tech/lang/tex.md
 
 TARGETS  := $(ART) $(ENG) $(FACES) $(PERSIAN) $(POW) $(TEX) $(BUILD) $(ELEMENTS) $(GREEK) $(SPECTRUM)
 
@@ -30,8 +30,8 @@ $(PERSIAN): scripts/persian.py
 $(POW): scripts/pow2.py
 	$(PY) scripts/pow2.py > $(POW)
 
-$(TEX): scripts/tex.py cards/tech/tex.txt
-	$(PY) scripts/tex.py cards/tech/tex.txt $(TEX)
+$(TEX): scripts/tex.py cards/tech/lang/tex.txt
+	$(PY) scripts/tex.py cards/tech/lang/tex.txt $(TEX)
 
 $(ELEMENTS): scripts/tmpl.py cards/science/elements.csv cards/science/elements.tmpl
 	python scripts/tmpl.py \
