@@ -605,4 +605,4 @@ A: Someone who offers opinions beyond their own knowledge.
 ---
 
 Q: hyaline
-A: Like glass.
+A: Like glass, being crystalline and translucent.
