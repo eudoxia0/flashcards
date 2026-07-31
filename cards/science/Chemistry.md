@@ -93,3 +93,8 @@ C: The SI unit for an amount of substance is the [mole].
 
 Q: What is the name for this unit? $$\text{mol}^{-1}$$
 A: Reciprocal moles.
+
+---
+
+Q: What does PVC stand for?
+A: Polyvinyl chloride.
