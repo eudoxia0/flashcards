@@ -125,3 +125,8 @@ C: The second most widely produced plastic is [PVC].
 
 Q: What is a retransfer printer?
 A: A device that prints an image on a clear plastic film that is heat-fused onto a polymer surface.
+
+---
+
+T: resin identification code
+D: a symbol found on plastic products, used to sort them for recycling.
