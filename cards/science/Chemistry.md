@@ -98,3 +98,8 @@ A: Reciprocal moles.
 
 Q: What does PVC stand for?
 A: Polyvinyl chloride.
+
+---
+
+Q: How many tons of PVC are produced each year?
+A: 40 million.
