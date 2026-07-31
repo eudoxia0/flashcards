@@ -108,3 +108,15 @@ A: 40 million.
 
 T: photo-oxidation
 D: the degradation of a polymer by the combined action of light and oxygen.
+
+---
+
+C: The most widely produced plastic is [polyethylene].
+
+---
+
+C: The second most widely produced plastic is [polypropylene].
+
+---
+
+C: The second most widely produced plastic is [PVC].
