@@ -120,3 +120,8 @@ C: The second most widely produced plastic is [polypropylene].
 ---
 
 C: The second most widely produced plastic is [PVC].
+
+---
+
+Q: What is a retransfer printer?
+A: A device that prints an image on a clear plastic film that is heat-fused onto a polymer surface.
