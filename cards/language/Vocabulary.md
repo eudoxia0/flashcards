@@ -596,3 +596,8 @@ A: Of a person: quick to find fault.
 
 Q: farraginous
 A: A confusing and chaotic mixture of different things.
+
+---
+
+Q: ultracrepidarian
+A: Someone who offers opinions beyond their own knowledge.
