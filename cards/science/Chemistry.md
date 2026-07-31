@@ -103,3 +103,8 @@ A: Polyvinyl chloride.
 
 Q: How many tons of PVC are produced each year?
 A: 40 million.
+
+---
+
+T: photo-oxidation
+D: the degradation of a polymer by the combined action of light and oxygen.
