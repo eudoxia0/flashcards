@@ -591,3 +591,8 @@ A: A female fan of yuri.
 
 Q: captious
 A: Of a person: quick to find fault.
+
+---
+
+Q: farraginous
+A: A confusing and chaotic mixture of different things.
