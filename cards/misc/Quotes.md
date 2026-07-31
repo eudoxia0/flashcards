@@ -388,7 +388,7 @@ C: The two superpowers of the Cold War each wrote in a script descended from one
 
 C: My purpose, and my belief, is that the bombs that killed and maimed at Hiroshima and Nagasaki shall one day open the skies to man.
 
-— [Freeman Dyson], [_A Space Traveler’s Manifesto_]
+— [Freeman Dyson]
 
 ---
 
