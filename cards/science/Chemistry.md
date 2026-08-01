@@ -133,5 +133,10 @@ A: Polyethylene terephthalate.
 
 ---
 
+Q: What does HDPE stand for?
+A: High-density polyethylene.
+
+---
+
 T: resin identification code
 D: a symbol found on plastic products, used to sort them for recycling.
