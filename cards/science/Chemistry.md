@@ -138,5 +138,52 @@ A: High-density polyethylene.
 
 ---
 
+Q: What does LDPE stand for?
+A: Low-density polyethylene.
+
+---
+
 T: resin identification code
 D: a symbol found on plastic products, used to sort them for recycling.
+
+---
+
+C: Polymer: [PET]
+
+Resin identification code: [1]
+
+---
+
+C: Polymer: [HDPE]
+
+Resin identification code: [2]
+
+---
+
+C: Polymer: [PVC]
+
+Resin identification code: [3]
+
+---
+
+C: Polymer: [LDPE]
+
+Resin identification code: [4]
+
+---
+
+C: Polymer: [polypropylene]
+
+Resin identification code: [5]
+
+---
+
+C: Polymer: [polystyrene]
+
+Resin identification code: [6]
+
+---
+
+C: Polymer: [other]
+
+Resin identification code: [7]
