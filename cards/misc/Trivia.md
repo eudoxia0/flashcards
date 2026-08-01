@@ -747,3 +747,8 @@ A: Numerical aperture.
 ---
 
 C: The parable of the broken window was introduced by [Frédéric Bastiat] in his essay, [_That Which Is Seen, and That Which Is Not Seen_].
+
+---
+
+Q: What does FDVR stand for?
+A: Full-dive virtual reality.
