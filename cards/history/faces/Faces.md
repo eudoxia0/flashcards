@@ -20,6 +20,14 @@ A: Alexander Grothendieck
 
 Q: Name?
 
+![](<images/Alfred Dreyfus.jpg>)
+
+A: Alfred Dreyfus
+
+---
+
+Q: Name?
+
 ![](<images/Alfred Kubin.jpg>)
 
 A: Alfred Kubin
