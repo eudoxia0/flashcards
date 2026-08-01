@@ -119,7 +119,7 @@ C: The second most widely produced plastic is [polypropylene].
 
 ---
 
-C: The second most widely produced plastic is [PVC].
+C: The third most widely produced plastic is [PVC].
 
 ---
 
