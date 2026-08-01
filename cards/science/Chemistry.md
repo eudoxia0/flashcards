@@ -128,5 +128,10 @@ A: A device that prints an image on a clear plastic film that is heat-fused onto
 
 ---
 
+Q: What does PET (the plastic) stand for?
+A: Polyethylene terephthalate.
+
+---
+
 T: resin identification code
 D: a symbol found on plastic products, used to sort them for recycling.
