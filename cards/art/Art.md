@@ -6386,19 +6386,3 @@ A: Édouard Manet
 
 ---
 
-Q: Title?
-
-![](<@/art/images/Édouard Manet—The Dead Matador.jpg>)
-
-A: The Dead Matador
-
----
-
-Q: Artist?
-
-![](<@/art/images/Édouard Manet—The Dead Matador.jpg>)
-
-A: Édouard Manet
-
----
-
