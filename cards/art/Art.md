@@ -6282,22 +6282,6 @@ A: Édouard Manet
 
 ---
 
-Q: Artist?
-
-![](<@/art/images/Édouard Manet—Banks of the Seine at Argenteuil (skip).jpg>)
-
-A: Édouard Manet
-
----
-
-Q: Artist?
-
-![](<@/art/images/Édouard Manet—Masked Ball at the Opera House (skip).jpg>)
-
-A: Édouard Manet
-
----
-
 Q: Title?
 
 ![](<@/art/images/Édouard Manet—Music in the Tuileries.jpg>)
