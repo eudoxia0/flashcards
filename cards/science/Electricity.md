@@ -123,11 +123,6 @@ Current is voltage divided by resistance.
 
 ---
 
-Q: What is the Coulomb constant analogous to?
-A: The gravitational constant.
-
----
-
 Q: What is voltage in terms of work?
 A: The amount of work done when a $1C$ particle moves from $A$ to $B$.
 
