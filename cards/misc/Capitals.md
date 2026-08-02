@@ -22,10 +22,6 @@ C: [Dushanbe] is the capital of [Tajikistan].
 
 ---
 
-C: [Kabul] is the capital of [Afghanistan].
-
----
-
 C: [Bishkek] is the capital of [Kyrgyzstan].
 
 ---
