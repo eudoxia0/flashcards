@@ -194,3 +194,9 @@ C: Let them alone: they be blind leaders of the blind. And if the blind lead the
 
 Q: Matthew 15:14
 A: Let them alone: they be blind leaders of the blind. And if the blind lead the blind, both shall fall into the ditch.
+
+---
+
+C: If any of you lack wisdom, let him ask of God, that giveth to all men liberally, and upbraideth not; and it shall be given him.
+
+— [James] [1]:[5]
