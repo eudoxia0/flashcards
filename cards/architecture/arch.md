@@ -1,5 +1,5 @@
 ---
-name = 'Great Architecture'
+name = 'Architecture'
 ---
 
 Q: Who designed the Nakagin Capsule Tower?
