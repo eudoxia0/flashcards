@@ -5748,22 +5748,6 @@ A: Rembrandt van Rijn
 
 Q: Title?
 
-![](<@/art/images/Sandro Botticelli—Annunciation.jpg>)
-
-A: Annunciation
-
----
-
-Q: Artist?
-
-![](<@/art/images/Sandro Botticelli—Annunciation.jpg>)
-
-A: Sandro Botticelli
-
----
-
-Q: Title?
-
 ![](<@/art/images/Sandro Botticelli—Portrait of a Young Woman.jpg>)
 
 A: Portrait of a Young Woman
@@ -5805,14 +5789,6 @@ A: The Birth of Venus
 Q: Artist?
 
 ![](<@/art/images/Sandro Botticelli—The Birth of Venus.jpg>)
-
-A: Sandro Botticelli
-
----
-
-Q: Artist?
-
-![](<@/art/images/Sandro Botticelli—The Map of Hell (skip).jpg>)
 
 A: Sandro Botticelli
 
