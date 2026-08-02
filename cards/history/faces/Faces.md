@@ -820,6 +820,14 @@ A: Karl Schwarzschild
 
 Q: Name?
 
+![](<images/Kisho Kurokawa.jpg>)
+
+A: Kisho Kurokawa
+
+---
+
+Q: Name?
+
 ![](<images/Klemens von Metternich.jpg>)
 
 A: Klemens von Metternich
