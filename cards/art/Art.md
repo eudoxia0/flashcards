@@ -4180,22 +4180,6 @@ A: Joshua Reynolds
 
 Q: Title?
 
-![](<@/art/images/Joshua Reynolds—Edmund Burke.jpg>)
-
-A: Edmund Burke
-
----
-
-Q: Artist?
-
-![](<@/art/images/Joshua Reynolds—Edmund Burke.jpg>)
-
-A: Joshua Reynolds
-
----
-
-Q: Title?
-
 ![](<@/art/images/Joshua Reynolds—Portrait of James Boswell.jpg>)
 
 A: Portrait of James Boswell
