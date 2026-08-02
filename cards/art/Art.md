@@ -5812,22 +5812,6 @@ A: Thomas Lawrence
 
 Q: Title?
 
-![](<@/art/images/Thomas Lawrence—Portrait of George IV.jpg>)
-
-A: Portrait of George IV
-
----
-
-Q: Artist?
-
-![](<@/art/images/Thomas Lawrence—Portrait of George IV.jpg>)
-
-A: Thomas Lawrence
-
----
-
-Q: Title?
-
 ![](<@/art/images/Thomas Lawrence—Portrait of Mikhail Vorontsov.jpg>)
 
 A: Portrait of Mikhail Vorontsov
@@ -5876,22 +5860,6 @@ A: Thomas Lawrence
 
 Q: Title?
 
-![](<@/art/images/Thomas Lawrence—Portrait of William Pitt the Younger.jpg>)
-
-A: Portrait of William Pitt the Younger
-
----
-
-Q: Artist?
-
-![](<@/art/images/Thomas Lawrence—Portrait of William Pitt the Younger.jpg>)
-
-A: Thomas Lawrence
-
----
-
-Q: Title?
-
 ![](<@/art/images/Thomas Lawrence—Portrait of the Duke of Wellington.jpg>)
 
 A: Portrait of the Duke of Wellington
@@ -5933,14 +5901,6 @@ A: Saint Mark's Body Brought to Venice
 Q: Artist?
 
 ![](<@/art/images/Tintoretto—Saint Mark's Body Brought to Venice.jpg>)
-
-A: Tintoretto
-
----
-
-Q: Artist?
-
-![](<@/art/images/Tintoretto—The Crucifixion (skip).jpg>)
 
 A: Tintoretto
 
@@ -6159,22 +6119,6 @@ Q: Artist?
 ![](<@/art/images/William Blake—The Great Red Dragon and the Woman Clothed with the Sun.jpg>)
 
 A: William Blake
-
----
-
-Q: Title?
-
-![](<@/art/images/William Powell Frith—Charles Dickens in His Study.jpg>)
-
-A: Charles Dickens in His Study
-
----
-
-Q: Artist?
-
-![](<@/art/images/William Powell Frith—Charles Dickens in His Study.jpg>)
-
-A: William Powell Frith
 
 ---
 
