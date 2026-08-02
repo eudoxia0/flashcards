@@ -417,10 +417,6 @@ C: The opposite of [photopic] vision is [scotopic] vision.
 
 ---
 
-C: The opposite of [scotopic] vision is [photopic] vision.
-
----
-
 T: retrograde amnesia
 D: the inability to remember information acquired before a certain date.
 
