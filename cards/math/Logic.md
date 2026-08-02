@@ -159,4 +159,4 @@ D: the subset of logical expressions with only $\exists$ and $\land$.
 ---
 
 T: monotonicity of entailment
-D: the principle that if $P \vdash Q$, then $P, P' \vdash Q$. That is: adding new premises does not invalidate the conclusion.
+D: the principle that adding new premises does not invalidate the conclusion of an argument.
