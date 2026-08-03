@@ -101,35 +101,8 @@ A: Polyvinyl chloride.
 
 ---
 
-Q: How many tons of PVC are produced each year?
-A: 40 million.
-
----
-
-T: photo-oxidation
-D: the degradation of a polymer by the combined action of light and oxygen.
-
----
-
-C: The most widely produced plastic is [polyethylene].
-
----
-
-C: The second most widely produced plastic is [polypropylene].
-
----
-
-C: The third most widely produced plastic is [PVC].
-
----
-
 Q: What is a retransfer printer?
 A: A device that prints an image on a clear plastic film that is heat-fused onto a polymer surface.
-
----
-
-Q: What does PET (the plastic) stand for?
-A: Polyethylene terephthalate.
 
 ---
 
