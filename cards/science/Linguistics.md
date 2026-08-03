@@ -83,6 +83,11 @@ D: one of two words with the same spelling but different meanings.
 
 ---
 
+T: homophone
+D: one of two words with the same pronunciation but different spellings.
+
+---
+
 T: hyoid bone
 D: the small V-shaped bone above the larynx.
 
