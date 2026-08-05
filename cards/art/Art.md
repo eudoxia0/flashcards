@@ -1244,22 +1244,6 @@ A: Francesco Melzi
 
 Q: Title?
 
-![](<@/art/images/Francis Bacon—Figure with Meat.jpg>)
-
-A: Figure with Meat
-
----
-
-Q: Artist?
-
-![](<@/art/images/Francis Bacon—Figure with Meat.jpg>)
-
-A: Francis Bacon
-
----
-
-Q: Title?
-
 ![](<@/art/images/Francis Bacon—Study after Velázquez's Portrait of Pope Innocent X.jpg>)
 
 A: Study after Velázquez's Portrait of Pope Innocent X
@@ -1445,22 +1429,6 @@ A: Agnus Dei
 Q: Artist?
 
 ![](<@/art/images/Francisco de Zurbarán—Agnus Dei.jpg>)
-
-A: Francisco de Zurbarán
-
----
-
-Q: Title?
-
-![](<@/art/images/Francisco de Zurbarán—Saint Francis in Meditation.jpg>)
-
-A: Saint Francis in Meditation
-
----
-
-Q: Artist?
-
-![](<@/art/images/Francisco de Zurbarán—Saint Francis in Meditation.jpg>)
 
 A: Francisco de Zurbarán
 
