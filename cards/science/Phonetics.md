@@ -275,11 +275,6 @@ D: of a speech sound: produced without the vocal folds vibrating.
 
 ---
 
-T: voicing
-D: the quality of a speech sound being voiced or voiceless.
-
----
-
 T: tap
 D: a speech sound where an articulator is rapidly thrown against another.
 
