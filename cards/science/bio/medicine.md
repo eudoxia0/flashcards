@@ -580,3 +580,8 @@ D: a medical condition characterized by an abnormally high red blood cell count.
 
 Q: Temperature of transplant organs.
 A: Between $0$ and $4 \celsius$.
+
+---
+
+Q: Why are the muscarinic receptors called that?
+A: Because they are more sensitive to muscarine than to nicotine.
