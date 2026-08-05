@@ -18,12 +18,6 @@ A: The Lena.
 
 ---
 
-C: Country: [Uzbekistan]
-
-Capital City: [Tashkent]
-
----
-
 Q: What does GTSEZ stand for?
 A: Golden Triangle Special Economic Zone.
 
