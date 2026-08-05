@@ -256,3 +256,13 @@ C: [Co-amoxiclav] is a combination of [amoxicillin] and [clavulanic acid].
 
 Q: Name for the combination of amoxicillin and clavulanic acid.
 A: Co-amoxiclav.
+
+---
+
+Q: Cobenfy, drug class.
+A: Antipsychotic.
+
+---
+
+Q: Cobenfy works by binding to which receptors.
+A: The M4 and M1 receptors.
