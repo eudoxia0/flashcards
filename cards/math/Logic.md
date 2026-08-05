@@ -160,3 +160,8 @@ D: the subset of logical expressions with only $\exists$ and $\land$.
 
 T: monotonicity of entailment
 D: the principle that adding new premises does not invalidate the conclusion of an argument.
+
+---
+
+T: confirmation holism
+D: the view that it is not individual statements, but whole theories, which can be confirmed or rejected by experiment.
