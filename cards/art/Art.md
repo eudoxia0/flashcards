@@ -530,22 +530,6 @@ A: Charles Demuth
 
 ---
 
-Q: Artist?
-
-![](<@/art/images/Charles Demuth—My Egypt (skip).jpg>)
-
-A: Charles Demuth
-
----
-
-Q: Artist?
-
-![](<@/art/images/Charles Demuth—Sail - In Two Movements (skip).jpg>)
-
-A: Charles Demuth
-
----
-
 Q: Title?
 
 ![](<@/art/images/Charles Sheeler—American Landscape.jpg>)
@@ -836,14 +820,6 @@ A: Eastman Johnson
 
 Q: Artist?
 
-![](<@/art/images/Edgar Degas—At the Races in the Countryside (skip).jpg>)
-
-A: Edgar Degas
-
----
-
-Q: Artist?
-
 ![](<@/art/images/Edgar Degas—Male Nude (skip).jpg>)
 
 A: Edgar Degas
@@ -877,22 +853,6 @@ A: The Ballet Class
 Q: Artist?
 
 ![](<@/art/images/Edgar Degas—The Ballet Class.jpg>)
-
-A: Edgar Degas
-
----
-
-Q: Title?
-
-![](<@/art/images/Edgar Degas—The Orchestra at the Opera.jpg>)
-
-A: The Orchestra at the Opera
-
----
-
-Q: Artist?
-
-![](<@/art/images/Edgar Degas—The Orchestra at the Opera.jpg>)
 
 A: Edgar Degas
 
@@ -1826,17 +1786,9 @@ A: Félix Resurrección Hidalgo
 
 ---
 
-Q: Title?
-
-![](<@/art/images/Georges Seurat—A Sunday Afternoon on the Island of La Grande Jatte.jpg>)
-
-A: A Sunday Afternoon on the Island of La Grande Jatte
-
----
-
 Q: Artist?
 
-![](<@/art/images/Georges Seurat—A Sunday Afternoon on the Island of La Grande Jatte.jpg>)
+![](<@/art/images/Georges Seurat—A Sunday Afternoon on the Island of La Grande Jatte (skip).jpg>)
 
 A: Georges Seurat
 
@@ -2668,22 +2620,6 @@ A: Ilya Repin
 
 Q: Title?
 
-![](<@/art/images/Ingres—Oedipus and the Sphinx.jpg>)
-
-A: Oedipus and the Sphinx
-
----
-
-Q: Artist?
-
-![](<@/art/images/Ingres—Oedipus and the Sphinx.jpg>)
-
-A: Ingres
-
----
-
-Q: Title?
-
 ![](<@/art/images/Ingres—Portrait of Madame Duvaucey.jpg>)
 
 A: Portrait of Madame Duvaucey
@@ -2879,22 +2815,6 @@ Q: Artist?
 ![](<@/art/images/J. M. W. Turner—The Fighting Temeraire.jpg>)
 
 A: J. M. W. Turner
-
----
-
-Q: Title?
-
-![](<@/art/images/Jacques-Louis David—Hector's body.jpg>)
-
-A: Hector's body
-
----
-
-Q: Artist?
-
-![](<@/art/images/Jacques-Louis David—Hector's body.jpg>)
-
-A: Jacques-Louis David
 
 ---
 
@@ -4143,54 +4063,6 @@ Q: Artist?
 ![](<@/art/images/Joseph Wright of Derby—Three Persons Viewing the Gladiator by Candlelight.jpg>)
 
 A: Joseph Wright of Derby
-
----
-
-Q: Title?
-
-![](<@/art/images/Joshua Reynolds—Doctor Samuel Johnson.jpg>)
-
-A: Doctor Samuel Johnson
-
----
-
-Q: Artist?
-
-![](<@/art/images/Joshua Reynolds—Doctor Samuel Johnson.jpg>)
-
-A: Joshua Reynolds
-
----
-
-Q: Title?
-
-![](<@/art/images/Joshua Reynolds—Dr Samuel Johnson.jpg>)
-
-A: Dr Samuel Johnson
-
----
-
-Q: Artist?
-
-![](<@/art/images/Joshua Reynolds—Dr Samuel Johnson.jpg>)
-
-A: Joshua Reynolds
-
----
-
-Q: Title?
-
-![](<@/art/images/Joshua Reynolds—Portrait of James Boswell.jpg>)
-
-A: Portrait of James Boswell
-
----
-
-Q: Artist?
-
-![](<@/art/images/Joshua Reynolds—Portrait of James Boswell.jpg>)
-
-A: Joshua Reynolds
 
 ---
 
@@ -6277,22 +6149,6 @@ A: A Bar at the Folies-Bergère
 Q: Artist?
 
 ![](<@/art/images/Édouard Manet—A Bar at the Folies-Bergère.jpg>)
-
-A: Édouard Manet
-
----
-
-Q: Title?
-
-![](<@/art/images/Édouard Manet—Music in the Tuileries.jpg>)
-
-A: Music in the Tuileries
-
----
-
-Q: Artist?
-
-![](<@/art/images/Édouard Manet—Music in the Tuileries.jpg>)
 
 A: Édouard Manet
 
