@@ -524,7 +524,7 @@ A: A person who practices augury.
 ---
 
 Q: augury
-A: The practice of observing the behaviour of birds to predict the future.
+A: The practice of divining the future by observing the behaviour of birds.
 
 ---
 
