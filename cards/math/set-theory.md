@@ -14,3 +14,13 @@ D: the idea that two sets $A$ and $B$ are equal iff every member of $A$ is a mem
 
 Q: $A \subseteq B \land B \subseteq A \iff \ldots$
 A: $A = B$
+
+---
+
+Q: $\forall x \in A . \varphi$ is an abbreviation of...
+A: $\forall x . ( x \in A \rightarrow \varphi )$
+
+---
+
+Q: $\exists x \in A . \varphi$ is an abbreviation of...
+A: $\exists x . ( x \in A \land \varphi )$
