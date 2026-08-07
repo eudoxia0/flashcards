@@ -37,3 +37,8 @@ C: The set $A \setminus B$ is the set of [all members of $A$ that are not in $B$
 
 Q: $A \setminus B = \{ x : \ldots \}$
 A: $A \setminus B = \{ x : x \in A \land x \notin B \}$
+
+---
+
+Q: Encode the ordered pair $(a,b)$ as a set.
+A: $\{\{a\}, \{a,b\}\}$
