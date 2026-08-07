@@ -36,8 +36,13 @@ D: $\forall x,y,z . R(x,y), R(y,z) \to R(x,z)$
 
 ---
 
+T: connected relation
+D: a relation $R$ where $\forall x, y . x \neq y \to R(x,y) \lor R(y,x)$
+
+---
+
 T: equivalence relation
-A: a relation that is reflexive, symmetric, and transitive.
+D: a relation that is reflexive, symmetric, and transitive.
 
 ---
 
@@ -48,21 +53,6 @@ A: $[x]_R$
 
 Q: Let $R$ be an equivalence relation on $A$, and $x \in A$. Define the equivalence class of $x$.
 A: $\set{ y \in A : R(x,y) \}$
-
----
-
-Q: Let $R$ be an equivalence relation on $A$. What is the **quotient** of $A$ under $R$?
-A: The set of all equivalence classes defined by $R$.
-
----
-
-Q: Let $R$ be an equivalence relation on $A$. What is the term for the set of all equivalence classes defined by $R$?
-A: The quotient of $A$ under $R$.
-
----
-
-T: connected relation
-D: a relation $R$ where $\forall x, y . x \neq y \to R(x,y) \lor R(y,x)$
 
 ---
 
@@ -87,4 +77,4 @@ D: a relation which is irreflexive, asymmetric, and transitive.
 ---
 
 T: strict total order
-A: a strict order that is also connected.
+D: a strict order that is also connected.
