@@ -33,7 +33,7 @@ $$
 ---
 
 T: proper divisor
-A: a divisor of $n$ other than $1$ or $n$ itself.
+D: a divisor of $n$ other than $1$ or $n$ itself.
 
 ---
 
