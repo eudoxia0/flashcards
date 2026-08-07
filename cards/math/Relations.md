@@ -74,3 +74,13 @@ D: a preorder which is also antisymmetric.
 
 T: total order
 D: a partial order that is also connected.
+
+---
+
+T: strict order
+D: a relation which is irreflexive, asymmetric, and transitive.
+
+---
+
+T: strict total order
+A: a strict order that is also connected.
