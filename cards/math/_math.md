@@ -28,3 +28,7 @@ A: $$x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}$$
 ---
 
 C: The Wierstrass function is continuous [everywhere], and differentiable [nowhere].
+
+---
+
+C: Hilbert described the Hilbert curve in the year [1891].
