@@ -27,6 +27,10 @@ D: $\forall x,y . R(x,y) \land R(y,x) \to x=y$
 
 ---
 
+C: A relation is [antisymmetric] if distinct elements can only be related in one direction.
+
+---
+
 T: transitivity
 D: $\forall x,y,z . R(x,y), R(y,z) \to R(x,z)$
 
