@@ -69,3 +69,8 @@ A: a relation that is both reflexive and transitive.
 
 T: partial order
 A: a preorder which is also antisymmetric.
+
+---
+
+T: total order
+A: a partial order that is also connected.
