@@ -54,3 +54,8 @@ A: The set of all equivalence classes defined by $R$.
 
 Q: Let $R$ be an equivalence relation on $A$. What is the term for the set of all equivalence classes defined by $R$?
 A: The quotient of $A$ under $R$.
+
+---
+
+T: connected relation
+D: a relation $R$ where $\forall x, y . x \neq y \to R(x,y) \lor R(y,x)$
