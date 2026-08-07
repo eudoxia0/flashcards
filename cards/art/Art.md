@@ -1082,14 +1082,6 @@ A: Edward Poynter
 
 ---
 
-Q: Artist?
-
-![](<@/art/images/Edward Poynter—The Siren (skip).jpg>)
-
-A: Edward Poynter
-
----
-
 Q: Title?
 
 ![](<@/art/images/Edward Steichen—The Flatiron.jpg>)
