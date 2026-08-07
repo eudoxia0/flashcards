@@ -59,3 +59,8 @@ A: The quotient of $A$ under $R$.
 
 T: connected relation
 D: a relation $R$ where $\forall x, y . x \neq y \to R(x,y) \lor R(y,x)$
+
+---
+
+T: preorder
+A: a relation that is both reflexive and transitive.
