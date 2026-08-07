@@ -24,3 +24,7 @@ A: $\forall x . ( x \in A \rightarrow \varphi )$
 
 Q: $\exists x \in A . \varphi$ is an abbreviation of...
 A: $\exists x . ( x \in A \land \varphi )$
+
+---
+
+C: Two sets are called [disjoint] iff their intersection is [empty].
