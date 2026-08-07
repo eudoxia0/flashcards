@@ -34,3 +34,8 @@ $$
 
 T: proper divisor
 A: a divisor of $n$ other than $1$ or $n$ itself.
+
+---
+
+T: perfect number
+D: a number that is equal to the sum of its proper divisors.
