@@ -96,3 +96,7 @@ $$
 What is the name of this property?
 
 A: Commutativity.
+
+---
+
+C: A function is [bijective] iff it is both [injective] and [surjective].
