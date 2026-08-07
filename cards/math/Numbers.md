@@ -29,3 +29,8 @@ A:
 $$
 \Q = \set{ \frac{p}{q} : p,q \in \Z, q \neq 0 }
 $$
+
+---
+
+T: proper divisor
+A: a divisor of $n$ other than $1$ or $n$ itself.
