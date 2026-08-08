@@ -52,7 +52,7 @@ A: $[x]_R$
 ---
 
 Q: Let $R$ be an equivalence relation on $A$, and $x \in A$. Define the equivalence class of $x$.
-A: $\set{ y \in A : R(x,y) \}$
+A: $\set{ y \in A : R(x,y) }$
 
 ---
 
