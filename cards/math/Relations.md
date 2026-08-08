@@ -86,3 +86,7 @@ C: We can turn a preorder into a partial order by adding [antisymmetry].
 ---
 
 C: We can turn a partial order into a total order by adding [connectedness].
+
+---
+
+C: We can turn a strict order into a strict total order by adding [connectedness].
