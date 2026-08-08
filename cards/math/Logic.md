@@ -165,3 +165,7 @@ D: the principle that adding new premises does not invalidate the conclusion of 
 
 T: confirmation holism
 D: the view that it is not individual statements, but whole theories, which can be confirmed or rejected by experiment.
+
+---
+
+C: $\neg P$ is an abbreviation of [$P \to \bot$].
