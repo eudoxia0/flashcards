@@ -100,3 +100,8 @@ A: All distinct elements must be separable by the relation.
 
 T: urelement
 D: an object that is not a set, but which can be a member of a set.
+
+---
+
+Q: What is the difference between a total order and a strict order?
+A: A total order is reflexive ($x \leq x$) while a strict order is not ($\neg (x \lt x)$).
