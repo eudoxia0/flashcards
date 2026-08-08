@@ -48,6 +48,12 @@ A: `align-regexp =`
 
 ---
 
+C: Keybinding: [`C-Home`]
+
+Action: [go to the start of the buffer.]
+
+---
+
 C: Keybinding: [`C-End`]
 
 Action: [go to the end of the buffer.]
