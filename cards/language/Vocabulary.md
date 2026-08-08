@@ -606,3 +606,8 @@ A: Like glass, being crystalline and translucent.
 
 Q: decalogue
 A: The ten commandments.
+
+---
+
+Q: inchoate
+A: New, partly formed.
