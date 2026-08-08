@@ -90,3 +90,8 @@ C: We can turn a partial order into a total order by adding [connectedness].
 ---
 
 C: We can turn a strict order into a strict total order by adding [connectedness].
+
+---
+
+Q: Conceptually, what do we gain by going from a preorder to a partial order?
+A: All distinct elements must be separable by the relation.
