@@ -52,3 +52,14 @@ A: $2^n$
 
 T: enumeration
 D: a bijection from (some initial subset of) the natural numbers to a set $A$.
+
+---
+
+Q: When are two sets $A$ and $B$ said to be equinumerous?
+A: When there exists a bijection between $A$ and $B$.
+
+---
+
+C: Notation: [$A \equiv B$]
+
+Definition: [the sets $A$ and $B$ are equinumerous.]
