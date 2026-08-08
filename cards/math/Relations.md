@@ -78,3 +78,11 @@ D: a relation which is irreflexive, asymmetric, and transitive.
 
 T: strict total order
 D: a strict order that is also connected.
+
+---
+
+C: We can turn a preorder into a partial order by adding [antisymmetry].
+
+---
+
+C: We can turn a partial order into a total order by adding [connectedness].
