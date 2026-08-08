@@ -45,3 +45,9 @@ gamma = 3
 ```
 
 A: `align-regexp =`
+
+---
+
+C: Keybinding: [`C-End`]
+
+Action: [go to the end of the buffer.]
