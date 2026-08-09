@@ -716,6 +716,14 @@ A: Jacques Cousteau
 
 Q: Name?
 
+![](<images/Jacques Hadamard.jpg>)
+
+A: Jacques Hadamard
+
+---
+
+Q: Name?
+
 ![](<images/Jacques Herbrand.jpg>)
 
 A: Jacques Herbrand
