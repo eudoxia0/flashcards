@@ -5116,31 +5116,7 @@ A: Peter Paul Rubens
 
 Q: Artist?
 
-![](<@/art/images/Pierre-Auguste Renoir—Dance at Bougival (skip).jpg>)
-
-A: Pierre-Auguste Renoir
-
----
-
-Q: Artist?
-
 ![](<@/art/images/Pierre-Auguste Renoir—Dance at Le Moulin de la Galette (skip).jpg>)
-
-A: Pierre-Auguste Renoir
-
----
-
-Q: Title?
-
-![](<@/art/images/Pierre-Auguste Renoir—La Grenouillère.jpg>)
-
-A: La Grenouillère
-
----
-
-Q: Artist?
-
-![](<@/art/images/Pierre-Auguste Renoir—La Grenouillère.jpg>)
 
 A: Pierre-Auguste Renoir
 
@@ -5165,30 +5141,6 @@ A: Pierre-Auguste Renoir
 Q: Artist?
 
 ![](<@/art/images/Pierre-Auguste Renoir—Portrait of Jeanne Samary (skip).jpg>)
-
-A: Pierre-Auguste Renoir
-
----
-
-Q: Artist?
-
-![](<@/art/images/Pierre-Auguste Renoir—The Grands Boulevards (skip).jpg>)
-
-A: Pierre-Auguste Renoir
-
----
-
-Q: Artist?
-
-![](<@/art/images/Pierre-Auguste Renoir—Two Sisters (skip).jpg>)
-
-A: Pierre-Auguste Renoir
-
----
-
-Q: Artist?
-
-![](<@/art/images/Pierre-Auguste Renoir—Woman with a Parasol in a Garden (skip).jpg>)
 
 A: Pierre-Auguste Renoir
 
