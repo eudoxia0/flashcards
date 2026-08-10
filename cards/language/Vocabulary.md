@@ -616,3 +616,8 @@ A: New, partly formed.
 
 Q: patrimonialism
 A: A form of government where legitimacy comes from patron-client relationships, kin ties, and personal loyalties.
+
+---
+
+Q: _Nulla dies sine linea_
+A: "No day without a line."
