@@ -60,7 +60,11 @@ A: When there exists a bijection between $A$ and $B$.
 
 ---
 
-C: Notation: [$A \approx B$]
+C:
+
+Context: $A$ and $B$ are sets.
+
+Notation: [$A \approx B$]
 
 Definition: [the sets $A$ and $B$ are equinumerous.]
 
