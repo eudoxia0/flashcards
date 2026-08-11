@@ -105,3 +105,8 @@ D: a speech sound involving outside air flowing into the vocal tract.
 
 T: holophrasis
 D: the pre-linguistic use of a single word to express a complex idea.
+
+---
+
+T: naturalized epistemology
+D: an approach to epistemology that emphasizes the methods of the natural sciences, rather than pure reason.
