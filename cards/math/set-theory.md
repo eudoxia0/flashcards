@@ -63,3 +63,8 @@ A: When there exists a bijection between $A$ and $B$.
 C: Notation: [$A \approx B$]
 
 Definition: [the sets $A$ and $B$ are equinumerous.]
+
+---
+
+T: urelement
+D: an object that is not a set, but which can be a member of a set.
