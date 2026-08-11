@@ -104,4 +104,4 @@ D: a speech sound involving outside air flowing into the vocal tract.
 ---
 
 T: holophrasis
-A: The pre-linguistic use of a single word to express a complex idea.
+D: The pre-linguistic use of a single word to express a complex idea.
