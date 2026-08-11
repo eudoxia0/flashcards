@@ -82,23 +82,3 @@ D: the highest altitude point in a satellite's orbit.
 
 T: periapsis
 D: the lowest altitude point in a satellite's orbit.
-
----
-
-T: equinox
-D: the time when the Sun appears directly above the Earth's equator.
-
----
-
-T: solstice
-D: the time when the Sun reaches its highest or lowest point in the sky at noon.
-
----
-
-Q: Etymology of equinox?
-A: From Latin _aequinoctium_, "equal night".
-
----
-
-Q: Etymology of solstice?
-A: From Latin _solstitium_: _sol_ (Sun) plus _sistere_ (to sit).
