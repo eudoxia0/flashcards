@@ -34,3 +34,15 @@ D: an observation categorical where both sentences are linked in referring to a 
 
 T: free observation categorical
 D: an observation categorical that is not focal.
+
+---
+
+Q: How is an observation categorical refuted?
+A: By a pair of observations: the first affirmative, the second negative.
+
+e.g. "when the sun rises, birds sing" is refuted by observing sunrise among silent birds.
+
+---
+
+T: maxim of minimum mutilation
+D: the idea that, when restructuring the web of belief in response to observation, we should do so in a minimal way.
