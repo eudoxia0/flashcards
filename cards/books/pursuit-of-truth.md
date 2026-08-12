@@ -59,4 +59,9 @@ D: an observation categorical that is not analytic.
 
 ---
 
-C: A set of sentences is called [testable] if it implies a set of [synthetic observation categoricals].
+C: A theory is called [testable] if it implies a set of [synthetic observation categoricals].
+
+---
+
+T: empirical content
+A: of a theory: the set of synthetic observation categoricals implied by the theory.
