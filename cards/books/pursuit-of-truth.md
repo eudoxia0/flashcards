@@ -46,3 +46,8 @@ e.g. "when the sun rises, birds sing" is refuted by observing sunrise among sile
 
 T: maxim of minimum mutilation
 D: the idea that, when restructuring the web of belief in response to observation, we should do so in a minimal way.
+
+---
+
+T: analytic observation categorical
+D: an observation categorical (X, Y) where the affirmative stimulus meaning of X is a subset of the affirmative stimulus meaning of Y.
