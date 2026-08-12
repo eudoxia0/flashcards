@@ -56,3 +56,7 @@ D: an observation categorical (X, Y) where the affirmative stimulus meaning of X
 
 T: synthetic observation categorical
 D: an observation categorical that is not analytic.
+
+---
+
+C: A set of sentences is called [testable] if it implies a set of [synthetic observation categoricals].
