@@ -51,3 +51,8 @@ D: the idea that, when restructuring the web of belief in response to observatio
 
 T: analytic observation categorical
 D: an observation categorical (X, Y) where the affirmative stimulus meaning of X is a subset of the affirmative stimulus meaning of Y.
+
+---
+
+T: synthetic observation categorical
+D: an observation categorical that is not analytic.
