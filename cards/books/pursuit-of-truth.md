@@ -64,7 +64,7 @@ C: A theory is called [testable] if it implies a set of [synthetic observation c
 ---
 
 T: empirical content
-A: of a theory: the set of synthetic observation categoricals implied by the theory.
+D: of a theory: the set of synthetic observation categoricals implied by the theory.
 
 ---
 
