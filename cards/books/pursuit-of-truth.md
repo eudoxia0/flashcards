@@ -65,3 +65,8 @@ C: A theory is called [testable] if it implies a set of [synthetic observation c
 
 T: empirical content
 A: of a theory: the set of synthetic observation categoricals implied by the theory.
+
+---
+
+Q: _Nihil in mente quod non prius in sensu_.
+A: "There is nothing in the mind that was not first in the senses."
