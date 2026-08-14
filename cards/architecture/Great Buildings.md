@@ -380,22 +380,6 @@ A: Kohn Pedersen Fox
 
 Q: Name?
 
-![](<@/architecture/images/Kohn Pedersen Fox—Ping An Finance Centre.jpg>)
-
-A: Ping An Finance Centre
-
----
-
-Q: Architect?
-
-![](<@/architecture/images/Kohn Pedersen Fox—Ping An Finance Centre.jpg>)
-
-A: Kohn Pedersen Fox
-
----
-
-Q: Name?
-
 ![](<@/architecture/images/Kohn Pedersen Fox—Roppongi Hills.jpg>)
 
 A: Roppongi Hills
