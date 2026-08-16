@@ -2780,22 +2780,6 @@ A: J. M. W. Turner
 
 Q: Title?
 
-![](<@/art/images/Jacques-Louis David—Napoleon Crossing the Alps.jpg>)
-
-A: Napoleon Crossing the Alps
-
----
-
-Q: Artist?
-
-![](<@/art/images/Jacques-Louis David—Napoleon Crossing the Alps.jpg>)
-
-A: Jacques-Louis David
-
----
-
-Q: Title?
-
 ![](<@/art/images/Jacques-Louis David—Oath of the Horatii.jpg>)
 
 A: Oath of the Horatii
