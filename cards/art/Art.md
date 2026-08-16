@@ -756,38 +756,6 @@ A: Diego Velázquez
 
 Q: Title?
 
-![](<@/art/images/Diego Velázquez—Portrait of Juan de Pareja.jpg>)
-
-A: Portrait of Juan de Pareja
-
----
-
-Q: Artist?
-
-![](<@/art/images/Diego Velázquez—Portrait of Juan de Pareja.jpg>)
-
-A: Diego Velázquez
-
----
-
-Q: Title?
-
-![](<@/art/images/Diego Velázquez—Portrait of Sebastián de Morra.jpg>)
-
-A: Portrait of Sebastián de Morra
-
----
-
-Q: Artist?
-
-![](<@/art/images/Diego Velázquez—Portrait of Sebastián de Morra.jpg>)
-
-A: Diego Velázquez
-
----
-
-Q: Title?
-
 ![](<@/art/images/Eastman Johnson—A Ride for Liberty - The Fugitive Slaves.jpg>)
 
 A: A Ride for Liberty - The Fugitive Slaves
