@@ -8,11 +8,6 @@ D: (of two atoms) having the same electron configuration.
 
 ---
 
-Q: Who introduced the concept of the Miller index?
-A: William Hallowes Miller.
-
----
-
 T: band gap
 D: the energy range in a solid where no electronic states exist.
 
