@@ -615,7 +615,7 @@ A: New, partly formed.
 ---
 
 Q: patrimonialism
-A: A form of government where legitimacy comes from patron-client relationships, kin ties, and personal loyalties.
+A: A form of government where legitimacy derives from personal loyalties.
 
 ---
 
