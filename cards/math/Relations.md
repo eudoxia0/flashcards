@@ -57,7 +57,7 @@ A: $x=y$
 
 Q: Let $R$ be a relation where:
 
-$R(x,y) \land R(y,x) \implies x=y$
+$$R(x,y) \land R(y,x) \implies x=y$$
 
 What is $R$ called?
 
