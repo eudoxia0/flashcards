@@ -40,11 +40,6 @@ A: $A \setminus B = \{ x : x \in A \land x \notin B \}$
 
 ---
 
-Q: Encode the ordered pair $(a,b)$ as a set.
-A: $\{\{a\}, \{a,b\}\}$
-
----
-
 Q: If $|A| = n$, then $|\mathcal{P}(A)| = \ldots$
 A: $2^n$
 
