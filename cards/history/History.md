@@ -76,3 +76,7 @@ C: The Second Sino-Japanese War lasted from [1937] to [1945].
 C: Operation: [Case Blue]
 
 Description: [Nazi Germany's plan for an offensive in southern Russia in the summer of 1942.]
+
+---
+
+C: Louis XVI was beheaded in the year [1793].
