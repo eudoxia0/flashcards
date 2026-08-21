@@ -79,7 +79,7 @@ Description: [Nazi Germany's plan for an offensive in southern Russia in the sum
 
 ---
 
-C: The flight to Varennes took place in the night of [20] [June], [1791].
+C: The flight to Varennes took place on the night of [20] [June], [1791].
 
 ---
 
