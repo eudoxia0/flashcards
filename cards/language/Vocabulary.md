@@ -621,3 +621,8 @@ A: A form of government where legitimacy derives from personal loyalties.
 
 Q: _Nulla dies sine linea_
 A: "No day without a line."
+
+---
+
+Q: oekaki
+A: A drawing-based imageboard.
