@@ -626,3 +626,8 @@ A: "No day without a line."
 
 Q: oekaki
 A: A drawing-based imageboard.
+
+---
+
+Q: adverb
+A: A word that modifies a verb, adjective, or other adverb.
