@@ -40,11 +40,6 @@ A: $A \setminus B = \{ x : x \in A \land x \notin B \}$
 
 ---
 
-Q: If $|A| = n$, then $|\mathcal{P}(A)| = \ldots$
-A: $2^n$
-
----
-
 T: enumeration
 D: a bijection from (some initial subset of) the natural numbers to a set $A$.
 
