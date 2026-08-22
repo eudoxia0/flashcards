@@ -770,12 +770,12 @@ A: Intermediate-range ballistic missile.
 
 ---
 
-C: An SRBM is a ballistic missile with a range from [300] km to [1000] km.
+C: An SRBM is a ballistic missile with a range from [300] km to [1,000] km.
 
 ---
 
-C: An MRBM is a ballistic missile with a range from [1000] km to [3000] km.
+C: An MRBM is a ballistic missile with a range from [1,000] km to [3,000] km.
 
 ---
 
-C: An IRBM is a ballistic missile with a range from [3000] km to [5500] km.
+C: An IRBM is a ballistic missile with a range from [3,000] km to [5,500] km.
