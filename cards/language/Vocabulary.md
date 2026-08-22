@@ -631,3 +631,8 @@ A: A drawing-based imageboard.
 
 Q: adverb
 A: A word that modifies a verb, adjective, or other adverb.
+
+---
+
+Q: denpa
+A: Fiction about madness, isolation, and alienation from reality.
