@@ -4,14 +4,6 @@ name = "Faces"
 
 Q: Name?
 
-![](<images/Abraham Fraenkel.jpg>)
-
-A: Abraham Fraenkel
-
----
-
-Q: Name?
-
 ![](<images/Alexander Grothendieck.jpg>)
 
 A: Alexander Grothendieck
@@ -319,14 +311,6 @@ Q: Name?
 ![](<images/Ernst Mach.jpg>)
 
 A: Ernst Mach
-
----
-
-Q: Name?
-
-![](<images/Ernst Zermelo.jpg>)
-
-A: Ernst Zermelo
 
 ---
 
@@ -671,14 +655,6 @@ Q: Name?
 ![](<images/Ilya Repin.jpg>)
 
 A: Ilya Repin
-
----
-
-Q: Name?
-
-![](<images/Ivan Vinogradov.jpg>)
-
-A: Ivan Vinogradov
 
 ---
 
