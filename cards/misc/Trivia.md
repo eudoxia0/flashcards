@@ -779,3 +779,7 @@ C: An MRBM is a ballistic missile with a range from [1,000] km to [3,000] km.
 ---
 
 C: An IRBM is a ballistic missile with a range from [3,000] km to [5,500] km.
+
+---
+
+C: An ICBM is a ballistic missile with a range greater than [5,500] km.
