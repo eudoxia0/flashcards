@@ -3372,38 +3372,6 @@ A: John Atkinson Grimshaw
 
 Q: Title?
 
-![](<@/art/images/John Everett Millais—John Ruskin.jpg>)
-
-A: John Ruskin
-
----
-
-Q: Artist?
-
-![](<@/art/images/John Everett Millais—John Ruskin.jpg>)
-
-A: John Everett Millais
-
----
-
-Q: Title?
-
-![](<@/art/images/John Everett Millais—Mariana.jpg>)
-
-A: Mariana
-
----
-
-Q: Artist?
-
-![](<@/art/images/John Everett Millais—Mariana.jpg>)
-
-A: John Everett Millais
-
----
-
-Q: Title?
-
 ![](<@/art/images/John Everett Millais—Ophelia.jpg>)
 
 A: Ophelia
@@ -3413,22 +3381,6 @@ A: Ophelia
 Q: Artist?
 
 ![](<@/art/images/John Everett Millais—Ophelia.jpg>)
-
-A: John Everett Millais
-
----
-
-Q: Title?
-
-![](<@/art/images/John Everett Millais—Portrait of Benjamin Disraeli.jpg>)
-
-A: Portrait of Benjamin Disraeli
-
----
-
-Q: Artist?
-
-![](<@/art/images/John Everett Millais—Portrait of Benjamin Disraeli.jpg>)
 
 A: John Everett Millais
 
