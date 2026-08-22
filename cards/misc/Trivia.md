@@ -765,8 +765,17 @@ A: Medium-range ballistic missile.
 
 ---
 
+Q: What does IRBM stand for?
+A: Intermediate-range ballistic missile.
+
+---
+
 C: An SRBM is a ballistic missile with a range from [300] km to [1000] km.
 
 ---
 
 C: An MRBM is a ballistic missile with a range from [1000] km to [3000] km.
+
+---
+
+C: An IRBM is a ballistic missile with a range from [3000] km to [5500] km.
