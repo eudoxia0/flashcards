@@ -401,3 +401,9 @@ C: All the armies of Europe, Asia and Africa combined, with all the treasure of 
 C: As a nation of freemen, we must live through all time, or die by suicide.
 
 — [Abraham Lincoln], [the Lyceum address]
+
+---
+
+C: In psychology one may or may not be a behaviourist, but in linguistics one has no choice.
+
+— [Quine]
