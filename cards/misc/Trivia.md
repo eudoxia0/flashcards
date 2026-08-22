@@ -783,3 +783,8 @@ C: An IRBM is a ballistic missile with a range from [3,000] km to [5,500] km.
 ---
 
 C: An ICBM is a ballistic missile with a range greater than [5,500] km.
+
+---
+
+Q: What does MIRV stand for?
+A: Multiple independently targetable reentry vehicle.
