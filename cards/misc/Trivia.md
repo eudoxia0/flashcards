@@ -752,3 +752,21 @@ C: The parable of the broken window was introduced by [Frédéric Bastiat] in hi
 
 Q: What does FDVR stand for?
 A: Full-dive virtual reality.
+
+---
+
+Q: What does SRBM stand for?
+A: Short-range ballistic missile.
+
+---
+
+Q: What does MRBM stand for?
+A: Medium-range ballistic missile.
+
+---
+
+C: An SRBM is a ballistic missile with a range from [300] km to [1000] km.
+
+---
+
+C: An MRBM is a ballistic missile with a range from [1000] km to [3000] km.
