@@ -2420,38 +2420,6 @@ A: Ilya Chashnik
 
 Q: Title?
 
-![](<@/art/images/Ilya Chashnik—Suprematism.jpg>)
-
-A: Suprematism
-
----
-
-Q: Artist?
-
-![](<@/art/images/Ilya Chashnik—Suprematism.jpg>)
-
-A: Ilya Chashnik
-
----
-
-Q: Title?
-
-![](<@/art/images/Ilya Chashnik—Suprematist Composition.jpg>)
-
-A: Suprematist Composition
-
----
-
-Q: Artist?
-
-![](<@/art/images/Ilya Chashnik—Suprematist Composition.jpg>)
-
-A: Ilya Chashnik
-
----
-
-Q: Title?
-
 ![](<@/art/images/Ilya Repin—A Paris Cafe.jpg>)
 
 A: A Paris Cafe
