@@ -787,4 +787,4 @@ C: An ICBM is a ballistic missile with a range greater than [5,500] km.
 ---
 
 Q: What does MIRV stand for?
-A: Multiple independently targetable reentry vehicle.
+A: Multiple independently-targetable reentry vehicle.
