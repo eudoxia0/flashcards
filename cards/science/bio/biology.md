@@ -210,3 +210,8 @@ D: an animal whose microbiota is fully known.
 
 T: mycorrhiza
 D: a symbiotic association between a fungus and a plant, wherein fungal hyphae and plant roots join at the cellular level.
+
+---
+
+T: hypha
+D: any of the long filaments that form the mycelium of a fungus.
