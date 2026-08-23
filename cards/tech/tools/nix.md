@@ -24,3 +24,12 @@ A: `sudo nixos-rebuild switch -I nixos-config=config.nix`
 
 Q: I'm in a directory with a `shell.nix`. I want to run the command `foo bar` inside the shell.
 A: `nix-shell --run "foo bar"`
+
+---
+
+Q: Install a package `foo` in a user `myuser`.
+A:
+
+```
+users.users.myuser.packages = [ foo ];
+```
