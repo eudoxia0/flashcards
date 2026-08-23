@@ -200,3 +200,8 @@ A: Proteases.
 
 Q: What is a proteasome?
 A: A large protein complex that acts as a protease.
+
+---
+
+T: gnotobiotic
+D: an animal whose microbiota is fully known.
