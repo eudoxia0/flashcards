@@ -33,3 +33,14 @@ A:
 ```
 users.users.myuser.packages = [ foo ];
 ```
+
+---
+
+Q: Set the environment variable `FOO` to the value `"bar"`.
+A:
+
+```
+environment.sessionVariables = {
+  FOO = "bar";
+};
+```
