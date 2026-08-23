@@ -205,3 +205,8 @@ A: A large protein complex that acts as a protease.
 
 T: gnotobiotic
 D: an animal whose microbiota is fully known.
+
+---
+
+T: mycorrhiza
+D: a symbiotic association between a fungus and a plant, wherein fungal hyphae and plant roots join at the cellular level.
