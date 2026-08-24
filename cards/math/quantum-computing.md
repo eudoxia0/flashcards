@@ -74,6 +74,11 @@ C: The [south] pole of the Bloch sphere is given to the vector [$\ket{1}$].
 
 ---
 
+T: unitary matrix
+D: a matrix $A$ where $A^\dagger = A^{-1}$.
+
+---
+
 Q: What does it mean for a matrix $U$ to be unitary?
 A: $U^\dagger U = I$
 
