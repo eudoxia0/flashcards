@@ -68,3 +68,7 @@ A: $1~\text{kn} = 0.5 ~\text{m}/\text{s}$
 
 Q: $1~\text{nm} = \ldots ~\text{m}$
 A: $1~\text{nm} = 1,852 ~\text{m}$
+
+---
+
+C: 1 parsec = [3.26] light years.
