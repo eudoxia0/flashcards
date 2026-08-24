@@ -91,3 +91,8 @@ A: Short-duration gamma-ray burst.
 ---
 
 C: [sGRB] events are caused by [the merging of two neutron stars].
+
+---
+
+Q: What does LIGO stand for?
+A: Laser Interferometer Gravitational-Wave Observatory.
