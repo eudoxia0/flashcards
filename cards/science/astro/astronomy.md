@@ -82,3 +82,8 @@ D: the highest altitude point in a satellite's orbit.
 
 T: periapsis
 D: the lowest altitude point in a satellite's orbit.
+
+---
+
+Q: What does sGRB stand for?
+A: Short-duration gamma-ray burst.
