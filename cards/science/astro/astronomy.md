@@ -87,3 +87,7 @@ D: the lowest altitude point in a satellite's orbit.
 
 Q: What does sGRB stand for?
 A: Short-duration gamma-ray burst.
+
+---
+
+C: [sGRB] events are caused by [the merging of two neutron stars].
