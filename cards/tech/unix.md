@@ -156,3 +156,8 @@ A: `wlsunset`
 
 Q: If you want to find the `/dev/...` path of a USB device, what command should you use?
 A: `lsblk`
+
+---
+
+Q: How do you make a bootable USB from an `.iso` file?
+A: GParted, `Device > Create Partition Table`, select type `msdos`, then use `dd` to copy the ISO.
