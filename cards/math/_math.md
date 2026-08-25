@@ -47,3 +47,8 @@ D: a definition that explains a term by pointing out examples.
 
 Q: ostension
 A: The act of showing or demonstrating something.
+
+---
+
+T: semiprime
+D: a number that is the product of two prime numbers.
