@@ -37,3 +37,8 @@ C: Hilbert described the Hilbert curve in the year [1891].
 
 Q: The Hilbert curve is "space filling". What does that mean?
 A: In the limit, the curve includes every point in the plane.
+
+---
+
+T: ostensive definition
+D: a definition that explains a term by pointing out examples.
