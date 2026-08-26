@@ -407,3 +407,9 @@ C: As a nation of freemen, we must live through all time, or die by suicide.
 C: In psychology one may or may not be a behaviourist, but in linguistics one has no choice.
 
 — [Quine]
+
+---
+
+C: To speak to a god-machine’s avatar was to speak to the desert through a grain of sand, and find that the grain dwarfed you—that inside it was infinity, mirrors upon mirrors, and that this portion whose smallness was mathematically unfathomable remained in its diminishment greater than your whole.
+
+— [@ctrlcreep]
