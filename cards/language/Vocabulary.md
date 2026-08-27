@@ -48,11 +48,6 @@ A: Used to describe a person temporarily filling a role.
 
 ---
 
-Q: _sitzfleisch_
-A: German for the ability to endure or carry on with an activity.
-
----
-
 Q: _sotto voce_
 A: quietly
 
