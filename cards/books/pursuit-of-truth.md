@@ -70,3 +70,10 @@ D: of a theory: the set of synthetic observation categoricals implied by the the
 
 Q: _Nihil in mente quod non prius in sensu_.
 A: "There is nothing in the mind that was not first in the senses."
+
+---
+
+Q: What does Quine mean by "truth is disquotation"?
+A: > 'Snow is white' is true if and only if snow is white.
+
+i.e., ascribing truth to a sentence is removing the quotation marks.
