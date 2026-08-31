@@ -108,22 +108,6 @@ A: Adrian Smith
 
 Q: Name?
 
-![](<@/architecture/images/Adrian Smith—Central Park Tower.jpg>)
-
-A: Central Park Tower
-
----
-
-Q: Architect?
-
-![](<@/architecture/images/Adrian Smith—Central Park Tower.jpg>)
-
-A: Adrian Smith
-
----
-
-Q: Name?
-
 ![](<@/architecture/images/Adrian Smith—Jin Mao Tower.jpg>)
 
 A: Jin Mao Tower
