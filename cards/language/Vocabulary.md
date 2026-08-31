@@ -635,3 +635,8 @@ A: Fiction about madness, isolation, and alienation from reality.
 ---
 
 C: Instead of "unserious", say [frivolous].
+
+---
+
+Q: crossplayer
+A: A crossdressing cosplayer.
