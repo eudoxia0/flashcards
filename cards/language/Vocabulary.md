@@ -640,3 +640,8 @@ C: Instead of "unserious", say [frivolous].
 
 Q: crossplayer
 A: A crossdressing cosplayer.
+
+---
+
+Q: itabeya
+A: A room that is heavily decorated with otaku objects.
