@@ -412,7 +412,12 @@ A: An orbiting mirror meant to enhance nighttime illumination.
 ---
 
 Q: Explain Grice's maxims.
-A: Communication should be as informative as required (but no more), true, relevant, and clear.
+A: Communication should be:
+
+- as informative as required, but no more
+- true
+- relevant
+- clear
 
 ---
 
