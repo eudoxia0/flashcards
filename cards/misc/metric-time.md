@@ -1,3 +1,7 @@
+---
+name = 'Metric Time'
+---
+
 Q: 1 kilosecond in normal time.
 A: ~17 minutes.
 

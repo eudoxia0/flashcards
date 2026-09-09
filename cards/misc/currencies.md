@@ -1,3 +1,7 @@
+---
+name = 'Currencies'
+---
+
 C: Code: [PHP]
 
 Currency: [Philippine peso]

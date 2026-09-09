@@ -1,3 +1,7 @@
+---
+name = 'Distances'
+---
+
 Q: 1 lightsecond in kilometers.
 A: ~300,000 km.
 
