@@ -1,3 +1,7 @@
+---
+name = "Term Rewriting"
+---
+
 Q: Define termination of a rewrite system.
 A: A rewrite system terminates when any expression can be rewritten into an expression for which no more rules apply.
 

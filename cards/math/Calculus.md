@@ -1,3 +1,7 @@
+---
+name = "Calculus"
+---
+
 Q: Evaluate: $$(fg)'$$
 A: $$f'g + fg'$$
 

@@ -1,3 +1,7 @@
+---
+name = "Linear Algebra"
+---
+
 Q: Notation for the inner product of two vectors $a$ and $b$.
 A: $\langle a, b \rangle$
 

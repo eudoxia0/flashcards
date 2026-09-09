@@ -1,3 +1,7 @@
+---
+name = "Pauli Matrices"
+---
+
 C: [$\sigma_0$] $\equiv$ [$I$] $\equiv$ [$\begin{bmatrix} 1 & 0 \\ 0 & 1 \end{bmatrix}$]
 
 ---

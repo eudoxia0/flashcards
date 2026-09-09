@@ -1,3 +1,7 @@
+---
+name = "Parity"
+---
+
 C: An integer $n$ is [even] if it can be put in the form [$n = 2k$, for some integer $k$].
 
 ---

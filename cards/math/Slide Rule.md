@@ -1,3 +1,7 @@
+---
+name = "Slide Rule"
+---
+
 Q: Compute $2 \times 3$.
 A:
 1. Slide `C(1)` over `D(2)`.
