@@ -1,5 +1,5 @@
 ART      := cards/art/Art.md
-BUILD    := cards/architecture/Great\ Buildings.md
+BUILD    := cards/architecture/great-buildings.md
 ELEMENTS := cards/science/elements.md
 FACES    := cards/history/faces/Faces.md
 GREEK    := cards/language/greek/greek-alphabet.md
