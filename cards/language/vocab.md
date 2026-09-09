@@ -1,3 +1,7 @@
+---
+name = "Vocabulary"
+---
+
 Q: _a priori_
 A: From first principles.
 
