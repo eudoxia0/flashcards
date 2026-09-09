@@ -18,7 +18,7 @@ all: $(TARGETS)
 $(ART): scripts/art.py cards/art/images
 	$(PY) scripts/art.py > $(ART)
 
-$(BUILD): scripts/build.py cards/architecture/images/*.jpg
+$(BUILD): scripts/build.py cards/architecture/images
 	$(PY) scripts/build.py > $(BUILD)
 
 $(FACES): scripts/faces.py cards/history/faces/images/*.jpg cards/history/faces/images/*.png
