@@ -1,3 +1,7 @@
+---
+name = 'Nautical Terminology'
+---
+
 T: spar
 D: a pole that supports a sail.
 

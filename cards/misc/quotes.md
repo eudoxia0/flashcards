@@ -1,3 +1,7 @@
+---
+name = 'Quotes'
+---
+
 C: For a great deal is said about the forms of the gods, and about their locality, dwelling-places, and mode of life, and these points are disputed with the utmost difference of opinion among philosophers.
 
 — [Cicero], [_On the Nature of the Gods_]

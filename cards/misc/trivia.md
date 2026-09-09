@@ -1,3 +1,7 @@
+---
+name = "Trivia"
+---
+
 Q: What does SMS stand for?
 A: Short Message Service
 

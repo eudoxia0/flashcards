@@ -1,3 +1,7 @@
+---
+name = 'SI Prefixes'
+---
+
 C: Prefix: [kilo]
 
 Multiplier: [$10^3$]

@@ -1,3 +1,7 @@
+---
+name = 'NATO Phonetic Alphabet'
+---
+
 Q: A
 A: Alpha
 

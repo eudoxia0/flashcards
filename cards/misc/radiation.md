@@ -1,3 +1,7 @@
+---
+name = 'Radiation'
+---
+
 Q: Radiation dose: annual background radiation.
 A: $3 \millisievert$
 
