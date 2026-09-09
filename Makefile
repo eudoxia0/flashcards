@@ -1,4 +1,4 @@
-ART      := cards/art/Art.md
+ART      := cards/art/art.md
 BUILD    := cards/architecture/great-buildings.md
 ELEMENTS := cards/science/elements.md
 FACES    := cards/history/faces/Faces.md
