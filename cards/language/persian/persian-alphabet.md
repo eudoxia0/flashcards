@@ -1,3 +1,7 @@
+---
+name = 'Persian Alphabet'
+---
+
 Q: isolated form of **alef**
 A: # ا
 

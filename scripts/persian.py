@@ -49,6 +49,10 @@ LETTERS = [
     Letter(name="ye", isolated="ی", initial="یـ", medial="ـیـ", final="ـی"),
 ]
 
+print("---")
+print("name = 'Persian Alphabet'")
+print("---")
+print()
 for letter in LETTERS:
     print(f"Q: isolated form of **{letter.name}**")
     print(f"A: # {letter.isolated}\n")
