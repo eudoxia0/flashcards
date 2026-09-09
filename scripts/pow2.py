@@ -2,6 +2,11 @@
 Generate flashcards to learn the powers of two.
 """
 
+print("---")
+print("name = 'Powers of Two'")
+print("---")
+print()
+
 first = True
 for n in range(2, 17):
     if first:
