@@ -1,3 +1,7 @@
+---
+name = "Linguistics"
+---
+
 T: idiolect
 D: The language habits of a particular person.
 

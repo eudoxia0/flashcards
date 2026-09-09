@@ -1,3 +1,7 @@
+---
+name = "Geology"
+---
+
 T: lithosphere
 D: The rigid outermost layer of the Earth.
 

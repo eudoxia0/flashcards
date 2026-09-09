@@ -1,3 +1,7 @@
+---
+name = "Phonetics"
+---
+
 Q: What is phonetics?
 A: The study of human speech sounds.
 

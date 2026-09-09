@@ -1,3 +1,7 @@
+---
+name = "Zodiac"
+---
+
 C: Sign: [Aries]
 
 Symbol: [♈]

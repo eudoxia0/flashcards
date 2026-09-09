@@ -1,3 +1,7 @@
+---
+name = "Geologic Timescale"
+---
+
 Q: What are the units of the geologic time scale, from largest to smallest?
 A: Eon, era, period, epoch.
 

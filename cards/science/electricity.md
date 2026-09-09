@@ -1,3 +1,7 @@
+---
+name = "Electricity"
+---
+
 Q: What is electric charge?
 A: A property of an object that causes it to experience a force when placed in an electric field.
 
