@@ -1,3 +1,7 @@
+---
+name = "People"
+---
+
 Q: The most famous work of Ferdowsi.
 A: The _Shahname_.
 

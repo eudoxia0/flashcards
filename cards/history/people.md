@@ -1,3 +1,7 @@
+---
+name = "People"
+---
+
 Q: Hesiod's occupation?
 A: Poet.
 

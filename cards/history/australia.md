@@ -1,3 +1,7 @@
+---
+name = "Australia"
+---
+
 C: The First Fleet reached Australia on [26] [January], [1788].
 
 ---

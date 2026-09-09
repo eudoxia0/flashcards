@@ -1,3 +1,7 @@
+---
+name = "History"
+---
+
 Q: Who was Cleomenes I?
 A: King of Sparta at the start of the Greco-Persian Wars.
 
