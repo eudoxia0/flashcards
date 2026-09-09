@@ -234,6 +234,11 @@ A: A pair of concave mirrors that focus x-rays by reflecting them at a shallow a
 
 ---
 
+Q: A Kirkpatrick–Baez mirror is used to focus what kind of photons?
+A: X-rays.
+
+---
+
 T: Coulomb explosion
 D: rapid fragmentation of an object caused by Coulomb repulsion when multiple electrons are freed.
 
