@@ -5532,22 +5532,6 @@ A: Thomas Lawrence
 
 Q: Title?
 
-![](<@/art/images/Tintoretto—Cain and Abel.jpg>)
-
-A: Cain and Abel
-
----
-
-Q: Artist?
-
-![](<@/art/images/Tintoretto—Cain and Abel.jpg>)
-
-A: Tintoretto
-
----
-
-Q: Title?
-
 ![](<@/art/images/Tintoretto—Saint Mark's Body Brought to Venice.jpg>)
 
 A: Saint Mark's Body Brought to Venice
