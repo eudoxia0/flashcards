@@ -141,11 +141,6 @@ A: In the ribosome.
 
 ---
 
-T: cell cycle time
-D: The time it takes for a cell to complete a full cycle of division.
-
----
-
 T: transcription
 D: The process by which mRNA is synthesized from a DNA template.
 
