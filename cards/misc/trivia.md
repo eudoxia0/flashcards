@@ -764,37 +764,6 @@ A: Full-dive virtual reality.
 
 ---
 
-Q: What does SRBM stand for?
-A: Short-range ballistic missile.
-
----
-
-Q: What does MRBM stand for?
-A: Medium-range ballistic missile.
-
----
-
-Q: What does IRBM stand for?
-A: Intermediate-range ballistic missile.
-
----
-
-C: An SRBM is a ballistic missile with a range from [300] km to [1,000] km.
-
----
-
-C: An MRBM is a ballistic missile with a range from [1,000] km to [3,000] km.
-
----
-
-C: An IRBM is a ballistic missile with a range from [3,000] km to [5,500] km.
-
----
-
-C: An ICBM is a ballistic missile with a range greater than [5,500] km.
-
----
-
 Q: What does MIRV stand for?
 A: Multiple independently-targetable reentry vehicle.
 
