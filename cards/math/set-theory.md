@@ -62,3 +62,8 @@ Definition: [the sets $A$ and $B$ are equinumerous.]
 
 T: urelement
 D: an object that is not a set, but which can be a member of a set.
+
+---
+
+Q: Explain the difference between a set and a class.
+A: A set is a distinct thing that exists above its elements, a class is a convenient way to refer to a plurality of things in the singular.
