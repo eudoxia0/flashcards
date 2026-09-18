@@ -27,3 +27,8 @@ Q: Radiation dose: CBCT.
 A: $0.1 \millisievert$
 
 ([IAEA](https://www.iaea.org/resources/rpop/health-professionals/dentistry/radiation-doses), [Clin Adv Periodontics](https://aap.onlinelibrary.wiley.com/doi/10.1002/cap.10261))
+
+---
+
+Q: What does CBCT stand for?
+A: Cone beam CT.
