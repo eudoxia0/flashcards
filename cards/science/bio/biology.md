@@ -213,5 +213,5 @@ D: any of the long filaments that form the mycelium of a fungus.
 
 ---
 
-T: ommatidia
-D: the units that make up the compound eyes of insects.
+T: ommatidium
+D: one of the units that make up the compound eyes of insects.
