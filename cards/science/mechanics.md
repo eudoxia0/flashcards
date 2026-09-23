@@ -31,7 +31,7 @@ D: the idea that an object's inertia arises from its interaction with the total 
 
 Q: Consider Newton's bucket. Remove all other matter in the universe, and let the bucket spin. What does Newton say should happen to the water?
 
-A: The water should curve, relative to absolute space.
+A: The water should curve, because the water is spinning relative to absolute space.
 
 ---
 
