@@ -26,3 +26,27 @@ A: Take a bucket of water, hang it from a twisted rope, and let it spin. The sur
 
 T: Mach's principle
 D: the idea that an object's inertia arises from its interaction with the total distribution of matter in the universe.
+
+---
+
+Q: Consider Newton's bucket. Remove all other matter in the universe, and let the bucket spin. What does Newton say should happen to the water?
+
+A: The water should curve, relative to absolute space.
+
+---
+
+Q: Consider Newton's bucket. Remove all other matter in the universe, and let the bucket spin. What does Mach say should happen to the water?
+
+A: The water should stay flat, because "spinning" is meaningless in an empty universe.
+
+---
+
+Q: Consider Newton's bucket. Keep the bucket still, and rotate all the matter in the universe around it. What does Newton say should happen to the water?
+
+A: The water should stay flat, because the bucket is at rest relative to absolute space.
+
+---
+
+Q: Consider Newton's bucket. Keep the bucket still, and rotate all the matter in the universe around it. What does Mach say should happen to the water?
+
+A: The water should curve, becase the situation is (in relative terms) identical to the original thought experiment.
