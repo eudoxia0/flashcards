@@ -16,3 +16,8 @@ C: Newton's [second] law: [$F=ma$].
 ---
 
 C: Newton's [third] law: [when two objects interact, they impart on each other forces of equal magnitude and opposite direction].
+
+---
+
+Q: Describe the thought experiment of Newton's bucket.
+A: Take a bucket of water, hang it from a twisted rope, and let it spin. The surface of the water becomes curved by the centrifigual force.
