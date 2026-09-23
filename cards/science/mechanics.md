@@ -12,3 +12,7 @@ C: Newton's [first] law: [an object with zero net force remains at rest or in li
 ---
 
 C: Newton's [second] law: [$F=ma$].
+
+---
+
+C: Newton's [third] law: [when two objects interact, they impart on each other forces of equal magnitude and opposite direction].
