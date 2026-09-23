@@ -25,4 +25,4 @@ A: Take a bucket of water, hang it from a twisted rope, and let it spin. The sur
 ---
 
 T: Mach's principle
-D: The idea that inertia arises from the interaction of an object with all matter in the universe.
+D: the idea that an object's inertia arises from its interaction with the total distribution of matter in the universe.
