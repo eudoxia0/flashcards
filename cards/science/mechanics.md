@@ -49,4 +49,4 @@ A: The water should stay flat, because the bucket is at rest relative to absolut
 
 Q: Consider Newton's bucket. Keep the bucket still, and rotate all the matter in the universe around it. What does Mach say should happen to the water?
 
-A: The water should curve, becase the situation is (in relative terms) identical to the original thought experiment.
+A: The water should curve, because the situation is (in relative terms) identical to the original thought experiment.
