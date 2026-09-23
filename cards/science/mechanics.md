@@ -21,3 +21,8 @@ C: Newton's [third] law: [when two objects interact, they impart on each other f
 
 Q: Describe the thought experiment of Newton's bucket.
 A: Take a bucket of water, hang it from a twisted rope, and let it spin. The surface of the water becomes curved by the centrifigual force.
+
+---
+
+T: Mach's principle
+D: The idea that inertia arises from the interaction of an object with all matter in the universe.
