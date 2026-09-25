@@ -771,3 +771,8 @@ A: Multiple independently-targetable reentry vehicle.
 
 Q: Etymology of cataclysm.
 A: From Greek _kata_, "downwards"; and _kluzo_, "to wash away".
+
+---
+
+Q: What is w/c an abbreviation for?
+A: Week commencing.
