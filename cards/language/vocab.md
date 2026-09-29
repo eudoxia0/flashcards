@@ -654,3 +654,8 @@ A: A room that is heavily decorated with otaku objects.
 
 Q: diffident
 A: Shy.
+
+---
+
+Q: _sine qua non_
+A: "Without which not", an essential condition.
