@@ -581,3 +581,8 @@ A: Between $0$ and $4 \celsius$.
 
 Q: Why are the muscarinic receptors called that?
 A: Because they are more sensitive to muscarine than to nicotine.
+
+---
+
+T: mydriasis
+D: Pupil dilation.
