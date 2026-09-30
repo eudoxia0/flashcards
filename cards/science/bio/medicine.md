@@ -591,3 +591,8 @@ D: Pupil dilation.
 
 T: miosis
 D: The excessive constriction of the pupil.
+
+---
+
+T: anisocoria
+D: The condition of the pupils being different sizes.
