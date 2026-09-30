@@ -780,4 +780,4 @@ A: Week commencing.
 ---
 
 T: Copernican principle
-D: The idea that the Earth occupies an average position in the universe.
+D: the idea that the Earth occupies an average position in the universe.
