@@ -585,14 +585,14 @@ A: Because they are more sensitive to muscarine than to nicotine.
 ---
 
 T: mydriasis
-D: Pupil dilation.
+D: pupil dilation.
 
 ---
 
 T: miosis
-D: The excessive constriction of the pupil.
+D: the excessive constriction of the pupil.
 
 ---
 
 T: anisocoria
-D: The condition of the pupils being different sizes.
+D: the condition of the pupils being different sizes.
