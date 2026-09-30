@@ -776,3 +776,8 @@ A: From Greek _kata_, "downwards"; and _kluzo_, "to wash away".
 
 Q: What is w/c an abbreviation for?
 A: Week commencing.
+
+---
+
+T: Copernican principle
+D: The idea that the Earth occupies an average position in the universe.
