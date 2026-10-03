@@ -187,3 +187,7 @@ C: Russell's paradox shows that the axiom of [unrestricted comprehension] inevit
 
 Q: Define the $R$ set from Russell's paradox using set comprehension notation.
 A: $R = \set{ x | x \not\in x }$
+
+---
+
+C: Russell's paradox was published in the year [1901].
