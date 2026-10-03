@@ -596,3 +596,8 @@ D: the excessive constriction of the pupil.
 
 T: anisocoria
 D: the condition of the pupils being different sizes.
+
+---
+
+Q: Resolution of the human eye in microns?
+A: $30 \micron$ at the $10 \centimeter$ focus.
