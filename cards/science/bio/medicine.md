@@ -601,3 +601,8 @@ D: the condition of the pupils being different sizes.
 
 Q: Resolution of the human eye in microns?
 A: $30 \micron$ at the $10 \centimeter$ focus.
+
+---
+
+T: integument
+D: the outer protective barrier of an organism.
