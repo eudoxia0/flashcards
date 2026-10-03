@@ -178,3 +178,7 @@ C: $\neg P$ is an abbreviation of [$P \to \bot$].
 
 T: intensional subsumption
 D: a concept being logically contained in another by definition.
+
+---
+
+C: Russell's paradox shows that the axiom of [unrestricted comprehension] inevitably leads to contradictions.
