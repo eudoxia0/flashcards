@@ -177,7 +177,7 @@ C: $\neg P$ is an abbreviation of [$P \to \bot$].
 ---
 
 T: intensional subsumption
-D: a concept being logically contained in another by definition.
+D: term for a concept being logically contained in another by definition.
 
 ---
 
