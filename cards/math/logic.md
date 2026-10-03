@@ -173,3 +173,8 @@ D: the view that it is not individual statements, but whole theories, which can 
 ---
 
 C: $\neg P$ is an abbreviation of [$P \to \bot$].
+
+---
+
+T: intensional subsumption
+D: a concept being logically contained in another by definition.
