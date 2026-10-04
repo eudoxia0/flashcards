@@ -92,3 +92,9 @@ A: For every segment $AB$, every segment $CD$, there exists a unique point $E$ o
 Q: State Euclid's second postulate informally.
 
 A: A segment $AB$ can be extended by a segment $BE$ which is congruent to a given segment $CD$.
+
+---
+
+C: Notation: [$A \cong B$]
+
+Definition: [$A$ and $B$ are congruent].
