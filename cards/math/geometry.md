@@ -13,3 +13,7 @@ Q: A number is constructible iff it can be defined using an expression involving
 only...
 
 A: Integers, add/sub/mul/div, and square roots.
+
+---
+
+C: Hilbert's _Foundations of Geometry_ was published in the year [1899].
