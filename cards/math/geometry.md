@@ -27,3 +27,7 @@ D: the part of Euclidean geometry that is independent of the parallel postulate.
 ---
 
 C: Euclid's _Elements_ was written around [300] BCE.
+
+---
+
+C: Pythagoras flourished c. [530] BCE.
