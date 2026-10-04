@@ -23,3 +23,7 @@ C: Hilbert's _Foundations of Geometry_ was published in the year [1899].
 T: natural geometry
 
 D: the part of Euclidean geometry that is independent of the parallel postulate.
+
+---
+
+C: Euclid's _Elements_ was written around [300] BCE.
