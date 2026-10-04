@@ -31,3 +31,7 @@ C: Euclid's _Elements_ was written around [300] BCE.
 ---
 
 C: Pythagoras flourished c. [530] BCE.
+
+---
+
+C: For the Pythagoreans, a ratio was not a number but rather [a relation between two numbers].
