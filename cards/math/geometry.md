@@ -38,7 +38,8 @@ C: For the Pythagoreans, a ratio was not a number but rather [a relation between
 
 ---
 
-C: The Pythagoreans believed that all geometric magnitudes (length, area, volume) could be measured by [rational numbers].
+C: The Pythagoreans believed that all geometric magnitudes (length, area,
+volume) could be measured by [rational numbers].
 
 ---
 
@@ -56,4 +57,5 @@ D: a convex region bounded by two circular arcs.
 
 Q: State Euclid's first postulate.
 
-A: For every pair of distinct points $P$ and $Q$, there exists a unique line that passes through $P$ and $Q$.
+A: For every pair of distinct points $P$ and $Q$, there exists a unique line
+that passes through $P$ and $Q$.
