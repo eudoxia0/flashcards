@@ -82,7 +82,7 @@ Definition: [the line segment from $P$ to $Q$].
 
 Q: State Euclid's second postulate formally.
 
-A: For every segment $AB$, every segment $CD$, there exists a unique point $E$ on the line $\overleftrightarrow{AB}$ such that:
+A: Given a two segments $AB$ and $CD$, there exists a unique point $E$ on the line $\overleftrightarrow{AB}$ such that:
 
 - $B$ is between $A$ and $E$.
 - $BE$ is congruent to $CD$.
