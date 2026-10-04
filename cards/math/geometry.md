@@ -76,7 +76,7 @@ C: Context: $P$ and $Q$ are points.
 
 Notation: [$PQ$]
 
-Definition: [the line segment from $A$ to $B$].
+Definition: [the line segment from $P$ to $Q$].
 
 ---
 
