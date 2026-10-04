@@ -31,3 +31,8 @@ C: Alexander's mother was [Olympias of Epirus].
 ---
 
 C: Alexander was tutored by [Aristotle].
+
+---
+
+Q: Alexander's last words in Greek?
+A: _Tôi kratístōi_.
