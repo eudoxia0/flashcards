@@ -70,6 +70,11 @@ Definition: [the line that passes through $P$ and $Q$].
 
 ---
 
+Q: Consider a line $\overleftrightarrow{PQ}$. Define the line segment $PQ$.
+A: The set containing $P$, $Q$, and all points between $P$ and $Q$.
+
+---
+
 C: Context: $P$ and $Q$ are points.
 
 Notation: [$PQ$]
