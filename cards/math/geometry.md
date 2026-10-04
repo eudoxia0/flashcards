@@ -59,3 +59,9 @@ Q: State Euclid's first postulate.
 
 A: For every pair of distinct points $P$ and $Q$, there exists a unique line
 that passes through $P$ and $Q$.
+
+---
+
+C: Notation: [$\stackrel{\leftrightarrow}{PQ}$]
+
+Definition: [the line that passes through points $P$ and $Q$].
