@@ -66,4 +66,4 @@ C: Context: $P$ and $Q$ are points.
 
 Notation: [$\overleftrightarrow{PQ}$]
 
-Definition: [the line that passes through points $P$ and $Q$].
+Definition: [the line that passes through $P$ and $Q$].
