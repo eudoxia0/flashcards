@@ -85,7 +85,7 @@ Q: State Euclid's second postulate formally.
 A: For every segment $AB$, every segment $CD$, there exists a unique point $E$ on the line $\overleftrightarrow{AB}$ such that:
 
 - $B$ is between $A$ and $E$.
-- $CD$ is congruent to $BE$.
+- $BE$ is congruent to $CD$.
 
 ---
 
