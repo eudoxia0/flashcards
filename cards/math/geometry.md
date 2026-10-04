@@ -4,13 +4,11 @@ name = "Geometry"
 
 T: constructible numbers
 
-D: the set of numbers that can be constructed by finitely many
-straightedge-and-compass operations.
+D: the set of numbers that can be constructed by finitely many straightedge-and-compass operations.
 
 ---
 
-Q: A number is constructible iff it can be defined using an expression involving
-only...
+Q: A number is constructible iff it can be defined using an expression involving only...
 
 A: Integers, add/sub/mul/div, and square roots.
 
@@ -38,8 +36,7 @@ C: For the Pythagoreans, a ratio was not a number but rather [a relation between
 
 ---
 
-C: The Pythagoreans believed that all geometric magnitudes (length, area,
-volume) could be measured by [rational numbers].
+C: The Pythagoreans believed that all geometric magnitudes (length, area, volume) could be measured by [rational numbers].
 
 ---
 
@@ -57,8 +54,7 @@ D: a convex region bounded by two circular arcs.
 
 Q: State Euclid's first postulate.
 
-A: For every pair of distinct points $P$ and $Q$, there exists a unique line
-that passes through $P$ and $Q$.
+A: For every pair of distinct points $P$ and $Q$, there exists a unique line that passes through $P$ and $Q$.
 
 ---
 
@@ -71,6 +67,7 @@ Definition: [the line that passes through $P$ and $Q$].
 ---
 
 Q: Consider a line $\overleftrightarrow{PQ}$. Define the line segment $PQ$.
+
 A: The set containing $P$, $Q$, and all points between $P$ and $Q$.
 
 ---
