@@ -67,3 +67,11 @@ C: Context: $P$ and $Q$ are points.
 Notation: [$\overleftrightarrow{PQ}$]
 
 Definition: [the line that passes through $P$ and $Q$].
+
+---
+
+C: Context: $P$ and $Q$ are points.
+
+Notation: [$PQ$]
+
+Definition: [the line segment from $A$ to $B$].
