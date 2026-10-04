@@ -47,3 +47,6 @@
 \C
 \partial
 \emptyset
+
+% geometry
+\cong

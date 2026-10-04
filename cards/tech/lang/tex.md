@@ -221,3 +221,8 @@ C:
 TeX: [`\emptyset`]
 
 Result: [$\emptyset$]
+
+C:
+TeX: [`\cong`]
+
+Result: [$\cong$]
