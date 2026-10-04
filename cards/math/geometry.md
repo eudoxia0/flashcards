@@ -35,3 +35,7 @@ C: Pythagoras flourished c. [530] BCE.
 ---
 
 C: For the Pythagoreans, a ratio was not a number but rather [a relation between two numbers].
+
+---
+
+C: The Pythagoreans believed that all geometric magnitudes (length, area, volume) could be measured by [rational numbers].
