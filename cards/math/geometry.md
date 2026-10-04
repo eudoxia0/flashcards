@@ -51,3 +51,9 @@ D: a crescent-shaped region bounded by two circular arcs.
 T: lens
 
 D: a convex region bounded by two circular arcs.
+
+---
+
+Q: State Euclid's first postulate.
+
+A: For every pair of distinct points $P$ and $Q$, there exists a unique line that passes through $P$ and $Q$.
