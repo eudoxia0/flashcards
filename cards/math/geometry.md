@@ -45,3 +45,9 @@ C: The Pythagoreans believed that all geometric magnitudes (length, area, volume
 T: lune
 
 D: a crescent-shaped region bounded by two circular arcs.
+
+---
+
+T: lens
+
+D: a convex region bounded by two circular arcs.
