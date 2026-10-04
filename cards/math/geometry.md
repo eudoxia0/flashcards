@@ -39,3 +39,9 @@ C: For the Pythagoreans, a ratio was not a number but rather [a relation between
 ---
 
 C: The Pythagoreans believed that all geometric magnitudes (length, area, volume) could be measured by [rational numbers].
+
+---
+
+T: lune
+
+D: a crescent-shaped region bounded by two circular arcs.
