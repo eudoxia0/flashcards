@@ -606,3 +606,8 @@ A: $30 \micron$ at the $10 \centimeter$ focus.
 
 T: integument
 D: the outer protective barrier of an organism.
+
+---
+
+T: Lovibond's angle
+D: The angle between the nail and cuticle.
