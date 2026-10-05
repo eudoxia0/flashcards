@@ -611,3 +611,8 @@ D: the outer protective barrier of an organism.
 
 T: Lovibond's angle
 D: The angle between the nail and cuticle.
+
+---
+
+T: Schamroth's window
+D: When pressing the nails of both index fingers together, the diamond-shape gap between them.
