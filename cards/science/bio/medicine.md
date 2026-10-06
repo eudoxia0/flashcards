@@ -616,3 +616,8 @@ D: The angle between the nail and cuticle.
 
 T: Schamroth's window
 D: the diamond-shape gap that appears when pressing the nails of both index fingers together.
+
+---
+
+T: diapedesis
+D: the passage of white blood cells through capillary walls and into tissue.
