@@ -615,4 +615,4 @@ D: The angle between the nail and cuticle.
 ---
 
 T: Schamroth's window
-D: When pressing the nails of both index fingers together, the diamond-shape gap between them.
+D: the diamond-shape gap that appears when pressing the nails of both index fingers together.
