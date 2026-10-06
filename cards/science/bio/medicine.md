@@ -631,3 +631,13 @@ A: A structure that spot-welds cells together.
 
 Q: Define: erythrocyte.
 A: A red blood cell.
+
+---
+
+T: Gram-positive bacterium
+D: a bacterium whose plasma membrane is covered by a thick layer of peptidoglycan.
+
+---
+
+T: Gram-negative bacterium
+D: a bacterium with two concentric plasma membranes, separated by a layer of peptidoglycan.
