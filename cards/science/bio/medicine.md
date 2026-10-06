@@ -621,3 +621,8 @@ D: the diamond-shape gap that appears when pressing the nails of both index fing
 
 T: diapedesis
 D: the passage of white blood cells through capillary walls and into tissue.
+
+---
+
+Q: Define: desmosome.
+A: A structure that spot-welds cells together.
