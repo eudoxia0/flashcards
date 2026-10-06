@@ -626,3 +626,8 @@ D: the passage of white blood cells through capillary walls and into tissue.
 
 Q: Define: desmosome.
 A: A structure that spot-welds cells together.
+
+---
+
+Q: Define: erythrocyte.
+A: A red blood cell.
