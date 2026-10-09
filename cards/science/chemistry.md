@@ -127,4 +127,4 @@ A: $-128 \celsius$
 
 C: Name: [tetrafluoromethane]
 
-Chemical formula: [$CF_4$]
+Chemical formula: [$\mathrm{CF}_4$]
