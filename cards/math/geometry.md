@@ -103,3 +103,9 @@ Definition: [$A$ and $B$ are congruent].
 
 Q: Definition of a circle.
 A: Given two distinct points $O$ and $A$, the **circle with center $O$ and radius $OA$** is the set of all points $P$ such that $OP \cong OA$.
+
+---
+
+Q: State Euclid's third postulate.
+
+A: Given two distinct points $P$ and $A$, there exists a circle with center $O$ and radius $OA$.
