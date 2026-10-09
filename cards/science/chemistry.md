@@ -122,3 +122,9 @@ D: a symbol found on plastic products, used to sort them for recycling.
 
 Q: Tetrafluoromethane, boiling point.
 A: $-128 \celsius$
+
+---
+
+C: Name: [tetrafluoromethane]
+
+Chemical formula: [$CF_4$]
