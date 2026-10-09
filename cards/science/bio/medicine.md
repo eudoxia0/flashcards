@@ -641,3 +641,11 @@ D: a bacterium whose plasma membrane is covered by a thick layer of peptidoglyca
 
 T: Gram-negative bacterium
 D: a bacterium with two concentric plasma membranes, separated by a layer of peptidoglycan.
+
+---
+
+C: White blood cells are also called [leukocytes].
+
+---
+
+C: Leukocytes are also called [white blood cells].
