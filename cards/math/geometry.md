@@ -60,13 +60,13 @@ A: Given two distinct points $P$ and $Q$, there exists a unique line that passes
 
 C: Context: $P$ and $Q$ are points.
 
-Notation: [$\overleftrightarrow{PQ}$]
+Notation: [$\line{PQ}$]
 
 Definition: [the line that passes through $P$ and $Q$].
 
 ---
 
-Q: Consider a line $\overleftrightarrow{PQ}$. Define the line segment $PQ$.
+Q: Consider a line $\line{PQ}$. Define the line segment $PQ$.
 
 A: The set containing $P$, $Q$, and all points between $P$ and $Q$.
 
@@ -82,7 +82,7 @@ Definition: [the line segment from $P$ to $Q$].
 
 Q: State Euclid's second postulate formally.
 
-A: Given two segments $AB$ and $CD$, there exists a unique point $E$ on the line $\overleftrightarrow{AB}$ such that:
+A: Given two segments $AB$ and $CD$, there exists a unique point $E$ on the line $\line{AB}$ such that:
 
 - $B$ is between $A$ and $E$.
 - $BE$ is congruent to $CD$.
@@ -117,8 +117,8 @@ D: a line that begins and a point and continues infinitely in one direction.
 
 ---
 
-Q: Given a line $\overleftrightarrow{AB}$, define the ray $\overrightarrow{AB}$.
-A: The set of points in the segment $AB$, and all points $P$ of $\overleftrightarrow{AB}$ such that $B$ is between $A$ and $P$.
+Q: Given a line $\line{AB}$, define the ray $\overrightarrow{AB}$.
+A: The set of points in the segment $AB$, and all points $P$ of $\line{AB}$ such that $B$ is between $A$ and $P$.
 
 ---
 
