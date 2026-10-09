@@ -119,3 +119,7 @@ D: a line that begins and a point and continues infinitely in one direction.
 
 Q: Given a line $\overleftrightarrow{AB}$, define the ray $\overrightarrow{AB}$.
 A: The set of points in the segment $AB$, and all points $P$ of $\overleftrightarrow{AB}$ such that $B$ is between $A$ and $P$.
+
+---
+
+C: A ray $\overrightarrow{AB}$ is said to [emanate] from the [vertex] $A$.
