@@ -98,3 +98,8 @@ A: A segment $AB$ can be extended by a segment $BE$ which is congruent to a give
 C: Notation: [$A \cong B$]
 
 Definition: [$A$ and $B$ are congruent].
+
+---
+
+Q: Definition of a circle.
+A: Given two distinct points $O$ and $A$, the **circle with center $O$ and radius $OA$** is the set of all points $P$ such that $OP \cong OA$.
