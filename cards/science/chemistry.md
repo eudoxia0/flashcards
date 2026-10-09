@@ -117,3 +117,8 @@ A: Low-density polyethylene.
 
 T: resin identification code
 D: a symbol found on plastic products, used to sort them for recycling.
+
+---
+
+Q: Tetrafluoromethane, boiling point.
+A: $-128 \celsius$
