@@ -109,3 +109,13 @@ A: Given two distinct points $O$ and $A$, the **circle with center $O$ and radiu
 Q: State Euclid's third postulate.
 
 A: Given two distinct points $P$ and $A$, there exists a circle with center $O$ and radius $OA$.
+
+---
+
+T: ray
+D: a line that begins and a point and continues infinitely in one direction.
+
+---
+
+Q: Given a line $\overleftrightarrow{AB}$, define the ray $\overrightarrow{AB}$.
+A: The set of points in the segment $AB$, and all points $P$ such that $B$ is between $A$ and $P$.
