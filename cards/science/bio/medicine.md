@@ -649,3 +649,8 @@ C: White blood cells are also called [leukocytes].
 ---
 
 C: Leukocytes are also called [white blood cells].
+
+---
+
+T: macrophage
+D: a type of large leukocyte that ingests pathogens and debris.
