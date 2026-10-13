@@ -781,3 +781,8 @@ A: Week commencing.
 
 T: Copernican principle
 D: the idea that the Earth occupies an average position in the universe.
+
+---
+
+Q: Who wrote _On the Origins of Money_?
+A: Carl Menger.
