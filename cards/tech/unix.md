@@ -159,5 +159,5 @@ A: `lsblk`
 
 ---
 
-Q: How do you make a bootable USB from an `.iso` file?
-A: GParted, `Device > Create Partition Table`, select type `msdos`, then use `dd` to copy the ISO.
+Q: What partition table type do you need to make a bootable USB?
+A: `msdos`
