@@ -789,7 +789,7 @@ A: Carl Menger.
 
 ---
 
-C: Title: [_Beam Me Out Of This Death Trap, Scotty_]
+C: Title: _Beam Me Out Of This Death Trap, Scotty_
 
 Author: [Gregg Easterbrook]
 
