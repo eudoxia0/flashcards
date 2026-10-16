@@ -654,3 +654,8 @@ C: Leukocytes are also called [white blood cells].
 
 T: macrophage
 D: a type of large leukocyte that ingests pathogens and debris.
+
+---
+
+Q: Cardiovascular death is more common in the morning. Why?
+A: Cortisol and adrenaline rise after waking.
