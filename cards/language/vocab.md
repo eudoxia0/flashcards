@@ -659,3 +659,8 @@ A: Shy.
 
 Q: _sine qua non_
 A: "Without which not", an essential condition.
+
+---
+
+Q: anecdotist
+A: Someone who tells anecdotes.
