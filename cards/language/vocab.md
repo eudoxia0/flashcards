@@ -674,3 +674,8 @@ D: The artificial production of gold.
 
 Q: Idiom: "carrying coal to Newcastle".
 A: A pointless activity.
+
+---
+
+Q: trammel
+A: An impediment to progress.
