@@ -803,3 +803,8 @@ A: _Beam Me Out Of This Death Trap, Scotty_
 ---
 
 C: A kirman is a type of [Persian rug].
+
+---
+
+Q: During the Battle of Jutland, when pressed repeatedly for status reports, what was Admiral Sir John Jellicoe's famous reply?
+A: "I am in action".
