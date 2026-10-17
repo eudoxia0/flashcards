@@ -699,3 +699,8 @@ A: A large merchant ship; metaphorically, a rich store of something.
 
 Q: cause célèbre
 A: An issue or event that causes controversy.
+
+---
+
+Q: Pitaval
+A: A collection of interesting criminal cases or causes célèbres.
