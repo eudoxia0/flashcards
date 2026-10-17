@@ -694,3 +694,8 @@ A: An eccentricity, an odd feature.
 
 Q: argosy
 A: A large merchant ship; metaphorically, a rich store of something.
+
+---
+
+Q: cause célèbre
+A: An issue or event that causes controversy.
