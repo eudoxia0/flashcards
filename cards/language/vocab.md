@@ -704,3 +704,8 @@ A: An issue or event that causes controversy.
 
 Q: Pitaval
 A: A collection of interesting criminal cases or causes célèbres.
+
+---
+
+Q: bagatelle
+A: An insignificant thing, a trifle.
