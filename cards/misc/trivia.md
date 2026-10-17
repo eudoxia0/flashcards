@@ -813,3 +813,8 @@ A: "I am in action".
 
 Q: Last words of Jesus, in Latin.
 A: _Consummatum est_.
+
+---
+
+Q: Last words of Jesus, in English.
+A: "It is finished".
