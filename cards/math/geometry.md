@@ -127,7 +127,7 @@ C: A ray $\overrightarrow{AB}$ is said to [emanate] from the [vertex] $A$.
 ---
 
 T: isosceles triangle
-D: A triangle that has two sides of equal length.
+D: a triangle with two sides of equal length.
 
 ---
 
