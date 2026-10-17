@@ -684,3 +684,8 @@ A: An impediment to progress.
 
 Q: fain
 A: Well-disposed to do something.
+
+---
+
+Q: quiddity
+A: An eccentricity, an odd feature.
