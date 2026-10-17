@@ -808,3 +808,8 @@ C: A kirman is a type of [Persian rug].
 
 Q: During the Battle of Jutland, when pressed repeatedly for status reports, what was Admiral Sir John Jellicoe's famous reply?
 A: "I am in action".
+
+---
+
+Q: Last words of Jesus, in Latin.
+A: _Consummatum est_.
