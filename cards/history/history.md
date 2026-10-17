@@ -88,3 +88,8 @@ C: The flight to Varennes took place on the night of [20] [June], [1791].
 ---
 
 C: Louis XVI was beheaded in the year [1793].
+
+---
+
+C: Battle of Jutland, year.
+A: 1916
