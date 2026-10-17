@@ -679,3 +679,8 @@ A: A pointless activity.
 
 Q: trammel
 A: An impediment to progress.
+
+---
+
+Q: fain
+A: Well-disposed to do something.
