@@ -74,3 +74,7 @@ A: 6000 C.
 
 T: catastrophism
 D: the idea that the Earth has been shaped mostly by brief violent upheavals.
+
+---
+
+C: The leading proponent of catastrophism in the 19th century was [Georges Cuvier].
