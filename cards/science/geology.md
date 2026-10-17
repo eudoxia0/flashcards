@@ -69,3 +69,8 @@ A: Iron and nickel.
 
 Q: What is the temperature of the Earth's core?
 A: 6000 C.
+
+---
+
+T: catastrophism
+D: the idea that the Earth has been shaped mostly by brief violent upheavals.
