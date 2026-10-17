@@ -799,3 +799,7 @@ Year: [1980]
 
 Q: What was the title of that 1980 article that predicted the failure modes of the Space Shuttle?
 A: _Beam Me Out Of This Death Trap, Scotty_
+
+---
+
+C: A kirman is a type of [Persian rug].
