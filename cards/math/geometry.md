@@ -123,3 +123,8 @@ A: The set of points in the segment $AB$, and all points $P$ of $\line{AB}$ such
 ---
 
 C: A ray $\overrightarrow{AB}$ is said to [emanate] from the [vertex] $A$.
+
+---
+
+T: isosceles triangle
+D: A triangle that has two sides of equal length.
