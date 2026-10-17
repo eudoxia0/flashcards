@@ -669,3 +669,8 @@ A: Someone who tells anecdotes.
 
 T: chrysopoeia
 D: The artificial production of gold.
+
+---
+
+Q: Idiom: "carrying coal to Newcastle".
+A: A pointless activity.
