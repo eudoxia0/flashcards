@@ -91,5 +91,5 @@ C: Louis XVI was beheaded in the year [1793].
 
 ---
 
-C: Battle of Jutland, year.
+Q: Battle of Jutland, year.
 A: 1916
