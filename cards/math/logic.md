@@ -154,5 +154,4 @@ C: Russell's paradox was published in the year [1901].
 
 ---
 
-T: consistent theory
-D: a theory that does not entail a contradiction.
+C: A sentence is said to be [valid] iff [it is true in every possible interpretation].
