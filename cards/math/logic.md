@@ -155,3 +155,7 @@ C: Russell's paradox was published in the year [1901].
 ---
 
 C: A sentence is said to be [valid] iff [it is true in every possible interpretation].
+
+---
+
+C: A formal system is said to be [consistent] iff [its axioms do not entail a contradiction].
