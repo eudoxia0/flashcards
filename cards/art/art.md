@@ -2596,6 +2596,22 @@ A: Ivan Aivazovsky
 
 Q: Title?
 
+![](<@/art/images/Ivan Endogurov—Rain.jpg>)
+
+A: Rain
+
+---
+
+Q: Artist?
+
+![](<@/art/images/Ivan Endogurov—Rain.jpg>)
+
+A: Ivan Endogurov
+
+---
+
+Q: Title?
+
 ![](<@/art/images/Ivan Kramskoi—Christ in the Desert.jpg>)
 
 A: Christ in the Desert
