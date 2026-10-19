@@ -154,5 +154,5 @@ C: Russell's paradox was published in the year [1901].
 
 ---
 
-T: consistency
-D: the property of a theory that does not entail a contradiction.
+T: consistent theory
+D: a theory that does not entail a contradiction.
