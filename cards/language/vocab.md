@@ -714,3 +714,8 @@ A: An insignificant thing, a trifle.
 
 Q: incunabulum
 A: A book printed during the earliest stage of printing in Europe.
+
+---
+
+Q: hierophant
+A: An interpreter of sacred mysteries.
