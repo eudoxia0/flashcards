@@ -668,7 +668,7 @@ A: Someone who tells anecdotes.
 ---
 
 T: chrysopoeia
-D: The artificial production of gold.
+D: the artificial production of gold.
 
 ---
 
