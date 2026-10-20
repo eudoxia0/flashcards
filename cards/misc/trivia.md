@@ -332,7 +332,12 @@ D: the state of consciousness while waking.
 ---
 
 Q: What is a Lehr furnace?
-A: A long conveyor-belt kiln used to anneal products by transporting them across a temperature gradient.
+A: A long conveyor-belt kiln.
+
+---
+
+Q: What is a Lehr furnace used for?
+A: Annealing products by transporting them across a temperature gradient.
 
 ---
 
