@@ -724,3 +724,8 @@ A: An interpreter of sacred mysteries.
 
 Q: propound
 A: To propose.
+
+---
+
+Q: supererogatory
+A: Of an action: more than is required.
