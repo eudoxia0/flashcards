@@ -337,7 +337,7 @@ A: A long conveyor-belt kiln.
 ---
 
 Q: What is a Lehr furnace used for?
-A: Annealing products by transporting them across a temperature gradient.
+A: Annealing.
 
 ---
 
