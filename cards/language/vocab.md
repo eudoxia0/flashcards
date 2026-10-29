@@ -729,3 +729,8 @@ A: To propose.
 
 Q: supererogatory
 A: Of an action: more than is required.
+
+---
+
+Q: trenchant
+A: Incisive.
