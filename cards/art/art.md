@@ -2452,6 +2452,22 @@ A: Ilya Repin
 
 Q: Title?
 
+![](<@/art/images/Ilya Repin—Portrait of Mikhail Dragomirov.jpg>)
+
+A: Portrait of Mikhail Dragomirov
+
+---
+
+Q: Artist?
+
+![](<@/art/images/Ilya Repin—Portrait of Mikhail Dragomirov.jpg>)
+
+A: Ilya Repin
+
+---
+
+Q: Title?
+
 ![](<@/art/images/Ilya Repin—Religious Procession in Kursk Governorate.jpg>)
 
 A: Religious Procession in Kursk Governorate
