@@ -54,6 +54,11 @@ D: an observation categorical (X, Y) where the affirmative stimulus meaning of X
 
 ---
 
+Q: "All robins are birds" is an example of an analytic observation categorical. Why?
+A: The affirmative stimulus meaning of "robin" is a subset of the affirmative stimulus meaning of "bird".
+
+---
+
 T: synthetic observation categorical
 D: an observation categorical that is not analytic.
 
