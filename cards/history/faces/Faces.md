@@ -164,6 +164,14 @@ A: Benjamin Disraeli
 
 Q: Name?
 
+![](<images/Benjamin Lay.jpg>)
+
+A: Benjamin Lay
+
+---
+
+Q: Name?
+
 ![](<images/Bernhard Riemann.jpg>)
 
 A: Bernhard Riemann
