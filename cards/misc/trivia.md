@@ -828,3 +828,8 @@ A: "It is finished".
 
 Q: River that runs through Rome?
 A: The Tiber.
+
+---
+
+Q: Who was the first recorded abolitionist?
+A: Gregory of Nyssa.
