@@ -213,5 +213,9 @@ D: any of the long filaments that form the mycelium of a fungus.
 
 ---
 
+C: Hyphae are the filaments that make up the [mycelium] of a fungus.
+
+---
+
 T: ommatidium
 D: one of the units that make up the compound eyes of insects.
