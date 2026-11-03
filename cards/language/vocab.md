@@ -734,3 +734,8 @@ A: Of an action: more than is required.
 
 Q: trenchant
 A: Incisive.
+
+---
+
+Q: coleopter
+A: A type of VTOL aircraft where the wing is a ducted fan.
