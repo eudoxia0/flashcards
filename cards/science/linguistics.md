@@ -38,7 +38,7 @@ A: A linguistic framework that treats verbs as unary predicates on events.
 ---
 
 T: affix
-D: a morpheme that is attached to a stem to form a new word.
+D: a morpheme that is attached to a word to form a new word.
 
 ---
 
