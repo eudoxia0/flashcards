@@ -42,6 +42,10 @@ D: a morpheme that is attached to a word to form a new word.
 
 ---
 
+C: An affix is attached to a word, called the [stem], to form a new word.
+
+---
+
 T: prefix
 D: an affix that appears before the stem.
 
