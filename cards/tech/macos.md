@@ -2,9 +2,12 @@
 name = 'macOS'
 ---
 
-Q: In the Preview app, what is the shortcut to open the "Go to page" modal?
+C: Application: Preview
 
-A: ⌥⌘+g
+Keybinding: [Option + Command + G]
+
+Action: [go to page.]
+
 
 ---
 
