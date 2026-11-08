@@ -97,3 +97,7 @@ A: 1916
 ---
 
 C: Arminianism is based on the ideas of theologian [Jacobus Arminius].
+
+---
+
+C: Arminianism rejects the Calvinist doctrine of [predestination].
