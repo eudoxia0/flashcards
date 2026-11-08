@@ -28,7 +28,7 @@ A: $$\text{Composite}(n) = \exists a,b \in \Z^+ . 1 \lt a \lt n, 1 \lt b \lt n, 
 ---
 
 T: highly composite number
-D: A positive integer that has more factors than any smaller positive integer.
+D: a positive integer that has more factors than any smaller positive integer.
 
 ---
 
