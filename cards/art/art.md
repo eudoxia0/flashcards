@@ -3988,6 +3988,22 @@ A: Lawrence Alma-Tadema
 
 Q: Title?
 
+![](<@/art/images/Lawrence Alma-Tadema—Phidias Showing the Frieze of the Parthenon to his Friends.jpg>)
+
+A: Phidias Showing the Frieze of the Parthenon to his Friends
+
+---
+
+Q: Artist?
+
+![](<@/art/images/Lawrence Alma-Tadema—Phidias Showing the Frieze of the Parthenon to his Friends.jpg>)
+
+A: Lawrence Alma-Tadema
+
+---
+
+Q: Title?
+
 ![](<@/art/images/Lawrence Alma-Tadema—Sappho and Alcaeus.jpg>)
 
 A: Sappho and Alcaeus
