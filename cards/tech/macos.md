@@ -8,7 +8,6 @@ Keybinding: [Option + Command + G]
 
 Action: [go to page.]
 
-
 ---
 
 C: Application: Finder
