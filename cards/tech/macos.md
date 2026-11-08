@@ -39,3 +39,15 @@ Character: [left double quote]
 C: Keybinding: [Option + Shift + Open Bracket]
 
 Character: [right double quote]
+
+---
+
+C: Keybinding: [Option + Hyphen]
+
+Character: [en dash]
+
+---
+
+C: Keybinding: [Shift + Option + Hyphen]
+
+Character: [em dash]
