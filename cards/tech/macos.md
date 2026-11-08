@@ -15,3 +15,27 @@ C: Application: Finder
 Keybinding: [Command + Shift + Period]
 
 Action: [toggle showing hidden files.]
+
+---
+
+C: Keybinding: [Option + Close Bracket]
+
+Character: [left single quote]
+
+---
+
+C: Keybinding: [Option + Shift + Close Bracket]
+
+Character: [right single quote]
+
+---
+
+C: Keybinding: [Option + Open Bracket]
+
+Character: [left double quote]
+
+---
+
+C: Keybinding: [Option + Shift + Open Bracket]
+
+Character: [right double quote]
