@@ -838,3 +838,8 @@ A: Gregory of Nyssa.
 
 Q: What was the name of that old day planner program that was famous for its animated pixel-art landscapes?
 A: Seize the Day.
+
+---
+
+T: Region-beta paradox
+D: the idea that it's easier to recover from intense negative experiences than moderately negative ones.
