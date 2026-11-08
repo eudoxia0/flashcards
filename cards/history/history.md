@@ -93,3 +93,7 @@ C: Louis XVI was beheaded in the year [1793].
 
 Q: Battle of Jutland, year.
 A: 1916
+
+---
+
+C: Arminianism is based on the ideas of theologian [Jacobus Arminius].
