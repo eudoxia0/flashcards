@@ -57,3 +57,9 @@ Character: [em dash]
 C: Symbol: [⌘]
 
 Name: [Command key]
+
+---
+
+C: Symbol: [⌥]
+
+Name: [Option key]
