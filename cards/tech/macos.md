@@ -4,7 +4,7 @@ name = 'macOS'
 
 C: Application: Preview
 
-Keybinding: [Option + Command + G]
+Keybinding: [Option + Command + g]
 
 Action: [go to page.]
 
