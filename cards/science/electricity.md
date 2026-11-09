@@ -58,8 +58,8 @@ where $k_e$ is Coulomb's constant.
 
 ---
 
-Q: What is electric potential?
-A: Electric potential at a point $P$ is the amount of work done bringing a $1C$ charge from infinity (where potential is zero) to $P$ in an electric field.
+Q: Define electric potential at a point.
+A: The amount of work performed by moving a $1C$ charge from infinity (where potential is zero) to that point.
 
 ---
 
