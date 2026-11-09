@@ -12,43 +12,43 @@ Action: [go to page.]
 
 C: Application: Finder
 
-Keybinding: [Command + Shift + Period]
+Keybinding: [Command + Shift + .]
 
 Action: [toggle showing hidden files.]
 
 ---
 
-C: Keybinding: [Option + Close Bracket]
+C: Keybinding: [Option + \]]
 
 Character: [left single quote]
 
 ---
 
-C: Keybinding: [Option + Shift + Close Bracket]
+C: Keybinding: [Option + Shift + \]]
 
 Character: [right single quote]
 
 ---
 
-C: Keybinding: [Option + Open Bracket]
+C: Keybinding: [Option + \[]
 
 Character: [left double quote]
 
 ---
 
-C: Keybinding: [Option + Shift + Open Bracket]
+C: Keybinding: [Option + Shift + \[]
 
 Character: [right double quote]
 
 ---
 
-C: Keybinding: [Option + Hyphen]
+C: Keybinding: [Option + -]
 
 Character: [en dash]
 
 ---
 
-C: Keybinding: [Shift + Option + Hyphen]
+C: Keybinding: [Shift + Option + -]
 
 Character: [em dash]
 
