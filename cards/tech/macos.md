@@ -51,3 +51,9 @@ Character: [en dash]
 C: Keybinding: [Shift + Option + Hyphen]
 
 Character: [em dash]
+
+---
+
+C: Symbol: [⌘]
+
+Name: [Command key]
