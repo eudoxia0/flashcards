@@ -24,3 +24,7 @@ A: `tokei`
 
 Q: Name of the TUI timer app I use.
 A: `termdown`
+
+---
+
+C: When leaving home on a sunny day, remember to bring [sunglasses].
