@@ -34,21 +34,21 @@ $(TEX): scripts/tex.py cards/tech/lang/tex.txt
 	$(PY) scripts/tex.py cards/tech/lang/tex.txt $(TEX)
 
 $(ELEMENTS): scripts/tmpl.py cards/science/elements.csv cards/science/elements.tmpl
-	python scripts/tmpl.py \
+	$(PY) scripts/tmpl.py \
 	    --csv=cards/science/elements.csv \
 		--template=cards/science/elements.tmpl \
 		--name="Periodic Table" \
 		--output=$@
 
 $(GREEK): scripts/tmpl.py cards/language/greek/greek-alphabet.csv cards/language/greek/greek-alphabet.tmpl
-	python scripts/tmpl.py \
+	$(PY) scripts/tmpl.py \
 	    --csv=cards/language/greek/greek-alphabet.csv \
 		--template=cards/language/greek/greek-alphabet.tmpl \
 		--name="Greek Alphabet" \
 		--output=$@
 
 $(SPECTRUM): scripts/tmpl.py cards/science/em-spectrum.csv cards/science/em-spectrum.tmpl
-	python scripts/tmpl.py \
+	$(PY) scripts/tmpl.py \
 	    --csv=cards/science/em-spectrum.csv \
 		--template=cards/science/em-spectrum.tmpl \
 		--name="Electromagnetic Spectrum" \
