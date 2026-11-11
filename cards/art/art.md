@@ -28,7 +28,7 @@ A: Adolph Menzel
 
 Q: Title?
 
-![](<@/art/images/Albrecht Dürer—Portrait of Maximilian I.jpg>)
+![](<@/art/images/Albrecht Dürer—Portrait of Maximilian I.jpg>)
 
 A: Portrait of Maximilian I
 
@@ -36,15 +36,15 @@ A: Portrait of Maximilian I
 
 Q: Artist?
 
-![](<@/art/images/Albrecht Dürer—Portrait of Maximilian I.jpg>)
+![](<@/art/images/Albrecht Dürer—Portrait of Maximilian I.jpg>)
 
-A: Albrecht Dürer
+A: Albrecht Dürer
 
 ---
 
 Q: Title?
 
-![](<@/art/images/Albrecht Dürer—Self-Portrait.jpg>)
+![](<@/art/images/Albrecht Dürer—Self-Portrait.jpg>)
 
 A: Self-Portrait
 
@@ -52,17 +52,17 @@ A: Self-Portrait
 
 Q: Artist?
 
-![](<@/art/images/Albrecht Dürer—Self-Portrait.jpg>)
+![](<@/art/images/Albrecht Dürer—Self-Portrait.jpg>)
 
-A: Albrecht Dürer
+A: Albrecht Dürer
 
 ---
 
 Q: Artist?
 
-![](<@/art/images/Albrecht Dürer—Wing of a European Roller (skip).jpg>)
+![](<@/art/images/Albrecht Dürer—Wing of a European Roller (skip).jpg>)
 
-A: Albrecht Dürer
+A: Albrecht Dürer
 
 ---
 
@@ -140,7 +140,7 @@ A: Antonio Canova
 
 Q: Title?
 
-![](<@/art/images/Arnold Böcklin—Isle of the Dead.jpg>)
+![](<@/art/images/Arnold Böcklin—Isle of the Dead.jpg>)
 
 A: Isle of the Dead
 
@@ -148,31 +148,31 @@ A: Isle of the Dead
 
 Q: Artist?
 
-![](<@/art/images/Arnold Böcklin—Isle of the Dead.jpg>)
+![](<@/art/images/Arnold Böcklin—Isle of the Dead.jpg>)
 
-A: Arnold Böcklin
-
----
-
-Q: Artist?
-
-![](<@/art/images/Arnold Böcklin—Moonlit Landscape (skip).jpg>)
-
-A: Arnold Böcklin
+A: Arnold Böcklin
 
 ---
 
 Q: Artist?
 
-![](<@/art/images/Arnold Böcklin—Mourning under the Cross (skip).jpg>)
+![](<@/art/images/Arnold Böcklin—Moonlit Landscape (skip).jpg>)
 
-A: Arnold Böcklin
+A: Arnold Böcklin
+
+---
+
+Q: Artist?
+
+![](<@/art/images/Arnold Böcklin—Mourning under the Cross (skip).jpg>)
+
+A: Arnold Böcklin
 
 ---
 
 Q: Title?
 
-![](<@/art/images/Arnold Böcklin—Self-Portrait with Death Playing the Fiddle.jpg>)
+![](<@/art/images/Arnold Böcklin—Self-Portrait with Death Playing the Fiddle.jpg>)
 
 A: Self-Portrait with Death Playing the Fiddle
 
@@ -180,9 +180,9 @@ A: Self-Portrait with Death Playing the Fiddle
 
 Q: Artist?
 
-![](<@/art/images/Arnold Böcklin—Self-Portrait with Death Playing the Fiddle.jpg>)
+![](<@/art/images/Arnold Böcklin—Self-Portrait with Death Playing the Fiddle.jpg>)
 
-A: Arnold Böcklin
+A: Arnold Böcklin
 
 ---
 
@@ -460,15 +460,15 @@ A: Caravaggio
 
 Q: Title?
 
-![](<@/art/images/Caspar David Friedrich—Chalk Cliffs on Rügen.jpg>)
+![](<@/art/images/Caspar David Friedrich—Chalk Cliffs on Rügen.jpg>)
 
-A: Chalk Cliffs on Rügen
+A: Chalk Cliffs on Rügen
 
 ---
 
 Q: Artist?
 
-![](<@/art/images/Caspar David Friedrich—Chalk Cliffs on Rügen.jpg>)
+![](<@/art/images/Caspar David Friedrich—Chalk Cliffs on Rügen.jpg>)
 
 A: Caspar David Friedrich
 
@@ -548,9 +548,9 @@ A: Charles Sheeler
 
 Q: Artist?
 
-![](<@/art/images/Charles-François Daubigny—Twilight (skip).jpg>)
+![](<@/art/images/Charles-François Daubigny—Twilight (skip).jpg>)
 
-A: Charles-François Daubigny
+A: Charles-François Daubigny
 
 ---
 
@@ -572,15 +572,15 @@ A: Claude Monet
 
 Q: Title?
 
-![](<@/art/images/Claude Monet—La Grenouillère.jpg>)
+![](<@/art/images/Claude Monet—La Grenouillère.jpg>)
 
-A: La Grenouillère
+A: La Grenouillère
 
 ---
 
 Q: Artist?
 
-![](<@/art/images/Claude Monet—La Grenouillère.jpg>)
+![](<@/art/images/Claude Monet—La Grenouillère.jpg>)
 
 A: Claude Monet
 
@@ -692,23 +692,23 @@ A: Diego Rivera
 
 Q: Artist?
 
-![](<@/art/images/Diego Velázquez—Christ Crucified (skip).jpg>)
+![](<@/art/images/Diego Velázquez—Christ Crucified (skip).jpg>)
 
-A: Diego Velázquez
+A: Diego Velázquez
 
 ---
 
 Q: Artist?
 
-![](<@/art/images/Diego Velázquez—Head of a Stag (skip).jpg>)
+![](<@/art/images/Diego Velázquez—Head of a Stag (skip).jpg>)
 
-A: Diego Velázquez
+A: Diego Velázquez
 
 ---
 
 Q: Title?
 
-![](<@/art/images/Diego Velázquez—Las Meninas.jpg>)
+![](<@/art/images/Diego Velázquez—Las Meninas.jpg>)
 
 A: Las Meninas
 
@@ -716,31 +716,31 @@ A: Las Meninas
 
 Q: Artist?
 
-![](<@/art/images/Diego Velázquez—Las Meninas.jpg>)
+![](<@/art/images/Diego Velázquez—Las Meninas.jpg>)
 
-A: Diego Velázquez
+A: Diego Velázquez
 
 ---
 
 Q: Title?
 
-![](<@/art/images/Diego Velázquez—Portrait of Don Luis de Góngora.jpg>)
+![](<@/art/images/Diego Velázquez—Portrait of Don Luis de Góngora.jpg>)
 
-A: Portrait of Don Luis de Góngora
+A: Portrait of Don Luis de Góngora
 
 ---
 
 Q: Artist?
 
-![](<@/art/images/Diego Velázquez—Portrait of Don Luis de Góngora.jpg>)
+![](<@/art/images/Diego Velázquez—Portrait of Don Luis de Góngora.jpg>)
 
-A: Diego Velázquez
+A: Diego Velázquez
 
 ---
 
 Q: Title?
 
-![](<@/art/images/Diego Velázquez—Portrait of Innocent X.jpg>)
+![](<@/art/images/Diego Velázquez—Portrait of Innocent X.jpg>)
 
 A: Portrait of Innocent X
 
@@ -748,9 +748,9 @@ A: Portrait of Innocent X
 
 Q: Artist?
 
-![](<@/art/images/Diego Velázquez—Portrait of Innocent X.jpg>)
+![](<@/art/images/Diego Velázquez—Portrait of Innocent X.jpg>)
 
-A: Diego Velázquez
+A: Diego Velázquez
 
 ---
 
@@ -1116,9 +1116,9 @@ A: Edwin Landseer
 
 Q: Artist?
 
-![](<@/art/images/Eugène Boudin—Étude de ciel (skip).jpg>)
+![](<@/art/images/Eugène Boudin—Étude de ciel (skip).jpg>)
 
-A: Eugène Boudin
+A: Eugène Boudin
 
 ---
 
@@ -1135,6 +1135,38 @@ Q: Artist?
 ![](<@/art/images/Evgeny Sedukhin—Symphony of the Sixth Blast Furnace.jpg>)
 
 A: Evgeny Sedukhin
+
+---
+
+Q: Title?
+
+![](<@/art/images/Édouard Manet—A Bar at the Folies-Bergère.jpg>)
+
+A: A Bar at the Folies-Bergère
+
+---
+
+Q: Artist?
+
+![](<@/art/images/Édouard Manet—A Bar at the Folies-Bergère.jpg>)
+
+A: Édouard Manet
+
+---
+
+Q: Title?
+
+![](<@/art/images/Félix Resurrección Hidalgo—The Boat of Charon.png>)
+
+A: The Boat of Charon
+
+---
+
+Q: Artist?
+
+![](<@/art/images/Félix Resurrección Hidalgo—The Boat of Charon.png>)
+
+A: Félix Resurrección Hidalgo
 
 ---
 
@@ -1204,15 +1236,15 @@ A: Francesco Melzi
 
 Q: Title?
 
-![](<@/art/images/Francis Bacon—Study after Velázquez's Portrait of Pope Innocent X.jpg>)
+![](<@/art/images/Francis Bacon—Study after Velázquez's Portrait of Pope Innocent X.jpg>)
 
-A: Study after Velázquez's Portrait of Pope Innocent X
+A: Study after Velázquez's Portrait of Pope Innocent X
 
 ---
 
 Q: Artist?
 
-![](<@/art/images/Francis Bacon—Study after Velázquez's Portrait of Pope Innocent X.jpg>)
+![](<@/art/images/Francis Bacon—Study after Velázquez's Portrait of Pope Innocent X.jpg>)
 
 A: Francis Bacon
 
@@ -1380,7 +1412,7 @@ A: Francisco Goya
 
 Q: Title?
 
-![](<@/art/images/Francisco de Zurbarán—Agnus Dei.jpg>)
+![](<@/art/images/Francisco de Zurbarán—Agnus Dei.jpg>)
 
 A: Agnus Dei
 
@@ -1388,9 +1420,9 @@ A: Agnus Dei
 
 Q: Artist?
 
-![](<@/art/images/Francisco de Zurbarán—Agnus Dei.jpg>)
+![](<@/art/images/Francisco de Zurbarán—Agnus Dei.jpg>)
 
-A: Francisco de Zurbarán
+A: Francisco de Zurbarán
 
 ---
 
@@ -1572,15 +1604,15 @@ A: Frederic Edwin Church
 
 Q: Title?
 
-![](<@/art/images/Frederic Edwin Church—El Khasné, Petra.jpg>)
+![](<@/art/images/Frederic Edwin Church—El Khasné, Petra.jpg>)
 
-A: El Khasné, Petra
+A: El Khasné, Petra
 
 ---
 
 Q: Artist?
 
-![](<@/art/images/Frederic Edwin Church—El Khasné, Petra.jpg>)
+![](<@/art/images/Frederic Edwin Church—El Khasné, Petra.jpg>)
 
 A: Frederic Edwin Church
 
@@ -1663,22 +1695,6 @@ Q: Artist?
 ![](<@/art/images/Fyodor Bronnikov—Pythagoreans Celebrate the Sunrise.jpg>)
 
 A: Fyodor Bronnikov
-
----
-
-Q: Title?
-
-![](<@/art/images/Félix Resurrección Hidalgo—The Boat of Charon.png>)
-
-A: The Boat of Charon
-
----
-
-Q: Artist?
-
-![](<@/art/images/Félix Resurrección Hidalgo—The Boat of Charon.png>)
-
-A: Félix Resurrección Hidalgo
 
 ---
 
@@ -1772,7 +1788,7 @@ A: Giovanni Boldini
 
 Q: Artist?
 
-![](<@/art/images/Giovanni Boldini—Portrait of Lucie Gérard (skip).jpg>)
+![](<@/art/images/Giovanni Boldini—Portrait of Lucie Gérard (skip).jpg>)
 
 A: Giovanni Boldini
 
@@ -1900,7 +1916,7 @@ A: Gustave Caillebotte
 
 Q: Title?
 
-![](<@/art/images/Gustave Doré—Andromeda.jpg>)
+![](<@/art/images/Gustave Doré—Andromeda.jpg>)
 
 A: Andromeda
 
@@ -1908,15 +1924,15 @@ A: Andromeda
 
 Q: Artist?
 
-![](<@/art/images/Gustave Doré—Andromeda.jpg>)
+![](<@/art/images/Gustave Doré—Andromeda.jpg>)
 
-A: Gustave Doré
+A: Gustave Doré
 
 ---
 
 Q: Title?
 
-![](<@/art/images/Gustave Doré—Dante and Virgil in the Ninth Circle of Hell.jpg>)
+![](<@/art/images/Gustave Doré—Dante and Virgil in the Ninth Circle of Hell.jpg>)
 
 A: Dante and Virgil in the Ninth Circle of Hell
 
@@ -1924,15 +1940,15 @@ A: Dante and Virgil in the Ninth Circle of Hell
 
 Q: Artist?
 
-![](<@/art/images/Gustave Doré—Dante and Virgil in the Ninth Circle of Hell.jpg>)
+![](<@/art/images/Gustave Doré—Dante and Virgil in the Ninth Circle of Hell.jpg>)
 
-A: Gustave Doré
+A: Gustave Doré
 
 ---
 
 Q: Title?
 
-![](<@/art/images/Gustave Doré—Jacob wrestling with the angel.jpg>)
+![](<@/art/images/Gustave Doré—Jacob wrestling with the angel.jpg>)
 
 A: Jacob wrestling with the angel
 
@@ -1940,15 +1956,15 @@ A: Jacob wrestling with the angel
 
 Q: Artist?
 
-![](<@/art/images/Gustave Doré—Jacob wrestling with the angel.jpg>)
+![](<@/art/images/Gustave Doré—Jacob wrestling with the angel.jpg>)
 
-A: Gustave Doré
+A: Gustave Doré
 
 ---
 
 Q: Title?
 
-![](<@/art/images/Gustave Doré—The Enigma.jpg>)
+![](<@/art/images/Gustave Doré—The Enigma.jpg>)
 
 A: The Enigma
 
@@ -1956,17 +1972,17 @@ A: The Enigma
 
 Q: Artist?
 
-![](<@/art/images/Gustave Doré—The Enigma.jpg>)
+![](<@/art/images/Gustave Doré—The Enigma.jpg>)
 
-A: Gustave Doré
+A: Gustave Doré
 
 ---
 
 Q: Artist?
 
-![](<@/art/images/Gustave Doré—The Tower of Babel (skip).jpg>)
+![](<@/art/images/Gustave Doré—The Tower of Babel (skip).jpg>)
 
-A: Gustave Doré
+A: Gustave Doré
 
 ---
 
@@ -2228,7 +2244,7 @@ A: Henri-Paul Motte
 
 Q: Artist?
 
-![](<@/art/images/Henri-Paul Motte—The Fiancée of Belus (skip).jpg>)
+![](<@/art/images/Henri-Paul Motte—The Fiancée of Belus (skip).jpg>)
 
 A: Henri-Paul Motte
 
@@ -2908,15 +2924,15 @@ A: James Tissot
 
 Q: Title?
 
-![](<@/art/images/Jan Matejko—Stańczyk.jpg>)
+![](<@/art/images/Jan Matejko—Stańczyk.jpg>)
 
-A: Stańczyk
+A: Stańczyk
 
 ---
 
 Q: Artist?
 
-![](<@/art/images/Jan Matejko—Stańczyk.jpg>)
+![](<@/art/images/Jan Matejko—Stańczyk.jpg>)
 
 A: Jan Matejko
 
@@ -2940,7 +2956,7 @@ A: Jan van Eyck
 
 Q: Title?
 
-![](<@/art/images/Jean-Léon Gérôme—Bathsheba.jpg>)
+![](<@/art/images/Jean-Léon Gérôme—Bathsheba.jpg>)
 
 A: Bathsheba
 
@@ -2948,15 +2964,15 @@ A: Bathsheba
 
 Q: Artist?
 
-![](<@/art/images/Jean-Léon Gérôme—Bathsheba.jpg>)
+![](<@/art/images/Jean-Léon Gérôme—Bathsheba.jpg>)
 
-A: Jean-Léon Gérôme
+A: Jean-Léon Gérôme
 
 ---
 
 Q: Title?
 
-![](<@/art/images/Jean-Léon Gérôme—Bonaparte Before the Sphinx.jpg>)
+![](<@/art/images/Jean-Léon Gérôme—Bonaparte Before the Sphinx.jpg>)
 
 A: Bonaparte Before the Sphinx
 
@@ -2964,15 +2980,15 @@ A: Bonaparte Before the Sphinx
 
 Q: Artist?
 
-![](<@/art/images/Jean-Léon Gérôme—Bonaparte Before the Sphinx.jpg>)
+![](<@/art/images/Jean-Léon Gérôme—Bonaparte Before the Sphinx.jpg>)
 
-A: Jean-Léon Gérôme
+A: Jean-Léon Gérôme
 
 ---
 
 Q: Title?
 
-![](<@/art/images/Jean-Léon Gérôme—Diogenes.jpg>)
+![](<@/art/images/Jean-Léon Gérôme—Diogenes.jpg>)
 
 A: Diogenes
 
@@ -2980,15 +2996,31 @@ A: Diogenes
 
 Q: Artist?
 
-![](<@/art/images/Jean-Léon Gérôme—Diogenes.jpg>)
+![](<@/art/images/Jean-Léon Gérôme—Diogenes.jpg>)
 
-A: Jean-Léon Gérôme
+A: Jean-Léon Gérôme
 
 ---
 
 Q: Title?
 
-![](<@/art/images/Jean-Léon Gérôme—Phryne Before the Areopagus.jpg>)
+![](<@/art/images/Jean-Léon Gérôme—Éminence Grise.jpg>)
+
+A: Éminence Grise
+
+---
+
+Q: Artist?
+
+![](<@/art/images/Jean-Léon Gérôme—Éminence Grise.jpg>)
+
+A: Jean-Léon Gérôme
+
+---
+
+Q: Title?
+
+![](<@/art/images/Jean-Léon Gérôme—Phryne Before the Areopagus.jpg>)
 
 A: Phryne Before the Areopagus
 
@@ -2996,15 +3028,15 @@ A: Phryne Before the Areopagus
 
 Q: Artist?
 
-![](<@/art/images/Jean-Léon Gérôme—Phryne Before the Areopagus.jpg>)
+![](<@/art/images/Jean-Léon Gérôme—Phryne Before the Areopagus.jpg>)
 
-A: Jean-Léon Gérôme
+A: Jean-Léon Gérôme
 
 ---
 
 Q: Title?
 
-![](<@/art/images/Jean-Léon Gérôme—Pollice Verso.jpg>)
+![](<@/art/images/Jean-Léon Gérôme—Pollice Verso.jpg>)
 
 A: Pollice Verso
 
@@ -3012,15 +3044,15 @@ A: Pollice Verso
 
 Q: Artist?
 
-![](<@/art/images/Jean-Léon Gérôme—Pollice Verso.jpg>)
+![](<@/art/images/Jean-Léon Gérôme—Pollice Verso.jpg>)
 
-A: Jean-Léon Gérôme
+A: Jean-Léon Gérôme
 
 ---
 
 Q: Title?
 
-![](<@/art/images/Jean-Léon Gérôme—Pygmalion and Galatea.jpg>)
+![](<@/art/images/Jean-Léon Gérôme—Pygmalion and Galatea.jpg>)
 
 A: Pygmalion and Galatea
 
@@ -3028,15 +3060,15 @@ A: Pygmalion and Galatea
 
 Q: Artist?
 
-![](<@/art/images/Jean-Léon Gérôme—Pygmalion and Galatea.jpg>)
+![](<@/art/images/Jean-Léon Gérôme—Pygmalion and Galatea.jpg>)
 
-A: Jean-Léon Gérôme
+A: Jean-Léon Gérôme
 
 ---
 
 Q: Title?
 
-![](<@/art/images/Jean-Léon Gérôme—The Duel After the Masquerade.jpg>)
+![](<@/art/images/Jean-Léon Gérôme—The Duel After the Masquerade.jpg>)
 
 A: The Duel After the Masquerade
 
@@ -3044,15 +3076,15 @@ A: The Duel After the Masquerade
 
 Q: Artist?
 
-![](<@/art/images/Jean-Léon Gérôme—The Duel After the Masquerade.jpg>)
+![](<@/art/images/Jean-Léon Gérôme—The Duel After the Masquerade.jpg>)
 
-A: Jean-Léon Gérôme
+A: Jean-Léon Gérôme
 
 ---
 
 Q: Title?
 
-![](<@/art/images/Jean-Léon Gérôme—The Execution of Marshal Ney.jpg>)
+![](<@/art/images/Jean-Léon Gérôme—The Execution of Marshal Ney.jpg>)
 
 A: The Execution of Marshal Ney
 
@@ -3060,15 +3092,15 @@ A: The Execution of Marshal Ney
 
 Q: Artist?
 
-![](<@/art/images/Jean-Léon Gérôme—The Execution of Marshal Ney.jpg>)
+![](<@/art/images/Jean-Léon Gérôme—The Execution of Marshal Ney.jpg>)
 
-A: Jean-Léon Gérôme
+A: Jean-Léon Gérôme
 
 ---
 
 Q: Title?
 
-![](<@/art/images/Jean-Léon Gérôme—The Wailing Wall.jpg>)
+![](<@/art/images/Jean-Léon Gérôme—The Wailing Wall.jpg>)
 
 A: The Wailing Wall
 
@@ -3076,15 +3108,15 @@ A: The Wailing Wall
 
 Q: Artist?
 
-![](<@/art/images/Jean-Léon Gérôme—The Wailing Wall.jpg>)
+![](<@/art/images/Jean-Léon Gérôme—The Wailing Wall.jpg>)
 
-A: Jean-Léon Gérôme
+A: Jean-Léon Gérôme
 
 ---
 
 Q: Title?
 
-![](<@/art/images/Jean-Léon Gérôme—Truth Coming Out of Her Well.jpg>)
+![](<@/art/images/Jean-Léon Gérôme—Truth Coming Out of Her Well.jpg>)
 
 A: Truth Coming Out of Her Well
 
@@ -3092,31 +3124,15 @@ A: Truth Coming Out of Her Well
 
 Q: Artist?
 
-![](<@/art/images/Jean-Léon Gérôme—Truth Coming Out of Her Well.jpg>)
+![](<@/art/images/Jean-Léon Gérôme—Truth Coming Out of Her Well.jpg>)
 
-A: Jean-Léon Gérôme
-
----
-
-Q: Title?
-
-![](<@/art/images/Jean-Léon Gérôme—Éminence Grise.jpg>)
-
-A: Éminence Grise
-
----
-
-Q: Artist?
-
-![](<@/art/images/Jean-Léon Gérôme—Éminence Grise.jpg>)
-
-A: Jean-Léon Gérôme
+A: Jean-Léon Gérôme
 
 ---
 
 Q: Title?
 
-![](<@/art/images/Joan Miró—The Farm.jpg>)
+![](<@/art/images/Joan Miró—The Farm.jpg>)
 
 A: The Farm
 
@@ -3124,15 +3140,15 @@ A: The Farm
 
 Q: Artist?
 
-![](<@/art/images/Joan Miró—The Farm.jpg>)
+![](<@/art/images/Joan Miró—The Farm.jpg>)
 
-A: Joan Miró
+A: Joan Miró
 
 ---
 
 Q: Title?
 
-![](<@/art/images/Joaquín Sorolla—Mother.jpg>)
+![](<@/art/images/Joaquín Sorolla—Mother.jpg>)
 
 A: Mother
 
@@ -3140,9 +3156,9 @@ A: Mother
 
 Q: Artist?
 
-![](<@/art/images/Joaquín Sorolla—Mother.jpg>)
+![](<@/art/images/Joaquín Sorolla—Mother.jpg>)
 
-A: Joaquín Sorolla
+A: Joaquín Sorolla
 
 ---
 
@@ -3900,6 +3916,22 @@ A: Kazimir Malevich
 
 Q: Title?
 
+![](<@/art/images/Käthe Kollwitz—Female Nude, From Behind, on Green Cloth.jpg>)
+
+A: Female Nude, From Behind, on Green Cloth
+
+---
+
+Q: Artist?
+
+![](<@/art/images/Käthe Kollwitz—Female Nude, From Behind, on Green Cloth.jpg>)
+
+A: Käthe Kollwitz
+
+---
+
+Q: Title?
+
 ![](<@/art/images/Konstantin Somov—Lady in Blue.jpg>)
 
 A: Lady in Blue
@@ -3959,22 +3991,6 @@ Q: Artist?
 ![](<@/art/images/Kristoffer Zetterstrand—de_dust2.jpg>)
 
 A: Kristoffer Zetterstrand
-
----
-
-Q: Title?
-
-![](<@/art/images/Käthe Kollwitz—Female Nude, From Behind, on Green Cloth.jpg>)
-
-A: Female Nude, From Behind, on Green Cloth
-
----
-
-Q: Artist?
-
-![](<@/art/images/Käthe Kollwitz—Female Nude, From Behind, on Green Cloth.jpg>)
-
-A: Käthe Kollwitz
 
 ---
 
@@ -4236,6 +4252,70 @@ A: Leonid Pasternak
 
 Q: Title?
 
+![](<@/art/images/Léon Bakst—Portrait of Rachel Strong.jpg>)
+
+A: Portrait of Rachel Strong
+
+---
+
+Q: Artist?
+
+![](<@/art/images/Léon Bakst—Portrait of Rachel Strong.jpg>)
+
+A: Léon Bakst
+
+---
+
+Q: Artist?
+
+![](<@/art/images/Léon Bakst—Poster for Afternoon of a Faun (skip).jpg>)
+
+A: Léon Bakst
+
+---
+
+Q: Title?
+
+![](<@/art/images/Léon Bakst—Self-Portrait.jpg>)
+
+A: Self-Portrait
+
+---
+
+Q: Artist?
+
+![](<@/art/images/Léon Bakst—Self-Portrait.jpg>)
+
+A: Léon Bakst
+
+---
+
+Q: Artist?
+
+![](<@/art/images/Léon Bakst—Set design for Daphnis et Chloé (skip).jpg>)
+
+A: Léon Bakst
+
+---
+
+Q: Title?
+
+![](<@/art/images/Léon Bakst—Set design for Scheherazade.jpg>)
+
+A: Set design for Scheherazade
+
+---
+
+Q: Artist?
+
+![](<@/art/images/Léon Bakst—Set design for Scheherazade.jpg>)
+
+A: Léon Bakst
+
+---
+
+Q: Title?
+
 ![](<@/art/images/Louis-Marie Baader—Hero and Leander.jpg>)
 
 A: Hero and Leander
@@ -4311,70 +4391,6 @@ Q: Artist?
 ![](<@/art/images/Luigi Russolo—Solidity of Fog.jpg>)
 
 A: Luigi Russolo
-
----
-
-Q: Title?
-
-![](<@/art/images/Léon Bakst—Portrait of Rachel Strong.jpg>)
-
-A: Portrait of Rachel Strong
-
----
-
-Q: Artist?
-
-![](<@/art/images/Léon Bakst—Portrait of Rachel Strong.jpg>)
-
-A: Léon Bakst
-
----
-
-Q: Artist?
-
-![](<@/art/images/Léon Bakst—Poster for Afternoon of a Faun (skip).jpg>)
-
-A: Léon Bakst
-
----
-
-Q: Title?
-
-![](<@/art/images/Léon Bakst—Self-Portrait.jpg>)
-
-A: Self-Portrait
-
----
-
-Q: Artist?
-
-![](<@/art/images/Léon Bakst—Self-Portrait.jpg>)
-
-A: Léon Bakst
-
----
-
-Q: Artist?
-
-![](<@/art/images/Léon Bakst—Set design for Daphnis et Chloé (skip).jpg>)
-
-A: Léon Bakst
-
----
-
-Q: Title?
-
-![](<@/art/images/Léon Bakst—Set design for Scheherazade.jpg>)
-
-A: Set design for Scheherazade
-
----
-
-Q: Artist?
-
-![](<@/art/images/Léon Bakst—Set design for Scheherazade.jpg>)
-
-A: Léon Bakst
 
 ---
 
@@ -4716,7 +4732,7 @@ A: Paul Cadmus
 
 Q: Title?
 
-![](<@/art/images/Paul Cézanne—The Abduction.jpg>)
+![](<@/art/images/Paul Cézanne—The Abduction.jpg>)
 
 A: The Abduction
 
@@ -4724,15 +4740,15 @@ A: The Abduction
 
 Q: Artist?
 
-![](<@/art/images/Paul Cézanne—The Abduction.jpg>)
+![](<@/art/images/Paul Cézanne—The Abduction.jpg>)
 
-A: Paul Cézanne
+A: Paul Cézanne
 
 ---
 
 Q: Title?
 
-![](<@/art/images/Paul Cézanne—The Stove in the Studio.jpg>)
+![](<@/art/images/Paul Cézanne—The Stove in the Studio.jpg>)
 
 A: The Stove in the Studio
 
@@ -4740,9 +4756,9 @@ A: The Stove in the Studio
 
 Q: Artist?
 
-![](<@/art/images/Paul Cézanne—The Stove in the Studio.jpg>)
+![](<@/art/images/Paul Cézanne—The Stove in the Studio.jpg>)
 
-A: Paul Cézanne
+A: Paul Cézanne
 
 ---
 
@@ -4989,14 +5005,6 @@ A: Peter Paul Rubens
 Q: Artist?
 
 ![](<@/art/images/Pierre-Auguste Renoir—Dance at Le Moulin de la Galette (skip).jpg>)
-
-A: Pierre-Auguste Renoir
-
----
-
-Q: Artist?
-
-![](<@/art/images/Pierre-Auguste Renoir—La Promenade (skip).jpg>)
 
 A: Pierre-Auguste Renoir
 
@@ -5684,15 +5692,15 @@ A: Vincent van Gogh
 
 Q: Title?
 
-![](<@/art/images/Vincent van Gogh—Café Terrace at Night.jpg>)
+![](<@/art/images/Vincent van Gogh—Café Terrace at Night.jpg>)
 
-A: Café Terrace at Night
+A: Café Terrace at Night
 
 ---
 
 Q: Artist?
 
-![](<@/art/images/Vincent van Gogh—Café Terrace at Night.jpg>)
+![](<@/art/images/Vincent van Gogh—Café Terrace at Night.jpg>)
 
 A: Vincent van Gogh
 
@@ -5903,22 +5911,6 @@ Q: Artist?
 ![](<@/art/images/Winslow Homer—Watching the Breakers.jpg>)
 
 A: Winslow Homer
-
----
-
-Q: Title?
-
-![](<@/art/images/Édouard Manet—A Bar at the Folies-Bergère.jpg>)
-
-A: A Bar at the Folies-Bergère
-
----
-
-Q: Artist?
-
-![](<@/art/images/Édouard Manet—A Bar at the Folies-Bergère.jpg>)
-
-A: Édouard Manet
 
 ---
 
