@@ -2,17 +2,21 @@
 Generate flashcards for people's faces.
 """
 
+import unicodedata
 from pathlib import Path
 
 DIR: Path = Path("cards/history/faces/images")
+
+def norm(s: str) -> str:
+    return unicodedata.normalize("NFC", s)
 
 
 def main():
     # Parse.
     images: list[tuple[str, str]] = []
     for path in DIR.iterdir():
-        filename: str = path.name
-        name: str = path.stem
+        filename: str = norm(path.name)
+        name: str = norm(path.stem)
         images.append((filename, name))
 
     # Sort by name.

@@ -2,10 +2,15 @@
 Generate flashcards for the great buildings.
 """
 
+import unicodedata
 from pathlib import Path
 
 DIR: Path = Path("cards/architecture/images")
 IMAGE_EXTS = {".jpg", ".jpeg", ".png", ".gif", ".webp"}
+
+
+def norm(s: str) -> str:
+    return unicodedata.normalize("NFC", s)
 
 
 def parse_filename(filename: str) -> tuple[str | None, str]:
@@ -36,7 +41,7 @@ def main():
     images: list[tuple[Path, str | None, str]] = []
     for p in DIR.iterdir():
         if p.suffix.lower() in IMAGE_EXTS:
-            architect, name = parse_filename(p.name)
+            architect, name = parse_filename(norm(p.name))
             filepath: Path = Path("/".join(p.parts[1:]))
             images.append((filepath, architect, name))
 

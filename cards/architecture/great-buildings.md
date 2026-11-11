@@ -124,7 +124,7 @@ A: Adrian Smith
 
 Q: Name?
 
-![](<@/architecture/images/César Pelli—Abeno Harukas.jpg>)
+![](<@/architecture/images/César Pelli—Abeno Harukas.jpg>)
 
 A: Abeno Harukas
 
@@ -132,7 +132,7 @@ A: Abeno Harukas
 
 Q: Architect?
 
-![](<@/architecture/images/César Pelli—Abeno Harukas.jpg>)
+![](<@/architecture/images/César Pelli—Abeno Harukas.jpg>)
 
 A: César Pelli
 
@@ -140,7 +140,7 @@ A: César Pelli
 
 Q: Name?
 
-![](<@/architecture/images/César Pelli—Petronas Towers.jpg>)
+![](<@/architecture/images/César Pelli—Petronas Towers.jpg>)
 
 A: Petronas Towers
 
@@ -148,7 +148,7 @@ A: Petronas Towers
 
 Q: Architect?
 
-![](<@/architecture/images/César Pelli—Petronas Towers.jpg>)
+![](<@/architecture/images/César Pelli—Petronas Towers.jpg>)
 
 A: César Pelli
 
@@ -156,7 +156,7 @@ A: César Pelli
 
 Q: Name?
 
-![](<@/architecture/images/César Pelli—Salesforce Tower.jpg>)
+![](<@/architecture/images/César Pelli—Salesforce Tower.jpg>)
 
 A: Salesforce Tower
 
@@ -164,7 +164,7 @@ A: Salesforce Tower
 
 Q: Architect?
 
-![](<@/architecture/images/César Pelli—Salesforce Tower.jpg>)
+![](<@/architecture/images/César Pelli—Salesforce Tower.jpg>)
 
 A: César Pelli
 
@@ -732,7 +732,7 @@ A: Paul Rudolph
 
 Q: Name?
 
-![](<@/architecture/images/Rafael Viñoly—20 Fenchurch Street.jpg>)
+![](<@/architecture/images/Rafael Viñoly—20 Fenchurch Street.jpg>)
 
 A: 20 Fenchurch Street
 
@@ -740,7 +740,7 @@ A: 20 Fenchurch Street
 
 Q: Architect?
 
-![](<@/architecture/images/Rafael Viñoly—20 Fenchurch Street.jpg>)
+![](<@/architecture/images/Rafael Viñoly—20 Fenchurch Street.jpg>)
 
 A: Rafael Viñoly
 
@@ -748,7 +748,7 @@ A: Rafael Viñoly
 
 Q: Name?
 
-![](<@/architecture/images/Rafael Viñoly—432 Park Avenue.jpg>)
+![](<@/architecture/images/Rafael Viñoly—432 Park Avenue.jpg>)
 
 A: 432 Park Avenue
 
@@ -756,7 +756,7 @@ A: 432 Park Avenue
 
 Q: Architect?
 
-![](<@/architecture/images/Rafael Viñoly—432 Park Avenue.jpg>)
+![](<@/architecture/images/Rafael Viñoly—432 Park Avenue.jpg>)
 
 A: Rafael Viñoly
 
@@ -796,7 +796,7 @@ A: Raymond Hood
 
 Q: Name?
 
-![](<@/architecture/images/Renzo Piano—Maison Hermès.jpg>)
+![](<@/architecture/images/Renzo Piano—Maison Hermès.jpg>)
 
 A: Maison Hermès
 
@@ -804,7 +804,7 @@ A: Maison Hermès
 
 Q: Architect?
 
-![](<@/architecture/images/Renzo Piano—Maison Hermès.jpg>)
+![](<@/architecture/images/Renzo Piano—Maison Hermès.jpg>)
 
 A: Renzo Piano
 
