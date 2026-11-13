@@ -23,4 +23,4 @@ A: Reinforcement learning with verifiable rewards.
 ---
 
 T: principle of epistemic deference
-D: The idea that we should defer to a superintelligence because it occupies a superior epistemic vantage point.
+D: the idea that we should defer to a superintelligence because it occupies a superior epistemic vantage point.
