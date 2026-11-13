@@ -744,3 +744,8 @@ A: A type of VTOL aircraft where the wing is a ducted fan.
 
 Q: reticent
 A: Reluctant to speak freely.
+
+---
+
+Q: henotheism
+A: The worship of a single god, while acknowledging the existence of other deities.
