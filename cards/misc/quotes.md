@@ -397,3 +397,9 @@ C: In psychology one may or may not be a behaviourist, but in linguistics one ha
 C: To speak to a god-machine’s avatar was to speak to the desert through a grain of sand, and find that the grain dwarfed you—that inside it was infinity, mirrors upon mirrors, and that this portion whose smallness was mathematically unfathomable remained in its diminishment greater than your whole.
 
 — [@ctrlcreep]
+
+---
+
+C: Everything is vague to a degree you do not realize till you have tried to make it precise
+
+--- [Bertrand Russell]
