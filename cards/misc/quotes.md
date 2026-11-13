@@ -403,3 +403,9 @@ C: To speak to a god-machine’s avatar was to speak to the desert through a gra
 C: Everything is vague to a degree you do not realize till you have tried to make it precise
 
 --- [Bertrand Russell]
+
+---
+
+C: The graveyards are full of indispensable men.
+
+--- [attributed to Charles de Gaulle]
