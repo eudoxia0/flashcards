@@ -24,3 +24,8 @@ A: Reinforcement learning with verifiable rewards.
 
 T: principle of epistemic deference
 D: the idea that we should defer to a superintelligence because it occupies a superior epistemic vantage point.
+
+---
+
+T: indirect normativity
+D: an approach to AI alignment where the AI is aligned, not to a value system, but to a process for discovering a value system.
