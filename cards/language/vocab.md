@@ -749,3 +749,8 @@ A: Reluctant to speak freely.
 
 Q: henotheism
 A: The worship of a single god, while acknowledging the existence of other deities.
+
+---
+
+Q: irenic
+A: Tending to promote peace, conciliatory.
