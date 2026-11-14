@@ -843,3 +843,8 @@ A: Seize the Day.
 
 T: Region-beta paradox
 D: the idea that it's easier to recover from intense negative experiences than moderately negative ones.
+
+---
+
+Q: Asperger syndrome is named after?
+A: Hans Asperger.
