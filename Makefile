@@ -21,7 +21,7 @@ $(ART): scripts/art.py cards/art/images
 $(BUILD): scripts/build.py cards/architecture/images
 	$(PY) scripts/build.py > $(BUILD)
 
-$(FACES): scripts/faces.py cards/history/faces/images/*.jpg cards/history/faces/images/*.png
+$(FACES): scripts/faces.py cards/history/faces/images/*.jpg cards/history/faces/images/*.png cards/history/faces/images/*.webp
 	$(PY) scripts/faces.py > $(FACES)
 
 $(PERSIAN): scripts/persian.py

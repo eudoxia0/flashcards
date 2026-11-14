@@ -396,6 +396,14 @@ A: Fridtjof Nansen
 
 Q: Name?
 
+![](<images/Friedrich Engels.webp>)
+
+A: Friedrich Engels
+
+---
+
+Q: Name?
+
 ![](<images/Friedrich Hölderlin.jpg>)
 
 A: Friedrich Hölderlin
