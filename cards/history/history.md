@@ -109,3 +109,12 @@ Q: Who's the guy who was edited out of this picture with Stalin?
 ![](@/images/yezhov.webp)
 
 A: Nikolai Yezhov.
+
+---
+
+Q: What was the Engels pause?
+A: A period in British economic history where GDP grew explosively while working class wages remained stagnant.
+
+---
+
+C: The Engels pause lasted from [1790] to [1840].
