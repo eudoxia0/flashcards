@@ -101,3 +101,11 @@ C: Arminianism is based on the ideas of theologian [Jacobus Arminius].
 ---
 
 C: Arminianism rejects the Calvinist doctrine of [predestination].
+
+---
+
+Q: Who's the guy who was edited out of this picture with Stalin?
+
+![](@/images/yezhov.webp)
+
+A: Nikolai Yezhov.
