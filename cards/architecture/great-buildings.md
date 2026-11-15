@@ -204,22 +204,6 @@ A: Frank Lloyd Wright
 
 Q: Name?
 
-![](<@/architecture/images/Frank Lloyd Wright—Millard House.jpg>)
-
-A: Millard House
-
----
-
-Q: Architect?
-
-![](<@/architecture/images/Frank Lloyd Wright—Millard House.jpg>)
-
-A: Frank Lloyd Wright
-
----
-
-Q: Name?
-
 ![](<@/architecture/images/Frank Lloyd Wright—Price Tower.jpg>)
 
 A: Price Tower
@@ -245,22 +229,6 @@ A: Samuel-Novarro House
 Q: Architect?
 
 ![](<@/architecture/images/Frank Lloyd Wright—Samuel-Novarro House.jpg>)
-
-A: Frank Lloyd Wright
-
----
-
-Q: Name?
-
-![](<@/architecture/images/Frank Lloyd Wright—Storer House.jpg>)
-
-A: Storer House
-
----
-
-Q: Architect?
-
-![](<@/architecture/images/Frank Lloyd Wright—Storer House.jpg>)
 
 A: Frank Lloyd Wright
 
