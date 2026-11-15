@@ -132,6 +132,14 @@ A: Aristotle Onassis
 
 Q: Name?
 
+![](<images/Arnold Böcklin.webp>)
+
+A: Arnold Böcklin
+
+---
+
+Q: Name?
+
 ![](<images/Arthur Rimbaud.png>)
 
 A: Arthur Rimbaud
