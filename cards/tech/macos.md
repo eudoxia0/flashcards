@@ -10,6 +10,14 @@ Action: [go to page.]
 
 ---
 
+C: Application: Preview
+
+Keybinding: [⌘ 9]
+
+Action: [zoom to fit.]
+
+---
+
 C: Application: Finder
 
 Keybinding: [Command + Shift + .]
