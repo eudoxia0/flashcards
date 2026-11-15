@@ -848,3 +848,8 @@ D: the idea that it's easier to recover from intense negative experiences than m
 
 Q: Asperger syndrome is named after?
 A: Hans Asperger.
+
+---
+
+Q: What do you call the 💢 symbol in Japanese?
+A: _Ikari maku_, "anger mark".
