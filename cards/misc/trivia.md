@@ -853,3 +853,8 @@ A: Hans Asperger.
 
 Q: What do you call the 💢 symbol in Japanese?
 A: _Ikari maku_, "anger mark".
+
+---
+
+Q: Who was the scientist who left the Manhattan Project after it became clear the Germans had abandoned work on atomic weapons?
+A: Joseph Rotblat.
