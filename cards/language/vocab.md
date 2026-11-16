@@ -759,3 +759,8 @@ A: Tending to promote peace, conciliatory.
 
 Q: encyclical
 A: A papal letter intended for public circulation.
+
+---
+
+Q: conflate
+A: To mistakenly treat two things as equivalent.
