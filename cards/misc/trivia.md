@@ -858,3 +858,8 @@ A: _Ikari maku_, "anger mark".
 
 Q: Who was the scientist who left the Manhattan Project after it became clear the Germans had abandoned work on atomic weapons?
 A: Joseph Rotblat.
+
+---
+
+Q: Explain this idiom: "one man's _modus ponens_ is another man's _modus tollens_".
+A: Two people agree that $P \to Q$. One of them believes $P$, and concludes $Q$. The other believes $\neg Q$, and concludes $\neg P$.
