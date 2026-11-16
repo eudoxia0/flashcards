@@ -754,3 +754,8 @@ A: The worship of a single god, while acknowledging the existence of other deiti
 
 Q: irenic
 A: Tending to promote peace, conciliatory.
+
+---
+
+Q: encyclical
+A: A papal letter intended for public circulation.
