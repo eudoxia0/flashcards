@@ -659,3 +659,8 @@ D: a type of large leukocyte that ingests pathogens and debris.
 
 Q: Cardiovascular death is more common in the morning. Why?
 A: Cortisol and adrenaline rise after waking.
+
+---
+
+T: autograft
+D: tissue transplant from one part of the patient's body to another.
