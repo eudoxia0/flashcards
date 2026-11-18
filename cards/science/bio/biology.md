@@ -219,3 +219,8 @@ C: Hyphae are the filaments that make up the [mycelium] of a fungus.
 
 T: ommatidium
 D: one of the units that make up the compound eyes of insects.
+
+---
+
+T: avirulence hypothesis
+D: the idea that pathogens should evolve to be less lethal over time, because excessive lethality compromises reproduction.
