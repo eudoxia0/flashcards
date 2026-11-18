@@ -664,3 +664,8 @@ A: Cortisol and adrenaline rise after waking.
 
 T: autograft
 D: tissue transplant from one part of the patient's body to another.
+
+---
+
+T: allograft
+D: tissue transplant between two distinct organisms of the same species.
