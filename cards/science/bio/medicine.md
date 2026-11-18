@@ -679,3 +679,11 @@ D: tissue transplant between two syngeneic organisms.
 
 T: syngeneic
 D: of two organisms: genetically identical.
+
+---
+
+Q: List the three main types of leukocytes.
+A:
+- Granulocytes
+- Lymphocytes
+- Monocytes
