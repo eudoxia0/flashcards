@@ -673,4 +673,4 @@ D: tissue transplant between two distinct organisms of the same species.
 ---
 
 T: isograft
-D: tissue transplant between two genetically identical organisms.
+D: tissue transplant between two syngeneic organisms.
