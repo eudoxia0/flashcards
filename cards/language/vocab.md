@@ -764,3 +764,8 @@ A: A papal letter intended for public circulation.
 
 Q: conflate
 A: To mistakenly treat two things as equivalent.
+
+---
+
+Q: _hors de combat_
+A: 'Out of combat'.
