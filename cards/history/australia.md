@@ -183,3 +183,7 @@ C: The fiscal year ends on the [30th] of [June].
 
 Q: What does ANZAC stand for?
 A: Australian and New Zealand Army Corps.
+
+---
+
+C: The Anzac Bridge opened for traffic in the year [1995].
