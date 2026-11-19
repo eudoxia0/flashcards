@@ -4,7 +4,7 @@ name = 'macOS'
 
 C: Application: Preview
 
-Keybinding: [Option + Command + g]
+Keybinding: [⌥ ⌘ g]
 
 Action: [go to page.]
 
@@ -20,43 +20,43 @@ Action: [zoom to fit.]
 
 C: Application: Finder
 
-Keybinding: [Command + Shift + .]
+Keybinding: [⌘ ⇧ .]
 
 Action: [toggle showing hidden files.]
 
 ---
 
-C: Keybinding: [Option + \]]
+C: Keybinding: [⌥ \]]
 
 Character: [left single quote]
 
 ---
 
-C: Keybinding: [Option + Shift + \]]
+C: Keybinding: [⌥ ⇧ \]]
 
 Character: [right single quote]
 
 ---
 
-C: Keybinding: [Option + \[]
+C: Keybinding: [⌥ \[]
 
 Character: [left double quote]
 
 ---
 
-C: Keybinding: [Option + Shift + \[]
+C: Keybinding: [⌥ ⇧ \[]
 
 Character: [right double quote]
 
 ---
 
-C: Keybinding: [Option + -]
+C: Keybinding: [⌥ -]
 
 Character: [en dash]
 
 ---
 
-C: Keybinding: [Shift + Option + -]
+C: Keybinding: [⌥ ⇧ -]
 
 Character: [em dash]
 
