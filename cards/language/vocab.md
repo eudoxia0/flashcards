@@ -774,3 +774,8 @@ A: 'Out of combat'.
 
 Q: _sine die_
 A: "Without a day", e.g. a meeting adjourned without a date to meet again.
+
+---
+
+Q: sophistry
+A: The use of clever and fallacious reasoning that sounds superficially persuasive.
