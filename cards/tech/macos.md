@@ -77,3 +77,9 @@ Name: [Option key]
 C: Keybinding: [⌥ n, n]
 
 Character: [ñ]
+
+---
+
+C: Keybinding: [⌥ u, u]
+
+Character: [ü]
