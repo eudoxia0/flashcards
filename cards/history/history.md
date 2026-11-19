@@ -118,3 +118,7 @@ A: A period in British economic history where GDP grew explosively while working
 ---
 
 C: The Engels pause lasted from [1790] to [1840].
+
+---
+
+C: Black Monday happened in [October] of [1987].
