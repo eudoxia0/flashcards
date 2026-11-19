@@ -868,3 +868,8 @@ A: Two people agree that $P \to Q$. One of them believes $P$, and concludes $Q$.
 
 Q: What is a Bologna bottle?
 A: A bottle that has a very tough exterior, but shatters with the slightest damage to its interior.
+
+---
+
+Q: What is the Ø character called?
+A: "Slashed O".
