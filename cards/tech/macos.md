@@ -95,3 +95,9 @@ Character: [á]
 C: Keybinding: [⌥ `, a]
 
 Character: [à]
+
+---
+
+C: Keybinding: [⌥ i, a]
+
+Character: [â]
