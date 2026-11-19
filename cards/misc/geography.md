@@ -54,3 +54,12 @@ C: The Tropic of [Cancer] is in the [northern] hemisphere.
 ---
 
 C: The Tropic of [Capricorn] is in the [southern] hemisphere.
+
+---
+
+C: The Yellow River begins in the [Bayan Har] mountains.
+
+---
+
+Q: Yellow River, length.
+A: $\approx 5,400 \,\text{km}$
