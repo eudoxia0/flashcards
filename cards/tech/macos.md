@@ -80,15 +80,15 @@ Character: [ñ]
 
 ---
 
-C: Keybinding: [⌥ u, u]
+C: Keybinding: [⌥ u, a]
 
-Character: [ü]
+Character: [ä]
 
 ---
 
-C: Keybinding: [⌥ e, e]
+C: Keybinding: [⌥ e, a]
 
-Character: [é]
+Character: [á]
 
 ---
 
