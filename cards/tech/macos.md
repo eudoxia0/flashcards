@@ -71,3 +71,9 @@ Name: [Command key]
 C: Symbol: [⌥]
 
 Name: [Option key]
+
+---
+
+C: Keybinding: [⌥ n, n]
+
+Character: [ñ]
