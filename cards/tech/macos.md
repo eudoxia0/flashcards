@@ -83,3 +83,9 @@ Character: [ñ]
 C: Keybinding: [⌥ u, u]
 
 Character: [ü]
+
+---
+
+C: Keybinding: [⌥ e, e]
+
+Character: [é]
