@@ -101,3 +101,9 @@ Character: [à]
 C: Keybinding: [⌥ i, a]
 
 Character: [â]
+
+---
+
+C: Keybinding: [⌥ c]
+
+Character: [ç]
