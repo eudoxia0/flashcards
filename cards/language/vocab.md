@@ -769,3 +769,8 @@ A: To mistakenly treat two things as equivalent.
 
 Q: _hors de combat_
 A: 'Out of combat'.
+
+---
+
+Q: _sine die_
+A: "Without a day", e.g. a meeting adjourned without a date to meet again.
