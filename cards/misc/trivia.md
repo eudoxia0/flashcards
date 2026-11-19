@@ -873,3 +873,8 @@ A: A bottle that has a very tough exterior, but shatters with the slightest dama
 
 Q: What is the Ø character called?
 A: "Slashed O".
+
+---
+
+T: structural unemployment
+D: a form of unemployment where a person has skills that are not needed in the economy.
