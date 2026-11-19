@@ -170,3 +170,11 @@ A: Five.
 
 Q: What is the minimum number of seats each state is guaranteed in the Senate?
 A: Six.
+
+---
+
+C: The fiscal year begins on the [1st] of [July].
+
+---
+
+C: The fiscal year ends on the [30th] of [June].
