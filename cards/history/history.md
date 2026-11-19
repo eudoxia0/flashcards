@@ -122,3 +122,12 @@ C: The Engels pause lasted from [1790] to [1840].
 ---
 
 C: Black Monday happened in [October] of [1987].
+
+---
+
+C: The Treaty of San Francisco was signed in the year [1951].
+
+---
+
+C: The Treaty of San Francisco was signed in what building?
+A: The War Memorial Opera House in San Francisco.
