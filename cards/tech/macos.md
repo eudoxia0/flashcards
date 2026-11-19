@@ -107,3 +107,9 @@ Character: [â]
 C: Keybinding: [⌥ c]
 
 Character: [ç]
+
+---
+
+C: Keybinding: [⌥ o]
+
+Character: [ø]
