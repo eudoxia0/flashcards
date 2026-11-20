@@ -59,3 +59,7 @@ C: [San Salvador] is the capital of [El Salvador].
 ---
 
 C: [Tiflis] is the capital of [Georgia].
+
+---
+
+C: [Yerevan] is the capital of [Armenia].
