@@ -784,3 +784,8 @@ A: The use of clever and fallacious reasoning that sounds superficially persuasi
 
 T: fallibilism
 D: the idea that all knowledge is uncertain.
+
+---
+
+Q: effervescent
+A: A tablet that makes gas bubbles as it dissolves.
