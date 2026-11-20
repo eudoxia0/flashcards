@@ -692,3 +692,8 @@ A:
 
 Q: What does NPO stand for?
 A: _Nil per os_, nothing by mouth.
+
+---
+
+Q: What does PONV stand for?
+A: Postoperative nausea and vomiting.
