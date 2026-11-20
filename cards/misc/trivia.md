@@ -878,3 +878,11 @@ A: "Slashed O".
 
 T: structural unemployment
 D: a form of unemployment where a person has skills that are not needed in the economy.
+
+---
+
+Q: What is this type of gauge called?
+
+![](@/images/solid-gauge.webp)
+
+A: A solid gauge.
