@@ -55,3 +55,7 @@ C: [Tegucigalpa] is the capital of [Honduras].
 ---
 
 C: [San Salvador] is the capital of [El Salvador].
+
+---
+
+C: [Tiflis] is the capital of [Georgia].
