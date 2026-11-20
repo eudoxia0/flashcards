@@ -173,11 +173,13 @@ A: Six.
 
 ---
 
-C: The fiscal year begins on the [1st] of [July].
+Q: Start date of the fiscal year.
+A: 1st of July.
 
 ---
 
-C: The fiscal year ends on the [30th] of [June].
+Q: End date of the fiscal year.
+A: 30th of June.
 
 ---
 
