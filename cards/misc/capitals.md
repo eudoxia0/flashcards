@@ -51,3 +51,7 @@ C: [Kiel] is the capital of the state of [Schleswig-Holstein].
 ---
 
 C: [Tegucigalpa] is the capital of [Honduras].
+
+---
+
+C: [San Salvador] is the capital of [El Salvador].
