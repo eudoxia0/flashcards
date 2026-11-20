@@ -886,3 +886,8 @@ Q: What is this type of gauge called?
 ![](@/images/solid-gauge.webp)
 
 A: A solid gauge.
+
+---
+
+Q: Why are pointer gauges better than solid gauges?
+A: Because of Vernier acuity.
