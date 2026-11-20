@@ -56,12 +56,6 @@ C: Perhaps the first pyramids were the piles of stones that entombed people who 
 
 ---
 
-C: And the words slide into the slots ordained by syntax, and glitter as with atmospheric dust with those impurities which we call meaning.
-
-— [Anthony Burgess]
-
----
-
 C: Let's withdraw;
 
 And meet the time as it seeks us.
