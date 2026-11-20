@@ -687,3 +687,8 @@ A:
 - Granulocytes
 - Lymphocytes
 - Monocytes
+
+---
+
+Q: What does NPO stand for?
+A: _Nil per os_, nothing by mouth.
