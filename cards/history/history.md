@@ -140,3 +140,8 @@ A: The Achaemenid empire.
 ---
 
 C: Taiwan was a colonial possession of Japan from [1895] to [1945].
+
+---
+
+Q: China's last dynasty?
+A: The Qing dynasty.
