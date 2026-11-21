@@ -167,3 +167,8 @@ C: The Battle of Krtsanisi was fought between [Qajar Persia] and an alliance of 
 
 Q: Who won the Battle of Krtsanisi?
 A: The Persians.
+
+---
+
+Q: What was Simonides' epitaph for the Spartans at Thermopylae?
+A: "Tell the Spartans, stranger, that here obedient to their laws we lie."
