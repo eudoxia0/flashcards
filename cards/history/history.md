@@ -136,3 +136,7 @@ A: The War Memorial Opera House in San Francisco.
 
 Q: Darius was emperor of which Persian empire?
 A: The Achaemenid empire.
+
+---
+
+C: Taiwan was a colonial possession of Japan from [1895] to [1945].
