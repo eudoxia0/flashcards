@@ -149,3 +149,21 @@ A: The Qing dynasty.
 ---
 
 C: The city of [Jakarta] used to be known as [Batavia].
+
+---
+
+Q: Who are the three hundred Aragvians?
+A: The Georgian warriors who died defending Tiflis at the Battle of Krtsanisi.
+
+---
+
+C: The Battle of Krtsanisi took place in the year [1795].
+
+---
+
+C: The Battle of Krtsanisi was fought between [Qajar Persia] and an alliance of [the Kingdom of Kartli-Kakheti] and [the Kingdom of Imereti].
+
+---
+
+Q: Who won the Battle of Krtsanisi?
+A: The Persians.
