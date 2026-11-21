@@ -7,10 +7,10 @@ A: $$f'g + fg'$$
 
 ---
 
-Q: Evaluate: $$(\frac{f}{g})'$$
+Q: Evaluate: $$\left( \frac{f}{g} \right)'$$
 A:
 $$
-\frac{fg' - fg'}{g^2}
+\frac{f'g - fg'}{g^2}
 $$
 
 ---
