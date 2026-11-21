@@ -69,3 +69,7 @@ A: 1967
 
 Q: What does OKB-1 stand for?
 A: "Experimental Design Bureau-1"
+
+---
+
+C: The first rocket to reach space was a [V-2] rocket, in the year [1944].
