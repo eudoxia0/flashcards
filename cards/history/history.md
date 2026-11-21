@@ -145,3 +145,7 @@ C: Taiwan was a colonial possession of Japan from [1895] to [1945].
 
 Q: China's last dynasty?
 A: The Qing dynasty.
+
+---
+
+C: The city of [Jakarta] used to be known as [Batavia].
