@@ -77,3 +77,7 @@ C: The first rocket to reach space was a [V-2] rocket, in the year [1944].
 ---
 
 C: Sputnik 1 was launched on the [4th] of [October], [1957].
+
+---
+
+C: Yuri Gagarin's flight took place on [12th] of [April], [1961].
