@@ -7,11 +7,23 @@ A: $$f'g + fg'$$
 
 ---
 
-Q: Evaluate: $$\left( \frac{f}{g} \right)'$$
-A:
+Q:
+
 $$
-\frac{f'g - fg'}{g^2}
+\left( \frac{f}{g} \right)' = \frac{\ldots}{g^2}
 $$
+
+A: $f'g - fg'$
+
+---
+
+Q:
+
+$$
+\left( \frac{f}{g} \right)' = \frac{f'g-fg'}{\ldots}
+$$
+
+A: $g^2$
 
 ---
 
