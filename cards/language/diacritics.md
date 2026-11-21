@@ -18,7 +18,7 @@ C: a + [caron] = [ǎ]
 
 ---
 
-C: a + [breve] = [ā]
+C: a + [breve] = [ă]
 
 ---
 
