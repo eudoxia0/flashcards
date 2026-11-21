@@ -82,3 +82,8 @@ Q: What does Quine mean by "truth is disquotation"?
 A: > 'Snow is white' is true if and only if snow is white.
 
 i.e., ascribing truth to a sentence is removing the quotation marks.
+
+---
+
+T: naturalized epistemology
+D: an approach to epistemology that emphasizes the methods of the natural sciences, rather than pure reason.
