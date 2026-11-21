@@ -891,3 +891,8 @@ A: A solid gauge.
 
 Q: Why are pointer gauges better than solid gauges?
 A: Because of Vernier acuity.
+
+---
+
+Q: What percentage of the nitrogen atoms in the human body are fixed by Haber-Bosch?
+A: 50%.
