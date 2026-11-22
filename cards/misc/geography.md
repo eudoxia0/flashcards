@@ -63,3 +63,8 @@ C: The Yellow River begins in the [Bayan Har] mountains.
 
 Q: Yellow River, length.
 A: $\approx 5,400 \,\text{km}$
+
+---
+
+Q: List the Baltic states from north to south.
+A: Estonia, Latvia, Lithuania.
