@@ -794,3 +794,8 @@ A: A tablet that makes gas bubbles as it dissolves.
 
 Q: cy-près doctrine
 A: The legal doctrine that allows courts to modify a charitable trust, once its original purpose becomes impossible or impractical. The trust is redefined to a goal as near as possible in spirit to the original.
+
+---
+
+Q: testator
+A: The person who writes and executes a last will.
