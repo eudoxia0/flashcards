@@ -55,8 +55,8 @@ A: $340$ m/s.
 
 ---
 
-Q: $1~\text{kn} = \ldots ~\text{nm}/\text{h}$
-A: $1~\text{kn} = 1 ~\text{nm}/\text{h}$
+Q: $1~\text{kn} = \ldots ~\text{nmi}/\text{h}$
+A: $1~\text{kn} = 1 ~\text{nmi}/\text{h}$
 
 ---
 
@@ -71,8 +71,8 @@ A: $1~\text{kn} = 0.5 ~\text{m}/\text{s}$
 ---
 
 
-Q: $1~\text{nm} = \ldots ~\text{m}$
-A: $1~\text{nm} = 1,852 ~\text{m}$
+Q: $1~\text{nmi} = \ldots ~\text{m}$
+A: $1~\text{nmi} = 1,852 ~\text{m}$
 
 ---
 
