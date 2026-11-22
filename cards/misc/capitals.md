@@ -79,3 +79,7 @@ C: [Riga] is the capital of [Latvia].
 ---
 
 C: [Vilnius] is the capital of [Lithuania].
+
+---
+
+C: [Nouakchott] is the capital of [Mauritania].
