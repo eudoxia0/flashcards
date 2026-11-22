@@ -161,7 +161,7 @@ C: The Battle of Krtsanisi took place in the year [1795].
 
 ---
 
-C: The Battle of Krtsanisi was fought between [Qajar Persia] and an alliance of [the Kingdom of Kartli-Kakheti] and [the Kingdom of Imereti].
+C: The Battle of Krtsanisi was fought between [Qajar Persia] and an alliance of the Georgian kingdoms of [Kartli-Kakheti] and [Imereti].
 
 ---
 
