@@ -63,3 +63,19 @@ C: [Tiflis] is the capital of [Georgia].
 ---
 
 C: [Yerevan] is the capital of [Armenia].
+
+---
+
+C: [Wellington] is the capital of [New Zealand].
+
+---
+
+C: [Tallinn] is the capital of [Estonia].
+
+---
+
+C: [Riga] is the capital of [Latvia].
+
+---
+
+C: [Vilnius] is the capital of [Lithuania].
