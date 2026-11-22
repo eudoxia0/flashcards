@@ -907,4 +907,8 @@ C: The Trans-Siberian Railway runs from [Moscow] to [Vladivostok].
 
 ---
 
-C: Construction of the Trans-Siberian Railway began in [1891].
+C: Construction of the Trans-Siberian Railway began in the year [1891].
+
+---
+
+C: Construction of the Trans-Siberian Railway was completed in the year [1916].
