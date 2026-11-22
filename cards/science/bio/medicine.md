@@ -697,3 +697,7 @@ A: _Nil per os_, nothing by mouth.
 
 Q: What does PONV stand for?
 A: Postoperative nausea and vomiting.
+
+---
+
+C: Bilateral testicular cancer is around [2] percent of cases.
