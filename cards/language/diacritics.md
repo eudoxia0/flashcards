@@ -23,11 +23,3 @@ C: a + [breve] = [ă]
 ---
 
 C: a + [macron] = [ā]
-
----
-
-C: a + [ring] = [å]
-
----
-
-C: a + [double acute] = [a̋]
