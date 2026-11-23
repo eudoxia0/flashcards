@@ -2,7 +2,7 @@
 name = 'Docker'
 ---
 
-C: A Docker [image] is a filesystem snapshot used to instante [containers].
+C: A Docker [image] is a filesystem snapshot used to instantiate [containers].
 
 ---
 
