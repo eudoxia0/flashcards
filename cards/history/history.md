@@ -171,4 +171,4 @@ A: The Persians.
 ---
 
 Q: What was Simonides' epitaph for the Spartans at Thermopylae?
-A: "Tell the Spartans, stranger, that here obedient to their laws we lie."
+A: "Tell the Spartans, stranger, that here we lie obedient to their laws."
