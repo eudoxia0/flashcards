@@ -2,23 +2,11 @@
 name = 'Docker'
 ---
 
-Q: What is a Docker image?
-A: A filesystem snapshot used to create a container.
+C: A Docker [image] is a filesystem snapshot used to instante [containers].
 
 ---
 
-Q: What is a Docker container?
-A: A running instance of an image.
-
----
-
-Q: What's the difference between Docker images and containers?
-A: Images are blueprints, containers are instances of those blueprints.
-
----
-
-Q: How are Docker images created?
-A: By a set of instructions called a Dockerfile.
+C: A Docker [container] is a running instance of an [image].
 
 ---
 
