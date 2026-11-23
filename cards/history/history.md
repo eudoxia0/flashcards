@@ -152,8 +152,7 @@ C: The city of [Jakarta] used to be known as [Batavia].
 
 ---
 
-Q: Who are the three hundred Aragvians?
-A: The Georgian warriors who died defending Tiflis at the Battle of Krtsanisi.
+C: The Three Hundred Aragvians were the Georgian warriors who died defending [Tiflis] at the Battle of [Krtsanisi].
 
 ---
 
