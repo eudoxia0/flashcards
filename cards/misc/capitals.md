@@ -83,3 +83,7 @@ C: [Vilnius] is the capital of [Lithuania].
 ---
 
 C: [Nouakchott] is the capital of [Mauritania].
+
+---
+
+C: [Rabat] is the capital of [Morocco].
