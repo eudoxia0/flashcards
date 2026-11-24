@@ -922,3 +922,13 @@ D: The observation that the time to move the mouse cursor to a target is proport
 
 T: global menu bar
 D: menus in the style of macOS, fixed to the screen rather than to a window.
+
+---
+
+Q: List the writing systems used on the Rosetta stone.
+A: Egyptian hieroglyphics, demotic script, and Greek script.
+
+---
+
+Q: List the languages used on the Rosetta stone.
+A: Ancient Egyptian and Ancient Greek.
