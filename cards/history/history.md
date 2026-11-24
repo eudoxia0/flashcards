@@ -130,7 +130,7 @@ C: The Treaty of San Francisco was signed in the year [1951].
 ---
 
 Q: The Treaty of San Francisco was signed in what building?
-A: The War Memorial Opera House in San Francisco.
+A: The War Memorial Opera House.
 
 ---
 
