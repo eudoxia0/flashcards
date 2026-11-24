@@ -917,3 +917,8 @@ C: Construction of the Trans-Siberian Railway was completed in the year [1916].
 
 T: Fitts's law
 D: The observation that the time to move the mouse cursor to a target is proportional to distance and inversely proportional to the target's area.
+
+---
+
+T: global menu bar
+D: menus in the style of macOS, fixed to the screen rather than to a window.
