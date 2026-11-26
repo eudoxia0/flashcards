@@ -936,3 +936,8 @@ A: Ancient Egyptian and Ancient Greek.
 ---
 
 C: According to [Jef Raskin], a [humane] interface is one that is [responsive to human needs and considerate of human frailties].
+
+---
+
+T: Tobin tax
+D: a tax on financial transactions.
