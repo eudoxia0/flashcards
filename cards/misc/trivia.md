@@ -950,4 +950,4 @@ D: an elevator on a slope.
 ---
 
 T: funicular
-D: An cable railway on a slope, with two cars that counterweight each other.
+D: an cable railway on a slope, with two cars that counterweight each other.
