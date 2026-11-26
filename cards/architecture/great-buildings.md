@@ -847,19 +847,3 @@ Q: Architect?
 ![](<@/architecture/images/SHoP—Steinway Tower.jpg>)
 
 A: SHoP
-
----
-
-Q: Name?
-
-![](<@/architecture/images/William Pereira—Transamerica Pyramid.jpg>)
-
-A: Transamerica Pyramid
-
----
-
-Q: Architect?
-
-![](<@/architecture/images/William Pereira—Transamerica Pyramid.jpg>)
-
-A: William Pereira
