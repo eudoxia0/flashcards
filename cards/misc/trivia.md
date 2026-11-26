@@ -935,7 +935,7 @@ A: Ancient Egyptian and Ancient Greek.
 
 ---
 
-C: According to [Jef Raskin], a [humane] interface is one that is [responsive to human needs and considerate of human frailties].
+C: According to [Jef Raskin], a [humane] interface is one that is [responsive to human needs] and [considerate of human frailties].
 
 ---
 
