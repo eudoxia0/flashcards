@@ -941,3 +941,8 @@ C: According to [Jef Raskin], a [humane] interface is one that is [responsive to
 
 T: Tobin tax
 D: a tax on financial transactions.
+
+---
+
+T: funicular
+D: An cable railway on a slope, with two cars that counterweight each other.
