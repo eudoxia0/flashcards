@@ -283,7 +283,7 @@ A: Lacking money
 ---
 
 Q: insouciance
-A: indifference/nonchalance
+A: Indifference.
 
 ---
 
