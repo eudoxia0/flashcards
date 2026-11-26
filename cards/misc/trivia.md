@@ -944,5 +944,10 @@ D: a tax on financial transactions.
 
 ---
 
+T: inclined elevator
+D: an elevator on a slope.
+
+---
+
 T: funicular
 D: An cable railway on a slope, with two cars that counterweight each other.
