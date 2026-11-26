@@ -772,22 +772,6 @@ A: Raymond Hood
 
 Q: Name?
 
-![](<@/architecture/images/Renzo Piano—Maison Hermès.jpg>)
-
-A: Maison Hermès
-
----
-
-Q: Architect?
-
-![](<@/architecture/images/Renzo Piano—Maison Hermès.jpg>)
-
-A: Renzo Piano
-
----
-
-Q: Name?
-
 ![](<@/architecture/images/Renzo Piano—The Shard.jpg>)
 
 A: The Shard
