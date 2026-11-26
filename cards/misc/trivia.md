@@ -916,7 +916,7 @@ C: Construction of the Trans-Siberian Railway was completed in the year [1916].
 ---
 
 T: Fitts's law
-D: The observation that the time to move the mouse cursor to a target is proportional to distance and inversely proportional to the target's area.
+D: the observation that the time to move the mouse cursor to a target is proportional to distance and inversely proportional to the target's area.
 
 ---
 
