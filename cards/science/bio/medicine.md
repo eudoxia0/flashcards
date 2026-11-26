@@ -629,8 +629,11 @@ A: A structure that spot-welds cells together.
 
 ---
 
-Q: Define: erythrocyte.
-A: A red blood cell.
+C: Red blood cells are also called [erythrocytes].
+
+---
+
+C: Erythrocyte is another name for a [red blood cell].
 
 ---
 
