@@ -52,12 +52,6 @@ D: a convex region bounded by two circular arcs.
 
 ---
 
-Q: State Euclid's first postulate.
-
-A: Given two distinct points $P$ and $Q$, there exists a unique line that passes through $P$ and $Q$.
-
----
-
 C: Context: $P$ and $Q$ are points.
 
 Notation: [$\line{PQ}$]
@@ -80,21 +74,6 @@ Definition: [the line segment from $P$ to $Q$].
 
 ---
 
-Q: State Euclid's second postulate formally.
-
-A: Given two segments $AB$ and $CD$, there exists a unique point $E$ on the line $\line{AB}$ such that:
-
-- $B$ is between $A$ and $E$.
-- $BE$ is congruent to $CD$.
-
----
-
-Q: State Euclid's second postulate informally.
-
-A: A segment $AB$ can be extended by a segment $BE$ which is congruent to a given segment $CD$.
-
----
-
 C: Notation: [$A \cong B$]
 
 Definition: [$A$ and $B$ are congruent].
@@ -103,26 +82,6 @@ Definition: [$A$ and $B$ are congruent].
 
 Q: Definition of a circle.
 A: Given two distinct points $O$ and $A$, the **circle with center $O$ and radius $OA$** is the set of all points $P$ such that $OP \cong OA$.
-
----
-
-Q: State Euclid's third postulate.
-
-A: Given two distinct points $P$ and $A$, there exists a circle with center $O$ and radius $OA$.
-
----
-
-T: ray
-D: a line that begins and a point and continues infinitely in one direction.
-
----
-
-Q: Given a line $\line{AB}$, define the ray $\overrightarrow{AB}$.
-A: The set of points in the segment $AB$, and all points $P$ of $\line{AB}$ such that $B$ is between $A$ and $P$.
-
----
-
-C: A ray $\overrightarrow{AB}$ is said to [emanate] from the [vertex] $A$.
 
 ---
 
