@@ -489,7 +489,7 @@ A: **Ra**dio **d**etection **a**nd **r**anging.
 ---
 
 Q: What is Heinrich Hertz famous for?
-A: Proving the existence of the electromagnetic waves implied by Maxwell's equations.
+A: Proving the existence of electromagnetic waves.
 
 ---
 
