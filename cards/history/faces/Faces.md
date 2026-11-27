@@ -1228,14 +1228,6 @@ A: Stanisław Ulam
 
 Q: Name?
 
-![](<images/Stefan Banach.jpg>)
-
-A: Stefan Banach
-
----
-
-Q: Name?
-
 ![](<images/Stefan Zweig.jpg>)
 
 A: Stefan Zweig
