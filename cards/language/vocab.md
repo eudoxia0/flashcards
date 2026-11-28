@@ -804,3 +804,8 @@ A: The person who writes and executes a last will.
 
 T: _rasputitsa_
 D: the spring and autumn mud season in Eastern Europe.
+
+---
+
+Q: hermeneutics
+A: The study of interpretation.
