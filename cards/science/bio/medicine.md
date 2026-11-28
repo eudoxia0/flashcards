@@ -714,3 +714,8 @@ A: Spinal muscular atrophy.
 
 Q: What does MCAS stand for?
 A: Mast cell activation syndrome.
+
+---
+
+Q: _de novo_ drug design.
+A: Generating novel drugs from scratch, rather than by modifying existing ones.
