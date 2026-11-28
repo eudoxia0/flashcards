@@ -719,3 +719,8 @@ A: Mast cell activation syndrome.
 
 Q: _de novo_ drug design.
 A: Generating novel drugs from scratch, rather than by modifying existing ones.
+
+---
+
+Q: What does HSV-1 stand for?
+A: Herpes simplex virus type 1.
