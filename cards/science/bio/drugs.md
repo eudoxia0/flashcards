@@ -270,3 +270,7 @@ A: The M4 and M1 receptors.
 ---
 
 C: Zolgensma is a treatment for [SMA].
+
+---
+
+C: Spinraza is a treatment for [SMA].
