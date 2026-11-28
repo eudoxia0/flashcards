@@ -704,3 +704,8 @@ A: Postoperative nausea and vomiting.
 ---
 
 C: Bilateral testicular cancer is around [2] percent of cases.
+
+---
+
+Q: What does SMA stand for?
+A: Spinal muscular atrophy.
