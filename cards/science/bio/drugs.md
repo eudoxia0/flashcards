@@ -274,3 +274,16 @@ C: Zolgensma is a treatment for [SMA].
 ---
 
 C: Spinraza is a treatment for [SMA].
+
+---
+
+C: T-VEC is a treatment for [melanoma].
+
+---
+
+C: T-VEC is a virus derived from [HSV-1].
+
+---
+
+Q: T-VEC, type of therapeutic.
+A: Viral immonotherapy.
