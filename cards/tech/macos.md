@@ -125,3 +125,9 @@ Character: [go to start of document]
 C: Keybinding: [⌘ ▼]
 
 Character: [go to end of document]
+
+---
+
+C: Keybinding: [⌥ Backspace]
+
+Character: [delete word left of cursor]
