@@ -113,3 +113,15 @@ Character: [ç]
 C: Keybinding: [⌥ o]
 
 Character: [ø]
+
+---
+
+C: Keybinding: [⌘ ▲]
+
+Character: [go to start of document]
+
+---
+
+C: Keybinding: [⌘ ▼]
+
+Character: [go to end of document]
