@@ -266,3 +266,7 @@ A: Antipsychotic.
 
 Q: Cobenfy works by binding to which receptors.
 A: The M4 and M1 receptors.
+
+---
+
+C: [Zolgensma] is a treatment for [SMA].
